@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "bd55a7b3ece1b257",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7f5cb519e9fd54f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78b0810cc0eb6003",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "西南石油大学.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5948782fa565a16",
+    "type": "split",
+    "children": [
+      {
+        "id": "76084928931df55a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c21bd7fca538227",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fccd5616acb31441",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a060619a83832ab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6b8152f84fa6c40e",
+    "type": "split",
+    "children": [
+      {
+        "id": "77b6fe14f7f7213a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5cda19a2b3fb987",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "西南石油大学.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee4881fbea1b6bce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "西南石油大学.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "015d7bfaaa1f05be",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c7b89136bc9eaa06",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "西南石油大学.md"
+              }
+            }
+          },
+          {
+            "id": "40debed464a29aae",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "40debed464a29aae",
+  "lastOpenFiles": [
+    "高等数学公式/求函数的极限.md",
+    "操作系统.md",
+    "西南石油大学.md",
+    "高等数学公式",
+    "附件/925计算机学科综合（数据结构+操作系统）.pdf",
+    "附件",
+    "系统级程序设计.md",
+    "未命名 1.md"
+  ]
+}
