@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高等数学公式/求函数的极限.md",
+                "file": "西南石油大学.md",
                 "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "04f50ea81af31761",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,12 +141,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a0289f6ac94ce29",
+  "active": "6c21bd7fca538227",
   "lastOpenFiles": [
+    "高等数学",
     "西南石油大学.md",
-    "数据结构.md",
-    "高等数学公式/求函数的极限.md",
-    "操作系统.md",
+    "README.md",
+    "操作系统/操作系统.md",
+    "计算机网络",
+    "数据结构",
+    "操作系统",
+    "高等数学/求函数的极限.md",
+    "数据结构/数据结构.md",
     "高等数学公式",
     "附件/925计算机学科综合（数据结构+操作系统）.pdf",
     "附件",
