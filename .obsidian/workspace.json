@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构.md",
+                "file": "高等数学公式/求函数的极限.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -93,35 +93,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e5cda19a2b3fb987",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "数据结构.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "ee4881fbea1b6bce",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "数据结构.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "015d7bfaaa1f05be",
             "type": "leaf",
             "state": {
@@ -133,17 +104,7 @@
             }
           },
           {
-            "id": "c7b89136bc9eaa06",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "数据结构.md"
-              }
-            }
-          },
-          {
-            "id": "40debed464a29aae",
+            "id": "7a0289f6ac94ce29",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -151,11 +112,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 245.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,7 +129,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c721dd9c0cfec12d",
+  "active": "7a0289f6ac94ce29",
   "lastOpenFiles": [
     "西南石油大学.md",
     "数据结构.md",
