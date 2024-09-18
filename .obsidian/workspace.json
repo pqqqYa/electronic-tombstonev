@@ -122,6 +122,45 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "05f7f17366223a39",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "西南石油大学.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2c743003b8e12b39",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "西南石油大学.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47f9f2f20eb32c74",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "西南石油大学.md"
+              }
+            }
           }
         ],
         "currentTab": 1
