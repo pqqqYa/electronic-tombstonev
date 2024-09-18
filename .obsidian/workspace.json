@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高等数学/高等数学整体.md",
+                "file": "高等数学/求函数的极限.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "高等数学/高等数学整体.md",
+                "file": "高等数学/求函数的极限.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高等数学/高等数学整体.md",
+                "file": "高等数学/求函数的极限.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高等数学/高等数学整体.md"
+                "file": "高等数学/求函数的极限.md"
               }
             }
           }
