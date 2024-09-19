@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高等数学/求函数的极限.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6b8152f84fa6c40e",
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "高等数学/求函数的极限.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高等数学/求函数的极限.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高等数学/求函数的极限.md"
+                "file": "README.md"
               }
             }
           }
@@ -158,15 +157,15 @@
   },
   "active": "0022b12b66660149",
   "lastOpenFiles": [
-    "高等数学/高等数学整体.md",
     "西南石油大学.md",
+    "高等数学/高等数学整体.md",
+    "高等数学/求函数的极限.md",
     "README.md",
     "高等数学",
     "操作系统/操作系统.md",
     "计算机网络",
     "数据结构",
     "操作系统",
-    "高等数学/求函数的极限.md",
     "数据结构/数据结构.md",
     "高等数学公式",
     "附件/925计算机学科综合（数据结构+操作系统）.pdf",
