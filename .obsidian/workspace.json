@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高等数学/第一章 函数 极限 连续/常用的求极限的8种方法.md",
+                "file": "高等数学/高等数学整体.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6b8152f84fa6c40e",
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "高等数学/第一章 函数 极限 连续/常用的求极限的8种方法.md",
+                "file": "高等数学/高等数学整体.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高等数学/第一章 函数 极限 连续/常用的求极限的8种方法.md",
+                "file": "高等数学/高等数学整体.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高等数学/第一章 函数 极限 连续/常用的求极限的8种方法.md"
+                "file": "高等数学/高等数学整体.md"
               }
             }
           }
@@ -158,8 +159,8 @@
   },
   "active": "0022b12b66660149",
   "lastOpenFiles": [
-    "高等数学/第一章 函数 极限 连续/常见的函数.md",
     "高等数学/第一章 函数 极限 连续/常用的求极限的8种方法.md",
+    "高等数学/第一章 函数 极限 连续/常见的函数.md",
     "高等数学/第一章 函数 极限 连续/第一章 函数.md",
     "高等数学/第一章 函数 极限 连续",
     "高等数学/高等数学整体.md",
