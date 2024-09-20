@@ -11,8 +11,12 @@
             "id": "3e0b746550692228",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6b8152f84fa6c40e",
@@ -101,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ],
@@ -148,8 +155,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a0289f6ac94ce29",
+  "active": "3e0b746550692228",
   "lastOpenFiles": [
+    "西南石油大学.md",
     "高等数学/高等数学整体.md",
     "高等数学/第一章 函数 极限 连续/常用的求极限的8种方法.md",
     "高等数学/第一章 函数 极限 连续/常见的函数.md",
@@ -162,7 +170,6 @@
     "附件/925计算机学科综合（数据结构+操作系统）.pdf",
     "操作系统/操作系统.md",
     "README.md",
-    "西南石油大学.md",
     "高等数学",
     "计算机网络",
     "数据结构",
