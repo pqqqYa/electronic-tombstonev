@@ -1,5 +1,12 @@
 {
   "promptDelete": false,
   "showInlineTitle": false,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "strictLineBreaks": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "附件/925计算机学科综合（数据结构+操作系统）.pdf",
+                "file": "操作系统/第1章 计算机系统的概念/1.1 操作系统的概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "附件/925计算机学科综合（数据结构+操作系统）.pdf",
+                "file": "操作系统/第1章 计算机系统的概念/1.1 操作系统的概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "附件/925计算机学科综合（数据结构+操作系统）.pdf"
+                "file": "操作系统/第1章 计算机系统的概念/1.1 操作系统的概念.md"
               }
             }
           }
@@ -183,17 +183,17 @@
         "direction": "vertical",
         "x": 0,
         "y": 0,
-        "width": 816,
-        "height": 1032,
+        "width": 726,
+        "height": 912,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "3e0b746550692228",
+  "active": "1637158498c9365a",
   "lastOpenFiles": [
-    "操作系统/第1章 计算机系统的概念/1.1 操作系统的概念.md",
     "附件/925计算机学科综合（数据结构+操作系统）.pdf",
+    "操作系统/第1章 计算机系统的概念/1.1 操作系统的概念.md",
     "操作系统/第1章 计算机系统的概念/1.2 操作系统发展历程.md",
     "操作系统/第1章 计算机系统的概念/1.3 操作系统的运行环境.md",
     "操作系统/操作系统.md",
