@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "附件/925计算机学科综合（数据结构+操作系统）.pdf",
+                "file": "操作系统/第1章 计算机系统的概念/1.3 操作系统的运行环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "附件/925计算机学科综合（数据结构+操作系统）.pdf",
+                "file": "操作系统/第1章 计算机系统的概念/1.3 操作系统的运行环境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "附件/925计算机学科综合（数据结构+操作系统）.pdf"
+                "file": "操作系统/第1章 计算机系统的概念/1.3 操作系统的运行环境.md"
               }
             }
           }
@@ -165,46 +165,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "ea23b9c6036ed93f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6dbfa1c64e3e30e4",
-        "type": "window",
-        "children": [
-          {
-            "id": "91f18d4af5270620",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "424c29a958bd622e",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "附件/925计算机学科综合（数据结构+操作系统）.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 660,
-        "y": -1112,
-        "width": 606,
-        "height": 796,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "424c29a958bd622e",
+  "active": "eb98fef361feccfc",
   "lastOpenFiles": [
+    "附件/925计算机学科综合（数据结构+操作系统）.pdf",
     "操作系统/第1章 计算机系统的概念/1.3 操作系统的运行环境.md",
     "操作系统/第1章 计算机系统的概念/1.2 操作系统发展历程.md",
-    "附件/925计算机学科综合（数据结构+操作系统）.pdf",
     "操作系统/第1章 计算机系统的概念/1.1 操作系统的概念.md",
     "操作系统/操作系统.md",
     "数据结构/数据结构.md",
