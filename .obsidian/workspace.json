@@ -149,12 +149,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 245.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,7 +166,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1c1ba15f1918e74",
+  "active": "7a0289f6ac94ce29",
   "lastOpenFiles": [
     "C语言/1. 入门.md",
     "C语言/2. 数据类型.md",
