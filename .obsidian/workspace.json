@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构/第1章 绪论.md",
+                "file": "C语言/1. 入门.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 237.5,
+    "collapsed": true
   },
   "right": {
     "id": "6b8152f84fa6c40e",
@@ -114,9 +115,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构/第1章 绪论.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "C语言/1. 入门.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构/第1章 绪论.md",
+                "file": "C语言/1. 入门.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,16 +144,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构/第1章 绪论.md"
+                "file": "C语言/1. 入门.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 245.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,8 +169,11 @@
   },
   "active": "eb98fef361feccfc",
   "lastOpenFiles": [
-    "数据结构/数据结构.md",
     "数据结构/第1章 绪论.md",
+    "C语言/1. 入门.md",
+    "未命名.md",
+    "C语言",
+    "数据结构/数据结构.md",
     "英语/今日cet6英语进度.md",
     "西南石油大学.md",
     "操作系统/第1章 计算机系统的概念/1.3 操作系统的运行环境.md",
@@ -198,10 +203,7 @@
     "操作系统/第2章  进程与线程",
     "操作系统/第1章 计算机系统的概念",
     "README.md",
-    "高等数学/高等数学整体.md",
-    "高等数学/第一章 函数 极限 连续/常用的求极限的8种方法.md",
     "高等数学/第一章 函数 极限 连续",
-    "高等数学/第一章 函数 极限 连续/第三节 连续",
-    "高等数学/第一章 函数 极限 连续/第二节 极限"
+    "高等数学/第一章 函数 极限 连续/第三节 连续"
   ]
 }
