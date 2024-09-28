@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C语言/2. 数据类型.md",
+                "file": "C语言/3. 运算符与表达式.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C语言/2. 数据类型.md",
+                "file": "C语言/3. 运算符与表达式.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C语言/2. 数据类型.md",
+                "file": "C语言/3. 运算符与表达式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C语言/2. 数据类型.md"
+                "file": "C语言/3. 运算符与表达式.md"
               }
             }
           }
@@ -165,16 +165,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a0289f6ac94ce29",
+  "active": "6c21bd7fca538227",
   "lastOpenFiles": [
-    "C语言/1. 入门.md",
     "C语言/2. 数据类型.md",
+    "C语言/3. 运算符与表达式.md",
+    "C语言/1. 入门.md",
     "C语言/images/数据类型.png",
     "未命名.md",
     "C语言/mindmap/未命名思维导图.md",
     "C语言/images",
     "C语言/mindmap/数据类型.md",
-    "C语言/未命名.md",
     "C语言/mindmap",
     "数据结构/第1章 绪论.md",
     "C语言",
