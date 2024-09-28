@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 237.5,
+    "collapsed": true
   },
   "right": {
     "id": "6b8152f84fa6c40e",
@@ -152,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 364.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,7 +167,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c21bd7fca538227",
+  "active": "f1c1ba15f1918e74",
   "lastOpenFiles": [
     "C语言/2. 数据类型.md",
     "C语言/3. 运算符与表达式.md",

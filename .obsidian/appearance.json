@@ -2,5 +2,6 @@
   "cssTheme": "Minimal",
   "nativeMenus": false,
   "showViewHeader": true,
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "accentColor": ""
 }
