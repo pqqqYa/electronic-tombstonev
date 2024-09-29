@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C语言/3. 运算符与表达式.md",
+                "file": "C语言/4. 选择、循环.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C语言/3. 运算符与表达式.md",
+                "file": "C语言/4. 选择、循环.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C语言/3. 运算符与表达式.md",
+                "file": "C语言/4. 选择、循环.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,17 +144,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C语言/3. 运算符与表达式.md"
+                "file": "C语言/4. 选择、循环.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 364.5,
-    "collapsed": true
+    "width": 321.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,15 +166,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1c1ba15f1918e74",
+  "active": "7a0289f6ac94ce29",
   "lastOpenFiles": [
+    "C语言/3. 运算符与表达式.md",
+    "C语言/4. 选择、循环.md",
     "{1EFE759C-6491-4E33-81BF-31229D0929F1} 1.png",
     "{1EFE759C-6491-4E33-81BF-31229D0929F1}.png",
     "C语言/附件/运算优先级.png",
     "C语言/附件",
     "README.md",
     "西南石油大学.md",
-    "C语言/3. 运算符与表达式.md",
     "C语言/2. 数据类型.md",
     "C语言/1. 入门.md",
     "C语言/images/数据类型.png",
