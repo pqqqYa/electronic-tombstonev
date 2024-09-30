@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C语言/5. 一维数组与字符串数组.md",
+                "file": "C语言/2. 数据类型.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "16",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,12 +75,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 237.5,
-    "collapsed": true
+    "width": 237.5
   },
   "right": {
     "id": "6b8152f84fa6c40e",
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C语言/5. 一维数组与字符串数组.md",
+                "file": "C语言/2. 数据类型.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C语言/5. 一维数组与字符串数组.md",
+                "file": "C语言/2. 数据类型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C语言/5. 一维数组与字符串数组.md"
+                "file": "C语言/2. 数据类型.md"
               }
             }
           }
@@ -167,8 +167,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47f9f2f20eb32c74",
+  "active": "fccd5616acb31441",
   "lastOpenFiles": [
+    "C语言/5. 一维数组与字符串数组.md",
+    "C语言/附件/访问越界.png",
     "C语言/4. 选择、循环.md",
     "C语言/3. 运算符与表达式.md",
     "C语言/1. 入门.md",
@@ -176,7 +178,6 @@
     "C语言/8. 结构体与C++引用.md",
     "C语言/7. 函数.md",
     "C语言/6. 指针.md",
-    "C语言/5. 一维数组与字符串数组.md",
     "C语言/附件/运算优先级.png",
     "西南石油大学.md",
     "README.md",
@@ -204,7 +205,6 @@
     "操作系统/第5章 输入输出（IO）管理/5.1 IO管理概述.md",
     "操作系统/第4章 文件管理/4.3 文件系统.md",
     "操作系统/第4章 文件管理/4.2 目录.md",
-    "操作系统/第4章 文件管理/4.1 文件系统基础.md",
     "操作系统/第5章 输入输出（IO）管理",
     "操作系统/第4章 文件管理",
     "操作系统/第3章 内存管理",
