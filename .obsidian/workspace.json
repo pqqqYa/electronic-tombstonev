@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C语言/7. 函数.md",
+                "file": "C语言/8. 结构体与C++引用.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C语言/7. 函数.md",
+                "file": "C语言/8. 结构体与C++引用.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C语言/7. 函数.md",
+                "file": "C语言/8. 结构体与C++引用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,16 +144,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C语言/7. 函数.md"
+                "file": "C语言/8. 结构体与C++引用.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 328.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,8 +169,8 @@
   },
   "active": "f1c1ba15f1918e74",
   "lastOpenFiles": [
-    "C语言/6. 指针.md",
     "C语言/7. 函数.md",
+    "C语言/6. 指针.md",
     "C语言/附件/指针的偏移.png",
     "C语言/5. 一维数组与字符串数组.md",
     "C语言/8. 结构体与C++引用.md",
