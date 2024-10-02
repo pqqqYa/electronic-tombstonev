@@ -152,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5,
-    "collapsed": true
+    "width": 328.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,7 +165,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1c1ba15f1918e74",
+  "active": "7a0289f6ac94ce29",
   "lastOpenFiles": [
     "C语言/7. 函数.md",
     "C语言/6. 指针.md",
