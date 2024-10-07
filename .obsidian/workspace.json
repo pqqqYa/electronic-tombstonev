@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 328.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,11 +159,11 @@
   },
   "active": "f1c1ba15f1918e74",
   "lastOpenFiles": [
-    "C语言/8. 结构体与C++引用.md",
-    "C语言/9. 数据结构概述.md",
-    "QQ_1728296339871.png",
-    "C语言/6. 指针.md",
     "C语言/附件/顺序存储与链式存储.png",
+    "QQ_1728296339871.png",
+    "C语言/9. 数据结构概述.md",
+    "C语言/8. 结构体与C++引用.md",
+    "C语言/6. 指针.md",
     "C语言/附件/数据结构的分类.png.~tmp",
     "C语言/附件/数据结构的分类.png",
     "C语言/未命名.md",
