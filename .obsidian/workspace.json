@@ -81,13 +81,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "015d7bfaaa1f05be",
+            "id": "47f9f2f20eb32c74",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "outline",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "file": "C语言/10.  线性表代码实践.md"
               }
             }
           },
@@ -97,6 +96,17 @@
             "state": {
               "type": "git-view",
               "state": {}
+            }
+          },
+          {
+            "id": "015d7bfaaa1f05be",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
             }
           },
           {
@@ -127,23 +137,13 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "47f9f2f20eb32c74",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "C语言/10.  线性表代码实践.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 328.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,7 +156,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a0289f6ac94ce29",
+  "active": "f1c1ba15f1918e74",
   "lastOpenFiles": [
     "C语言/9. 数据结构概述.md",
     "C语言/10.  线性表代码实践.md",
