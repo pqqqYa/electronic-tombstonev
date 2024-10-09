@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语/今日cet6英语进度.md",
+                "file": "西南石油大学.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d528a7eb2acb7b76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习进度.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英语/今日cet6英语进度.md"
+                "file": "学习进度.md"
               }
             }
           },
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "英语/今日cet6英语进度.md",
+                "file": "学习进度.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "英语/今日cet6英语进度.md",
+                "file": "学习进度.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5,
-    "collapsed": true
+    "width": 328.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,15 +167,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1c1ba15f1918e74",
+  "active": "d528a7eb2acb7b76",
   "lastOpenFiles": [
+    "英语/今日cet6英语进度.md",
+    "学习进度.md",
+    "西南石油大学.md",
     "C语言/11. 线性表的链式存储.md",
     "C语言/10.  线性表的顺序存储.md",
     "C语言/9. 数据结构概述.md",
     "C语言/7. 函数.md",
-    "英语/今日cet6英语进度.md",
     "README.md",
-    "西南石油大学.md",
     "C语言/附件/顺序存储与链式存储.png",
     "QQ_1728296339871.png",
     "C语言/8. 结构体与C++引用.md",
@@ -189,7 +202,6 @@
     "{1EFE759C-6491-4E33-81BF-31229D0929F1}.png",
     "C语言/附件",
     "C语言/images/数据类型.png",
-    "未命名.md",
     "C语言/mindmap/未命名思维导图.md",
     "C语言/images",
     "C语言/mindmap/数据类型.md",
