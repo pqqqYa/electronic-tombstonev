@@ -143,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5,
-    "collapsed": true
+    "width": 328.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,7 +156,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d528a7eb2acb7b76",
+  "active": "7a0289f6ac94ce29",
   "lastOpenFiles": [
     "C语言/10.  线性表的顺序存储.md",
     "C语言/11. 线性表的链式存储.md",
