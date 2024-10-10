@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C语言/5. 一维数组与字符串数组.md",
+                "file": "C语言/11. 线性表的链式存储.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 237.5,
+    "collapsed": true
   },
   "right": {
     "id": "6b8152f84fa6c40e",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C语言/5. 一维数组与字符串数组.md"
+                "file": "C语言/11. 线性表的链式存储.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C语言/5. 一维数组与字符串数组.md",
+                "file": "C语言/11. 线性表的链式存储.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -132,14 +132,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C语言/5. 一维数组与字符串数组.md",
+                "file": "C语言/11. 线性表的链式存储.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,10 +158,11 @@
   },
   "active": "d528a7eb2acb7b76",
   "lastOpenFiles": [
-    "C语言/10.  线性表的顺序存储.md",
-    "C语言/5. 一维数组与字符串数组.md",
-    "C语言/2. 数据类型.md",
+    "C语言/附件/头插法新建链表流程图.png",
     "C语言/11. 线性表的链式存储.md",
+    "C语言/5. 一维数组与字符串数组.md",
+    "C语言/10.  线性表的顺序存储.md",
+    "C语言/2. 数据类型.md",
     "C语言/8. 结构体与C++引用.md",
     "学习进度.md",
     "英语/今日cet6英语进度.md",
@@ -201,7 +201,6 @@
     "数据结构/数据结构.md",
     "英语",
     "操作系统/操作系统.md",
-    "操作系统/第5章 输入输出（IO）管理/5.3 磁盘和固态硬盘.md",
     "操作系统/第5章 输入输出（IO）管理",
     "操作系统/第4章 文件管理"
   ]
