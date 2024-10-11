@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 328.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,7 +156,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b15829b9502a172",
+  "active": "47f9f2f20eb32c74",
   "lastOpenFiles": [
     "C语言/附件/线性表结点删除操作流程图.png",
     "学习进度.md",
