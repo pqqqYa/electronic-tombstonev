@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Latex学习/Tex文件的基本结构.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Latex学习/Tex文件的基本结构.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Latex学习/Tex文件的基本结构.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Latex学习/Tex文件的基本结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 283.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,8 +156,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a0289f6ac94ce29",
+  "active": "3b15829b9502a172",
   "lastOpenFiles": [
+    "README.md",
     "西南石油大学.md",
     "学习进度.md",
     "Latex学习/Tex文件的基本结构.md",
@@ -176,7 +178,6 @@
     "C语言/2. 数据类型.md",
     "英语/今日cet6英语进度.md",
     "C语言/7. 函数.md",
-    "README.md",
     "C语言/附件/顺序存储与链式存储.png",
     "QQ_1728296339871.png",
     "C语言/附件/数据结构的分类.png.~tmp",
