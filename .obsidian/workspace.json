@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C语言/11. 线性表的链式存储.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5,
-    "collapsed": true
+    "width": 237.5
   },
   "right": {
     "id": "6b8152f84fa6c40e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C语言/11. 线性表的链式存储.md"
+                "file": "README.md"
               }
             }
           },
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C语言/11. 线性表的链式存储.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -132,18 +131,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C语言/11. 线性表的链式存储.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 283.5,
-    "collapsed": true
+    "width": 283.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,13 +155,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b15829b9502a172",
+  "active": "7a0289f6ac94ce29",
   "lastOpenFiles": [
-    "操作系统/第1章 计算机系统的概念/1.1 操作系统的概念.md",
+    "西南石油大学.md",
+    "学习进度.md",
+    "Latex学习/Tex文件的基本结构.md",
     "C语言/11. 线性表的链式存储.md",
+    "Latex学习",
+    "操作系统/第1章 计算机系统的概念/1.1 操作系统的概念.md",
     "C语言/附件/链表408真题.png",
     "C语言/附件/线性表结点删除操作流程图.png",
-    "学习进度.md",
     "C语言/10.  线性表的顺序存储.md",
     "C语言/9. 数据结构概述.md",
     "C语言/附件/单链表向第i个位置插入元素流程图.png",
@@ -173,7 +175,6 @@
     "C语言/5. 一维数组与字符串数组.md",
     "C语言/2. 数据类型.md",
     "英语/今日cet6英语进度.md",
-    "西南石油大学.md",
     "C语言/7. 函数.md",
     "README.md",
     "C语言/附件/顺序存储与链式存储.png",
@@ -201,7 +202,6 @@
     "数据结构/数据结构.md",
     "英语",
     "操作系统/操作系统.md",
-    "操作系统/第5章 输入输出（IO）管理",
-    "操作系统/第4章 文件管理"
+    "操作系统/第5章 输入输出（IO）管理"
   ]
 }
