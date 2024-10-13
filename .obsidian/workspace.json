@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latex学习/Tex文件的基本结构.md",
+                "file": "C语言/12. 栈与队列.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 237.5,
+    "collapsed": true
   },
   "right": {
     "id": "6b8152f84fa6c40e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Latex学习/Tex文件的基本结构.md"
+                "file": "C语言/12. 栈与队列.md"
               }
             }
           },
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Latex学习/Tex文件的基本结构.md",
+                "file": "C语言/12. 栈与队列.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Latex学习/Tex文件的基本结构.md",
+                "file": "C语言/12. 栈与队列.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,11 +159,13 @@
   },
   "active": "3b15829b9502a172",
   "lastOpenFiles": [
+    "C语言/11. 线性表的链式存储.md",
+    "C语言/12. 栈与队列.md",
+    "未命名",
+    "Latex学习/Tex文件的基本结构.md",
     "README.md",
     "西南石油大学.md",
     "学习进度.md",
-    "Latex学习/Tex文件的基本结构.md",
-    "C语言/11. 线性表的链式存储.md",
     "Latex学习",
     "操作系统/第1章 计算机系统的概念/1.1 操作系统的概念.md",
     "C语言/附件/链表408真题.png",
@@ -201,8 +204,6 @@
     "数据结构/第1章 绪论.md",
     "C语言",
     "数据结构/数据结构.md",
-    "英语",
-    "操作系统/操作系统.md",
-    "操作系统/第5章 输入输出（IO）管理"
+    "英语"
   ]
 }
