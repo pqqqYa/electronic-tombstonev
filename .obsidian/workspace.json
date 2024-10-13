@@ -138,12 +138,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 283.5,
-    "collapsed": true
+    "width": 283.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,7 +156,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b15829b9502a172",
+  "active": "7a0289f6ac94ce29",
   "lastOpenFiles": [
     "C语言/附件/栈与队列408真题.png",
     "C语言/11. 线性表的链式存储.md",
