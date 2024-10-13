@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5,
-    "collapsed": true
+    "width": 283.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,8 +157,9 @@
   },
   "active": "3b15829b9502a172",
   "lastOpenFiles": [
-    "C语言/11. 线性表的链式存储.md",
+    "C语言/附件/循环队列流程.png",
     "C语言/12. 栈与队列.md",
+    "C语言/11. 线性表的链式存储.md",
     "未命名",
     "Latex学习/Tex文件的基本结构.md",
     "README.md",
@@ -194,7 +194,6 @@
     "C语言/3. 运算符与表达式.md",
     "C语言/1. 入门.md",
     "C语言/附件/访问越界.png",
-    "C语言/附件/指针的偏移.png",
     "C语言/附件",
     "C语言/mindmap/未命名思维导图.md",
     "C语言/images",
@@ -202,7 +201,6 @@
     "C语言/mindmap",
     "数据结构/第1章 绪论.md",
     "C语言",
-    "数据结构/数据结构.md",
     "英语"
   ]
 }
