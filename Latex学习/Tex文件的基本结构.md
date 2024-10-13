@@ -96,3 +96,10 @@
 * itemize无编号列表
 * enumerate编号列表
 * description描述
+
+
+## 2.2 分页
+
+1. `\newpage` 插入一个新页。
+2. `\null\thispagestyle{empty}` 创建一个空页，但不显示页码。
+3. 再次使用 `\newpage` 插入另一个新页，确保目录从新的一页开始。
