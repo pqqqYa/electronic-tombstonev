@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 283.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,9 +158,10 @@
   },
   "active": "3b15829b9502a172",
   "lastOpenFiles": [
-    "C语言/附件/循环队列流程.png",
-    "C语言/12. 栈与队列.md",
+    "C语言/附件/栈与队列408真题.png",
     "C语言/11. 线性表的链式存储.md",
+    "C语言/12. 栈与队列.md",
+    "C语言/附件/循环队列流程.png",
     "未命名",
     "Latex学习/Tex文件的基本结构.md",
     "README.md",
