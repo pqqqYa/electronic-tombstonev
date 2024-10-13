@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C语言/7. 函数.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a26241e2853e968f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SRCUB入职考试.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "C语言/7. 函数.md",
+            "file": "SRCUB入职考试.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "C语言/7. 函数.md",
+            "file": "SRCUB入职考试.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "C语言/7. 函数.md"
+            "file": "SRCUB入职考试.md"
           }
         }
       },
@@ -140,9 +153,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "717340e11d43daf1",
+  "active": "a26241e2853e968f",
   "lastOpenFiles": [
-    "西南石油大学.md",
+    "README.md",
+    "SRCUB入职考试.md",
+    "西南石油大学研究生考试相关.md",
     "C语言/7. 函数.md",
     "C语言/2. 数据类型.md",
     "C语言/8. 结构体与C++引用.md",
@@ -153,7 +168,6 @@
     "未命名.canvas",
     "2024-09-22.md",
     "高等数学/求函数的极限.md",
-    "高等数学/高等数学整体.md",
-    "README.md"
+    "高等数学/高等数学整体.md"
   ]
 }
