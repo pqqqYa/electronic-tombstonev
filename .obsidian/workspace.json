@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 237.5,
+    "collapsed": true
   },
   "right": {
     "id": "6b8152f84fa6c40e",
@@ -158,6 +159,7 @@
   },
   "active": "3b15829b9502a172",
   "lastOpenFiles": [
+    "C语言/附件/树的结构.png",
     "SRCUB入职考试.md",
     "C语言/13. 二叉树.md",
     "当前施工进度.md",
@@ -198,7 +200,6 @@
     "操作系统/第1章 计算机系统的概念/1.5 操作系统引导.md",
     "C语言/4. 选择、循环.md",
     "C语言/3. 运算符与表达式.md",
-    "C语言/1. 入门.md",
     "C语言/附件",
     "C语言/images",
     "C语言/mindmap",
