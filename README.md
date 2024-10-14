@@ -14,6 +14,6 @@ Praise the God of machine !
 4. [[LaTex学习目录|LaTex]]
 5. [[西南石油大学研究生考试相关|SWPU研究生入学考试]]
 6. [[SCRCU入职考试|SRCUB入职考试]]
-7. 时代年表
+7. [[历史时间轴]]
 
 [[当前施工进度|施工进度表]]
