@@ -2,7 +2,9 @@
 
 Praise the God of machine !
 
-> 记录学习笔记和资料。
+> 记录学习笔记和资料
+
+> 使用Obsidian编辑，部分效果无法在其他的Markdown编辑器呈现
 
 # 当前施工目录
 
@@ -13,4 +15,4 @@ Praise the God of machine !
 5. [[西南石油大学研究生考试相关|SWPU研究生入学考试]]
 6. [[SCRCU入职考试|SRCUB入职考试]]
 
-# [[当前施工进度|施工进度表]]
+[[当前施工进度|施工进度表]]
