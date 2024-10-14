@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5fee54890768d0b3",
+        "id": "a342c292fbf3495f",
         "type": "tabs",
         "children": [
           {
-            "id": "d5b32ea3a7a6ce32",
+            "id": "6fe3bb7bd76fde6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -139,12 +139,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 283.5,
-    "collapsed": true
+    "width": 283.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,10 +156,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5b32ea3a7a6ce32",
+  "active": "7a0289f6ac94ce29",
   "lastOpenFiles": [
-    "SCRCU入职考试.md",
+    "C语言/9. 数据结构概述.md",
+    "C语言/10.  线性表的顺序存储.md",
+    "C语言/11. 线性表的链式存储.md",
+    "C语言/12. 栈与队列.md",
     "C语言/13. 二叉树.md",
+    "SCRCU入职考试.md",
     "操作系统/操作系统.md",
     "操作系统/附件/QQ_1728869430337.png",
     "操作系统/附件",
@@ -173,9 +176,6 @@
     "当前施工进度.md",
     "西南石油大学研究生考试相关.md",
     "Latex学习/Tex文件的基本结构.md",
-    "C语言/11. 线性表的链式存储.md",
-    "C语言/10.  线性表的顺序存储.md",
-    "C语言/12. 栈与队列.md",
     "C语言/附件/栈与队列408真题.png",
     "C语言/附件/循环队列流程.png",
     "README.md",
@@ -185,7 +185,6 @@
     "操作系统/第1章 计算机系统的概念/1.1 操作系统的概念.md",
     "C语言/附件/链表408真题.png",
     "C语言/附件/线性表结点删除操作流程图.png",
-    "C语言/9. 数据结构概述.md",
     "C语言/6. 指针.md",
     "C语言/8. 结构体与C++引用.md",
     "C语言/5. 一维数组与字符串数组.md",
