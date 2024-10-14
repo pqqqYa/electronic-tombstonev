@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latex学习/Tex文件的基本结构.md",
+                "file": "C语言/13. 二叉树.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5,
-    "collapsed": true
+    "width": 237.5
   },
   "right": {
     "id": "6b8152f84fa6c40e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Latex学习/Tex文件的基本结构.md"
+                "file": "C语言/13. 二叉树.md"
               }
             }
           },
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Latex学习/Tex文件的基本结构.md",
+                "file": "C语言/13. 二叉树.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -132,13 +131,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Latex学习/Tex文件的基本结构.md",
+                "file": "C语言/13. 二叉树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,9 +158,13 @@
   },
   "active": "3b15829b9502a172",
   "lastOpenFiles": [
+    "SRCUB入职考试.md",
+    "C语言/13. 二叉树.md",
+    "当前施工进度.md",
+    "西南石油大学研究生考试相关.md",
+    "Latex学习/Tex文件的基本结构.md",
     "C语言/11. 线性表的链式存储.md",
     "C语言/10.  线性表的顺序存储.md",
-    "Latex学习/Tex文件的基本结构.md",
     "C语言/12. 栈与队列.md",
     "C语言/附件/栈与队列408真题.png",
     "C语言/附件/循环队列流程.png",
@@ -196,11 +200,8 @@
     "C语言/3. 运算符与表达式.md",
     "C语言/1. 入门.md",
     "C语言/附件",
-    "C语言/mindmap/未命名思维导图.md",
     "C语言/images",
-    "C语言/mindmap/数据类型.md",
     "C语言/mindmap",
-    "数据结构/第1章 绪论.md",
     "C语言",
     "英语"
   ]
