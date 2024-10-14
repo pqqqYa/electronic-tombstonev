@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "792a528b9fcfce3b",
+        "id": "e22545fe6225bc91",
         "type": "tabs",
         "children": [
           {
-            "id": "717340e11d43daf1",
+            "id": "4d6531c718665268",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a26241e2853e968f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SRCUB入职考试.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "SRCUB入职考试.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "SRCUB入职考试.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "SRCUB入职考试.md"
-          }
+          "state": {}
         }
       },
       {
@@ -153,9 +132,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a26241e2853e968f",
+  "active": "4d6531c718665268",
   "lastOpenFiles": [
+    "Latex学习/LaTex学习目录.md",
     "README.md",
+    "操作系统/操作系统学习目录.md",
+    "C语言/C语言学习目录.md",
+    "当前施工进度.md",
     "SRCUB入职考试.md",
     "西南石油大学研究生考试相关.md",
     "C语言/7. 函数.md",
