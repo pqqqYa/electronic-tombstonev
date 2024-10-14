@@ -137,7 +137,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,7 +155,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4c418f00199c627",
+  "active": "7a0289f6ac94ce29",
   "lastOpenFiles": [
     "README.md",
     "时代年表/历史时间轴.md",
