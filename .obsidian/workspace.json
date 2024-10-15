@@ -11,8 +11,12 @@
             "id": "2be45759ed365816",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "C语言/13. 二叉树.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 237.5,
+    "collapsed": true
   },
   "right": {
     "id": "6b8152f84fa6c40e",
@@ -80,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "C语言/13. 二叉树.md"
+              }
             }
           },
           {
@@ -108,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "C语言/13. 二叉树.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,17 +132,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "C语言/13. 二叉树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 372.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,11 +156,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2be45759ed365816",
+  "active": "47f9f2f20eb32c74",
   "lastOpenFiles": [
+    "C语言/13. 二叉树.md",
+    "C语言/C语言学习目录.md",
     "Latex学习/LaTex学习目录.md",
     "时代年表/历史时间轴.md",
-    "C语言/C语言学习目录.md",
     "C语言/12. 栈与队列.md",
     "C语言/11. 线性表的链式存储.md",
     "C语言/10.  线性表的顺序存储.md",
@@ -166,7 +176,6 @@
     "SCRCU/SCRCU入职考试.md",
     "SCRCU",
     "时代年表",
-    "C语言/13. 二叉树.md",
     "C语言/9. 数据结构概述.md",
     "操作系统/操作系统.md",
     "操作系统/附件/QQ_1728869430337.png",
