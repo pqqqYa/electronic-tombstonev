@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "LinkNode",
+                "query": "Q.rear==",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -167,7 +168,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2be45759ed365816",
+  "active": "fccd5616acb31441",
   "lastOpenFiles": [
     "C语言/13. 二叉树.md",
     "C语言/12. 栈与队列.md",
