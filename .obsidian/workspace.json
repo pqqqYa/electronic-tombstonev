@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "314692cfba85c597",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C语言/12. 栈与队列.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C语言/12. 栈与队列.md"
+                "file": "C语言/13. 二叉树.md"
               }
             }
           },
@@ -129,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C语言/12. 栈与队列.md",
+                "file": "C语言/13. 二叉树.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C语言/12. 栈与队列.md",
+                "file": "C语言/13. 二叉树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5,
-    "collapsed": true
+    "width": 372.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,10 +156,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c21bd7fca538227",
+  "floating": {
+    "id": "a9231433a34b4144",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8928243550aeba72",
+        "type": "window",
+        "children": [
+          {
+            "id": "7fde81d69905f3ec",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c049d71d2ca20b84",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "C语言/12. 栈与队列.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 263,
+        "y": 14,
+        "width": 600,
+        "height": 992,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "6fa5cdb567585796",
   "lastOpenFiles": [
-    "C语言/13. 二叉树.md",
     "C语言/12. 栈与队列.md",
+    "C语言/13. 二叉树.md",
     "C语言/11. 线性表的链式存储.md",
     "C语言/C语言学习目录.md",
     "Latex学习/LaTex学习目录.md",
