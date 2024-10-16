@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "f912cd8bdb011972",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "当前施工进度.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "当前施工进度.md"
+                "file": "C语言/13. 二叉树.md"
               }
             }
           },
@@ -129,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "当前施工进度.md",
+                "file": "C语言/13. 二叉树.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "当前施工进度.md",
+                "file": "C语言/13. 二叉树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,8 +156,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f912cd8bdb011972",
+  "active": "6fa5cdb567585796",
   "lastOpenFiles": [
+    "当前施工进度.md",
     "C语言/13. 二叉树.md",
     "C语言/12. 栈与队列.md",
     "C语言/11. 线性表的链式存储.md",
@@ -181,7 +169,6 @@
     "C语言/8. 结构体与C++引用.md",
     "C语言/4. 选择、循环.md",
     "README.md",
-    "当前施工进度.md",
     "SWPU",
     "SWPU/西南石油大学研究生考试相关.md",
     "操作系统/操作系统学习目录.md",
