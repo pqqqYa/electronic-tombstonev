@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C语言/14. 查找.md",
+                "file": "C语言/2. 数据类型.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Q.rear==",
+                "query": "ASC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5,
-    "collapsed": true
+    "width": 237.5
   },
   "right": {
     "id": "6b8152f84fa6c40e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C语言/14. 查找.md"
+                "file": "C语言/2. 数据类型.md"
               }
             }
           },
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C语言/14. 查找.md",
+                "file": "C语言/2. 数据类型.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C语言/14. 查找.md",
+                "file": "C语言/2. 数据类型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,10 +155,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6fa5cdb567585796",
+  "active": "6c21bd7fca538227",
   "lastOpenFiles": [
-    "C语言/13. 二叉树.md",
     "C语言/14. 查找.md",
+    "C语言/13. 二叉树.md",
     "当前施工进度.md",
     "C语言/12. 栈与队列.md",
     "C语言/11. 线性表的链式存储.md",
