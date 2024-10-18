@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C语言/8. 结构体与C++引用.md",
+                "file": "C语言/14. 查找.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 237.5,
+    "collapsed": true
   },
   "right": {
     "id": "6b8152f84fa6c40e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C语言/8. 结构体与C++引用.md"
+                "file": "C语言/14. 查找.md"
               }
             }
           },
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C语言/8. 结构体与C++引用.md",
+                "file": "C语言/14. 查找.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C语言/8. 结构体与C++引用.md",
+                "file": "C语言/14. 查找.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,17 +158,17 @@
   },
   "active": "6fa5cdb567585796",
   "lastOpenFiles": [
+    "C语言/C语言学习目录.md",
+    "时代年表/历史时间轴.md",
+    "C语言/14. 查找.md",
+    "C语言/8. 结构体与C++引用.md",
     "C语言/10.  线性表的顺序存储.md",
     "C语言/2. 数据类型.md",
-    "C语言/14. 查找.md",
     "C语言/13. 二叉树.md",
     "当前施工进度.md",
     "C语言/12. 栈与队列.md",
     "C语言/11. 线性表的链式存储.md",
-    "C语言/C语言学习目录.md",
     "Latex学习/LaTex学习目录.md",
-    "时代年表/历史时间轴.md",
-    "C语言/8. 结构体与C++引用.md",
     "C语言/4. 选择、循环.md",
     "README.md",
     "SWPU",
