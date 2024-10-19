@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C语言/13. 树.md",
+                "file": "论文阅读/基于时间银行的智慧养老系统_陈功.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13. 树"
+              "title": "基于时间银行的智慧养老系统_陈功"
             }
           }
         ]
@@ -173,11 +173,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dbadf63e7ac5cc0a",
+  "active": "162e003f4300a95e",
   "lastOpenFiles": [
+    "论文阅读/区块链技术在银行账户管理中的应用_王蕾.md",
+    "C语言/13. 树.md",
+    "论文阅读/基于时间银行的智慧养老系统_陈功.md",
+    "论文阅读",
     "2024-10-18.md",
     "C语言/附件/二叉排序树408真题.png",
-    "C语言/C语言学习目录.md",
-    "C语言/13. 树.md"
+    "C语言/C语言学习目录.md"
   ]
 }
