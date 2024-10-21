@@ -73,8 +73,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,6 +177,7 @@
   },
   "active": "5a47379b5fce1a13",
   "lastOpenFiles": [
+    "C语言/附件/插入排序过程.png",
     "C语言/14. 查找.md",
     "论文阅读/时间银行区块链的应用.md",
     "C语言/15. 排序.md",
