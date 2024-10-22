@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文阅读/时间银行区块链的应用.md",
+                "file": "区块链/Smart Contract - Article.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "时间银行区块链的应用"
+              "title": "Smart Contract - Article"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文阅读/时间银行区块链的应用.md"
+                "file": "区块链/Smart Contract - Article.md"
               },
               "icon": "lucide-list",
-              "title": "时间银行区块链的应用 的大纲"
+              "title": "Smart Contract - Article 的大纲"
             }
           },
           {
@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,12 +176,14 @@
   },
   "active": "cf7482c7d7d9a516",
   "lastOpenFiles": [
+    "区块链/Ethereum-Article.md",
+    "区块链/PoS-Article.md",
+    "区块链/Smart Contract - Article.md",
+    "论文阅读/时间银行区块链的应用.md",
     "论文阅读/区块链技术在银行账户管理中的应用_王蕾.md",
     "论文阅读/基于区块链的养老“时间银行”机制研究和设计_殷沈琴.pdf",
     "论文阅读/基于区块链的时间银行管理系统-项目详细方案.pdf",
-    "区块链/PoS-Article.md",
     "C语言/15. 排序.md",
-    "论文阅读/时间银行区块链的应用.md",
     "区块链",
     "C语言/附件/插入排序过程.png",
     "C语言/14. 查找.md",
