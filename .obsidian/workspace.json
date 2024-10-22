@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "区块链/Ethereum-Article.md",
+                "file": "区块链/PoS-Article.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ethereum-Article"
+              "title": "PoS-Article"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "区块链/Ethereum-Article.md"
+                "file": "区块链/PoS-Article.md"
               },
               "icon": "lucide-list",
-              "title": "Ethereum-Article 的大纲"
+              "title": "PoS-Article 的大纲"
             }
           },
           {
@@ -176,8 +176,9 @@
   },
   "active": "cf7482c7d7d9a516",
   "lastOpenFiles": [
-    "区块链/PoS-Article.md",
+    "区块链/未命名.md",
     "区块链/Smart Contract - Article.md",
+    "区块链/PoS-Article.md",
     "区块链/Ethereum-Article.md",
     "论文阅读/时间银行区块链的应用.md",
     "论文阅读/区块链技术在银行账户管理中的应用_王蕾.md",
