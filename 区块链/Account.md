@@ -53,6 +53,9 @@ EOA账户由一对加密密钥组成：public公钥和 private私钥。用于证
 公钥是使用[椭圆曲线数字签名算法](https://wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm) 从私钥生成的。用户可以使用私钥派生新的公钥，但不能从公钥派生私钥。公钥用作 Ethereum 地址的基础，它对公众可见并用作唯一标识符
 
 > You need a private key to sign messages and transactions which output a signature.
+> message + key pair = signature
+> signature + message =  address or public key
+
 
 所有用户都需要一个私钥通过[Clef](https://geth.ethereum.org/docs/tools/clef/introduction)（一种在安全的本地环境中对交易和数据进行签名的工具）来对输出签名的消息和交易进行签名。然后其他人可以获取签名来派生您的公钥，从而证明消息的作者。
 
