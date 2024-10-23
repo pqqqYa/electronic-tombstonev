@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "区块链/Account.md",
+                "file": "区块链/SmartContract.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Account"
+              "title": "SmartContract"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "区块链/Account.md",
+                "file": "区块链/SmartContract.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Account 的反向链接列表"
+              "title": "SmartContract 的反向链接列表"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "区块链/Account.md"
+                "file": "区块链/SmartContract.md"
               },
               "icon": "lucide-list",
-              "title": "Account 的大纲"
+              "title": "SmartContract 的大纲"
             }
           },
           {
@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,9 +176,9 @@
   },
   "active": "8bbb4eaf9ea75058",
   "lastOpenFiles": [
+    "区块链/Account.md",
     "区块链/SmartContract.md",
     "区块链/Merkle-Patricia-Trie.md",
-    "区块链/Account.md",
     "区块链/PoS.md",
     "C语言/15. 排序.md",
     "C语言/附件/所有排序算法的时间复杂度空间复杂度稳定性和复杂性汇总.png",
