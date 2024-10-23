@@ -171,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -188,8 +188,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2bdf1829ea436268",
+  "active": "162e003f4300a95e",
   "lastOpenFiles": [
+    "区块链/附件/layer2.png",
     "区块链/Nodes-clients结点与计算机.md",
     "区块链/NetWorks.md",
     "区块链/EVM以太坊虚拟机.md",
@@ -234,7 +235,6 @@
     "C语言/12. 栈与队列.md",
     "C语言/8. 结构体与C++引用.md",
     "C语言/C语言学习目录.md",
-    "C语言/16. 堆.md",
     "论文阅读/基于区块链的养老“时间银行”机制研究和设计_殷沈琴.pdf"
   ]
 }
