@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "区块链/Account.md",
+                "file": "区块链/Transactions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Account"
+              "title": "Transactions"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "区块链/Account.md"
+                "file": "区块链/Transactions.md"
               },
               "icon": "lucide-list",
-              "title": "Account 的大纲"
+              "title": "Transactions 的大纲"
             }
           },
           {
@@ -175,10 +175,11 @@
   },
   "active": "8bbb4eaf9ea75058",
   "lastOpenFiles": [
+    "区块链/Account.md",
+    "区块链/Transactions.md",
     "区块链/附件/account4part.png",
     "区块链/附件",
     "区块链/SmartContract.md",
-    "区块链/Account.md",
     "区块链/Merkle-Patricia-Trie.md",
     "区块链/PoS.md",
     "C语言/15. 排序.md",
@@ -218,7 +219,6 @@
     "附件",
     "论文阅读/图片",
     "C语言/附件/冒泡排序演示.png",
-    "论文阅读",
-    "C语言/附件/二叉排序树408真题.png"
+    "论文阅读"
   ]
 }
