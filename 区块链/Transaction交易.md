@@ -29,7 +29,7 @@ Gas 是对验证者处理交易所需的计算的引用。用户必须为此计�
   gasLimit: "21000",
   maxFeePerGas: "190",
   maxPriorityFeePerGas: "10",
-  nonce: "0",
+  nonce: "3",
   value: "10000000000"
 }
 ~~~
