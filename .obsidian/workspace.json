@@ -53,8 +53,7 @@
               "title": "15. 排序"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,8 +105,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "080da6227e253ab2",
+  "active": "cf7482c7d7d9a516",
   "lastOpenFiles": [
     "C语言/13. 树.md",
     "C语言/15. 排序.md",
