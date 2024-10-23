@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "区块链/EVM以太坊虚拟机.md",
+                "file": "区块链/NetWorks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EVM以太坊虚拟机"
+              "title": "NetWorks"
             }
           }
         ],
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "默克尔",
+                "query": "神谕",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "区块链/SmartContract.md",
+                "file": "区块链/NetWorks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "SmartContract 的反向链接列表"
+              "title": "NetWorks 的反向链接列表"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "区块链/EVM以太坊虚拟机.md"
+                "file": "区块链/NetWorks.md"
               },
               "icon": "lucide-list",
-              "title": "EVM以太坊虚拟机 的大纲"
+              "title": "NetWorks 的大纲"
             }
           },
           {
@@ -175,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,9 +188,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a3dee57a4518add",
+  "active": "2bdf1829ea436268",
   "lastOpenFiles": [
     "区块链/Nodes-clients结点与计算机.md",
+    "区块链/NetWorks.md",
+    "区块链/EVM以太坊虚拟机.md",
+    "区块链/附件/node-architecture.png",
+    "区块链/附件/node-architecture.png.crdownload",
+    "区块链/附件/eth1eth2client.png",
+    "区块链/SmartContract智能合约.md",
     "区块链/附件/diagram.png",
     "区块链/附件/diagram.png.crdownload",
     "区块链/Account账户.md",
@@ -201,12 +206,9 @@
     "区块链/附件/transactionGas.png",
     "区块链/附件/gas.png",
     "区块链/附件/evm.png",
-    "区块链/附件/eth1eth2client.png",
     "区块链/附件/account4part.png",
-    "区块链/EVM以太坊虚拟机.md",
     "区块链/PoS股权证明共识机制.md",
     "区块链/Block区块.md",
-    "区块链/SmartContract智能合约.md",
     "区块链/附件/eth1eth2client.png.crdownload",
     "区块链/附件/gas.png.crdownload",
     "区块链/附件/evm.png.crdownload",
@@ -216,7 +218,6 @@
     "区块链/附件",
     "C语言/15. 排序.md",
     "C语言/附件/所有排序算法的时间复杂度空间复杂度稳定性和复杂性汇总.png",
-    "C语言/附件/单链表向第i个位置插入元素流程图.png",
     "未命名/9. 数据结构概述 1.md",
     "未命名/10.  线性表的顺序存储 1.md",
     "未命名/11. 线性表的链式存储 1.md",
@@ -234,7 +235,6 @@
     "C语言/8. 结构体与C++引用.md",
     "C语言/C语言学习目录.md",
     "C语言/16. 堆.md",
-    "论文阅读/基于区块链的养老“时间银行”机制研究和设计_殷沈琴.pdf",
-    "论文阅读/基于区块链的时间银行管理系统-项目详细方案.pdf"
+    "论文阅读/基于区块链的养老“时间银行”机制研究和设计_殷沈琴.pdf"
   ]
 }
