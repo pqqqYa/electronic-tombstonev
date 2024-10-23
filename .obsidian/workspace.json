@@ -10,6 +10,7 @@
           {
             "id": "cf7482c7d7d9a516",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,11 +18,29 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "15. 排序"
             }
+          },
+          {
+            "id": "126984c34c54d85a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C语言/13. 树.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "13. 树"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,10 +159,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C语言/15. 排序.md"
+                "file": "C语言/13. 树.md"
               },
               "icon": "lucide-list",
-              "title": "15. 排序 的大纲"
+              "title": "13. 树 的大纲"
             }
           },
           {
@@ -175,10 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf7482c7d7d9a516",
+  "active": "126984c34c54d85a",
   "lastOpenFiles": [
-    "C语言/附件/选择排序的过程.png",
     "C语言/C语言学习目录.md",
+    "C语言/16. 堆.md",
+    "C语言/15. 排序.md",
+    "C语言/12. 栈与队列.md",
+    "C语言/附件/选择排序的过程.png",
     "区块链/Smart Contract - Article.md",
     "区块链/PoS-Article.md",
     "区块链/未命名.md",
@@ -187,7 +209,6 @@
     "论文阅读/区块链技术在银行账户管理中的应用_王蕾.md",
     "论文阅读/基于区块链的养老“时间银行”机制研究和设计_殷沈琴.pdf",
     "论文阅读/基于区块链的时间银行管理系统-项目详细方案.pdf",
-    "C语言/15. 排序.md",
     "区块链",
     "C语言/附件/插入排序过程.png",
     "C语言/14. 查找.md",
