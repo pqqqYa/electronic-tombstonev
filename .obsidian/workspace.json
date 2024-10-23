@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "115f2f14d599213f",
+        "id": "9b1b0570f1c03536",
         "type": "tabs",
         "children": [
           {
-            "id": "cf7482c7d7d9a516",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C语言/15. 排序.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "15. 排序"
-            }
-          },
-          {
-            "id": "91a094d718b6577f",
+            "id": "8bbb4eaf9ea75058",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C语言/15. 排序.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "15. 排序"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -178,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,16 +170,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "162e003f4300a95e",
+  "active": "7a3dee57a4518add",
   "lastOpenFiles": [
+    "未命名.md",
+    "C语言/9. 数据结构概述.md",
+    "C语言/11. 线性表的链式存储.md",
+    "C语言/10.  线性表的顺序存储.md",
+    "C语言/15. 排序.md",
     "C语言/14. 查找.md",
     "C语言/13. 树.md",
     "C语言/12. 栈与队列.md",
-    "C语言/11. 线性表的链式存储.md",
-    "C语言/10.  线性表的顺序存储.md",
-    "C语言/9. 数据结构概述.md",
     "C语言/8. 结构体与C++引用.md",
-    "C语言/15. 排序.md",
     "C语言/附件/归并排序算法.png",
     "C语言/附件/所有排序算法的时间复杂度空间复杂度稳定性和复杂性汇总.png",
     "C语言/C语言学习目录.md",
