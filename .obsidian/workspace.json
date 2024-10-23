@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "15. 排序"
             }
+          },
+          {
+            "id": "91a094d718b6577f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C语言/15. 排序.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "15. 排序"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,15 +191,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf7482c7d7d9a516",
+  "active": "91a094d718b6577f",
   "lastOpenFiles": [
+    "C语言/14. 查找.md",
+    "C语言/13. 树.md",
+    "C语言/12. 栈与队列.md",
+    "C语言/11. 线性表的链式存储.md",
+    "C语言/10.  线性表的顺序存储.md",
+    "C语言/9. 数据结构概述.md",
+    "C语言/8. 结构体与C++引用.md",
+    "C语言/15. 排序.md",
     "C语言/附件/归并排序算法.png",
     "C语言/附件/所有排序算法的时间复杂度空间复杂度稳定性和复杂性汇总.png",
-    "C语言/13. 树.md",
-    "C语言/15. 排序.md",
     "C语言/C语言学习目录.md",
     "C语言/16. 堆.md",
-    "C语言/12. 栈与队列.md",
     "C语言/附件/选择排序的过程.png",
     "区块链/Smart Contract - Article.md",
     "区块链/PoS-Article.md",
@@ -197,7 +216,6 @@
     "论文阅读/基于区块链的时间银行管理系统-项目详细方案.pdf",
     "区块链",
     "C语言/附件/插入排序过程.png",
-    "C语言/14. 查找.md",
     "论文阅读/图片/为老机构授权的逐步去中心化.png",
     "附件/QQ_1729426618444.png",
     "论文阅读/附件",
