@@ -11,12 +11,14 @@
             "id": "b02b4331cf040a77",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "区块链/附件/node-architecture.png"
+                "file": "论文阅读/NeoC3chart.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "node-architecture"
+              "icon": "lucide-file",
+              "title": "NeoC3chart"
             }
           }
         ]
@@ -75,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -158,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,16 +177,17 @@
   },
   "active": "b02b4331cf040a77",
   "lastOpenFiles": [
+    "区块链/Transaction交易.md",
+    "区块链/附件/node-architecture.png",
     "区块链/附件/nodes.png",
     "区块链/附件/sign.png",
-    "区块链/附件/node-architecture.png",
     "区块链/附件/tx-block.png",
     "区块链/附件/transactionGas.png",
     "区块链/附件/diagram.png",
     "区块链/附件/eth1eth2client.png",
     "区块链/附件/evm.png",
     "区块链/附件/account4part.png",
-    "论文阅读/NeoEchart.md",
+    "论文阅读/NeoC3chart.md",
     "区块链/NetWorks.md",
     "区块链/附件/layer2.png",
     "区块链/Nodes-clients结点与计算机.md",
@@ -191,9 +196,7 @@
     "区块链/SmartContract智能合约.md",
     "区块链/附件/diagram.png.crdownload",
     "区块链/Account账户.md",
-    "区块链/Transaction交易.md",
     "区块链/附件/nodes.png.crdownload",
-    "区块链/附件/gas.png",
     "区块链/PoS股权证明共识机制.md",
     "区块链/Block区块.md",
     "区块链/附件/eth1eth2client.png.crdownload",
