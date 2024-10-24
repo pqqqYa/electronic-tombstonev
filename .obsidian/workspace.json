@@ -11,10 +11,14 @@
             "id": "b02b4331cf040a77",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "论文阅读/NeoEchart.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "NeoEchart"
             }
           }
         ]
@@ -171,6 +175,7 @@
   },
   "active": "b02b4331cf040a77",
   "lastOpenFiles": [
+    "论文阅读/NeoEchart.md",
     "区块链/NetWorks.md",
     "区块链/附件/sign.png",
     "区块链/附件/layer2.png",
