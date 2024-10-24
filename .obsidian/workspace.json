@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -140,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "区块链/NetWorks.md"
+                "file": "论文阅读/NeoC3chart.md"
               },
               "icon": "lucide-list",
-              "title": "NetWorks 的大纲"
+              "title": "NeoC3chart 的大纲"
             }
           },
           {
@@ -157,12 +156,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,6 +175,10 @@
   },
   "active": "b02b4331cf040a77",
   "lastOpenFiles": [
+    "区块链/PoS股权证明共识机制.md",
+    "论文阅读/NeoC3chart.md",
+    "论文阅读/时间银行区块链的应用.md",
+    "论文阅读/阅读目录.md",
     "区块链/Transaction交易.md",
     "区块链/附件/node-architecture.png",
     "区块链/附件/nodes.png",
@@ -187,7 +189,6 @@
     "区块链/附件/eth1eth2client.png",
     "区块链/附件/evm.png",
     "区块链/附件/account4part.png",
-    "论文阅读/NeoC3chart.md",
     "区块链/NetWorks.md",
     "区块链/附件/layer2.png",
     "区块链/Nodes-clients结点与计算机.md",
@@ -197,7 +198,6 @@
     "区块链/附件/diagram.png.crdownload",
     "区块链/Account账户.md",
     "区块链/附件/nodes.png.crdownload",
-    "区块链/PoS股权证明共识机制.md",
     "区块链/Block区块.md",
     "区块链/附件/eth1eth2client.png.crdownload",
     "区块链/附件/gas.png.crdownload",
@@ -220,7 +220,6 @@
     "C语言/14. 查找.md",
     "C语言/13. 树.md",
     "C语言/12. 栈与队列.md",
-    "C语言/8. 结构体与C++引用.md",
     "论文阅读/基于区块链的养老“时间银行”机制研究和设计_殷沈琴.pdf"
   ]
 }
