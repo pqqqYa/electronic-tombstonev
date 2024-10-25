@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 409.5
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -160,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,7 +172,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da5f1adb9255f411",
+  "active": "162e003f4300a95e",
   "lastOpenFiles": [
     "论文阅读/NeoC3chart.md",
     "区块链/Nodes-clients结点与计算机.md",
