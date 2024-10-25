@@ -4,9 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "c4bbffc30671d35a",
+        "id": "b2db948e93d7cb8f",
         "type": "tabs",
         "children": [
+          {
+            "id": "da5f1adb9255f411",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "区块链/Nodes-clients结点与计算机.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nodes-clients结点与计算机"
+            }
+          },
           {
             "id": "b02b4331cf040a77",
             "type": "leaf",
@@ -21,7 +35,8 @@
               "title": "NeoC3chart"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "神谕",
+                "query": "Full",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,12 +88,12 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -174,10 +189,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e29a52a585c7e63",
+  "active": "b02b4331cf040a77",
   "lastOpenFiles": [
-    "区块链/PoS股权证明共识机制.md",
+    "区块链/Nodes-clients结点与计算机.md",
     "论文阅读/NeoC3chart.md",
+    "区块链/PoS股权证明共识机制.md",
     "论文阅读/时间银行区块链的应用.md",
     "论文阅读/阅读目录.md",
     "区块链/Transaction交易.md",
@@ -192,7 +208,6 @@
     "区块链/附件/account4part.png",
     "区块链/NetWorks.md",
     "区块链/附件/layer2.png",
-    "区块链/Nodes-clients结点与计算机.md",
     "区块链/EVM以太坊虚拟机.md",
     "区块链/附件/node-architecture.png.crdownload",
     "区块链/SmartContract智能合约.md",
