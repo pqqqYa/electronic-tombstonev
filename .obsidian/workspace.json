@@ -29,7 +29,7 @@
               "state": {
                 "file": "论文阅读/NeoC3chart.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "NeoC3chart"
@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
