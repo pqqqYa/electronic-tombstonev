@@ -70,6 +70,17 @@
 
 本作品相较于传统时间银行的实现方式以及很多改进型的时间银行管理系统，如`?????????`等，在`？？？？？？？？`中具有明显的优势。下面主要以申报书中的基于区块链的时间银行管理系统与`??????`进行对比，阐述本管理系统的科学性与先进性。
 
+1. 123
+
+```
+[1]张宁,孙雨佳.“时间银行”互助养老模式的南京试点[J].群众,2019,(20):30-31.
+[2]曹海军,闫晓玲.时间银行互助养老服务项目跨部门协作结果解释——基于多案例的比较研究[J].经济社会体制比较,2023,(02):33-41.
+[3]韩钰洁.天津市居民参与“时间银行”互助养老服务意愿的影响因素研究[D].天津财经大学,2023.DOI:10.27354/d.cnki.gtcjy.2023.000574.
+[4]Lashko G. Time banking–new social currency or waste of time?. Housing, Care and Support. 2012 Nov 30;15(4):161-8.
+[5]Cai W, Liu Z, Ma Y, Tian Y. “Time Bank” Diversified Mutual Assistance Urban Pension New Form. In2022 6th International Seminar on Education, Management and Social Sciences (ISEMSS 2022) 2022 Dec 29 (pp. 2621-2632). Atlantis Press.
+```
+
+
 
 # 4. 技术分析
 
