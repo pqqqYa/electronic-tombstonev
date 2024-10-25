@@ -159,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,7 +211,7 @@
       }
     ]
   },
-  "active": "da5f1adb9255f411",
+  "active": "162e003f4300a95e",
   "lastOpenFiles": [
     "区块链/Nodes-clients结点与计算机.md",
     "论文阅读/NeoC3chart.md",
