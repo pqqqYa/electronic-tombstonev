@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "区块链/附件/node-architecture.png"
+                "file": "区块链/附件/sign.png"
               },
               "icon": "lucide-image",
-              "title": "node-architecture"
+              "title": "sign"
             }
           }
         ]
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Node",
+                "query": "联盟环境",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,25 +173,24 @@
   },
   "active": "d646ae512e77c14f",
   "lastOpenFiles": [
+    "区块链/附件/transactionGas.png",
+    "区块链/附件/nodes.png",
+    "区块链/附件/sign.png",
+    "区块链/附件/tx-block.png",
+    "论文阅读/NeoC3chart.md",
+    "区块链/PoS股权证明共识机制.md",
+    "区块链/NetWorks.md",
+    "区块链/附件/node-architecture.png",
     "区块链/附件/layer2.png",
     "区块链/附件/gas.png",
     "区块链/附件/evm.png",
     "区块链/附件/diagram.png",
     "区块链/附件/account4part.png",
-    "论文阅读/NeoC3chart.md",
-    "区块链/附件/nodes.png",
-    "区块链/附件/tx-block.png",
-    "区块链/附件/transactionGas.png",
-    "区块链/附件/sign.png",
-    "区块链/附件/node-architecture.png",
-    "区块链/附件/eth1eth2client.png",
-    "区块链/PoS股权证明共识机制.md",
     "SCRCU/SCRCU入职考试.md",
     "区块链/Nodes-clients结点与计算机.md",
     "论文阅读/时间银行区块链的应用.md",
     "论文阅读/阅读目录.md",
     "区块链/Transaction交易.md",
-    "区块链/NetWorks.md",
     "区块链/EVM以太坊虚拟机.md",
     "区块链/附件/node-architecture.png.crdownload",
     "区块链/SmartContract智能合约.md",
