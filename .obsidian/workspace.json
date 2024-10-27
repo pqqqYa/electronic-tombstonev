@@ -11,12 +11,14 @@
             "id": "15402182fe183b41",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "区块链/附件/node-architecture.png"
+                "file": "论文阅读/NeoC3chart.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "node-architecture"
+              "icon": "lucide-file",
+              "title": "NeoC3chart"
             }
           }
         ]
@@ -50,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "联盟环境",
+                "query": "六大",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 282.5,
+    "collapsed": true
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -153,11 +156,13 @@
               "title": "NeoC3chart 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,31 +177,31 @@
   },
   "active": "15402182fe183b41",
   "lastOpenFiles": [
-    "区块链/附件/layer2.png",
-    "区块链/附件/gas.png",
-    "区块链/附件/eth1eth2client.png",
-    "区块链/附件/evm.png",
-    "区块链/PoS股权证明共识机制.md",
+    "区块链/附件/Centralized Wallet.png",
+    "区块链/附件/QQ_1730029893510.png",
+    "区块链/NetWorks.md",
+    "区块链/SmartContract智能合约.md",
     "区块链/Nodes-clients结点与计算机.md",
-    "论文阅读/区块链技术在银行账户管理中的应用_王蕾.md",
-    "论文阅读/NeoC3chart.md",
+    "区块链/EVM以太坊虚拟机.md",
+    "区块链/附件/account4part.png",
+    "区块链/附件/diagram.png",
+    "区块链/附件/eth1eth2client.png",
+    "区块链/附件/gas.png",
+    "区块链/附件/layer2.png",
+    "区块链/附件/node-architecture.png",
+    "区块链/附件/nodes.png",
     "区块链/附件/sign.png",
     "区块链/附件/transactionGas.png",
-    "区块链/附件/nodes.png",
-    "区块链/附件/tx-block.png",
-    "区块链/NetWorks.md",
-    "区块链/附件/node-architecture.png",
-    "区块链/附件/diagram.png",
-    "区块链/附件/account4part.png",
+    "区块链/Account账户.md",
+    "论文阅读/NeoC3chart.md",
+    "区块链/PoS股权证明共识机制.md",
+    "论文阅读/区块链技术在银行账户管理中的应用_王蕾.md",
     "SCRCU/SCRCU入职考试.md",
     "论文阅读/时间银行区块链的应用.md",
     "论文阅读/阅读目录.md",
     "区块链/Transaction交易.md",
-    "区块链/EVM以太坊虚拟机.md",
     "区块链/附件/node-architecture.png.crdownload",
-    "区块链/SmartContract智能合约.md",
     "区块链/附件/diagram.png.crdownload",
-    "区块链/Account账户.md",
     "区块链/附件/nodes.png.crdownload",
     "区块链/Block区块.md",
     "区块链/附件/eth1eth2client.png.crdownload",
