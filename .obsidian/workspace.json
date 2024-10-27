@@ -11,14 +11,12 @@
             "id": "15402182fe183b41",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "论文阅读/NeoC3chart.md",
-                "mode": "source",
-                "source": false
+                "file": "区块链/附件/node-architecture.png"
               },
-              "icon": "lucide-file",
-              "title": "NeoC3chart"
+              "icon": "lucide-image",
+              "title": "node-architecture"
             }
           }
         ]
@@ -174,21 +172,23 @@
   },
   "active": "15402182fe183b41",
   "lastOpenFiles": [
+    "区块链/附件/layer2.png",
+    "区块链/附件/gas.png",
+    "区块链/附件/eth1eth2client.png",
+    "区块链/附件/evm.png",
+    "区块链/PoS股权证明共识机制.md",
+    "区块链/Nodes-clients结点与计算机.md",
+    "论文阅读/区块链技术在银行账户管理中的应用_王蕾.md",
+    "论文阅读/NeoC3chart.md",
     "区块链/附件/sign.png",
     "区块链/附件/transactionGas.png",
     "区块链/附件/nodes.png",
     "区块链/附件/tx-block.png",
-    "论文阅读/NeoC3chart.md",
-    "区块链/PoS股权证明共识机制.md",
     "区块链/NetWorks.md",
     "区块链/附件/node-architecture.png",
-    "区块链/附件/layer2.png",
-    "区块链/附件/gas.png",
-    "区块链/附件/evm.png",
     "区块链/附件/diagram.png",
     "区块链/附件/account4part.png",
     "SCRCU/SCRCU入职考试.md",
-    "区块链/Nodes-clients结点与计算机.md",
     "论文阅读/时间银行区块链的应用.md",
     "论文阅读/阅读目录.md",
     "区块链/Transaction交易.md",
@@ -217,7 +217,6 @@
     "未命名",
     "C语言/11. 线性表的链式存储.md",
     "C语言/10.  线性表的顺序存储.md",
-    "C语言/14. 查找.md",
     "论文阅读/基于区块链的养老“时间银行”机制研究和设计_殷沈琴.pdf"
   ]
 }
