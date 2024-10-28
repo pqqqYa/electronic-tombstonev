@@ -11,14 +11,10 @@
             "id": "314f90ff05b3221c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "当前施工进度.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "当前施工进度"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -174,6 +170,7 @@
   },
   "active": "314f90ff05b3221c",
   "lastOpenFiles": [
+    "当前施工进度.md",
     "README.md",
     "论文阅读/图片/时间银行分层架构.png",
     "论文阅读/图片/为老机构授权的逐步去中心化.png",
@@ -218,7 +215,6 @@
     "未命名/14. 查找 1.md",
     "未命名/12. 栈与队列 1.md",
     "未命名/15. 排序 1.md",
-    "C语言/9. 数据结构概述.md",
-    "C语言/11. 线性表的链式存储.md"
+    "C语言/9. 数据结构概述.md"
   ]
 }
