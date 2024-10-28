@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "70321ad32e3b6bf4",
+        "id": "8747294234ceaa70",
         "type": "tabs",
         "children": [
           {
-            "id": "c7e58c96a67ffe94",
+            "id": "042f7f09c4770d28",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,7 +156,8 @@
               "title": "NeoC3chart 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -173,7 +174,79 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7e58c96a67ffe94",
+  "floating": {
+    "id": "0b6aa02c89432ddb",
+    "type": "floating",
+    "children": [
+      {
+        "id": "fe747bbb9f3a31f5",
+        "type": "window",
+        "children": [
+          {
+            "id": "4778a56b8154a023",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c7e58c96a67ffe94",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "论文阅读/NeoC3chart.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "NeoC3chart"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1032,
+        "maximize": false,
+        "zoom": 0.5
+      },
+      {
+        "id": "193827ef201eeff4",
+        "type": "window",
+        "children": [
+          {
+            "id": "a5f0a542d845f35c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1f017e023ada11d7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "论文阅读/NeoC3chart.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "NeoC3chart"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1032,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "9e29a52a585c7e63",
   "lastOpenFiles": [
     "论文阅读/NeoC3chart.md",
     "区块链/附件/Centralized Wallet.png",
