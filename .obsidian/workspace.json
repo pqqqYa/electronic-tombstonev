@@ -11,12 +11,14 @@
             "id": "314f90ff05b3221c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "论文阅读/图片/时间银行分层架构.png"
+                "file": "当前施工进度.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "时间银行分层架构"
+              "icon": "lucide-file",
+              "title": "当前施工进度"
             }
           }
         ]
@@ -170,10 +172,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a3dee57a4518add",
+  "active": "314f90ff05b3221c",
   "lastOpenFiles": [
-    "论文阅读/图片/为老机构授权的逐步去中心化.png",
+    "README.md",
     "论文阅读/图片/时间银行分层架构.png",
+    "论文阅读/图片/为老机构授权的逐步去中心化.png",
     "论文阅读/基于区块链的时间银行管理系统-项目详细方案.pdf",
     "论文阅读/基于区块链的养老“时间银行”机制研究和设计_殷沈琴.pdf",
     "论文阅读/基于时间银行的智慧养老系统_陈功.md",
@@ -191,7 +194,6 @@
     "区块链/附件/gas.png",
     "区块链/附件/layer2.png",
     "区块链/附件/node-architecture.png",
-    "区块链/附件/nodes.png",
     "区块链/Account账户.md",
     "论文阅读/区块链技术在银行账户管理中的应用_王蕾.md",
     "SCRCU/SCRCU入职考试.md",
