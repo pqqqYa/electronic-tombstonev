@@ -155,8 +155,7 @@
               "title": "PoS股权证明共识机制 的大纲"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,7 +172,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "314f90ff05b3221c",
+  "active": "162e003f4300a95e",
   "lastOpenFiles": [
     "论文阅读/NeoC3chart.md",
     "区块链/PoS股权证明共识机制.md",
