@@ -22,6 +22,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "cd21825f78b6312f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03dcbdfc64139294",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "论文阅读/NeoC3chart.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NeoC3chart"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,78 +193,6 @@
       "command-palette:打开命令面板": false,
       "obsidian-git:Open Git source control": false
     }
-  },
-  "floating": {
-    "id": "0b6aa02c89432ddb",
-    "type": "floating",
-    "children": [
-      {
-        "id": "fe747bbb9f3a31f5",
-        "type": "window",
-        "children": [
-          {
-            "id": "4778a56b8154a023",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c7e58c96a67ffe94",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "论文阅读/NeoC3chart.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "NeoC3chart"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1032,
-        "maximize": false,
-        "zoom": 0.5
-      },
-      {
-        "id": "193827ef201eeff4",
-        "type": "window",
-        "children": [
-          {
-            "id": "a5f0a542d845f35c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1f017e023ada11d7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "论文阅读/NeoC3chart.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "NeoC3chart"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1032,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
   },
   "active": "9e29a52a585c7e63",
   "lastOpenFiles": [
