@@ -11,10 +11,14 @@
             "id": "314f90ff05b3221c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "论文阅读/NeoC3chart.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NeoC3chart"
             }
           }
         ]
