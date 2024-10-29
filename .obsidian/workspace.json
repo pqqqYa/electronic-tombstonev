@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文阅读/NeoC3chart.md",
+                "file": "区块链/Account账户.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NeoC3chart"
+              "title": "Account账户"
             }
           }
         ]
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
-    "collapsed": true
+    "width": 282.5
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -176,6 +175,12 @@
   },
   "active": "314f90ff05b3221c",
   "lastOpenFiles": [
+    "区块链/Transaction交易.md",
+    "区块链/EVM以太坊虚拟机.md",
+    "区块链/Block区块.md",
+    "区块链/PoS股权证明共识机制.md",
+    "区块链/Nodes-clients结点与计算机.md",
+    "论文阅读/NeoC3chart.md",
     "当前施工进度.md",
     "README.md",
     "论文阅读/图片/时间银行分层架构.png",
@@ -183,14 +188,10 @@
     "论文阅读/基于区块链的时间银行管理系统-项目详细方案.pdf",
     "论文阅读/基于区块链的养老“时间银行”机制研究和设计_殷沈琴.pdf",
     "论文阅读/基于时间银行的智慧养老系统_陈功.md",
-    "区块链/PoS股权证明共识机制.md",
-    "论文阅读/NeoC3chart.md",
     "区块链/附件/Centralized Wallet.png",
     "区块链/附件/QQ_1730029893510.png",
     "区块链/NetWorks.md",
     "区块链/SmartContract智能合约.md",
-    "区块链/Nodes-clients结点与计算机.md",
-    "区块链/EVM以太坊虚拟机.md",
     "区块链/附件/account4part.png",
     "区块链/附件/diagram.png",
     "区块链/附件/eth1eth2client.png",
@@ -202,11 +203,9 @@
     "SCRCU/SCRCU入职考试.md",
     "论文阅读/时间银行区块链的应用.md",
     "论文阅读/阅读目录.md",
-    "区块链/Transaction交易.md",
     "区块链/附件/node-architecture.png.crdownload",
     "区块链/附件/diagram.png.crdownload",
     "区块链/附件/nodes.png.crdownload",
-    "区块链/Block区块.md",
     "区块链/附件/eth1eth2client.png.crdownload",
     "区块链/附件/gas.png.crdownload",
     "区块链/附件/evm.png.crdownload",
