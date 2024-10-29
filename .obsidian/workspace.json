@@ -6,19 +6,37 @@
       {
         "id": "ea28999339b2cf22",
         "type": "tabs",
+        "dimension": 39.27068723702665,
         "children": [
           {
             "id": "314f90ff05b3221c",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      },
+      {
+        "id": "11e67505cc65d216",
+        "type": "tabs",
+        "dimension": 60.72931276297335,
+        "children": [
+          {
+            "id": "8b3d852094b294dc",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "区块链/Account账户.md",
+                "file": "论文阅读/NeoC3chart.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Account账户"
+              "title": "NeoC3chart"
             }
           }
         ]
@@ -149,18 +167,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "区块链/PoS股权证明共识机制.md"
+                "file": "论文阅读/NeoC3chart.md"
               },
               "icon": "lucide-list",
-              "title": "PoS股权证明共识机制 的大纲"
+              "title": "NeoC3chart 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,14 +191,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "314f90ff05b3221c",
+  "active": "8b3d852094b294dc",
   "lastOpenFiles": [
+    "区块链/Nodes-clients结点与计算机.md",
+    "论文阅读/NeoC3chart.md",
+    "区块链/Account账户.md",
     "区块链/Transaction交易.md",
     "区块链/EVM以太坊虚拟机.md",
     "区块链/Block区块.md",
     "区块链/PoS股权证明共识机制.md",
-    "区块链/Nodes-clients结点与计算机.md",
-    "论文阅读/NeoC3chart.md",
     "当前施工进度.md",
     "README.md",
     "论文阅读/图片/时间银行分层架构.png",
@@ -198,7 +217,6 @@
     "区块链/附件/gas.png",
     "区块链/附件/layer2.png",
     "区块链/附件/node-architecture.png",
-    "区块链/Account账户.md",
     "论文阅读/区块链技术在银行账户管理中的应用_王蕾.md",
     "SCRCU/SCRCU入职考试.md",
     "论文阅读/时间银行区块链的应用.md",
