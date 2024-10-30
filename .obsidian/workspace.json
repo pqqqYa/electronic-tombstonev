@@ -6,7 +6,7 @@
       {
         "id": "ea28999339b2cf22",
         "type": "tabs",
-        "dimension": 39.27068723702665,
+        "dimension": 39.30693069306931,
         "children": [
           {
             "id": "314f90ff05b3221c",
@@ -23,7 +23,7 @@
       {
         "id": "11e67505cc65d216",
         "type": "tabs",
-        "dimension": 60.72931276297335,
+        "dimension": 60.69306930693069,
         "children": [
           {
             "id": "8b3d852094b294dc",
@@ -178,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 351.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,13 +193,15 @@
   },
   "active": "8b3d852094b294dc",
   "lastOpenFiles": [
-    "区块链/Nodes-clients结点与计算机.md",
-    "论文阅读/NeoC3chart.md",
     "区块链/Account账户.md",
     "区块链/Transaction交易.md",
+    "区块链/SmartContract智能合约.md",
+    "区块链/PoS股权证明共识机制.md",
+    "区块链/NetWorks.md",
     "区块链/EVM以太坊虚拟机.md",
     "区块链/Block区块.md",
-    "区块链/PoS股权证明共识机制.md",
+    "论文阅读/NeoC3chart.md",
+    "区块链/Nodes-clients结点与计算机.md",
     "当前施工进度.md",
     "README.md",
     "论文阅读/图片/时间银行分层架构.png",
@@ -209,8 +211,6 @@
     "论文阅读/基于时间银行的智慧养老系统_陈功.md",
     "区块链/附件/Centralized Wallet.png",
     "区块链/附件/QQ_1730029893510.png",
-    "区块链/NetWorks.md",
-    "区块链/SmartContract智能合约.md",
     "区块链/附件/account4part.png",
     "区块链/附件/diagram.png",
     "区块链/附件/eth1eth2client.png",
