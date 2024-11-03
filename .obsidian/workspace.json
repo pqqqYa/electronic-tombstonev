@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "时代年表/历史时间轴.md",
+                "file": "SCRCU/SCRCU入职考试.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "历史时间轴"
+              "title": "SCRCU入职考试"
             }
           }
         ]
@@ -174,6 +174,7 @@
   },
   "active": "b5ef9c41aa9b5313",
   "lastOpenFiles": [
+    "时代年表/历史时间轴.md",
     "README.md",
     "当前施工进度.md",
     "论文阅读/NeoC3chart.md",
@@ -218,7 +219,6 @@
     "未命名/13. 树 1.md",
     "未命名/14. 查找 1.md",
     "未命名/12. 栈与队列 1.md",
-    "未命名/15. 排序 1.md",
-    "C语言/9. 数据结构概述.md"
+    "未命名/15. 排序 1.md"
   ]
 }
