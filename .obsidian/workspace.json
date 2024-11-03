@@ -11,10 +11,14 @@
             "id": "b5ef9c41aa9b5313",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "时代年表/历史时间轴.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "历史时间轴"
             }
           }
         ]
@@ -144,13 +148,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "时代年表/历史时间轴.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "历史时间轴 的大纲"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,6 +174,8 @@
   },
   "active": "b5ef9c41aa9b5313",
   "lastOpenFiles": [
+    "README.md",
+    "当前施工进度.md",
     "论文阅读/NeoC3chart.md",
     "区块链/Account账户.md",
     "区块链/Transaction交易.md",
@@ -178,8 +185,6 @@
     "区块链/EVM以太坊虚拟机.md",
     "区块链/Block区块.md",
     "区块链/Nodes-clients结点与计算机.md",
-    "当前施工进度.md",
-    "README.md",
     "论文阅读/图片/时间银行分层架构.png",
     "论文阅读/图片/为老机构授权的逐步去中心化.png",
     "论文阅读/基于区块链的时间银行管理系统-项目详细方案.pdf",
