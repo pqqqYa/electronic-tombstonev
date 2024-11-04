@@ -16,4 +16,3 @@ Praise the God of machine !
 6. [[SCRCU入职考试|SRCUB入职考试]]
 7. [[历史时间轴]]
 
-[[当前施工进度|施工进度表]]
