@@ -55,8 +55,8 @@ Gas 是对验证者处理交易所需的计算的引用。用户必须为此计�
 * 基础费用将被燃烧 -0.00399 ETH
 * 校验器保留小费+0.000210 ETH
 
-![[transactionGas.png]]
 
+![](附件/transactionGas.png)
 
 ## 交易生命周期
 
