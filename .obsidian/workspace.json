@@ -155,8 +155,7 @@
               "title": "Pytorch基础--以MINIST手写识别为例 的大纲"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,7 +172,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bba1ce07a58d8cc0",
+  "active": "162e003f4300a95e",
   "lastOpenFiles": [
     "pytorch/Pooling Layer池化层.md",
     "pytorch/Pytorch基础--以MINIST手写识别为例.md",
