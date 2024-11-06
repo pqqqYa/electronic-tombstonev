@@ -4,14 +4,26 @@
 > 可以使用[Bohrium](https://bohrium.dp.tech/)进行在线模型训练学习
 
 
-# 0. Pytorch解决问题的流程
+# 0. Pytorch
 
+## 0.1 Pytorch是什么？
 
-1. 准备数据：导入不同的数据集
+[PyTorch](https://github.com/pytorch/pytorch) 是由 Facebook 开发和维护的用于深度学习的开源 Python 库。该项目于 2016 年启动，并迅速成为开发人员和研究人员中流行的框架。
+
+[Torch](https://github.com/torch/torch7) （*Torch7*）是一个用 C 编写的用于深度学习的开源项目，通常通过 Lua 接口使用。它是 PyTorch 的前身项目，不再积极开发。 PyTorch 在名称中包含 _“Torch”_ 以感谢先前的 torch 库，使用 "*Py*" 作为前缀以表明聚焦于 Python。
+
+PyTorch API 简单灵活，使其成为学术界和研究人员开发新的深度学习模型和应用程序的最爱之一。同时，广泛的应用衍生了许多针对特定应用（例如文本、计算机视觉和音频数据）的扩展，并且可作为预训练模型直接使用。因此，它可能是学术界使用最多的库。
+
+与 [Keras](https://machinelearningmastery.com/tensorflow-tutorial-deep-learning-with-tf-keras/) 等更简单的界面相比，PyTorch 的灵活性是以易用性为代价的，尤其是对于初学者而言。选择 PyTorch 而不是 Keras 的意味着放弃了一些易用性、需要面对更陡峭的学习曲线、以及使用更多的代码以获得更大的灵活性，也许还有一个更有活力的学术社区。
+
+## 0.2 Pytorch深度学习模型的建立范式
+
+1. 准备数据：导入不同的数据集（数据集常使用 Pandas 自动下载）
 2. 定义模型：包括[Convolution Layer卷积层](Convolution%20Layer卷积层.md)、[Pooling Layer池化层](Pooling%20Layer池化层.md)和[Full Connection Layer全连接层](Full%20Connection%20Layer全连接层.md)
 3. 训练模型：将训练模型的大量已经标定的数据输入模型，计算损失并调整更新模型参数，重复多个周期，指导模型更好的学习训练数据里面的特征
 4. 评估模型：包括损失函数和优化器
 5. 做出预测：随着一系列步骤精炼和提取图像特征，随着数据量的减少，特征的精确度逐渐增高
+
 
 # 1. 神经网络的架构
 
@@ -27,7 +39,7 @@ input → Weights → Summation and Bias → Activation → Output
 
 # 2. CNN卷积神经网络
 
-一种专为图像输入而设计的神经网络
+卷积神经网络（简称 CNN）是一种专为图像输入而设计的网络，它们由具有[卷积层](https://machinelearningmastery.com/convolutional-layers-for-deep-learning-neural-networks/)的模型组成，这些卷积层可以提取特征（称为特征图），而[池化层](https://machinelearningmastery.com/pooling-layers-for-convolutional-neural-networks/)会将特征提取到最突出的元素。
 
 一般模型训练的全部过程
 1. 数据收集
