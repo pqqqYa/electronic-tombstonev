@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "842d9482226186de",
+        "id": "1d7476583b6a3f1b",
         "type": "tabs",
         "children": [
           {
-            "id": "ce3749ae2da38c77",
+            "id": "4ed1c049cfea8f51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机视觉/通道.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "通道"
+              "title": "新标签页"
             }
           }
         ]
@@ -176,6 +172,8 @@
   },
   "active": "7a3dee57a4518add",
   "lastOpenFiles": [
+    "计算机视觉/通道.md",
+    "GB.md",
     "pytorch/附件/池化层.png",
     "pytorch/Pytorch基础--以MINIST手写识别为例.md",
     "pytorch/激活函数.md",
@@ -196,7 +194,6 @@
     "pytorch/附件",
     "pytorch/Tensor张量.md",
     "pytorch/卷积核.md",
-    "计算机视觉/通道.md",
     "计算机视觉",
     "面向对象程序设计/基类（父类）.md",
     "面向对象程序设计",
