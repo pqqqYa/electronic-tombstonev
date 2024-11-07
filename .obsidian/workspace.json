@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "66d29fa013b45aee",
+        "id": "bb7c137293ed383f",
         "type": "tabs",
         "children": [
           {
-            "id": "0fd6b940414ce82f",
+            "id": "8a4a74688c73f8d0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "image",
+              "state": {
+                "file": "pytorch/附件/池化层.png"
+              },
+              "icon": "lucide-image",
+              "title": "池化层"
             }
           }
         ]
@@ -99,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pytorch/附件/池化层.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +111,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "池化层 的反向链接列表"
             }
           },
           {
@@ -155,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 351.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,13 +172,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0fd6b940414ce82f",
+  "active": "8a4a74688c73f8d0",
   "lastOpenFiles": [
+    "pytorch/Pytorch基础--以MINIST手写识别为例.md",
     "pytorch/激活函数.md",
     "pytorch/附件/激活函数.png",
     "pytorch/反向传播.md",
     "pytorch/Convolution Layer卷积层.md",
-    "pytorch/Pytorch基础--以MINIST手写识别为例.md",
     "pytorch/Pooling Layer池化层.md",
     "pytorch/损失函数.md",
     "pytorch/Full Connection Layer全连接层.md",
