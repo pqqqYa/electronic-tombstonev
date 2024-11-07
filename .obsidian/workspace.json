@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bb7c137293ed383f",
+        "id": "842d9482226186de",
         "type": "tabs",
         "children": [
           {
-            "id": "8a4a74688c73f8d0",
+            "id": "ce3749ae2da38c77",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "pytorch/附件/池化层.png"
+                "file": "计算机视觉/通道.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "池化层"
+              "icon": "lucide-file",
+              "title": "通道"
             }
           }
         ]
@@ -172,8 +174,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a4a74688c73f8d0",
+  "active": "7a3dee57a4518add",
   "lastOpenFiles": [
+    "pytorch/附件/池化层.png",
     "pytorch/Pytorch基础--以MINIST手写识别为例.md",
     "pytorch/激活函数.md",
     "pytorch/附件/激活函数.png",
@@ -190,7 +193,6 @@
     "pytorch/Flattening数据扁平化.md",
     "pytorch/xavier_uniform.md",
     "pytorch/池化核.md",
-    "pytorch/附件/池化层.png",
     "pytorch/附件",
     "pytorch/Tensor张量.md",
     "pytorch/卷积核.md",
