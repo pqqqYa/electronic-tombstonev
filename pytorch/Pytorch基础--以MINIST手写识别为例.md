@@ -401,7 +401,7 @@ print('Accuracy: %.3f' % acc)
 `predictions, actuals = vstack(predictions), vstack(actuals)`使用`vstack函数`将所有批次的预测结果和实际标签分别垂直堆叠起来形成完整的预测和实际标盆数组
 
 
-`acc = accuracy_score(actuals, predictions)`使用`accuracy_score函数`计算模型在测试几上的准确度
+`acc = accuracy_score(actuals, predictions)`使用`accuracy_score函数`计算模型在测试集上的准确度
 
 `acc = evaluate_model(test_dl, model)`调用评估函数评估模型并返回准确度acc
 
