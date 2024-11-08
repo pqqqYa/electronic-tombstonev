@@ -160,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ed1c049cfea8f51",
+  "active": "162e003f4300a95e",
   "lastOpenFiles": [
     "pytorch/Pytorch基础--以MINIST手写识别为例.md",
     "计算机视觉/计算机视觉.md",
