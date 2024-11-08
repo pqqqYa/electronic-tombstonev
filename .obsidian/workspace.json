@@ -11,10 +11,10 @@
             "id": "4ed1c049cfea8f51",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -151,13 +151,11 @@
               "title": "Pytorch基础--以MINIST手写识别为例 的大纲"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,8 +168,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a3dee57a4518add",
+  "active": "162e003f4300a95e",
   "lastOpenFiles": [
+    "README.md",
+    "计算机视觉/计算机视觉.md",
+    "面向对象程序设计/面向对象程序设计.md",
+    "SWPU/西南石油大学研究生考试相关.md",
     "计算机视觉/通道.md",
     "GB.md",
     "pytorch/附件/池化层.png",
@@ -197,13 +199,9 @@
     "计算机视觉",
     "面向对象程序设计/基类（父类）.md",
     "面向对象程序设计",
-    "README.md",
     "pytorch",
     "C语言/15. 排序.md",
     "C语言/14. 查找.md",
-    "C语言/13. 树.md",
-    "C语言/12. 栈与队列.md",
-    "C语言/11. 线性表的链式存储.md",
     "C语言/附件/头插法新建链表流程图.png",
     "C语言/附件/运算优先级.png",
     "区块链/附件/eth1eth2client.png",

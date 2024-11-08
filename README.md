@@ -15,3 +15,6 @@ Praise the God of machine !
 4. [SCRCU入职考试](SCRCU/SCRCU入职考试.md)
 5. [区块链](区块链/区块链知识点.md)
 6. [世界历史](时代年表/历史时间轴.md)
+7. [Pytorch](pytorch/Pytorch基础--以MINIST手写识别为例.md)
+8. [面向对象程序设计](面向对象程序设计/面向对象程序设计.md)
+9. [计算机视觉](计算机视觉/计算机视觉.md)
