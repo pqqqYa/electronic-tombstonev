@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.51103591918945
+    "width": 223.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -160,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 351.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,7 +175,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e29a52a585c7e63",
+  "active": "24d42b272cdc5fd8",
   "lastOpenFiles": [
     "C语言/C语言学习目录.md",
     "C语言/0. 面向考试的C语言学习指北.md",

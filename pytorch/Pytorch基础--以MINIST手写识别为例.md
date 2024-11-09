@@ -460,15 +460,18 @@ class CNN(Module):
    
     # 前向传播  
     def forward(self, X):  
-        # 输入到隐层 1        X = self.hidden1(X)  
+        # 输入到隐层 1        
+        X = self.hidden1(X)  
         X = self.act1(X)  
         X = self.pool1(X)  
-        # 隐层 2        X = self.hidden2(X)  
+        # 隐层 2        
+        X = self.hidden2(X)  
         X = self.act2(X)  
         X = self.pool2(X)  
         # 扁平化  
         X = X.view(-1, 4*4*50)  
-        # 隐层 3        X = self.hidden3(X)  
+        # 隐层 3        
+        X = self.hidden3(X)  
         X = self.act3(X)  
         # 输出层  
         X = self.hidden4(X)  
@@ -482,7 +485,8 @@ def prepare_data(path):
     # 加载数据集  
     train = MNIST(path, train=True, download=True, transform=trans)  
     test = MNIST(path, train=False, download=True, transform=trans)  
-    # 为训练集和测试集创建 DataLoader    train_dl = DataLoader(train, batch_size=64, shuffle=True)  
+    # 为训练集和测试集创建 DataLoader    
+    train_dl = DataLoader(train, batch_size=64, shuffle=True)  
     test_dl = DataLoader(test, batch_size=1024, shuffle=False)  
     # 以 batch 方式获取图片  
     i, (inputs, targets) = next(enumerate(train_dl))  
@@ -503,7 +507,8 @@ def train_model(train_dl, model):
     criterion = CrossEntropyLoss()  
     optimizer = SGD(model.parameters(), lr=0.01, momentum=0.9)  
     # 枚举 epochs    for epoch in range(10):  
-        # 枚举 mini batches        for i, (inputs, targets) in enumerate(train_dl):  
+        # 枚举 mini batches        
+        for i, (inputs, targets) in enumerate(train_dl):  
             # 梯度清除  
             optimizer.zero_grad()  
             # 计算模型输出  
