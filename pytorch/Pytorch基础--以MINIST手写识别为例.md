@@ -19,7 +19,7 @@ PyTorch API 简单灵活，使其成为学术界和研究人员开发新的深�
 ## 0.2 Pytorch深度学习模型的建立范式
 
 1. 准备数据：导入不同的数据集（数据集常使用 Pandas 自动下载）
-2. 定义模型：包括[Convolution Layer卷积层](Convolution%20Layer卷积层.md)、[Pooling Layer池化层](Pooling%20Layer池化层.md)和[Full Connection Layer全连接层](Full%20Connection%20Layer全连接层.md)
+2. 定义模型：包括[Convolution Layer卷积层](知识点/Convolution%20Layer卷积层.md)、[Pooling Layer池化层](知识点/Pooling%20Layer池化层.md)和[Full Connection Layer全连接层](知识点/Full%20Connection%20Layer全连接层.md)
 3. 训练模型：将训练模型的大量已经标定的数据输入模型，计算损失并调整更新模型参数，重复多个周期，指导模型更好的学习训练数据里面的特征
 4. 评估模型：包括损失函数和优化器
 5. 做出预测：随着一系列步骤精炼和提取图像特征，随着数据量的减少，特征的精确度逐渐增高
@@ -113,15 +113,15 @@ class CNN(Module):
 `super(CNN, self).__init__()`调用父类Module的初始化方法，确保正确的初始化模型
 
 **II. 卷积层1**
-`self.hidden1 = Conv2d(n_channels, 32, (3,3))`第一个卷积层接收`n_channels`个输入通道，并输出32个特征图（输出通道数为32，即这里有32个卷积层用来处理训练数据集，每个[卷积核](卷积核.md)可以提取一种特征，最终得到32个映射），使用的是3×3的[卷积核](卷积核.md)进行卷积运算；`Conv2d`是PyTorch中用于创建二维卷积层的类
+`self.hidden1 = Conv2d(n_channels, 32, (3,3))`第一个卷积层接收`n_channels`个输入通道，并输出32个特征图（输出通道数为32，即这里有32个卷积层用来处理训练数据集，每个[卷积核](知识点/卷积核.md)可以提取一种特征，最终得到32个映射），使用的是3×3的[卷积核](知识点/卷积核.md)进行卷积运算；`Conv2d`是PyTorch中用于创建二维卷积层的类
 
-`kaiming_uniform_(self.hidden1.weight, nonlinearity='relu')`使用`kaiming_uniform_`初始化权重并设置[激活函数](激活函数.md)为ReLu，深度学习模型训练过程的本质是对weight（即参数）进行更新，这需要每个参数有对应的初始值，`self.hidden1.weight`表示卷积层1的[Tensor张量](Tensor张量.md)
+`kaiming_uniform_(self.hidden1.weight, nonlinearity='relu')`使用`kaiming_uniform_`初始化权重并设置[激活函数](知识点/激活函数.md)为ReLu，深度学习模型训练过程的本质是对weight（即参数）进行更新，这需要每个参数有对应的初始值，`self.hidden1.weight`表示卷积层1的[Tensor张量](知识点/Tensor张量.md)
 
-`self.act1 = ReLU() `创建一个ReLU[激活函数](激活函数.md)并将其赋值给act1属性
+`self.act1 = ReLU() `创建一个ReLU[激活函数](知识点/激活函数.md)并将其赋值给act1属性
 
 **III. 池化层1**
 
-`self.pool1 = MaxPool2d((2,2), stride=(2,2))`将输入的特征图分割成(2，2)大小的区域，并从每个区域中去最大值，`stride=(2,2)`是步长，决定了[池化核](池化核.md)在输入特征图上的滑动速度。
+`self.pool1 = MaxPool2d((2,2), stride=(2,2))`将输入的特征图分割成(2，2)大小的区域，并从每个区域中去最大值，`stride=(2,2)`是步长，决定了[池化核](知识点/池化核.md)在输入特征图上的滑动速度。
 
 通过池化，在保留最重要特征的同时，图的尺寸再一次缩小，减少了模型的计算量和参数数量，同时增加在不同模型之间的通用性（减少过拟合，提高泛化能力）
 
@@ -187,7 +187,7 @@ class CNN(Module):
 
 `self.hidden4 = Linear(100, 10)`将之前的100个概念简化为10个最终的决策，每个决策都对应着一个手写数字的类别（0至9）
 
-`xavier_uniform_(self.hidden4.weight)`使用[`xavier_uniform`](xavier_uniform.md)方法来初始化权重，为神经网络的每个连接都赋予了合适的权重
+`xavier_uniform_(self.hidden4.weight)`使用[`xavier_uniform`](知识点/xavier_uniform.md)方法来初始化权重，为神经网络的每个连接都赋予了合适的权重
 
 `self.act4 = Softmax(dim=1)`引入`Softmax激活函数`将决策中心的输出转换为概率分布，能够根据概率最高的类别来做出最终的预测
 
@@ -260,7 +260,7 @@ def forward(self, X):
 
 **III. 数据扁平化**
 
-`X = X.view(-1, 4*4*50)`[Flattening数据扁平化](Flattening数据扁平化.md)具体来说，-1 表示自动计算的批次大小，5×5×32 表示每个样本的数据维度。
+`X = X.view(-1, 4*4*50)`[Flattening数据扁平化](知识点/Flattening数据扁平化.md)具体来说，-1 表示自动计算的批次大小，5×5×32 表示每个样本的数据维度。
 
 **IV. 数据通过全连接层**
 
@@ -276,15 +276,15 @@ def forward(self, X):
 
 # 6. 计算误差
 
-引入[损失函数](损失函数.md)，用于衡量模型预测的准确性，帮助我们了解模型当前表现，指导我们如何改进
+引入[损失函数](知识点/损失函数.md)，用于衡量模型预测的准确性，帮助我们了解模型当前表现，指导我们如何改进
 
 # 7. 反向传播和参数更新
 
 通过反向传播算法，将误差从输出层逐层传递回输入层并根据这些误差调整每一层的参数
 
-[反向传播](反向传播.md)：负责计算损失函数相对于每个参数的梯度，这是优化器所需的关键信息
+[反向传播](知识点/反向传播.md)：负责计算损失函数相对于每个参数的梯度，这是优化器所需的关键信息
 
-[优化器](优化器.md)：用于调整模型的参数以最小化损失函数，提高预测性能
+[优化器](知识点/优化器.md)：用于调整模型的参数以最小化损失函数，提高预测性能
 
 # 8. 训练模型
 
@@ -316,7 +316,7 @@ def train_model(train_dl, model):
 
 `optimizer = SGD(model.parameters(), lr=0.01, momentum=0.9)`定义了一个随机梯度下降（SGD）优化器，`model.parameters()`表示优化器将更新模型的所有参数，`lr=0.01`学习率（learningrate）决定了每次参数更新的步长大小，`momentum=0.9`动量(momentum)通过在更新方向上加速，帮助优化器在鞍点附近更快地收敛并减小震荡，目的是为了加速收敛并避免陷入局部最优解
 
-`for epoch in range(10):`循环遍历10个训练周期（epoch），一个epoch指的是一个数据集完整地进行一次前向和后向传播的过程，多次遍历可以使模型更好地学习数据的特征，提高模型的泛化能力。通过多次epoch后[TrainLoss训练损失](TrainLoss训练损失.md)降低，[TrainACC训练准确度](TrainACC训练准确度.md)和[TestACC测试准确率](TestACC测试准确率.md)提升。
+`for epoch in range(10):`循环遍历10个训练周期（epoch），一个epoch指的是一个数据集完整地进行一次前向和后向传播的过程，多次遍历可以使模型更好地学习数据的特征，提高模型的泛化能力。通过多次epoch后[TrainLoss训练损失](知识点/TrainLoss训练损失.md)降低，[TrainACC训练准确度](知识点/TrainACC训练准确度.md)和[TestACC测试准确率](知识点/TestACC测试准确率.md)提升。
 
 `for i, (inputs, targets) in enumerate(train_dl):`遍历训练数据加载器中的每一个mini batch。mini batch是一小部分训练样本的集合，其有利于模型稳定训练提高计算效率，每个mini batch包含输入数据（inputs）和对应的标签（targets）
 
@@ -345,7 +345,7 @@ def train_model(train_dl, model):
 
 分类模型的评估指标主要用于衡量模型的分类效果
 
-1. 混淆矩阵（Confusion Matrix），以矩阵形式展现分类结果，包括TP、TN、FP、FN便于直观分析分类结果的细节。[ConfusionMatrix混淆矩阵](ConfusionMatrix混淆矩阵.md)是机器学习中统计分类模型预测结果的表，以矩阵的形式将数据集中的记录，按照真实的类别与分类模型预测的类别进行汇总。
+1. 混淆矩阵（Confusion Matrix），以矩阵形式展现分类结果，包括TP、TN、FP、FN便于直观分析分类结果的细节。[ConfusionMatrix混淆矩阵](知识点/ConfusionMatrix混淆矩阵.md)是机器学习中统计分类模型预测结果的表，以矩阵的形式将数据集中的记录，按照真实的类别与分类模型预测的类别进行汇总。
 2. ROC曲线（Receiver Operating Characteristic Curve）与AUC（Area Under the Curve），ROC曲线横轴表示$FPR=\frac{FP}{FP+TN}$即错误的预测为正例的概率，纵轴表示$TPR=\frac{TP}{TP+FN}$即正确地预测为正例的概率。AUC衡量ROC曲线下的面积，AUC越大，表示越有可能将正样本排在负样本前面，模型的分类性能越好
 3. 准确率（Precision）$$Accuracy=\frac{TP+TN}{TP+TN+FP+FN}$$衡量模型预测正确的样本数占总样本数的比例适用于类别分布相对均衡的情况
 4. 召回率（Recall）$$Recall=\frac{TP}{TP+FN}$$衡量模型实际为正类的样本中被正确预测为正类的比例，适用于关注假阴性较多的情况

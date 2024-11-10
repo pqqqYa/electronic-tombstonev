@@ -73,8 +73,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,19 +149,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pytorch/Pytorch基础--以MINIST手写识别为例.md"
+                "file": "C语言/15. 排序.md"
               },
               "icon": "lucide-list",
-              "title": "Pytorch基础--以MINIST手写识别为例 的大纲"
+              "title": "15. 排序 的大纲"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,8 +172,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24d42b272cdc5fd8",
+  "active": "162e003f4300a95e",
   "lastOpenFiles": [
+    "pytorch/知识点",
     "pytorch/Pytorch基础--以MINIST手写识别为例.md",
     "README.md",
     "C语言/C语言学习目录.md",
@@ -187,26 +185,25 @@
     "计算机视觉/通道.md",
     "GB.md",
     "pytorch/附件/池化层.png",
-    "pytorch/激活函数.md",
+    "pytorch/知识点/激活函数.md",
     "pytorch/附件/激活函数.png",
-    "pytorch/反向传播.md",
-    "pytorch/Convolution Layer卷积层.md",
-    "pytorch/Pooling Layer池化层.md",
-    "pytorch/损失函数.md",
-    "pytorch/Full Connection Layer全连接层.md",
-    "pytorch/优化器.md",
-    "pytorch/ConfusionMatrix混淆矩阵.md",
-    "pytorch/TestACC测试准确率.md",
-    "pytorch/TrainACC训练准确度.md",
-    "pytorch/TrainLoss训练损失.md",
-    "pytorch/Flattening数据扁平化.md",
-    "pytorch/xavier_uniform.md",
-    "pytorch/池化核.md",
+    "pytorch/知识点/反向传播.md",
+    "pytorch/知识点/Convolution Layer卷积层.md",
+    "pytorch/知识点/Pooling Layer池化层.md",
+    "pytorch/知识点/损失函数.md",
+    "pytorch/知识点/Full Connection Layer全连接层.md",
+    "pytorch/知识点/优化器.md",
+    "pytorch/知识点/ConfusionMatrix混淆矩阵.md",
+    "pytorch/知识点/TestACC测试准确率.md",
+    "pytorch/知识点/TrainACC训练准确度.md",
+    "pytorch/知识点/TrainLoss训练损失.md",
+    "pytorch/知识点/Flattening数据扁平化.md",
+    "pytorch/知识点/xavier_uniform.md",
+    "pytorch/知识点/池化核.md",
     "pytorch/附件",
-    "pytorch/Tensor张量.md",
-    "pytorch/卷积核.md",
+    "pytorch/知识点/Tensor张量.md",
+    "pytorch/知识点/卷积核.md",
     "计算机视觉",
-    "面向对象程序设计/基类（父类）.md",
     "面向对象程序设计",
     "pytorch",
     "C语言/附件/头插法新建链表流程图.png",
