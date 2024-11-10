@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pytorch/Pytorch基础--以MINIST手写识别为例.md",
+                "file": "C语言/15. 排序.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pytorch基础--以MINIST手写识别为例"
+              "title": "15. 排序"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "quick",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,12 +73,12 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 223.51103591918945,
-    "collapsed": true
+    "width": 223.51103591918945
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -177,11 +177,11 @@
   },
   "active": "24d42b272cdc5fd8",
   "lastOpenFiles": [
+    "pytorch/Pytorch基础--以MINIST手写识别为例.md",
+    "README.md",
     "C语言/C语言学习目录.md",
     "C语言/0. 面向考试的C语言学习指北.md",
-    "pytorch/Pytorch基础--以MINIST手写识别为例.md",
     "计算机视觉/计算机视觉.md",
-    "README.md",
     "面向对象程序设计/面向对象程序设计.md",
     "SWPU/西南石油大学研究生考试相关.md",
     "计算机视觉/通道.md",
