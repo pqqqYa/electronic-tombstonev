@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e66ba51ce2118f0f",
+        "id": "b92d0348c5b4da74",
         "type": "tabs",
         "children": [
           {
-            "id": "24d42b272cdc5fd8",
+            "id": "5f6dc077e4020a55",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "SWPU/925计算机学科综合（数据结构+操作系统）.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "925计算机学科综合（数据结构+操作系统）"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -157,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,10 +172,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24d42b272cdc5fd8",
+  "active": "162e003f4300a95e",
   "lastOpenFiles": [
-    "C语言/15. 排序.md",
     "SWPU/925计算机学科综合（数据结构+操作系统）.pdf",
+    "C语言/15. 排序.md",
     "SWPU/西南石油大学研究生考试相关.md",
     "pytorch/知识点",
     "pytorch/Pytorch基础--以MINIST手写识别为例.md",
