@@ -99,6 +99,18 @@
             }
           },
           {
+            "id": "9e29a52a585c7e63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C语言/0. 面向考试的C语言不完全指北.md"
+              },
+              "icon": "lucide-list",
+              "title": "0. 面向考试的C语言不完全指北 的大纲"
+            }
+          },
+          {
             "id": "ec864ed686c524fb",
             "type": "leaf",
             "state": {
@@ -143,25 +155,13 @@
               "icon": "lucide-tags",
               "title": "标签"
             }
-          },
-          {
-            "id": "9e29a52a585c7e63",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "C语言/15. 排序.md"
-              },
-              "icon": "lucide-list",
-              "title": "15. 排序 的大纲"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
