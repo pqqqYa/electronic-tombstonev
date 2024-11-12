@@ -169,8 +169,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f6dc077e4020a55",
+  "active": "7a3dee57a4518add",
   "lastOpenFiles": [
+    "计算机操作系统.xmind",
     "README.md",
     "SWPU/西南石油大学研究生考试相关.md",
     "面向对象程序设计/面向对象程序设计.md",
@@ -203,7 +204,6 @@
     "pytorch/知识点/反向传播.md",
     "pytorch/知识点/Convolution Layer卷积层.md",
     "pytorch/知识点/Pooling Layer池化层.md",
-    "pytorch/知识点/损失函数.md",
     "pytorch/附件",
     "计算机视觉",
     "面向对象程序设计",
