@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C语言/0. 面向考试的C语言不完全指北.md",
+                "file": "计算机视觉/通道.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. 面向考试的C语言不完全指北"
+              "title": "通道"
             }
           }
         ]
@@ -103,10 +103,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C语言/0. 面向考试的C语言不完全指北.md"
+                "file": "计算机视觉/通道.md"
               },
               "icon": "lucide-list",
-              "title": "0. 面向考试的C语言不完全指北 的大纲"
+              "title": "通道 的大纲"
             }
           },
           {
@@ -172,10 +172,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "162e003f4300a95e",
+  "active": "5f6dc077e4020a55",
   "lastOpenFiles": [
-    "C语言/C语言学习目录.md",
+    "计算机视觉/计算机视觉.md",
+    "面向对象程序设计/基类（父类）.md",
+    "面向对象程序设计/面向对象程序设计.md",
     "C语言/0. 面向考试的C语言不完全指北.md",
+    "C语言/C语言学习目录.md",
     "README.md",
     "SWPU/925计算机学科综合（数据结构+操作系统）.pdf",
     "C语言/15. 排序.md",
@@ -183,8 +186,6 @@
     "pytorch/知识点",
     "pytorch/Pytorch基础--以MINIST手写识别为例.md",
     "C语言/0. 面向考试的C语言学习指北.md",
-    "计算机视觉/计算机视觉.md",
-    "面向对象程序设计/面向对象程序设计.md",
     "计算机视觉/通道.md",
     "GB.md",
     "pytorch/附件/池化层.png",
@@ -204,7 +205,6 @@
     "pytorch/知识点/xavier_uniform.md",
     "pytorch/知识点/池化核.md",
     "pytorch/附件",
-    "pytorch/知识点/Tensor张量.md",
     "计算机视觉",
     "面向对象程序设计",
     "pytorch",
