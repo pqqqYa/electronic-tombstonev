@@ -55,6 +55,19 @@ input → Weights → Summation and Bias → Activation → Output
 
 数据下载，数据格式转换，数据集划分：准备数据，将数据变成适合神经网络训练的格式并加载数据
 
+~~~python
+  
+def prepare_data(path):  
+    trans = Compose([ToTensor(), Normalize((0.1307,), (0.3081,))])  
+    train = MNIST(path, train=True, download=True, transform=trans)  
+    test = MNIST(path, train=False, download=True, transform=trans)  
+    train_dl = DataLoader(train, batch_size=64, shuffle=True)  
+    test_dl = DataLoader(test, batch_size=1024, shuffle=False)  
+    i, (inputs, targets) = next(enumerate(train_dl))  
+    return train_dl, test_dl
+~~~
+
+
 ### 3.1.1 转换数据格式
 
 最初是以PIL图像格式存在，通常是像素数组的形式，每个像素包含了图像的一部分信息，比如颜色信息，这些信息可以是彩色的包含RGB通道，或者是单色的灰度图像。
@@ -70,6 +83,13 @@ input → Weights → Summation and Bias → Activation → Output
 ### 3.1.3 可视化训练集示例
 
 随机抽取一些进行展示
+
+~~~python
+for i in range(25):  
+    pyplot.subplot(5, 5, i + 1)  
+    pyplot.imshow(inputs[i][0], cmap='gray')
+pyplot.show()
+~~~
 
 ## 3.2 特征提取
 
@@ -175,7 +195,7 @@ class CNN(Module):
 
 **III. 第一个全连接层hidden3**
 
-`全连接层`对前面卷积层提取的特征进行整合以进行最终的分类决策，经过2次的卷积和池化图像的特征已被有效提取并压缩，全连接层的作用类似于神经网络中的“连接器”，能够将前一层的所有神经元与当前层的每个神经元相连接
+全连接层：对前面卷积层提取的特征进行整合以进行最终的分类决策，经过2次的卷积和池化图像的特征已被有效提取并压缩，全连接层的作用类似于神经网络中的“连接器”，能够将前一层的所有神经元与当前层的每个神经元相连接。
 
 `self.hidden3 = Linear(5*5*32, 100)`接受了来自第二个池化层的800个视觉信号，这些信号已经被整理成了一维的线索，处理中心的目的就是将这些线索转化为100个有意义的概念
 
@@ -413,6 +433,8 @@ print('Accuracy: %.3f' % acc)
 ⨽main.ipynb
 ~~~
 
+## 10.1 使用CPU运行
+
 ~~~python
 import os  
 from matplotlib import pyplot  
@@ -571,4 +593,143 @@ CNN Network Definition Complete
 Model training...（根据配置运行时间不同，3064lp运行150s左右）
 CNN Network Training Complete
 CNN Network accuracy: 0.987
+~~~
+
+## 10.1 使用GPU运行
+
+~~~python
+import os  
+from matplotlib import pyplot  
+from numpy import vstack  
+from numpy import argmax  
+from pandas import read_csv  
+from sklearn.metrics import accuracy_score  
+from torchvision.datasets import MNIST  
+from torchvision.transforms import Compose, ToTensor, Normalize  
+from torch.utils.data import DataLoader  
+from torch.nn import Conv2d, MaxPool2d, Linear, ReLU, Softmax, Module  
+from torch.optim import SGD  
+from torch.nn import CrossEntropyLoss  
+from torch.nn.init import kaiming_uniform_, xavier_uniform_  
+import torch  
+  
+# 检查是否有GPU可用  
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")  
+if torch.cuda.is_available():  
+    print(torch.cuda.get_device_name(0),"is available")  
+else:  
+    print("GPU不可用，使用CPU")  
+  
+  
+  
+# 模型定义  
+class CNN(Module):  
+    # 定义模型属性  
+    def __init__(self, n_channels):  
+        super(CNN, self).__init__()  
+        self.hidden1 = Conv2d(n_channels, 32, (3, 3))  
+        kaiming_uniform_(self.hidden1.weight, nonlinearity='relu')  
+        self.act1 = ReLU()  
+        self.pool1 = MaxPool2d((2, 2), stride=(2, 2))  
+        self.hidden2 = Conv2d(32, 32, (3, 3))  
+        kaiming_uniform_(self.hidden2.weight, nonlinearity='relu')  
+        self.act2 = ReLU()  
+        self.pool2 = MaxPool2d((2, 2), stride=(2, 2))  
+        self.hidden3 = Linear(5 * 5 * 32, 100)  
+        kaiming_uniform_(self.hidden3.weight, nonlinearity='relu')  
+        self.act3 = ReLU()  
+        self.hidden4 = Linear(100, 10)  
+        xavier_uniform_(self.hidden4.weight)  
+        self.act4 = Softmax(dim=1)  
+  
+        # 前向传播  
+  
+    def forward(self, X):  
+        X = self.hidden1(X)  
+        X = self.act1(X)  
+        X = self.pool1(X)  
+        X = self.hidden2(X)  
+        X = self.act2(X)  
+        X = self.pool2(X)  
+        X = X.view(-1, 5 * 5 * 32)  
+        X = self.hidden3(X)  
+        X = self.act3(X)  
+        X = self.hidden4(X)  
+        X = self.act4(X)  
+        return X  
+  
+# 准备数据集  
+def prepare_data(path):  
+    trans = Compose([ToTensor(), Normalize((0.1307,), (0.3081,))])  
+    train = MNIST(path, train=True, download=True, transform=trans)  
+    test = MNIST(path, train=False, download=True, transform=trans)  
+    train_dl = DataLoader(train, batch_size=64, shuffle=True)  
+    test_dl = DataLoader(test, batch_size=1024, shuffle=False)  
+    i, (inputs, targets) = next(enumerate(train_dl))  
+    for i in range(25):  
+        pyplot.subplot(5, 5, i + 1)  
+        pyplot.imshow(inputs[i][0], cmap='gray')  
+    print("Data loading...")  
+    pyplot.show()  
+    return train_dl, test_dl  
+  
+  
+# 训练模型  
+def train_model(train_dl, model):  
+    criterion = CrossEntropyLoss()  
+    optimizer = SGD(model.parameters(), lr=0.012, momentum=0.87)  
+    for epoch in range(20):  
+        for i, (inputs, targets) in enumerate(train_dl):  
+            inputs, targets = inputs.to(device), targets.to(device)  # 将数据转移到GPU  
+            optimizer.zero_grad()  
+            yhat = model(inputs)  
+            loss = criterion(yhat, targets)  
+            loss.backward()  
+            optimizer.step()  
+            if i % 200 == 0:  
+                print('Train Epoch: {} [{:6d}/{} ({:2.0f}%)]\tLoss: {:2.6f}'.format(epoch,  i * len(inputs), len(train_dl.dataset),100. * i / len(train_dl), loss.item()))  
+  
+  
+# 评估模型  
+def evaluate_model(test_dl, model):  
+    predictions, actuals = list(), list()  
+    for i, (inputs, targets) in enumerate(test_dl):  
+        inputs, targets = inputs.to(device), targets.to(device)  # 将数据转移到GPU  
+        yhat = model(inputs)  
+        yhat = yhat.detach().cpu().numpy()  # 将结果转移回CPU进行计算  
+        actual = targets.cpu().numpy()  
+        yhat = argmax(yhat, axis=1)  
+        actual = actual.reshape((len(actual), 1))  
+        yhat = yhat.reshape((len(yhat), 1))  
+        predictions.append(yhat)  
+        actuals.append(actual)  
+  
+    predictions, actuals = vstack(predictions), vstack(actuals)  
+    acc = accuracy_score(actuals, predictions)  
+    return acc
+
+# 准备数据  
+path = os.path.join(os.getcwd(), 'datasets/mnist')  
+train_dl, test_dl = prepare_data(path)  
+print("Number of training samples:", len(train_dl.dataset))  
+print("Number of test samples:", len(test_dl.dataset))
+
+# 定义网络并移动到GPU  
+model = CNN(1).to(device)  
+print("CNN Network Definition Complete")
+
+ # 训练模型  
+print("Model training...")  
+train_model(train_dl, model)  
+print("CNN Network Training Complete")
+
+# 评估模型  
+acc = evaluate_model(test_dl, model)  
+print('CNN Network accuracy: %.3f%%' % (acc * 100))
+
+# 导出模型  
+model_path = os.path.join(os.getcwd(), 'model_path/cnn_model.pth')  
+torch.save(model.state_dict(), model_path)  
+print(f'Successfully exported the model with accuracy of {acc * 100:.2f}% to {model_path}')
+
 ~~~
