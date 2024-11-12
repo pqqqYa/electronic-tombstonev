@@ -175,13 +175,11 @@
               "title": "标签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
-    "collapsed": true
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a452e88ce02bc987",
+  "active": "162e003f4300a95e",
   "lastOpenFiles": [
     "SWPU/925计算机学科综合（数据结构+操作系统）.pdf",
     "SWPU/西南石油大学研究生考试相关.md",
