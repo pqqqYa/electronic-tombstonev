@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.51103591918945,
-    "collapsed": true
+    "width": 223.51103591918945
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -156,13 +155,11 @@
               "title": "标签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,7 +172,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f6dc077e4020a55",
+  "active": "162e003f4300a95e",
   "lastOpenFiles": [
     "C语言/C语言学习目录.md",
     "C语言/0. 面向考试的C语言不完全指北.md",
