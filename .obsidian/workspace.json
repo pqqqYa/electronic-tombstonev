@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "pytorch/Pytorch基础--以MINIST手写识别为例.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Pytorch基础--以MINIST手写识别为例"
             }
           }
         ]
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.51103591918945
+    "width": 223.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -103,10 +104,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "pytorch/Pytorch基础--以MINIST手写识别为例.md"
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "Pytorch基础--以MINIST手写识别为例 的大纲"
             }
           },
           {
@@ -155,7 +156,8 @@
               "title": "标签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,12 +174,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "162e003f4300a95e",
+  "active": "9e29a52a585c7e63",
   "lastOpenFiles": [
+    "SCRCU/SCRCU入职考试.md",
+    "SWPU/925计算机学科综合（数据结构+操作系统）.pdf",
+    "SWPU/西南石油大学研究生考试相关.md",
+    "README.md",
     "Latex学习/Latex公式.md",
     "Latex学习/LaTex学习目录.md",
     "Latex学习/Tex文件的基本结构.md",
-    "README.md",
     "[.md",
     "计算机视觉/通道.md",
     "计算机视觉/计算机视觉.md",
@@ -185,9 +190,7 @@
     "面向对象程序设计/面向对象程序设计.md",
     "C语言/0. 面向考试的C语言不完全指北.md",
     "C语言/C语言学习目录.md",
-    "SWPU/925计算机学科综合（数据结构+操作系统）.pdf",
     "C语言/15. 排序.md",
-    "SWPU/西南石油大学研究生考试相关.md",
     "pytorch/知识点",
     "pytorch/Pytorch基础--以MINIST手写识别为例.md",
     "C语言/0. 面向考试的C语言学习指北.md",
@@ -203,7 +206,6 @@
     "pytorch/知识点/优化器.md",
     "pytorch/知识点/ConfusionMatrix混淆矩阵.md",
     "pytorch/知识点/TestACC测试准确率.md",
-    "pytorch/知识点/TrainACC训练准确度.md",
     "pytorch/附件",
     "计算机视觉",
     "面向对象程序设计",
