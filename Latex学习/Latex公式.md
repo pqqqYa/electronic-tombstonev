@@ -376,50 +376,35 @@ $\boxed{\pi=3.14}$
 
 ## 4\. 各种括号
 
-> [!note]+ 小括号
->```md
->()
->```
->```md
->\big(\big)
->```
->```md
->\Big(\Big)
->```
->```md
->\bigg(\bigg)
->```
->```md
->\Bigg(\Bigg)
->```
+小括号
 
+~~~md
+()
+\big(\big)
+\Big(\Big)
+\bigg(\bigg)
+\Bigg(\Bigg)
+~~~
 
-> [!note] 自适应括号
->```md
->\left \right
->```
+自适应括号
 
-> [!note]+ 大括号
->
->```md
->\{ \}
->```
->```md
->\big{\big}
->```
->```md
->\Big{\Big}
->```
->```md
->\bigg{\bigg}
->```
->```md
->\Bigg{\Bigg}
->```
+~~~md
+\left \right
+~~~
+
+大括号
+
+~~~md
+\{ \}
+\big{\big}
+\Big{\Big}
+\bigg{\bigg}
+\Bigg{\Bigg}
+~~~
 
 $$\big( \Big( \bigg( \Bigg($$
 
-```
+~~~md
 $$
 (
 \big(
@@ -427,7 +412,7 @@ $$
 \bigg(
 \Bigg(
 $$
-```
+~~~
 
 | 符号                    | Markdown             |
 | --------------------- | -------------------- |
@@ -619,8 +604,9 @@ $$
 | $\iint$                                     | \iint                                     |
 | $\iiint$                                    | \iiint                                    |
 | $\idotsint$                                 | \idotsint                                 |
-| $$\sum_{\substack{0<i<m\0<j<n}} P(i, j)$$   | \sum_{\substack{0<i<m\0<j<n}} P(i, j)     |
+| $$\sum_{\substack{0<i<m<j<n}} P(i, j)$$     | \sum_{\substack{0<i<m<j<n}} P(i, j)       |
 | $\int\limits_a^b$                           | \int\limits_a^b                           |
+|                                             |                                           |
 
 | Symbol                | Script              |
 | --------------------- | ------------------- |
@@ -657,12 +643,12 @@ $$
 | $\ddots$              | \ddots              |
 
 ### Brackets etc
-|Symbol|Script|
-|---|---|
-|$(a)$|(a)|
-|$[a]$|[a]|
-|${a}$|{a}|
-|$\langle f \rangle$|\langle f \rangle|
-|$\lfloor f \rfloor$|\lfloor f \rfloor|
-|$\lceil f \rceil$|\lceil f \rceil|
-|$\ulcorner f \urcorner$|\ulcorner f \urcorner|
+| Symbol                  | Script                |
+| ----------------------- | --------------------- |
+| $(a)$                   | (a)                   |
+| $[a]$                   | [a]                   |
+| ${a}$                   | {a}                   |
+| $\langle f \rangle$     | \langle f \rangle     |
+| $\lfloor f \rfloor$     | \lfloor f \rfloor     |
+| $\lceil f \rceil$       | \lceil f \rceil       |
+| $\ulcorner f \urcorner$ | \ulcorner f \urcorner |

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latex学习/LaTex学习目录.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LaTex学习目录"
+              "title": "README"
             }
           }
         ]
@@ -103,10 +103,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Latex学习/LaTex学习目录.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
-              "title": "LaTex学习目录 的大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -174,8 +174,9 @@
   },
   "active": "162e003f4300a95e",
   "lastOpenFiles": [
-    "Latex学习/Tex文件的基本结构.md",
     "Latex学习/Latex公式.md",
+    "Latex学习/LaTex学习目录.md",
+    "Latex学习/Tex文件的基本结构.md",
     "README.md",
     "[.md",
     "计算机视觉/通道.md",
@@ -203,7 +204,6 @@
     "pytorch/知识点/ConfusionMatrix混淆矩阵.md",
     "pytorch/知识点/TestACC测试准确率.md",
     "pytorch/知识点/TrainACC训练准确度.md",
-    "pytorch/知识点/TrainLoss训练损失.md",
     "pytorch/附件",
     "计算机视觉",
     "面向对象程序设计",
