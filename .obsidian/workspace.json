@@ -155,8 +155,7 @@
               "title": "标签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,7 +172,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e29a52a585c7e63",
+  "active": "162e003f4300a95e",
   "lastOpenFiles": [
     "论文/会议.md",
     "论文/An_Elevator_Advertisement_Recommendation_System_Design_based_on_Machine_Vision_and_Deep_Learning.pdf",
