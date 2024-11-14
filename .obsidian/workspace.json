@@ -11,14 +11,12 @@
             "id": "2a4d6b6327042121",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "论文/会议.md",
-                "mode": "source",
-                "source": false
+                "file": "论文/An_Elevator_Advertisement_Recommendation_System_Design_based_on_Machine_Vision_and_Deep_Learning.pdf"
               },
-              "icon": "lucide-file",
-              "title": "会议"
+              "icon": "lucide-file-text",
+              "title": "An_Elevator_Advertisement_Recommendation_System_Design_based_on_Machine_Vision_and_Deep_Learning"
             }
           }
         ]
@@ -103,10 +101,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "论文/An_Elevator_Advertisement_Recommendation_System_Design_based_on_Machine_Vision_and_Deep_Learning.pdf"
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "An_Elevator_Advertisement_Recommendation_System_Design_based_on_Machine_Vision_and_Deep_Learning 的大纲"
             }
           },
           {
@@ -155,7 +153,8 @@
               "title": "标签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,12 +172,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a3dee57a4518add",
+  "active": "2a4d6b6327042121",
   "lastOpenFiles": [
     "论文/Research_Trends_in_Application_of_Artificial_Intelligence_in_Alzheimers_Disease_Bibliometric_and_Visualization_Analysis.pdf",
     "论文/An_Elevator_Advertisement_Recommendation_System_Design_based_on_Machine_Vision_and_Deep_Learning.pdf",
-    "README.md",
     "论文/会议.md",
+    "README.md",
     "论文/入门知识.md",
     "论文/附件/EI与SCI.png",
     "论文/附件/开源期刊与闭源期刊.png",
@@ -203,7 +202,6 @@
     "前端/Html5+CSS3.md",
     "前端",
     "Latex学习/Latex公式.md",
-    "网络安全",
     "pytorch/Pytorch基础--以MINIST手写识别为例.md",
     "SCRCU/SCRCU入职考试.md",
     "Latex学习/LaTex学习目录.md",
