@@ -8,7 +8,7 @@ Praise the God of machine !
 
 # 当前施工目录
 
-0. 杂记
+0. [杂记](杂记/杂记menu.md)
 1. [C语言学习](C语言/C语言学习目录.md)
 2. [LaTex学习](Latex学习/LaTex学习目录.md)
 3. [西南石油大学研究生考试](SWPU/西南石油大学研究生考试相关.md)
