@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂记/杂记menu.md",
+                "file": "杂记/Pomodoro Technique 番茄工作法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "杂记menu"
+              "title": "Pomodoro Technique 番茄工作法"
             }
           }
         ]
@@ -172,10 +172,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "162e003f4300a95e",
+  "active": "2a4d6b6327042121",
   "lastOpenFiles": [
-    "杂记/Pomodoro Technique 番茄工作法.md",
     "杂记/杂记menu.md",
+    "杂记/Pomodoro Technique 番茄工作法.md",
     "README.md",
     "杂记",
     "SWPU/925计算机学科综合（数据结构+操作系统）.pdf",
