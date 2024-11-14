@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂记/Pomodoro Technique 番茄工作法.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pomodoro Technique 番茄工作法"
+              "title": "README"
             }
           }
         ]
@@ -174,8 +174,14 @@
   },
   "active": "2a4d6b6327042121",
   "lastOpenFiles": [
-    "杂记/杂记menu.md",
+    "论文/入门知识.md",
+    "论文/附件/EI与SCI.png",
+    "论文/附件/开源期刊与闭源期刊.png",
+    "论文/附件",
+    "未命名.md",
+    "论文",
     "杂记/Pomodoro Technique 番茄工作法.md",
+    "杂记/杂记menu.md",
     "README.md",
     "杂记",
     "SWPU/925计算机学科综合（数据结构+操作系统）.pdf",
@@ -206,20 +212,13 @@
     "C语言/15. 排序.md",
     "pytorch/知识点",
     "C语言/0. 面向考试的C语言学习指北.md",
-    "GB.md",
     "pytorch/附件/池化层.png",
-    "pytorch/知识点/激活函数.md",
     "pytorch/附件/激活函数.png",
-    "pytorch/知识点/反向传播.md",
-    "pytorch/附件",
-    "计算机视觉",
     "C语言/附件/头插法新建链表流程图.png",
     "C语言/附件/运算优先级.png",
     "区块链/附件/eth1eth2client.png",
     "区块链/附件/account4part.png",
     "未命名.canvas",
-    "论文阅读/图片/时间银行分层架构.png",
-    "论文阅读/图片/为老机构授权的逐步去中心化.png",
-    "区块链/附件/Centralized Wallet.png"
+    "论文阅读/图片/时间银行分层架构.png"
   ]
 }
