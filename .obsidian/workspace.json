@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/入门知识.md",
+                "file": "论文/会议.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "入门知识"
+              "title": "会议"
             }
           }
         ]
@@ -176,6 +176,7 @@
   "active": "2a4d6b6327042121",
   "lastOpenFiles": [
     "README.md",
+    "论文/会议.md",
     "论文/入门知识.md",
     "论文/附件/EI与SCI.png",
     "论文/附件/开源期刊与闭源期刊.png",
