@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/会议.md",
+                "file": "C语言/0. 面向考试的C语言不完全指北.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "会议"
+              "title": "0. 面向考试的C语言不完全指北"
             }
           }
         ]
@@ -103,10 +103,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文/入门知识.md"
+                "file": "C语言/0. 面向考试的C语言不完全指北.md"
               },
               "icon": "lucide-list",
-              "title": "入门知识 的大纲"
+              "title": "0. 面向考试的C语言不完全指北 的大纲"
             }
           },
           {
@@ -155,12 +155,12 @@
               "title": "标签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
-    "collapsed": true
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,12 +173,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a3dee57a4518add",
+  "active": "9e29a52a585c7e63",
   "lastOpenFiles": [
+    "论文/会议.md",
     "论文/An_Elevator_Advertisement_Recommendation_System_Design_based_on_Machine_Vision_and_Deep_Learning.pdf",
     "论文/基础知识.md",
     "杂记/Pomodoro Technique 番茄工作法.md",
-    "论文/会议.md",
     "杂记/杂记menu.md",
     "README.md",
     "论文/附件/EI与SCI.png",
