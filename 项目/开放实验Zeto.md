@@ -14,7 +14,7 @@
 
 # Idea
 
-# 根据物理化学特性预测葡萄酒质量
+# z
 
 [Modeling wine preferences by data mining from physicochemical properties](https://www.sciencedirect.com/science/article/abs/pii/S0167923609001377#preview-section-snippets)
 
