@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C语言/13. 树.md",
+                "file": "项目/开放实验zs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13. 树"
+              "title": "开放实验zs"
             }
           }
         ]
@@ -73,8 +73,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,15 +174,18 @@
   },
   "active": "2a4d6b6327042121",
   "lastOpenFiles": [
+    "论文/会议.md",
+    "项目/开放实验zs.md",
+    "项目",
+    "论文/基础知识.md",
+    "C语言/13. 树.md",
     "C语言/11. 线性表的链式存储.md",
     "C语言/9. 数据结构概述.md",
     "C语言/15. 排序.md",
     "面向对象程序设计/面向对象程序设计.md",
     "计算机视觉/计算机视觉.md",
     "C语言/0. 面向考试的C语言不完全指北.md",
-    "论文/会议.md",
     "论文/An_Elevator_Advertisement_Recommendation_System_Design_based_on_Machine_Vision_and_Deep_Learning.pdf",
-    "论文/基础知识.md",
     "杂记/Pomodoro Technique 番茄工作法.md",
     "杂记/杂记menu.md",
     "README.md",
@@ -206,14 +208,11 @@
     "网络安全/信息与网络安全笔记.md",
     "前端/前端学习路线.md",
     "前端/Html5+CSS3.md",
-    "前端",
     "Latex学习/Latex公式.md",
     "pytorch/Pytorch基础--以MINIST手写识别为例.md",
     "SCRCU/SCRCU入职考试.md",
     "Latex学习/LaTex学习目录.md",
     "Latex学习/Tex文件的基本结构.md",
-    "[.md",
-    "计算机视觉/通道.md",
     "pytorch/附件/池化层.png",
     "pytorch/附件/激活函数.png",
     "C语言/附件/头插法新建链表流程图.png",
