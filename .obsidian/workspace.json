@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/开放实验zs.md",
+                "file": "项目/开放实验Zeto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "开放实验zs"
+              "title": "开放实验Zeto"
             }
           }
         ]
@@ -172,15 +172,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "162e003f4300a95e",
+  "active": "2a4d6b6327042121",
   "lastOpenFiles": [
+    "论文/会议.md",
+    "项目/开放实验Zeto.md",
     "数据分析/回归技术Regression Technique.md",
     "数据分析/支持向量机Support Vector Machine.md",
-    "项目/开放实验zs.md",
     "杂记/杂记menu.md",
     "杂记/番茄工作法Pomodoro Technique.md",
     "数据分析",
-    "论文/会议.md",
     "项目",
     "论文/基础知识.md",
     "C语言/13. 树.md",
