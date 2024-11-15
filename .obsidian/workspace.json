@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据分析/支持向量机Support Vector Machine.md",
+                "file": "项目/开放实验zs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "支持向量机Support Vector Machine"
+              "title": "开放实验zs"
             }
           }
         ]
@@ -159,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
-    "collapsed": true
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,7 +172,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a4d6b6327042121",
+  "active": "162e003f4300a95e",
   "lastOpenFiles": [
     "数据分析/回归技术Regression Technique.md",
     "数据分析/支持向量机Support Vector Machine.md",
