@@ -11,3 +11,10 @@
 3. 实验过程三幅照片原文件及图片说明
 4. 软件源程序（在系统中提交电子版）
 5. 源于**校级重点项目**开放实验的标志性成果影印件电子文档，或证明材料（在系统中提交电子版）
+
+# Idea
+
+[Modeling wine preferences by data mining from physicochemical properties](https://www.sciencedirect.com/science/article/abs/pii/S0167923609001377#preview-section-snippets)
+
+[ Wine Quality](https://www.kaggle.com/code/mehdigoldoust/wine-quality/notebook)
+
