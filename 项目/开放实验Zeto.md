@@ -49,7 +49,7 @@ https://ieeexplore.ieee.org/document/8614831
 
 https://www.sciencedirect.com/science/article/pii/S0952197623018924#sec8
 
-同样作为多模态情感识别，这里描述了他的发展，截止到2024 年 4 月，都是依靠传感器来识别
+同样作为多模态情感识别，这里描述了他的发展，截止到2024 年 4 月，都是依靠传感器来识别，被动的手机手机信息，没有主动的用户主动的表达
 
 ![](MultimodalEmotionRecognitionviaConvolutionalNeuralNetworks.pdf)
 
