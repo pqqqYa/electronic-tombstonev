@@ -14,13 +14,13 @@
 
 # Idea
 
-# 
+# wine检测与分类评级
 
 [Modeling wine preferences by data mining from physicochemical properties](https://www.sciencedirect.com/science/article/abs/pii/S0167923609001377#preview-section-snippets)
 
 [ Wine Quality](https://www.kaggle.com/code/mehdigoldoust/wine-quality/notebook)
 
-# CNN表情识别+PyQT+MBTI+Flow+PT→推动高质量教育
+# CNN表情识别+LLM+MBTI+Flow+PT→？
 
 
 * CNN表情识别
