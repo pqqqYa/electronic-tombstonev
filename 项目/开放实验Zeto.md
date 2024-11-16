@@ -12,10 +12,10 @@
 4. 软件源程序（在系统中提交电子版）
 5. 源于**校级重点项目**开放实验的标志性成果影印件电子文档，或证明材料（在系统中提交电子版）
 
-# Idea
+# IDEA
 
 
-# CNN+SVM+MBTI+Flow+PT→？
+## CNN+SVM+MBTI+Flow+PT→？
 
 
 * CNN表情识别[link1](https://www.kaggle.com/code/naeemahmedhaji/facial-expression-recognition-using-cnn)and[link2](https://www.kaggle.com/code/mohammedabdeldayem/facial-expression-recognition)
@@ -66,6 +66,41 @@
  * "flow state" AND "facial expression recognition" AND "MBTI"
  * "personalized learning" AND "flow theory" AND "machine learning"
  * "multimodal emotion recognition" AND "心流"
+
+# 相关文章
+
+#### 破译可见性和交互性对 AI 驱动型网站中网站氛围和客户粘性的技术贡献：在线流状态的关键功能
+
+[Deciphering technological contributions of visibility and interactivity to website atmospheric and customer stickiness in AI-driven websites: The pivotal function of online flow state](https://www.sciencedirect.com/science/article/abs/pii/S0969698924000912)
+
+> [!心流体验的概述]+
+> Flow theory encapsulates a psychological state where individuals are profoundly immersed and attentively fixated on a task, yielding an amplified sense of euphoria and fulfillment (Brailovskaia and Margraf, 2024; Uhm et al., 2023; Zhao et al., 2024). This stage is characterized by an all-encompassing absorption in the undertaken activity, during which temporal perception may appear to decelerate or even halt. In this apogee of flow, individuals' perceptual acuity towards peripheral stimuli becomes markedly attenuated; extraneous stimuli are methodically excluded, sharpening focus on the task at hand. Concurrently, there is a notable attenuation in self-awareness; individuals respond solely to immediate objectives and feedback, experiencing a heightened sense of dominion over their environment. Flow theory elucidates the intricate nexus between profound concentration and the ensuing sensations of exhilaration and gratification (Zhang et al., 2023). Within the flow state, the perception of external stimuli is curtailed, and self-consciousness subtly recedes into the background. This phenomenon could manifest in diverse activities, ranging from athletic endeavors, literary engagement, to cinematic experiences. Particularly, within computer-mediated contexts, this gives rise to the concept of online flow. Hofmann et al., have extended Csikszentmihalyi's flow theory to encompass computer-mediated environments (Hofmann et al., 2024). They posit that the state of online flow can be achieved during intense engagement in digital activities. Flow, in this context, refers to the emotive responses of computer users towards digital interactions, where enjoyment and exploration are fundamental to human-computer interplay. Flow has been identified as a pivotal element in various online behaviors, including web browsing, online gaming, software utilization, and e-commerce engagements (Khare et al., 2023; Rohit et al., 2024).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
