@@ -20,3 +20,11 @@
 
 [ Wine Quality](https://www.kaggle.com/code/mehdigoldoust/wine-quality/notebook)
 
+# CNN表情识别+PyQT+MBTI+Flow+PT→推动高质量教育
+
+
+* CNN表情识别
+* 使用PyQT构建客户端，导入训练好的大模型[link](https://zhuanlan.zhihu.com/p/274436031)
+* MBTI：各不同的MBTI得分对表情收集的加权
+* [Flow](https://en.wikipedia.org/wiki/Flow_(psychology))：使用SVM
+* PT
