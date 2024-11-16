@@ -104,10 +104,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C语言/0. 面向考试的C语言不完全指北.md"
+                "file": "项目/开放实验Zeto.md"
               },
               "icon": "lucide-list",
-              "title": "0. 面向考试的C语言不完全指北 的大纲"
+              "title": "开放实验Zeto 的大纲"
             }
           },
           {
@@ -156,7 +156,8 @@
               "title": "标签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
