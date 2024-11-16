@@ -37,14 +37,20 @@
 3. 基于卷积神经网络与支持向量机的心流状态检测引导系统
 
 
-# 特点
+# 项目分析
 
+https://ieeexplore.ieee.org/document/8614831
 
+一种可以在移动设备上使用的更轻量级的框架。他们使用一个模块来提取面部特征并使用支持向量机 （SVM） 对其进行分类，另一个模块在语音信号上执行相同的操作。结果由融合特征模块组合，然后进行情感分类。采集的数据是表情和声音。
 
+结合MBTI评分代替声音数据作为评价的一部分，降低算力需求，对某个用户的可以有特殊的优化。
 
+![](Automated%20Facial%20Expression%20and%20Speech%20Emotion.pdf)
 
+https://www.sciencedirect.com/science/article/pii/S0952197623018924#sec8
 
+同样作为多模态情感识别，这里描述了他的发展，截止到2024 年 4 月，都是依靠传感器来识别
 
-
+![](MultimodalEmotionRecognitionviaConvolutionalNeuralNetworks.pdf)
 
 
