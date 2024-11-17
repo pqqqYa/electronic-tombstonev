@@ -81,3 +81,6 @@ Csikszentmihalyi, Mihaly, Sami Abuhamdeh, and Jeanne Nakamura. "Flow." Handbook
 ![](Flow.pdf)
 
 
+自主性人格与心流状态的关系，在用户初次使用的问卷表之中做指导作用
+
+![](Autotelic%20Personality.pdf)

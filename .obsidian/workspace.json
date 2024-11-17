@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/开放实验Zeto重点项目申请书.md",
+                "file": "项目/开放实验Zeto分析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "开放实验Zeto重点项目申请书"
+              "title": "开放实验Zeto分析"
             }
           }
         ]
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.51103591918945,
-    "collapsed": true
+    "width": 223.51103591918945
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -104,10 +103,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/开放实验Zeto重点项目申请书.md"
+                "file": "项目/开放实验Zeto分析.md"
               },
               "icon": "lucide-list",
-              "title": "开放实验Zeto重点项目申请书 的大纲"
+              "title": "开放实验Zeto分析 的大纲"
             }
           },
           {
@@ -156,13 +155,11 @@
               "title": "标签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
-    "collapsed": true
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,10 +172,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a4d6b6327042121",
+  "active": "162e003f4300a95e",
   "lastOpenFiles": [
-    "项目/开放实验Zeto分析.md",
     "项目/开放实验Zeto重点项目申请书.md",
+    "项目/Autotelic Personality.pdf",
+    "项目/开放实验Zeto分析.md",
     "项目/Flow.pdf",
     "项目/Flow.pdf.crdownload",
     "项目/附件/action capabilities and skills.png",
@@ -195,7 +193,6 @@
     "论文/会议.md",
     "杂记/杂记menu.md",
     "数据分析",
-    "项目",
     "论文/基础知识.md",
     "C语言/13. 树.md",
     "C语言/11. 线性表的链式存储.md",
@@ -216,7 +213,6 @@
     "网络安全/信息与网络安全笔记.md",
     "前端/前端学习路线.md",
     "前端/Html5+CSS3.md",
-    "Latex学习/Latex公式.md",
     "pytorch/附件/池化层.png",
     "pytorch/附件/激活函数.png",
     "C语言/附件/头插法新建链表流程图.png",
