@@ -71,3 +71,11 @@ https://www.sciencedirect.com/science/article/pii/S0952197623018924#sec8
 
 
 ![](The%20Concept%20of%20Flow.pdf)
+
+
+Csikszentmihalyi, Mihaly, Sami Abuhamdeh, and Jeanne Nakamura. "Flow." Handbook of competence and motivation (2005): 598-608.
+
+心流状态与愉悦等相关情绪呈现正相关
+
+
+![](Flow.pdf)
