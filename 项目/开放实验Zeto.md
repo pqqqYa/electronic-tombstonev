@@ -62,4 +62,12 @@ https://www.sciencedirect.com/science/article/pii/S0952197623018924#sec8
 
 ![](附件/action%20capabilities%20and%20skills.png)
 
+证实自发性人格Autotelic在冷漠（低挑战、低技能）情况下最不快乐和最有动力，而non-Autotelic非自发性人格（在高挑战、高技能情况下最不积极的人）并不认为冷漠条件令人厌恶。因此，个体差异显然存在。
+
+在a图的Flow状态下，右上是Autotelic的舒适区，而下方则是non-Autotelic的舒适区
+
+
+心流体验的主要影响就是再注意力上面，引导用户
+
+
 ![](The%20Concept%20of%20Flow.pdf)
