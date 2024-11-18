@@ -11,14 +11,12 @@
             "id": "2a4d6b6327042121",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "项目/实现思路11-17v1.pdf"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-file-text",
+              "title": "实现思路11-17v1"
             }
           }
         ]
@@ -172,8 +170,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a3dee57a4518add",
+  "active": "2a4d6b6327042121",
   "lastOpenFiles": [
+    "README.md",
     "项目/实现思路11-17v1.pdf",
     "项目/开放实验Zeto分析.md",
     "项目/开放实验Zeto重点项目申请书.md",
@@ -193,7 +192,6 @@
     "杂记/番茄工作法Pomodoro Technique.md",
     "论文/会议.md",
     "杂记/杂记menu.md",
-    "数据分析",
     "论文/基础知识.md",
     "C语言/13. 树.md",
     "C语言/11. 线性表的链式存储.md",
@@ -202,7 +200,6 @@
     "面向对象程序设计/面向对象程序设计.md",
     "计算机视觉/计算机视觉.md",
     "C语言/0. 面向考试的C语言不完全指北.md",
-    "README.md",
     "论文/附件/EI与SCI.png",
     "论文/附件/开源期刊与闭源期刊.png",
     "未命名.md",
