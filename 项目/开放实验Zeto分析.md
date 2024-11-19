@@ -10,12 +10,17 @@
 	* 如何合理的分切任务（任务难度、任务量）
 	* 如何预测的规划任务的完成时时间，预测时间的调整
 * 我们应该获得何种的设备相关数据，来推测用户相关的心流状态情况
-	* 用户在使用状态下设备的亮屏次数？→是否开发移动端的客户端？
+	* 用户在使用状态下设备的亮屏次数？移动端权限？
 	* 设备在运行状态下的其他设备使用状态？
-	* 用户可否自主提交相关内容（百分之多少的时间在使用某某软件），考虑无纸化学习用户的操作情况→windows客户端权限问题？
+	* 用户可否自主提交相关内容（百分之多少的时间在使用某某软件），考虑无纸化学习用户的操作情况
 * 用户进入心流状态的判断（如何使用函数来代替SVM的效果）
 	* 结合上一点，心流状态的（伪）判断
-* 客户端初始使用的时候用户需要填写的信息有哪些，用来初始化的判断用户是否为自主性人格，为后续的心流状态的判断做出依据。
+* 客户端初始使用的时候用户需要填写的信息有哪些，用来初始化的判断用户是否为自主性人格，为后续的心流状态的判断提供数据
+* 在番茄工作法周期的完成情况判断机制“奖惩机制”
+	* 按计划完成任务，对用户予以鼓励（可能是判断这次难度的skill或advantage是否太低，是否想要再提高一点）
+	* 没有按照任务完成，如何引导用户降低skill或advantage，来便于进入心流状态
+![](附件/action%20capabilities%20and%20skills.png)
+![](附件/实现思路11-17v1.jpg)
 
 # 时间点
 ## 结题时间
@@ -46,9 +51,10 @@
 
 
 * CNN表情识别[link1](https://www.kaggle.com/code/naeemahmedhaji/facial-expression-recognition-using-cnn)and[link2](https://www.kaggle.com/code/mohammedabdeldayem/facial-expression-recognition)
-* 使用[PyQT](https://www.kaggle.com/code/mohammedabdeldayem/facial-expression-recognition)构建客户端，导入训练好的大模型[link](https://zhuanlan.zhihu.com/p/274436031)
+* ~~使用[PyQT](https://www.kaggle.com/code/mohammedabdeldayem/facial-expression-recognition)构建客户端，导入训练好的大模型[link](https://zhuanlan.zhihu.com/p/274436031)~~
+* 安卓客户端开发+伪后端实现
 * MBTI：各不同的MBTI得分对表情收集的加权
-* [Flow](https://en.wikipedia.org/wiki/Flow_(psychology))：使用SVM或者LLM对用户状态进行分析（或者某种程度上的假实现）
+* [Flow](https://en.wikipedia.org/wiki/Flow_(psychology))：使用SVM~~或者LLM~~对用户状态进行分析（或者某种程度上的假实现）
 * PT：[番茄工作法Pomodoro Technique](../杂记/番茄工作法Pomodoro%20Technique.md)
 
 工作或者学习等场景下的辅助系统
