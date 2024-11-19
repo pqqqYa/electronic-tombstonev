@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/开放实验Zeto重点项目申请书.md",
+                "file": "项目/开放实验Zeto分析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "开放实验Zeto重点项目申请书"
+              "title": "开放实验Zeto分析"
             }
           }
         ]
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.51103591918945,
-    "collapsed": true
+    "width": 223.51103591918945
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -104,10 +103,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "项目/开放实验Zeto分析.md"
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "开放实验Zeto分析 的大纲"
             }
           },
           {
@@ -156,11 +155,12 @@
               "title": "标签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 476.5,
+    "width": 317.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -176,7 +176,11 @@
   },
   "active": "2a4d6b6327042121",
   "lastOpenFiles": [
+    "项目/开放实验Zeto重点项目申请书.md",
+    "项目/开放实验Zeto分析.md",
+    "项目/Zeto时间点.md",
     "项目/实现思路11-17v1.pdf",
+    "项目/Automated Facial Expression and Speech Emotion.pdf",
     "README.md",
     "机器学习/入门.md",
     "机器学习/附件",
@@ -184,15 +188,12 @@
     "机器学习/对类似数据点进行聚类的机器学习模型.png.crdownload",
     "机器学习/机器学习目录.md",
     "机器学习",
-    "项目/开放实验Zeto分析.md",
-    "项目/开放实验Zeto重点项目申请书.md",
     "项目/Autotelic Personality.pdf",
     "项目/Flow.pdf",
     "项目/Flow.pdf.crdownload",
     "项目/附件/action capabilities and skills.png",
     "项目/附件",
     "项目/The Concept of Flow.pdf",
-    "项目/Automated Facial Expression and Speech Emotion.pdf",
     "线性代数/行列式.md",
     "数据分析/回归技术Regression Technique.md",
     "数据分析/支持向量机Support Vector Machine.md",
