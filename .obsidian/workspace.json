@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "项目/开放实验Zeto分析.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "开放实验Zeto分析"
+            }
+          },
+          {
+            "id": "b70df79de4513f9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "项目/开放实验Zeto重点项目申请书.md",
                 "mode": "source",
                 "source": false
@@ -20,19 +34,25 @@
               "icon": "lucide-file",
               "title": "开放实验Zeto重点项目申请书"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "b1d53faa701d505c",
+        "type": "tabs",
+        "children": [
           {
             "id": "58a4626edb1a2713",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/开放实验Zeto分析.md",
+                "file": "项目/开放实验Zeto重点项目申请书.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "开放实验Zeto分析"
+              "title": "开放实验Zeto重点项目申请书"
             }
           }
         ]
@@ -170,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,9 +207,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a4d6b6327042121",
+  "active": "58a4626edb1a2713",
   "lastOpenFiles": [
     "项目/开放实验Zeto分析.md",
+    "项目/开放实验Zeto重点项目申请书.md",
     "项目/实现思路11-17v1.pdf",
     "项目/附件/实现思路11-17v1.jpg.~tmp",
     "项目/附件/实现思路11-17v1.jpg",
@@ -199,7 +220,6 @@
     "项目/附件/实现思路11-17v1_页面_2.jpg",
     "项目/附件/实现思路11-17v1_页面_1.jpg",
     "项目/附件/action capabilities and skills.png",
-    "项目/开放实验Zeto重点项目申请书.md",
     "杂记/番茄工作法Pomodoro Technique.md",
     "项目/Zeto时间点.md",
     "项目/Automated Facial Expression and Speech Emotion.pdf",
