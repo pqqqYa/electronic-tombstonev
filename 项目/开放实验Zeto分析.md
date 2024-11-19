@@ -48,13 +48,13 @@
 # IDEA
 
 
-## CNN+SVM+MBTI+Flow+PT→？
+## CNN+SVM+Flow+PT→？
 
 
-* CNN表情识别[link1](https://www.kaggle.com/code/naeemahmedhaji/facial-expression-recognition-using-cnn)and[link2](https://www.kaggle.com/code/mohammedabdeldayem/facial-expression-recognition)
+* CNN表情识别[link1](https://www.kaggle.com/code/naeemahmedhaji/facial-expression-recognition-using-cnn)~~and[link2](https://www.kaggle.com/code/mohammedabdeldayem/facial-expression-recognition)~~
 * ~~使用[PyQT](https://www.kaggle.com/code/mohammedabdeldayem/facial-expression-recognition)构建客户端，导入训练好的大模型[link](https://zhuanlan.zhihu.com/p/274436031)~~
 * 安卓客户端开发+伪后端实现
-* MBTI：各不同的MBTI得分对表情收集的加权
+* 自主性人格测试：测试的不同项的得分~~对表情收集的结果加权~~
 * [Flow](https://en.wikipedia.org/wiki/Flow_(psychology))：使用SVM~~或者LLM~~对用户状态进行分析（或者某种程度上的假实现）
 * PT：[番茄工作法Pomodoro Technique](../杂记/番茄工作法Pomodoro%20Technique.md)
 
