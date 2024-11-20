@@ -541,8 +541,23 @@ js.executeScript(script);
 接下来通过sendKeys()方法来实现文件上传。
 
 ~~~java
-
-import java.io.File; import org.openqa.selenium.By; import org.openqa.selenium.WebDriver; import org.openqa.selenium.chrome.ChromeDriver;  public class UpFileDemo {    public static void main(String[] args) throws InterruptedException {      WebDriver driver = new ChromeDriver();     File file = new File("./HTMLFile/upfile.html");     String filePath = file.getAbsolutePath();     driver.get(filePath);      //定位上传按钮， 添加本地文件     driver.findElement(By.name("file")).sendKeys("D:\\upload_file.txt");     Thread.sleep(5000);      driver.quit();   } }
+import java.io.File; 
+import org.openqa.selenium.By; 
+import org.openqa.selenium.WebDriver; 
+import org.openqa.selenium.chrome.ChromeDriver;  
+public class UpFileDemo {    
+	public static void main(String[] args) throws InterruptedException {      
+		WebDriver driver = new ChromeDriver();     
+		File file = new File("./HTMLFile/upfile.html");     
+		String filePath = file.getAbsolutePath();     
+		driver.get(filePath);      
+		
+		//定位上传按钮， 添加本地文件     
+		driver.findElement(By.name("file")).sendKeys("D:\\upload_file.txt");     
+		Thread.sleep(5000);      
+		driver.quit();   
+	} 
+}
 ~~~
 
 注：sendKeys 参数为文件的绝对路径，并且上传的文件一点要存在，否则会抛异常。
@@ -553,11 +568,7 @@ import java.io.File; import org.openqa.selenium.By; import org.openqa.selenium.W
 
 WebDriver 给我们提供了一个 Window 对象，专门用于对窗口的设置。
 
-对象获取方法：
-
-Copy
-
-`Window window = driver.manage().window();`
+对象获取方法：`Window window = driver.manage().window();`
 
 Window 对象的方法有：
 
@@ -573,11 +584,7 @@ Window 对象的方法有：
 
 WebDriver 提供了 Navigation 对象来对浏览器进行导航操作，如：前进、后退、刷新等。
 
-Navigation 对象获取：
-
-Copy
-
-`Navigation navigate = driver.navigate();`
+Navigation 对象获取：`Navigation navigate = driver.navigate();`
 
 Navigation 对象提供的方法：
 
@@ -588,9 +595,9 @@ Navigation 对象提供的方法：
 |navigate.back()|浏览器回退操作。|
 |navigate.forward()|浏览器前进操作。|
 
-# 第九章 模拟鼠标键盘操作[#](https://www.cnblogs.com/tester-ggf/p/12602211.html#863251836)
+# 第九章 模拟鼠标键盘操作
 
-## 9.1.模拟鼠标[#](https://www.cnblogs.com/tester-ggf/p/12602211.html#2322219430)
+## 9.1.模拟鼠标
 
 在WebDriver中，关于鼠标的操作我们可以通过 Actions 类来模拟鼠标右击、双击、悬停、拖动等操作。
 
@@ -608,83 +615,191 @@ Actions 类中鼠标操作常用方法：
 
 **示例：百度首页设置悬停下拉菜单**
 
-Copy
-
-`import org.openqa.selenium.By; import org.openqa.selenium.WebDriver; import org.openqa.selenium.WebElement; import org.openqa.selenium.chrome.ChromeDriver; import org.openqa.selenium.interactions.Actions;  public class MouseDemo {    public static void main(String[] args) {      WebDriver driver = new ChromeDriver();     driver.get("https://www.baidu.com/"); 	// 定位元素     WebElement search_setting = driver.findElement(By.linkText("设置"));     // 创建actions对象     Actions action = new Actions(driver);     // 模拟鼠标悬停     action.clickAndHold(search_setting).perform();      driver.quit();   } }`
-
+~~~java
+import org.openqa.selenium.By; 
+import org.openqa.selenium.WebDriver; 
+import org.openqa.selenium.WebElement; 
+import org.openqa.selenium.chrome.ChromeDriver; 
+import org.openqa.selenium.interactions.Actions;  
+public class MouseDemo {    
+	public static void main(String[] args) {      
+		WebDriver driver = new ChromeDriver();     
+		driver.get("https://www.baidu.com/"); 	
+		// 定位元素     
+		WebElement search_setting = driver.findElement(By.linkText("设置"));     
+		// 创建actions对象     
+		Actions action = new Actions(driver);     
+		// 模拟鼠标悬停     
+		action.clickAndHold(search_setting).perform();      
+		driver.quit();   
+	} 
+}
+~~~
 其他方法使用：
 
-Copy
-
-`Actions action = new Actions(driver);  // 鼠标右键点击指定的元素 action.contextClick(driver.findElement(By.id("element"))).perform();  // 鼠标双击指定的元素 action.doubleClick(driver.findElement(By.id("element"))).perform(); // 鼠标移到到指定元素上 action.moveToElement(driver.findElement(By.id("element"))).perform();  // 鼠标拖拽动作， 将 source 元素拖放到 target 元素的位置。 WebElement source = driver.findElement(By.name("element")); WebElement target = driver.findElement(By.name("element")); action.dragAndDrop(source,target).perform();  // 释放鼠标 action.release().perform();`
-
-## 9.2.模拟键盘[#](https://www.cnblogs.com/tester-ggf/p/12602211.html#1715811207)
+~~~java
+Actions action = new Actions(driver);  
+// 鼠标右键点击指定的元素 
+action.contextClick(driver.findElement(By.id("element"))).perform();  
+// 鼠标双击指定的元素 
+action.doubleClick(driver.findElement(By.id("element"))).perform(); 
+// 鼠标移到到指定元素上 
+action.moveToElement(driver.findElement(By.id("element"))).perform();  
+// 鼠标拖拽动作， 将 source 元素拖放到 target 元素的位置。 
+WebElement source = driver.findElement(By.name("element")); 
+WebElement target = driver.findElement(By.name("element")); 
+action.dragAndDrop(source,target).perform();  
+// 释放鼠标 
+action.release().perform();
+~~~
+## 9.2.模拟键盘
 
 在 selenium 中有个 Keys() 类（枚举类），提供了几乎键盘上所有按键的方法，在使用的过程中，我们可以通过 sendKeys() 方法来模拟键盘的输入，除此之外，我们还可以用它来输入键盘上的按键， 甚至是组合键， 如 Ctrl+A、 Ctrl+C 等。
 
 **以下为常用的键盘操作：**
 
 - sendKeys(Keys.BACK_SPACE) 回格键（BackSpace）
-    
 - sendKeys(Keys.SPACE) 空格键 (Space)
-    
 - sendKeys(Keys.TAB) 制表键 (Tab)
-    
 - sendKeys(Keys.ESCAPE) 回退键（Esc）
-    
 - sendKeys(Keys.ENTER) 回车键（Enter）
-    
 - sendKeys(Keys.CONTROL,'a') 全选（Ctrl+A）
-    
 - sendKeys(Keys.CONTROL,'c') 复制（Ctrl+C）
-    
 - sendKeys(Keys.CONTROL,'x') 剪切（Ctrl+X）
-    
 - sendKeys(Keys.CONTROL,'v') 粘贴（Ctrl+V）
-    
 - sendKeys(Keys.F1) 键盘 F1
-    
-
-……
-
+- ……
 - sendKeys(Keys.F12) 键盘 F12
 
----
 
 在使用键盘按键方法前，我们需要先导入 keys 类。
 
-Copy
-
-`import org.openqa.selenium.WebElement; import org.openqa.selenium.WebDriver; import org.openqa.selenium.chrome.ChromeDriver; import org.openqa.selenium.By; import org.openqa.selenium.Keys;  public class Keyboard {    public static void main(String[] args)throws InterruptedException {      WebDriver driver = new ChromeDriver();     driver.get("https://www.baidu.com");      // 定位到对应的元素     WebElement input = driver.findElement(By.id("kw"));      //输入框输入内容     input.sendKeys("seleniumm");     Thread.sleep(2000);      //删除多输入的一个 m     input.sendKeys(Keys.BACK_SPACE);     Thread.sleep(2000);      //输入空格键+“教程”     input.sendKeys(Keys.SPACE);     input.sendKeys("教程");     Thread.sleep(2000);      //ctrl+a 全选输入框内容     input.sendKeys(Keys.CONTROL,"a");     Thread.sleep(2000);      //ctrl+x 剪切输入框内容     input.sendKeys(Keys.CONTROL,"x");     Thread.sleep(2000);      //ctrl+v 粘贴内容到输入框     input.sendKeys(Keys.CONTROL,"v");     Thread.sleep(2000);      //通过回车键盘来代替点击操作     input.sendKeys(Keys.ENTER);     Thread.sleep(2000);      driver.quit();   } }`
+~~~java
+import org.openqa.selenium.WebElement; 
+import org.openqa.selenium.WebDriver; 
+import org.openqa.selenium.chrome.ChromeDriver; 
+import org.openqa.selenium.By; 
+import org.openqa.selenium.Keys;  
+public class Keyboard {    
+	public static void main(String[] args)throws InterruptedException {      
+		WebDriver driver = new ChromeDriver();     
+		driver.get("https://www.baidu.com");      
+		// 定位到对应的元素     
+		WebElement input = driver.findElement(By.id("kw"));      
+		//输入框输入内容     
+		input.sendKeys("seleniumm");     
+		Thread.sleep(2000);      
+		//删除多输入的一个 m     
+		input.sendKeys(Keys.BACK_SPACE);     
+		Thread.sleep(2000);      
+		//输入空格键+“教程”     
+		input.sendKeys(Keys.SPACE);     
+		input.sendKeys("教程");     
+		Thread.sleep(2000);      
+		//ctrl+a 全选输入框内容     
+		input.sendKeys(Keys.CONTROL,"a");     
+		Thread.sleep(2000);      
+		//ctrl+x 剪切输入框内容     
+		input.sendKeys(Keys.CONTROL,"x");     
+		Thread.sleep(2000);      
+		//ctrl+v 粘贴内容到输入框     
+		input.sendKeys(Keys.CONTROL,"v");     
+		Thread.sleep(2000);      
+		//通过回车键盘来代替点击操作     
+		input.sendKeys(Keys.ENTER);     
+		Thread.sleep(2000);      
+		driver.quit();   
+	} 
+}
+~~~
 
 记录：在 Actions 类中也有对应操作键盘的方法，例如：keyUp()、keyDown()等，但是我在实际使用中，并没有生效，不知道为何，从网上资料说是，不能直接对浏览器进行操作，只能对页面的元素进行键盘的模拟操作。
 
-# 第十章 操作javaScript代码[#](https://www.cnblogs.com/tester-ggf/p/12602211.html#1845669427)
+# 第十章 操作javaScript代码
 
 虽然WebDriver提供了操作浏览器的前进和后退方法，但对于浏览器滚动条并没有提供相应的操作方法。在这种情况下，就可以借助JavaScript来控制浏览器的滚动条。WebDriver提供了executeScript()方法来执行JavaScript代码。
 
-用于调整浏览器滚动条位置的JavaScript代码如下：
-
-Copy
-
-`<!-- window.scrollTo(左边距,上边距); --> window.scrollTo(0,450);`
+用于调整浏览器滚动条位置的JavaScript代码如下：`<!-- window.scrollTo(左边距,上边距); --> window.scrollTo(0,450);`
 
 window.scrollTo() 方法用于设置浏览器窗口滚动条的水平和垂直位置。方法的第一个参数表示水平的左间距，第二个参数表示垂直的上边距。其代码如下：
 
-Copy
-
-`import org.openqa.selenium.By; import org.openqa.selenium.WebDriver; import org.openqa.selenium.Dimension; import org.openqa.selenium.chrome.ChromeDriver; import org.openqa.selenium.JavascriptExecutor;  public class JSDemo {    public static void main(String[] args) throws InterruptedException{      WebDriver driver = new ChromeDriver();      //设置浏览器窗口大小     driver.manage().window().setSize(new Dimension(700, 600));     driver.get("https://www.baidu.com");      //进行百度搜索     driver.findElement(By.id("kw")).sendKeys("webdriver api");     driver.findElement(By.id("su")).click();     Thread.sleep(2000);      //将页面滚动条拖到底部     ((JavascriptExecutor)driver).executeScript("window.scrollTo(100,450);");     Thread.sleep(3000);      driver.quit();   } }`
-
+~~~java
+import org.openqa.selenium.By; 
+import org.openqa.selenium.WebDriver; 
+import org.openqa.selenium.Dimension; 
+import org.openqa.selenium.chrome.ChromeDriver; 
+import org.openqa.selenium.JavascriptExecutor;  
+public class JSDemo {    
+	public static void main(String[] args) throws InterruptedException{      
+		WebDriver driver = new ChromeDriver();      
+		//设置浏览器窗口大小     
+		driver.manage().window().setSize(new Dimension(700, 600));     
+		driver.get("https://www.baidu.com");      
+		//进行百度搜索     
+		driver.findElement(By.id("kw")).sendKeys("webdriver api");     
+		driver.findElement(By.id("su")).click();     
+		Thread.sleep(2000);      
+		//将页面滚动条拖到底部     
+		((JavascriptExecutor)driver).executeScript("window.scrollTo(100,450);");  
+		Thread.sleep(3000);      
+		driver.quit();   
+	} 
+}
+~~~
 通过浏览器打开百度进行搜索，并且提前通过 window().setSize() 方法将浏览器窗口设置为固定宽高显示，目的是让窗口出现水平和垂直滚动条。然后通过 executeScript() 方法执行JavaScripts代码来移动滚动条的位置。
 
 **将滚动条滚动到某个区域后停止(页面元素全部加载完成)，如下：**
 
-Copy
-
-`//滚动到某一区域 //scrollIntoView(0);  让元素滚动到可视区域的最下方 //scrollIntoView();  让元素滚动到可视区域的最上方 //JavascriptExecutor javascriptExecutor = (JavascriptExecutor)BrowserUtil.driver; //javascriptExecutor.executeScript("document.getElementById('index_ads').scrollIntoView(0);"); //JavaScript的参数传递-selenium和js的交互 //1、先去找到这个元素 WebElement webElement = driver.findElement(By.xpath("element")); //2、找到的元素作为参数传入到Js代码中 JavascriptExecutor javascriptExecutor = (JavascriptExecutor)driver; javascriptExecutor.executeScript("arguments[0].scrollIntoView(0)",webElement);`
+~~~java
+//滚动到某一区域 
+//scrollIntoView(0);  让元素滚动到可视区域的最下方 
+//scrollIntoView();  让元素滚动到可视区域的最上方 
+//JavascriptExecutor javascriptExecutor = (JavascriptExecutor)BrowserUtil.driver; 
+//javascriptExecutor.executeScript("document.getElementById('index_ads').scrollIntoView(0);"); 
+//JavaScript的参数传递-selenium和js的交互 
+//1、先去找到这个元素 
+WebElement webElement = driver.findElement(By.xpath("element")); 
+//2、找到的元素作为参数传入到Js代码中 
+JavascriptExecutor javascriptExecutor = (JavascriptExecutor)driver; 
+javascriptExecutor.executeScript("arguments[0].scrollIntoView(0)",webElement);
+~~~
 
 **页面元素是通过懒加载方式，需要一直进行滚动的**
 
 ~~~java
-/** * 滑动列表找元素并且进行点击（懒加载） * @param selectedText 选中元素文本 * @param by 正在加载类似元素的定位表达式 */ public static void clickElementInList(String selectedText, By by) { // 滑动之前的页面源代码信息 String beforeSource = ""; // 滑动之后的页面源代码信息 String afterSource = ""; // 循环条件 // 1、找到了元素，跳出循环 // 2、如果没有找到元素？？？怎么跳出循环 while (true) { WebElement webElement = driver.findElement(by); // 获取页面源代码 beforeSource = driver.getPageSource(); // 获取js执行器 JavascriptExecutor javascriptExecutor = (JavascriptExecutor)driver; // 执行js javascriptExecutor.executeScript("arguments[0].scrollIntoView(0);", webElement); // 如果当前页面有想要的元素，怎么判断是否有？？--getPageSource if (driver.getPageSource().contains(selectedText)) { driver.findElement(By.linkText(selectedText)).click(); // 找到元素退出循环，不再滚动。 break; } afterSource = driver.getPageSource(); // 页面元素没有变化---滑动到了最底部 if (afterSource.equals(beforeSource)) { // 到达底部，退出。 break; } } }
+/** 
+* 滑动列表找元素并且进行点击（懒加载） 
+* @param selectedText 选中元素文本 
+* @param by 正在加载类似元素的定位表达式 
+*/ 
+public static void clickElementInList(String selectedText, By by) { 
+	// 滑动之前的页面源代码信息 
+	String beforeSource = ""; 
+	// 滑动之后的页面源代码信息 
+	String afterSource = ""; 
+	// 循环条件 
+	// 1、找到了元素，跳出循环 
+	// 2、如果没有找到元素？？？怎么跳出循环 
+	while (true) { 
+		WebElement webElement = driver.findElement(by); 
+		// 获取页面源代码 
+		beforeSource = driver.getPageSource(); 
+		// 获取js执行器 
+		JavascriptExecutor javascriptExecutor = (JavascriptExecutor)driver; 
+		// 执行js 
+		javascriptExecutor.executeScript("arguments[0].scrollIntoView(0);", webElement); 
+		// 如果当前页面有想要的元素，怎么判断是否有？？--getPageSource 
+		if (driver.getPageSource().contains(selectedText)) { 
+			driver.findElement(By.linkText(selectedText)).click(); 
+			// 找到元素退出循环，不再滚动。 
+			break; 
+		} 
+		afterSource = driver.getPageSource();
+		 // 页面元素没有变化---滑动到了最底部 
+		 if (afterSource.equals(beforeSource)) { 
+			 // 到达底部，退出。 
+			 break; 
+		} 
+	}
+}
 ~~~
