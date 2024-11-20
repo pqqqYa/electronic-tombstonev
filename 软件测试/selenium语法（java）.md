@@ -547,9 +547,9 @@ import java.io.File; import org.openqa.selenium.By; import org.openqa.selenium.W
 
 注：sendKeys 参数为文件的绝对路径，并且上传的文件一点要存在，否则会抛异常。
 
-# 第八章 控制浏览器操作[#](https://www.cnblogs.com/tester-ggf/p/12602211.html#1888150004)
+# 第八章 控制浏览器操作
 
-## 8.1.浏览器窗口操作[#](https://www.cnblogs.com/tester-ggf/p/12602211.html#2233783925)
+## 8.1.浏览器窗口操作
 
 WebDriver 给我们提供了一个 Window 对象，专门用于对窗口的设置。
 
@@ -569,7 +569,7 @@ Window 对象的方法有：
 |window.getSize()|获取窗口尺寸（宽和高），返回一个 Dimension 对象，通过该对象调用 getHeight() 和 getWidth() 来获取 高度和宽度。|
 |window.setSize(Dimension)|设置窗口大小，创建一个 Dimension 对象，设置对象的高度和宽度。|
 
-## 8.2.浏览器导航操作[#](https://www.cnblogs.com/tester-ggf/p/12602211.html#693396302)
+## 8.2.浏览器导航操作
 
 WebDriver 提供了 Navigation 对象来对浏览器进行导航操作，如：前进、后退、刷新等。
 
