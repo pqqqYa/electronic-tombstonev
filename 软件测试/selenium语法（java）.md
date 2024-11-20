@@ -1,3 +1,7 @@
+# 第零节 环境配置
+
+[selenium从软件下载到成功运行](https://youtu.be/cGZf8j6RIRU?si=Umikh0Q_BCp7dK6Y)
+
 # 第一节 八大元素定位
 
 - **为什么要进行元素定位？**
@@ -146,7 +150,7 @@ WebDriver 提供了一系列的 API 来和浏览器进行交互，如下：
 |getAttribute(attributeName)|获取元素对应的属性值|
 |getText()|获取元素文本值（元素可见状态下才能获取到）|
 |submit()|表单提交|
-## 3.3 代码演示
+## 2.3 代码演示
 
 ~~~java
 public class BaiduSearch { 
@@ -250,7 +254,7 @@ public WebElement getElement(long timeOutInSecond, By by) {
 return element;     
 }
 ~~~
-#### 6.3.1.ExpectedConditions类中常用方法
+#### 3.3.1.ExpectedConditions类中常用方法
 
 |方法|描述|
 |---|---|

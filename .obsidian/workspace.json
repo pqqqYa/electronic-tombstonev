@@ -156,13 +156,11 @@
               "title": "标签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 317.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de25160f7e193200",
+  "active": "162e003f4300a95e",
   "lastOpenFiles": [
     "README.md",
     "软件测试/selenium语法（java）.md",
