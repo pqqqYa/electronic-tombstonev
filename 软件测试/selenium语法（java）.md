@@ -253,7 +253,7 @@ return element;
 |invisibilityOfElementLocated(By locator)|判断某个元素中是否不存在于dom树或不可见；|
 |frameToBeAvailableAndSwitchToIt(By)|判断iframe可用，并且切换到iframe中|
 
-## 6.4.页面加载超时设置
+## 3.4.页面加载超时设置
 
 通过TimeOuts 对象进行全局页面加载超时的设置，该设置必须放置get 方法之前。如下代码：
 
@@ -264,9 +264,9 @@ driver.get("https://www.baidu.com");
 
 如果百度首页在超过5秒钟没有加载完毕，程序就会抛出异常，如果在 2秒就加载完了，就直接往下执行，如果需要对页面加载时间有要求的，可以用这个设置进行检验。
 
-# 第七章 特殊元素操作
+# 第四节 特殊元素操作
 
-## 7.1.弹出框处理（alert、confirm）
+## 4.1.弹出框处理（alert、confirm）
 
 操作alert、confirm弹出框，可以通过Alert 对象来进行操作，Alert类包含了确认、取消、输入和获取弹出窗内容。
 
@@ -295,7 +295,7 @@ alert.dismiss();
 
 注：如果弹出框不是 js 原生的 alert 弹窗，我们还是按照原来的获取元素的方法。
 
-## 7.2.iframe 切换
+## 4.2.iframe 切换
 
 有时候我们定位元素的时候，发现怎么都定位不了。 这时候你需要查一查你要定位的元素是否在iframe里面。
 
@@ -377,7 +377,7 @@ driver.switchTo().defaultContent();
 ~~~
 
 
-## 7.3.浏览器窗口的切换
+## 4.3.浏览器窗口的切换
 
 ​ 有时候后在操作浏览器，可能打开了一个新的窗口，这个时候如果要对新窗口的元素进行操作，需要切换到新窗口中去，怎么去切换呢？在 selenium 中有个叫**句柄**的概念。
 
@@ -414,7 +414,7 @@ public void switchWindow(String title){
 	} 
 }
 ~~~
-## 7.4.select 下拉框处理
+## 4.4.select 下拉框处理
 
 如果一个页面元素是一个下拉框（select），对应下拉框的操作，selenium有专门的类 Select 进行处理。其中包含了单选和多选下拉框的各种操作，如获得所有的选项、选择某一项、取消选中某一项、是否是多选下拉框等。
 
@@ -465,7 +465,7 @@ select.selectByVisibleText("B 北京");
 driver.quit();
 ~~~
 
-## 7.5.带 readonly 属性的元素操作[#](https://www.cnblogs.com/tester-ggf/p/12602211.html#2745676242)
+## 4.5.带 readonly 属性的元素操作[#](https://www.cnblogs.com/tester-ggf/p/12602211.html#2745676242)
 
 ​ 标签元素如果带有 readonly 属性，表示只读不能进行编辑，如果我们需要操作这样的元素，需要把这个 readonly 属性进行移除后，再进行操作。删除标签属性的话，webdriver 没有对应的 API，我们使用 JavaScript 脚本来进行操作。
 
@@ -492,7 +492,7 @@ train_date.clear();
 train_date.sendKeys("2020-03-30"); driver.quit();
 ~~~
 
-## 7.6.日期控件操作
+## 4.6.日期控件操作
 
 对于页面中出现时间控件选择时，一般分为两种：
 
@@ -512,7 +512,7 @@ js.executeScript(script);
 
 注：需要注意的是，不管使用哪种方式进行时间的赋值，一点要注意输入时间的格式是否符合系统的要求；
 
-## 7.7.文件上传
+## 4.7.文件上传
 
 对于通过input标签实现的上传功能，可以将其看作是一个输入框，即通过sendKeys()指定本地文件路径的方式实现文件上传。
 
@@ -562,9 +562,9 @@ public class UpFileDemo {
 
 注：sendKeys 参数为文件的绝对路径，并且上传的文件一点要存在，否则会抛异常。
 
-# 第八章 控制浏览器操作
+# 第五节 控制浏览器操作
 
-## 8.1.浏览器窗口操作
+## 5.1.浏览器窗口操作
 
 WebDriver 给我们提供了一个 Window 对象，专门用于对窗口的设置。
 
@@ -580,7 +580,7 @@ Window 对象的方法有：
 |window.getSize()|获取窗口尺寸（宽和高），返回一个 Dimension 对象，通过该对象调用 getHeight() 和 getWidth() 来获取 高度和宽度。|
 |window.setSize(Dimension)|设置窗口大小，创建一个 Dimension 对象，设置对象的高度和宽度。|
 
-## 8.2.浏览器导航操作
+## 5.2.浏览器导航操作
 
 WebDriver 提供了 Navigation 对象来对浏览器进行导航操作，如：前进、后退、刷新等。
 
@@ -595,9 +595,9 @@ Navigation 对象提供的方法：
 |navigate.back()|浏览器回退操作。|
 |navigate.forward()|浏览器前进操作。|
 
-# 第九章 模拟鼠标键盘操作
+# 第六节 模拟鼠标键盘操作
 
-## 9.1.模拟鼠标
+## 6.1.模拟鼠标
 
 在WebDriver中，关于鼠标的操作我们可以通过 Actions 类来模拟鼠标右击、双击、悬停、拖动等操作。
 
@@ -652,7 +652,7 @@ action.dragAndDrop(source,target).perform();
 // 释放鼠标 
 action.release().perform();
 ~~~
-## 9.2.模拟键盘
+## 6.2.模拟键盘
 
 在 selenium 中有个 Keys() 类（枚举类），提供了几乎键盘上所有按键的方法，在使用的过程中，我们可以通过 sendKeys() 方法来模拟键盘的输入，除此之外，我们还可以用它来输入键盘上的按键， 甚至是组合键， 如 Ctrl+A、 Ctrl+C 等。
 
@@ -715,7 +715,7 @@ public class Keyboard {
 
 记录：在 Actions 类中也有对应操作键盘的方法，例如：keyUp()、keyDown()等，但是我在实际使用中，并没有生效，不知道为何，从网上资料说是，不能直接对浏览器进行操作，只能对页面的元素进行键盘的模拟操作。
 
-# 第十章 操作javaScript代码
+# 第七节 操作javaScript代码
 
 虽然WebDriver提供了操作浏览器的前进和后退方法，但对于浏览器滚动条并没有提供相应的操作方法。在这种情况下，就可以借助JavaScript来控制浏览器的滚动条。WebDriver提供了executeScript()方法来执行JavaScript代码。
 
