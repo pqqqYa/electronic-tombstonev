@@ -66,11 +66,24 @@
 - 通过tag name定位:`driver.findElement(By.tagName("input"))`
 - 通过xpath定位，xpath定位有N种写法，这里列几个常用写法:
 ~~~java
-driver.findElement(By.xpath("//*[@id='kw']")) // id定位 driver.findElement(By.xpath("//*[@name='wd']")) // 属性值定位 driver.findElement(By.xpath("//span[text()='按钮']")) // 文本定位 driver.findElement(By.xpath("//input[@class='s_ipt']")) // class属性定位 driver.findElement(By.xpath("/html/body/form/span/input")) // 绝对路径定位 driver.findElement(By.xpath("//span[@class='soutu-btn']/input")) // 相对路径定位 driver.findElement(By.xpath("//form[@id='form']/span/input")) driver.findElement(By.xpath("//input[@id='kw' and @name='wd']")) // 多组合属性定位 driver.findElement(By.xpath("//span[contains(text(),'按钮')]")) // 是否包含文本
+driver.findElement(By.xpath("//*[@id='kw']")) // id定位 
+driver.findElement(By.xpath("//*[@name='wd']")) // 属性值定位 
+driver.findElement(By.xpath("//span[text()='按钮']")) // 文本定位 
+driver.findElement(By.xpath("//input[@class='s_ipt']")) // class属性定位 
+driver.findElement(By.xpath("/html/body/form/span/input")) // 绝对路径定位 
+driver.findElement(By.xpath("//span[@class='soutu-btn']/input")) // 相对路径定位 
+driver.findElement(By.xpath("//form[@id='form']/span/input")) 
+driver.findElement(By.xpath("//input[@id='kw' and @name='wd']")) // 多组合属性定位 
+driver.findElement(By.xpath("//span[contains(text(),'按钮')]")) // 是否包含文本
 ~~~
 - 通过css定位，css定位有N种写法，这里列几个常用写法:
 ~~~java
-driver.findElement(By.cssSelector("#kw") // id定位 driver.findElement(By.cssSelector("[name=wd]") // name属性值定位 driver.findElement(By.cssSelector(".s_ipt") // class地位 driver.findElement(By.cssSelector("html > body > form > span > input") // css层级定位 driver.findElement(By.cssSelector("span.soutu-btn> input#kw") driver.findElement(By.cssSelector("form#form > span > input")
+driver.findElement(By.cssSelector("#kw") // id定位 
+driver.findElement(By.cssSelector("[name=wd]") // name属性值定位 
+driver.findElement(By.cssSelector(".s_ipt") // class地位 
+driver.findElement(By.cssSelector("html > body > form > span > input") // css层级定位 
+driver.findElement(By.cssSelector("span.soutu-btn> input#kw") 
+driver.findElement(By.cssSelector("form#form > span > input")
 ~~~
 假设页面上有一组文本链接。
 ~~~html
