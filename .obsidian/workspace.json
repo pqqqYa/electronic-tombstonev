@@ -156,7 +156,8 @@
               "title": "标签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,7 +174,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "162e003f4300a95e",
+  "active": "9e29a52a585c7e63",
   "lastOpenFiles": [
     "README.md",
     "软件测试/selenium语法（java）.md",
