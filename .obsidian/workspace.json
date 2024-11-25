@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/开放实验Zeto申请.md",
+                "file": "区块链/Transaction交易.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "开放实验Zeto申请"
+              "title": "Transaction交易"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "缓",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,14 +172,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de25160f7e193200",
+  "active": "7a3dee57a4518add",
   "lastOpenFiles": [
+    "区块链/Nodes-clients结点与计算机.md",
+    "区块链/Block区块.md",
+    "区块链/区块链知识点.md",
+    "项目/开放实验Zeto申请.md",
     "SWPU/西南石油大学研究生考试相关.md",
     "SWPU/925考点.md",
     "软件测试/selenium语法（java）.md",
     "项目/Zeto会议.md",
     "项目/开放实验Zeto分析.md",
-    "项目/开放实验Zeto申请.md",
     "项目/开放实验Zeto重点项目申请书.md",
     "项目/附件/action capabilities and skills.png",
     "项目/附件/实现思路11-17v1.jpg",
@@ -213,10 +216,8 @@
     "C语言/15. 排序.md",
     "面向对象程序设计/面向对象程序设计.md",
     "计算机视觉/计算机视觉.md",
-    "C语言/0. 面向考试的C语言不完全指北.md",
     "论文/附件/EI与SCI.png",
     "论文/附件/开源期刊与闭源期刊.png",
-    "未命名.md",
     "SWPU/附件/2024分数线.png",
     "pytorch/附件/池化层.png",
     "未命名.canvas"
