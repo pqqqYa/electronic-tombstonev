@@ -11,14 +11,12 @@
             "id": "de25160f7e193200",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "C语言/3. 运算符与表达式.md",
-                "mode": "source",
-                "source": false
+                "file": "英语/长难句分析.pdf"
               },
-              "icon": "lucide-file",
-              "title": "3. 运算符与表达式"
+              "icon": "lucide-file-text",
+              "title": "长难句分析"
             }
           }
         ]
@@ -159,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,6 +173,9 @@
   },
   "active": "de25160f7e193200",
   "lastOpenFiles": [
+    "C语言/3. 运算符与表达式.md",
+    "英语/长难句分析.pdf",
+    "英语",
     "C语言/1. 入门.md",
     "C语言/0. 面向考试的C语言不完全指北.md",
     "计算机网络/计算机网络.md",
@@ -204,7 +206,6 @@
     "软件测试/selenium语法（java）.md",
     "项目/Zeto会议.md",
     "项目/开放实验Zeto分析.md",
-    "项目/开放实验Zeto重点项目申请书.md",
     "项目/附件/action capabilities and skills.png",
     "项目/附件/实现思路11-17v1.jpg",
     "软件测试",
@@ -215,8 +216,6 @@
     "项目/附件/新建 Microsoft PowerPoint 演示文稿.pptx",
     "项目/附件/实现思路11-17v1_页面_2.jpg",
     "项目/附件/实现思路11-17v1_页面_1.jpg",
-    "项目/Automated Facial Expression and Speech Emotion.pdf",
-    "机器学习/附件",
     "机器学习/附件/对类似数据点进行聚类的机器学习模型.png",
     "SWPU/附件/2024分数线.png",
     "pytorch/附件/池化层.png",
