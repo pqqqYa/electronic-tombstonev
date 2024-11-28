@@ -11,12 +11,10 @@
             "id": "de25160f7e193200",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "英语/长难句分析.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "长难句分析"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -157,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 317.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,8 +170,9 @@
   },
   "active": "de25160f7e193200",
   "lastOpenFiles": [
-    "C语言/3. 运算符与表达式.md",
+    "英语/英语学习目录.md",
     "英语/长难句分析.pdf",
+    "C语言/3. 运算符与表达式.md",
     "英语",
     "C语言/1. 入门.md",
     "C语言/0. 面向考试的C语言不完全指北.md",
@@ -204,8 +202,6 @@
     "SWPU/西南石油大学研究生考试相关.md",
     "SWPU/925考点.md",
     "软件测试/selenium语法（java）.md",
-    "项目/Zeto会议.md",
-    "项目/开放实验Zeto分析.md",
     "项目/附件/action capabilities and skills.png",
     "项目/附件/实现思路11-17v1.jpg",
     "软件测试",
