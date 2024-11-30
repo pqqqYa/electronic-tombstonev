@@ -24,7 +24,7 @@ Praise the God of machine !
 13. [Paper](论文/基础知识.md)
 14. [selenium](软件测试/selenium语法（java）.md)
 15. [英语学习](英语/英语学习目录.md)
-
+16. [数据分析学习目录](数据分析/数据分析学习目录.md)
 
 
 
