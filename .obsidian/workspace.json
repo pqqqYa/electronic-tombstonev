@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vue/day02.md",
-                "mode": "source",
+                "file": "Vue/day01.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "day02"
+              "title": "day01"
             }
           }
         ]
@@ -103,10 +103,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vue/day02.md"
+                "file": "Vue/day01.md"
               },
               "icon": "lucide-list",
-              "title": "day02 的大纲"
+              "title": "day01 的大纲"
             }
           },
           {
@@ -134,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vue/day02.md",
+                "file": "Vue/day01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "day02 的出链列表"
+              "title": "day01 的出链列表"
             }
           },
           {
@@ -156,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,15 +175,15 @@
   },
   "active": "de25160f7e193200",
   "lastOpenFiles": [
-    "Vue/assets/1682039327858.png",
+    "Vue/智慧商城项目.md",
     "Vue/day02.md",
+    "Vue/assets/1682039327858.png",
     "Vue/day01.md",
     "数据分析/支持向量机Support Vector Machine.md",
     "Vue/day03.md",
     "Vue/day04.md",
     "Vue/day05.md",
     "Vue/day07.md",
-    "Vue/智慧商城项目.md",
     "Vue/day06.md",
     "Vue/assets/image-20230702155433790.png",
     "Vue/assets/image-20230624233945821.png",
