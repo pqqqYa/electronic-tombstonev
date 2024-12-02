@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Vue/day01.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "缓",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,15 +190,15 @@
   },
   "active": "ae660e95c2b0e3e8",
   "lastOpenFiles": [
-    "test.md",
-    "Vue/day01.md",
     "Vue/智慧商城项目.md",
+    "Vue/day05.md",
+    "Vue/day01.md",
+    "test.md",
     "Vue/day02.md",
     "Vue/assets/1682039327858.png",
     "数据分析/支持向量机Support Vector Machine.md",
     "Vue/day03.md",
     "Vue/day04.md",
-    "Vue/day05.md",
     "Vue/day07.md",
     "Vue/day06.md",
     "Vue/assets/image-20230702155433790.png",
