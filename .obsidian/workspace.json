@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "Vue/day01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "day01"
             }
           }
         ],
@@ -118,10 +118,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "Vue/day01.md"
               },
               "icon": "lucide-list",
-              "title": "test 的大纲"
+              "title": "day01 的大纲"
             }
           },
           {
@@ -190,8 +190,8 @@
   },
   "active": "ae660e95c2b0e3e8",
   "lastOpenFiles": [
-    "Vue/day01.md",
     "test.md",
+    "Vue/day01.md",
     "Vue/智慧商城项目.md",
     "Vue/day02.md",
     "Vue/assets/1682039327858.png",
