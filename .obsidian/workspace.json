@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "网络安全/信息与网络安全笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "信息与网络安全笔记"
             }
           }
         ]
@@ -103,10 +103,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "网络安全/信息与网络安全笔记.md"
               },
               "icon": "lucide-list",
-              "title": "test 的大纲"
+              "title": "信息与网络安全笔记 的大纲"
             }
           },
           {
@@ -155,8 +155,7 @@
               "title": "标签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,7 +172,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a3dee57a4518add",
+  "active": "162e003f4300a95e",
   "lastOpenFiles": [
     "README.md",
     "test.md",
