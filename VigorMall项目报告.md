@@ -79,7 +79,7 @@ vigor-mall 项目的主页视图。其功能涵盖展示商城主页诸多内容
 
 ## 3.7 人工智能客服模块
 
-
+运用 script setup 语法糖组织代码，引入 onMounted 生命周期钩子，还定义了 goBack 函数，达成返回上一页功能。在组件挂载后的操作里，于 onMounted 钩子中创建script 标签并设为异步加载，待脚本加载完毕，设定 window.embeddedChatbotConfig 对象，涵盖聊天机器人的 ID 与域名。其中聊天机器人使用chatbase进行机器人的训练，最后使用iframe即可使用VigorMall的专属客服。
 
 # 4 软件实现
 
