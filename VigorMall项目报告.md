@@ -28,39 +28,54 @@
 # 2 概要设计
 
 ## 2.1 项目概述
-vigor-mall元气商城，旨在为用户提供一个便捷的购物平台。项目采用 Vue.ts 作为前端框架，Pinia 作为状态管理库，Vite 作为构建工具，以及Vant4作为 UI 组件库。
-2. 功能模块
-用户管理：包括用户注册、登录、个人信息管理等功能。
-商品展示：展示商品信息，包括图片、价格、描述等。
-购物车：用户可以将商品添加到购物车，查看购物车中的商品，以及进行结算。
-订单管理：用户可以查看订单信息，包括订单状态、订单详情等。
-支付：提供多种支付方式，支持在线支付。
-后台管理：管理员可以管理商品、订单、用户等信息。
-3. 技术架构
-前端：Vue.js、Pinia、Vite、Element Plus、Vue Router
-后端：暂无（项目中未提及后端技术，可能是使用 API 与后端交互）
-数据库：暂无（项目中未提及数据库技术，可能是使用 API 与后端数据库交互）
-4. 界面设计
-主题：UI 设计参考了 鸿蒙开发者 页面，使用 Element Plus 组件库。
-颜色：主色调为 #EEEEEE，辅助色为 #2E6BDFDB。
-5. 开发环境
-IDE：Visual Studio Code
-操作系统：Windows
-Node.js 版本：14.17.0
-npm 版本：6.14.13
-6. 项目结构
-根目录：包含 .git/、.idea/、.vscode/、README.md、auto-imports.d.ts、components.d.ts、index.html、node_modules/、package-lock.json、package.json、public/、src/、tsconfig.app.json、tsconfig.json、tsconfig.node.json、vite.config.ts 等文件和文件夹。
-src 目录：包含 App.vue、components/、main.ts、router/、stores/、views/、vite-env.d.ts 等文件和文件夹。
-7. 关键代码
-main.ts：初始化 Vue 应用，引入 Pinia 和 Vue Router，并挂载应用。
-vite.config.ts：配置 Vite 构建工具，引入 Vue 插件、Vue Setup Extend 插件、AutoImport 插件和 Components 插件，并设置路径别名。
-App.vue：应用的根组件，包含路由视图和底部导航栏。
-8. 部署与运行
-部署：项目可以通过 npm run build 命令打包，生成的文件可以部署到服务器上。
-运行：项目可以通过 npm run serve 命令启动开发服务器，在本地运行。
-以上是 vigor-mall 项目的概要设计，涵盖了项目的功能模块、技术架构、界面设计、开发环境、项目结构、关键代码以及部署与运行等方面
+vigor-mall元气商城，旨在为用户提供一个便捷的购物平台。项目采用 Vue3作为前端框架，Pinia 作为状态管理库，Vite 作为构建工具，以及Vant4作为 UI 组件库。
+## 2.2 功能模块
+- 用户管理：包括用户注册、登录、个人信息管理等功能。
+- 商品展示：展示商品信息，包括图片、价格、描述等。
+- 购物车：用户可以将商品添加到购物车，查看购物车中的商品，以及进行结算。
+- 订单管理：用户可以查看订单信息，包括订单状态、订单详情等。
+- 后台管理：可对用户信息进行管理
+
+## 2.3 技术架构
+- 前端：Vue3、Pinia、Vite6、Vant4、Vue Router
+- 后端：SpringBoot
+- 数据库：MySQL数据库
+
+## 2.4 界面设计
+- 主题：UI 设计参考了华为商城、vivo商场、淘宝、京东，使用Vant4组件库。
+- 颜色：主色调为 `#EEEEEE`，辅助色为 `#2E6BDFDB`。
+
+## 2.5 开发环境
+- IDE：Visual Studio Code、Jetbrain WebStorm
+- 操作系统：Windows 11
+- Node.js 版本：14.17.0
+- npm 版本：6.14.13
 
 # 3 详细设计
+
+## 3.1 商品推荐模块
+
+## 3.2 商品搜索模块
+
+## 3.3 商品展示模块
+
+## 3.4 短视频导购模块
+
+## 3.5 购物车模块
+
+## 3.6 商品结算模块
+
+## 3.7 登录注销模块
+
+## 3.8 信息管理模块
+
+### 3.8.1 订单详情模块
+
+### 3.8.2 软件设置模块
+
+## 3.9 人工智能客服模块
+
+
 
 # 4 软件实现
 
