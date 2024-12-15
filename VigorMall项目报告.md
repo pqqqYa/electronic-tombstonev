@@ -38,7 +38,7 @@ vigor-mall元气商城，旨在为用户提供一个便捷的购物平台。项�
 
 ## 2.3 技术架构
 - 前端：Vue3、Pinia、Vite6、Vant4、Vue Router
-- 后端：SpringBoot
+- 后端：SpringBoot、mybatis
 - 数据库：MySQL数据库
 
 ## 2.4 界面设计
@@ -53,7 +53,7 @@ vigor-mall元气商城，旨在为用户提供一个便捷的购物平台。项�
 
 # 3 详细设计
 
-## 3.1 商品推荐模块
+## 3.1 首页模块
 
 ## 3.2 商品搜索模块
 
