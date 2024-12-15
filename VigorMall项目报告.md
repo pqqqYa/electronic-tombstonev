@@ -53,27 +53,31 @@ vigor-mall元气商城，旨在为用户提供一个便捷的购物平台。项�
 
 # 3 详细设计
 
-## 3.1 首页模块
+## 3.1 首页模块模块
+
+vigor-mall 项目的主页视图。其功能涵盖展示商城主页诸多内容，像顶部搜索栏、轮播图、推荐与分类商品等，用户借此可浏览、搜索商品并查看详情。组件结构方面，模板部分运用 van-sticky 固定顶部搜索栏，van-tabs 实现标签页切换对应商品分类，van-swipe 展示轮播图，van-grid 展示推荐商品，还有自定义组件 Commodity 展示单个商品；脚本部分引入 useFunctionStore 与 useFreightStore 获取全局数据，用 ref 定义 nav 控制标签页激活状态，且有 onClickScan 和 toSearch 等方法处理搜索栏点击事件；样式部分采用 scoped 避免冲突，还有 fix-grid 和 freight-container 等全局样式统一布局与样式。数据交互上，借助 useFunctionStore 和 useFreightStore 与全局状态管理交互获取数据，通过 v-model 绑定 nav 切换标签页，v-for 循环渲染商品列表与推荐商品。
 
 ## 3.2 商品搜索模块
 
-## 3.3 商品展示模块
+作为商城搜索功能展示页面，涵盖顶部搜索栏、搜索历史、建议与结果等。用户在此可输入关键词，查看结果并筛选、购买商品。在组件结构上，模板部分利用 van-sticky 固定顶部搜索栏，van-tabs 切换不同结果分类标签页，van-swipe 展示搜索历史与建议，van-grid 展示结果，还有自定义 Commodity 展示单个商品；脚本部分引入 useSearchStore 获取全局数据，用 ref 定义 searchInput 等响应式变量控制搜索框等状态，且有 onClickback 等方法处理点击、搜索、清除及结果过滤等事件；样式部分采用 scoped 避免冲突，还有 fix-grid 等全局样式统一商品展示布局与样式。数据交互方面，借助 useSearchStore 与全局管理交互获取相关数据，通过 v-model 绑定 searchInput 实现搜索框操作，v-for 循环渲染搜索历史、建议与结果列表，从而构建起功能完备的搜索界面体系。
 
-## 3.4 短视频导购模块
+## 3.3 短视频导购模块
 
-## 3.5 购物车模块
+此页面组件用于展示视频，主要由多个部分构成。视频播放器借助video标签呈现视频，利用 ref 获取引用以在脚本中操控播放，同时借助 @touchstart 和 @touchend 监听触摸操作来控制播放，依据宽高比设 object-fit 属性保证不同屏幕显示正常。导航栏居顶部，含“逛逛”等多个导航项，通过 v-for 循环渲染，@click 监听点击实现切换页面内容功能。迷你商品组件可接收父组件数据展示商品信息；点赞组件能让用户点赞，ref 获取引用，@touchstart 和 @touchend 监听触摸实现操作；消息组件展示用户消息互动，接收父组件数据展示；收藏组件供用户收藏视频，ref 控收藏状态，@touchstart 和 @touchend 监听触摸操作；分享组件用于分享视频，ref 控分享功能，@touchstart 和 @touchend 监听触摸实现分享，各组件协同构建起功能丰富的视频展示页面。
 
-## 3.6 商品结算模块
+## 3.4 购物车模块
 
-## 3.7 登录注销模块
+购物车头部运用van-sticky组件固定于页面顶部，借助CartHeader组件展示相关信息。商品列表通过 v-for 循环 cartStore.shopList，为各店铺创建shop-section元素，以ShopCard组件展示商品，利用 :shop、:selected-goods 属性绑定数据，@update-total-price 和 @update-selected-goods 事件监听更新。结算底部使用SettleFee组件，以 :total-price 属性绑定 totalPrice 变量，@click 事件监听点击并调用 navigateToCheckout 方法结算。精彩推荐依靠fix-div-2和fix-title组件呈现标题。推荐商品则使用freight-container组件展示列表，经 v-for 循环 searchStore.recommendList，用Commodity组件展示每个推荐商品信息，各部分相互配合构建完整购物车页面。
+## 3.5 登录注销模块
 
-## 3.8 信息管理模块
+该用户登录页面组件结构清晰。顶部导航栏采用van-nav-bar组件，标题设为“登录”且含返回按钮，其文本、图标及点击返回逻辑均有相应设置，点击可调用 goBack 法回上页。登录容器以login-container构建，通过多种样式设置实现垂直弹性布局、元素居中向上对齐、特定高度及内边距、背景、边框等样式。登录表单由form @submit.prevent="onSubmit" class="login-form达成，能阻止默认提交并调用 onSubmit 登录。表单输入项借助form-item实现水平弹性布局与元素居中，含form-label标签与input输入框并绑定数据。登录按钮为"submit-button类型为提交且有特定样式，点击可调用 onSubmit 方法执行登录操作，各部分协同构建完整登录页面组件。
 
-### 3.8.1 订单详情模块
+## 3.6 信息管理模块
 
-### 3.8.2 软件设置模块
+在用户订单管理方面，通过 Order文件实现。该文件使用了TypeScript的响应式组件，引入了 useOrderStore 和 useSearchStore 两个 store，分别用于管理订单数据和搜索数据。页面主要分为两部分：订单列表和今日推荐。订单列表部分使用了 van-tabs 组件来展示不同状态的订单，如全部订单、待付款、待发货、待收货和待评价。每个订单状态下使用 v-for 循环遍历对应的订单数据，并使用 van-card 组件展示订单详情。今日推荐部分则使用了 Commodity 组件来展示推荐的商品列表。
+在用户设置管理方面，通过 Setting文件实现。该文件同样使用了 TypeScript的响应式组件，引入了 useRouter 用于路由跳转。页面主要分为两部分：设置列表和操作按钮。设置列表部分使用了 van-cell 组件展示了多个设置选项，如我的收货地址、授权管理、问题反馈、联系我们和关于 VigorMall。操作按钮部分使用了 van-button 组件提供了退出登录的功能。
 
-## 3.9 人工智能客服模块
+## 3.7 人工智能客服模块
 
 
 
