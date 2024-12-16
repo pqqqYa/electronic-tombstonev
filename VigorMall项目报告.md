@@ -43,16 +43,6 @@ vigor-mall元气商城，旨在为用户提供一个便捷的购物平台。项�
 - 后端：SpringBoot、mybatis
 - 数据库：MySQL数据库
 
-## 2.4 界面设计
-- 主题：UI 设计参考了华为商城、vivo商场、淘宝、京东等，使用Vant4组件库。
-- 颜色：主色调为 `#EEEEEE`，辅助色为 `#2E6BDFDB`。
-
-## 2.5 开发环境
-
-- IDE：Visual Studio Code、Jetbrain WebStorm
-- 操作系统：Windows 11
-- Node.js 版本：14.17.0
-- npm 版本：6.14.13
 
 # 3 详细设计
 

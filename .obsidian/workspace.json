@@ -20,7 +20,13 @@
               "icon": "lucide-file",
               "title": "VigorMall项目报告"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "d8c32339790edc29",
+        "type": "tabs",
+        "children": [
           {
             "id": "1b6db8b588e90ffa",
             "type": "leaf",
@@ -35,8 +41,7 @@
               "title": "VigorBill项目报告"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.50152587890625
+    "width": 229.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "efa81811cf5e4789",
