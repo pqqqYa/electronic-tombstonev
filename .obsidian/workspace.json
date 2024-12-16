@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "VigorMall项目报告.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -34,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "VigorBill项目报告.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -194,10 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "457c6fa5f416a308",
+  "active": "1b6db8b588e90ffa",
   "lastOpenFiles": [
-    "VigorBill项目报告.md",
     "VigorMall项目报告.md",
+    "VigorBill项目报告.md",
     "README.md",
     "网络安全/信息与网络安全笔记.md",
     "test.md",
