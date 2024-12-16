@@ -60,7 +60,7 @@ vigor-mall 的首页模块涵盖展示商城主页诸多内容，像顶部搜索
 
 ## 3.4 购物车模块
 
-购物车模块涵盖商品展示、商品添加、物品数量调整、价格计算、选中物品结算以及邮寄地址选择等功能，购物车头部运用van-sticky组件固定于页面顶部，借助CartHeader组件展示相关信息。商品列表通过 v-for 循环 cartStore.shopList，为各店铺创建shop-section元素，以ShopCard组件展示商品，利用 :shop、:selected-goods 属性绑定数据，@update-total-price 和 @update-selected-goods 事件监听更新。结算底部使用SettleFee组件，以 :total-price 属性绑定 totalPrice 变量，@click 事件监听点击并调用 navigateToCheckout 方法结算。精彩推荐依靠fix-div-2和fix-title组件呈现标题。推荐商品则使用freight-container组件展示列表，经 v-for 循环 searchStore.recommendList，用Commodity组件展示每个推荐商品信息。
+购物车模块涵盖商品展示、商品添加、物品数量调整、价格计算、选中物品结算以及邮寄地址选择等功能，购物车头部运用van-sticky组件固定于页面顶部，借助CartHeader组件展示相关信息。商品列表通过 v-for 循环 cartStore.shopList，为各店铺创建shop-section元素，以ShopCard组件展示商品，利用 :shop:selected-goods 属性绑定数据，@update-total-price 和 @update-selected-goods 事件监听更新。结算底部使用SettleFee组件，以 :total-price 属性绑定 totalPrice 变量，@click 事件监听点击并调用 navigateToCheckout 方法结算。精彩推荐依靠fix-div-2和fix-title组件呈现标题。推荐商品则使用freight-container组件展示列表，经 v-for 循环 searchStore.recommendList，用Commodity组件展示每个推荐商品信息。
 ## 3.5 登录注销模块
 
 登录注销模块涵盖了登录登出功能，顶部导航栏采用van-nav-bar组件，标题栏含返回按钮，其文本、图标及点击返回逻辑均有相应设置，点击可调用 goBack 法回上页。登录容器以login-container构建，通过多种样式设置实现垂直弹性布局、元素居中向上对齐、特定高度及内边距、背景、边框等样式。登录表单由form @submit.prevent="onSubmit" class="login-form达成，能阻止默认提交并调用 onSubmit 登录。表单输入项借助form-item实现水平弹性布局与元素居中，含form-label标签与input输入框并绑定数据。登录按钮为"submit-button类型为提交且有特定样式，点击可调用 onSubmit 方法执行登录操作；在脚本部分使用axios借助后端提供的接口实现用户信息传递与交互。
