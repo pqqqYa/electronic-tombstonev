@@ -53,15 +53,19 @@ VigorBill元气账单，旨在为用户提供一个便捷的记账软件。项�
 
 ## 3.1 首页模块
 
-
+首页模块主要负责展示用户的收支信息和提供一些操作功能。通过导入必要的模块和组件，定义了一些状态变量来管理数据，并在页面显示时从数据库中获取所有的收支信息，计算总收入和总余额，然后更新状态变量。页面布局包含一个标题栏、一个 BalanceViewer 组件、一个 PageEntries 组件和一个 BalanceList 组件。BalanceViewer 组件用于展示当前日期的收支信息，PageEntries 组件用于提供页面导航功能，BalanceList 组件用于展示收支列表。并定义了clearCache 方法用于清除总收入和总余额的缓存，以及onPageShow 方法用于在页面显示时处理数据获取和更新
 
 ## 3.2 账单模块
 
+账单模块旨在展示与管理用户账单信息，具备展示年度、月度账单信息，提供日期选择功能以及进行数据获取和处理等功能，其运用了@ohos_router页面导航和路由管理，@ohos_common通用工具类和常量，@Entry与@Component定义页面入口与组件结构，@State定义组件状态，还有DatePickerDialog实现日期选择，List和ForEach用于展示遍历数据列表，GridRow和GridCol用于构建网格布局。
+
 ## 3.3 记账模块
+
+记账模块主要负责添加收支记录，页面由顶部导航栏（含收支类型切换与取消按钮，借助 Stack、Column、Row 组件构建布局）、收支类型图标区（通过 GridRow、GridCol 与 ForEach 循环展示图标并实现点击选类型及动画效果）、输入框（TextInput 组件输入收支金额与备注并利用 onChange 事件更新状态）和日期选择器（Text 展示日期，onClick 触发 DatePickerDialog 选择日期并更新相关状态）几部分构成。
 
 ## 3.4 开发者展示模块
 
-
+开发者展示模块主要用于展示应用程序的版权信息和开发者信息。该模块通过使用 @Entry 和 @Component 装饰器，定义 Copyright 结构体，包含一个 build 方法，用于构建用户界面。在 build 方法中，使用Row 和 Column 组件来布局界面。使用一个 Image 组件来显示应用程序的图标，并设置了图标的宽度、高度和边框样式。使用了多个 Text 组件来展示开发者的姓名、邮箱和其他相关信息。
 
 # 4 软件实现
 
