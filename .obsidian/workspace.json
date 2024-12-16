@@ -118,10 +118,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "网络安全/信息与网络安全笔记.md"
+                "file": "Temp/基于卷积神经网络实现蔬果识别.md"
               },
               "icon": "lucide-list",
-              "title": "信息与网络安全笔记 的大纲"
+              "title": "基于卷积神经网络实现蔬果识别 的大纲"
             }
           },
           {
@@ -170,12 +170,12 @@
               "title": "标签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 317.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,7 +188,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3cec7225a7280ef6",
+  "active": "9e29a52a585c7e63",
   "lastOpenFiles": [
     "Temp/VigorMall项目报告.md",
     "Temp/基于卷积神经网络实现蔬果识别.md",
