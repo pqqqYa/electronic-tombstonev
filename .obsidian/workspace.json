@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.50152587890625
+    "width": 229.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -176,6 +177,9 @@
   },
   "active": "3eb6c692f4bd9e92",
   "lastOpenFiles": [
+    "人工智能基础/思维导图",
+    "人工智能基础/思维导图/Kmeans.emmx",
+    "人工智能基础/Kmeans.emmx.qHcgEg",
     "人工智能基础/附件/肘部算法.png",
     "人工智能基础/附件/K均值算法.png",
     "人工智能基础/附件",
@@ -203,7 +207,6 @@
     "Vue/images/image-20231218085906380.png",
     "Vue/images/image-20231119185900990.png",
     "Vue/images/image-20231018144351536.png",
-    "Vue/images/count.png",
     "Vue/images",
     "Vue/Vue3快速上手.md",
     "Vue/Vue3",
@@ -220,8 +223,6 @@
     "Vue/basic.md",
     "Vue",
     "数据分析/回归技术Regression Technique.md",
-    "英语/基础语法概念.pdf",
-    "计算机三级/大题(饭) 1.pdf",
     "未命名.canvas"
   ]
 }
