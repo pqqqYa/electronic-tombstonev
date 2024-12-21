@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.50152587890625,
-    "collapsed": true
+    "width": 229.50152587890625
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -161,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,7 +174,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3eb6c692f4bd9e92",
+  "active": "7a3dee57a4518add",
   "lastOpenFiles": [
     "软件测试/思维导图.md",
     "软件测试/期末总结.md",
