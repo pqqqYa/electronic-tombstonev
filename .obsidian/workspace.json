@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.50152587890625
+    "width": 229.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -174,7 +175,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a3dee57a4518add",
+  "active": "3eb6c692f4bd9e92",
   "lastOpenFiles": [
     "软件测试/思维导图.md",
     "软件测试/期末总结.md",
