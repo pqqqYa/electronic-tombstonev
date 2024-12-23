@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temp/iWebShop商城系统测试计划书.md",
+                "file": "软件测试/思维导图.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "iWebShop商城系统测试计划书"
+              "title": "思维导图"
             }
           }
         ]
@@ -176,6 +176,9 @@
   },
   "active": "3eb6c692f4bd9e92",
   "lastOpenFiles": [
+    "Temp/VigorBill项目报告.md",
+    "Temp/基于卷积神经网络实现蔬果识别.md",
+    "Temp/iWebShop商城系统测试计划书.md",
     "软件测试/期末总结.md",
     "软件测试/思维导图.md",
     "Temp/公式回顾.md",
@@ -186,11 +189,8 @@
     "人工智能基础/附件/肘部算法.png",
     "人工智能基础/附件/K均值算法.png",
     "人工智能基础/附件",
-    "Temp/iWebShop商城系统测试计划书.md",
     "人工智能基础",
-    "Temp/VigorBill项目报告.md",
     "Temp/VigorMall项目报告.md",
-    "Temp/基于卷积神经网络实现蔬果识别.md",
     "Temp",
     "杂记/杂记menu.md",
     "README.md",
