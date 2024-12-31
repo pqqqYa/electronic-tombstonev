@@ -3,7 +3,8 @@
   "attachmentFolderPath": "./附件",
   "showLineNumber": true,
   "pdfExportSettings": {
-    "pageSize": "Letter",
+    "includeName": true,
+    "pageSize": "A4",
     "landscape": false,
     "margin": "1",
     "downscalePercent": 100
