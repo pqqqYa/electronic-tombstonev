@@ -156,13 +156,11 @@
               "title": "标签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3eb6c692f4bd9e92",
+  "active": "162e003f4300a95e",
   "lastOpenFiles": [
     "软件测试/附件/程序流程图转化为控制流程图.jpg",
     "软件测试/期末总结.md",
