@@ -156,7 +156,8 @@
               "title": "标签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,10 +174,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "162e003f4300a95e",
+  "active": "3eb6c692f4bd9e92",
   "lastOpenFiles": [
-    "软件测试/附件/程序流程图转化为控制流程图.jpg",
+    "软件测试/selenium语法（java）.md",
+    "软件测试/复习知识点.md",
     "软件测试/期末总结.md",
+    "软件测试/附件/程序流程图转化为控制流程图.jpg",
     "软件测试/思维导图/软件测试考试内容.emmx.RitLFU",
     "软件测试/课程录音.docx",
     "软件测试/思维导图/软件测试考试内容.emmx",
@@ -190,7 +193,6 @@
     "Temp/VigorBill项目报告.md",
     "Temp/VigorMall项目报告.md",
     "Temp/iWebShop商城系统测试计划书.md",
-    "软件测试/复习知识点.md",
     "软件测试/思维导图.md",
     "人工智能基础/Kmeans.md",
     "人工智能基础/思维导图",
