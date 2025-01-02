@@ -161,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,6 +177,7 @@
   },
   "active": "3eb6c692f4bd9e92",
   "lastOpenFiles": [
+    "软件测试/附件/独立路径与环形复杂度.jpg",
     "软件测试/selenium语法（java）.md",
     "软件测试/复习知识点.md",
     "软件测试/期末总结.md",
@@ -221,7 +223,6 @@
     "Vue/day02.md",
     "数据分析/支持向量机Support Vector Machine.md",
     "Vue/day03.md",
-    "Vue/day04.md",
     "未命名.canvas"
   ]
 }
