@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temp/软件测试考点.md",
+                "file": "软件测试/期末总结.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "软件测试考点"
+              "title": "期末总结"
             }
           }
         ]
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.50152587890625,
-    "collapsed": true
+    "width": 229.50152587890625
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -175,16 +174,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3eb6c692f4bd9e92",
+  "active": "7a3dee57a4518add",
   "lastOpenFiles": [
+    "软件测试/附件/Pasted image 20250102085206.png",
+    "软件测试/期末总结.md",
+    "软件测试/附件",
+    "Temp/软件测试考点.md",
     "Temp/基于卷积神经网络实现蔬果识别.md",
     "Temp/VigorBill项目报告.md",
     "Temp/VigorMall项目报告.md",
-    "Temp/软件测试考点.md",
     "Temp/iWebShop商城系统测试计划书.md",
     "软件测试/复习知识点.md",
     "软件测试/思维导图.md",
-    "软件测试/期末总结.md",
     "人工智能基础/Kmeans.md",
     "人工智能基础/思维导图",
     "人工智能基础/思维导图/Kmeans.emmx",
@@ -210,7 +211,6 @@
     "Vue/images/pinia_example.gif",
     "Vue/images/image-20231218085906380.png",
     "Vue/images/image-20231119185900990.png",
-    "Vue/images/image-20231018144351536.png",
     "Vue/images",
     "Vue/Vue3快速上手.md",
     "Vue/Vue3",
@@ -221,8 +221,6 @@
     "数据分析/支持向量机Support Vector Machine.md",
     "Vue/day03.md",
     "Vue/day04.md",
-    "Vue/day07.md",
-    "Vue/assets",
     "未命名.canvas"
   ]
 }
