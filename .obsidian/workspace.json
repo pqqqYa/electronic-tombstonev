@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.50152587890625,
-    "collapsed": true
+    "width": 229.50152587890625
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -177,6 +176,7 @@
   },
   "active": "3eb6c692f4bd9e92",
   "lastOpenFiles": [
+    "软件测试/附件/程序流程图转化为控制流程图.jpg",
     "软件测试/附件/Pasted image 20250102093314.png",
     "软件测试/附件/Pasted image 20250102085206.png",
     "软件测试/期末总结.md",
@@ -212,7 +212,6 @@
     "Vue/images/volar.png",
     "Vue/images/pinia_example.gif",
     "Vue/images/image-20231218085906380.png",
-    "Vue/images/image-20231119185900990.png",
     "Vue/images",
     "Vue/Vue3快速上手.md",
     "Vue/Vue3",
