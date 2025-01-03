@@ -161,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,8 +177,9 @@
   },
   "active": "3eb6c692f4bd9e92",
   "lastOpenFiles": [
-    "软件测试/selenium语法（java）.md",
+    "软件测试/思维导图.md",
     "软件测试/期末总结.md",
+    "软件测试/selenium语法（java）.md",
     "软件测试/附件/独立路径与环形复杂度.jpg",
     "软件测试/复习知识点.md",
     "软件测试/附件/程序流程图转化为控制流程图.jpg",
@@ -194,7 +196,6 @@
     "Temp/VigorBill项目报告.md",
     "Temp/VigorMall项目报告.md",
     "Temp/iWebShop商城系统测试计划书.md",
-    "软件测试/思维导图.md",
     "人工智能基础/Kmeans.md",
     "人工智能基础/思维导图",
     "人工智能基础/思维导图/Kmeans.emmx",
