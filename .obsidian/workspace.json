@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.50152587890625,
-    "collapsed": true
+    "width": 229.50152587890625
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -177,8 +176,9 @@
   },
   "active": "3eb6c692f4bd9e92",
   "lastOpenFiles": [
-    "软件测试/思维导图.md",
+    "软件测试/试卷.md",
     "软件测试/期末总结.md",
+    "软件测试/思维导图.md",
     "软件测试/selenium语法（java）.md",
     "软件测试/附件/独立路径与环形复杂度.jpg",
     "软件测试/复习知识点.md",
