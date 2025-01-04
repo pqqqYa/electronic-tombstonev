@@ -50,8 +50,17 @@
       "name": "Bibliography"
     }
   ],
-  "defaultExportDirectoryMode": "Auto",
-  "openExportedFile": true,
+  "defaultExportDirectoryMode": "Custom",
+  "openExportedFile": false,
   "env": {},
-  "showExportProgressBar": true
+  "showExportProgressBar": true,
+  "showOverwriteConfirmation": true,
+  "lastExportDirectory": {
+    "win32": "C:\\Users\\ASUS\\Downloads"
+  },
+  "lastExportType": "Word (.docx)",
+  "customDefaultExportDirectory": {
+    "win32": "C:\\Users\\ASUS\\Downloads"
+  },
+  "openExportedFileLocation": true
 }
