@@ -2,5 +2,9 @@
   "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-solarized-light",
   "blue-topaz-theme@@left-ribbon-style": "default-left-ribbon-style",
   "blue-topaz-theme@@scrollbar-style-option": "default-scrollbar",
-  "things-style@@h2-color": "#000000"
+  "things-style@@h2-color": "#000000",
+  "things-style@@h3-color": "#000000",
+  "things-style@@h4-color": "#000000",
+  "things-style@@h5-color": "#000000",
+  "things-style@@strong-color": "#2B4AA8"
 }
