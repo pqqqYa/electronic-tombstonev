@@ -19,7 +19,8 @@
       "name": "PDF"
     },
     {
-      "name": "Word (.docx)"
+      "name": "Word (.docx)",
+      "openExportedFileLocation": true
     },
     {
       "name": "OpenOffice"
@@ -49,11 +50,8 @@
       "name": "Bibliography"
     }
   ],
-  "defaultExportDirectoryMode": "Custom",
+  "defaultExportDirectoryMode": "Auto",
   "openExportedFile": true,
   "env": {},
-  "showExportProgressBar": true,
-  "customDefaultExportDirectory": {
-    "win32": "C:\\Users\\ASUS\\Downloads"
-  }
+  "showExportProgressBar": true
 }
