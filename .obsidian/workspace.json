@@ -6,7 +6,6 @@
       {
         "id": "56f65c9a009a639e",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "9a0dad1daf14f604",
@@ -21,14 +20,7 @@
               "icon": "lucide-file",
               "title": "考试题目预测"
             }
-          }
-        ]
-      },
-      {
-        "id": "d28bf897aec801c8",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
+          },
           {
             "id": "3eb6c692f4bd9e92",
             "type": "leaf",
@@ -43,7 +35,8 @@
               "title": "期末总结"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,10 +119,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软件测试/期末总结.md"
+                "file": "软件测试/考试题目预测.md"
               },
               "icon": "lucide-list",
-              "title": "期末总结 的大纲"
+              "title": "考试题目预测 的大纲"
             }
           },
           {
@@ -196,8 +189,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3eb6c692f4bd9e92",
+  "active": "9a0dad1daf14f604",
   "lastOpenFiles": [
+    "软件测试/期末总结.md",
     "软件测试/考试题目预测.md",
     "软件测试/~$课程录音.docx",
     "软件测试/附件/独立路径与环形复杂度.jpg",
@@ -210,7 +204,6 @@
     "软件测试/附件/弱健壮等价类.png",
     "软件测试/附件/弱一般等价类.png",
     "软件测试/附件/强健壮等价类.png",
-    "软件测试/期末总结.md",
     "软件测试/试卷.md",
     "软件测试/思维导图.md",
     "软件测试/selenium语法（java）.md",
