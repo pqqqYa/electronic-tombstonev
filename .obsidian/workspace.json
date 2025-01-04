@@ -119,10 +119,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软件测试/考试题目预测.md"
+                "file": "软件测试/期末总结.md"
               },
               "icon": "lucide-list",
-              "title": "考试题目预测 的大纲"
+              "title": "期末总结 的大纲"
             }
           },
           {
@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,10 +190,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a0dad1daf14f604",
+  "active": "3eb6c692f4bd9e92",
   "lastOpenFiles": [
-    "软件测试/期末总结.md",
     "软件测试/考试题目预测.md",
+    "软件测试/期末总结.md",
     "软件测试/~$课程录音.docx",
     "软件测试/附件/独立路径与环形复杂度.jpg",
     "软件测试/附件/程序流程图转化为控制流程图.jpg",
