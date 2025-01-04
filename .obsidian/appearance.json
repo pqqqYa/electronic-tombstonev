@@ -1,5 +1,6 @@
 {
   "cssTheme": "Things",
   "accentColor": "",
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "theme": "moonstone"
 }
