@@ -126,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软件测试/考试题目预测.md"
+                "file": "软件测试/期末总结.md"
               },
               "icon": "lucide-list",
-              "title": "考试题目预测 的大纲"
+              "title": "期末总结 的大纲"
             }
           },
           {
@@ -196,12 +196,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a0dad1daf14f604",
+  "active": "3eb6c692f4bd9e92",
   "lastOpenFiles": [
+    "软件测试/考试题目预测.md",
     "软件测试/~$课程录音.docx",
     "软件测试/附件/独立路径与环形复杂度.jpg",
     "软件测试/附件/程序流程图转化为控制流程图.jpg",
-    "软件测试/考试题目预测.md",
     "软件测试/附件/控制流图导出的强连通图.png",
     "软件测试/附件/强一般等价类.png",
     "软件测试/附件/软件测试的4级.png",
@@ -230,7 +230,6 @@
     "人工智能基础/思维导图/Kmeans.emmx",
     "人工智能基础/Kmeans.emmx.qHcgEg",
     "人工智能基础/附件",
-    "人工智能基础",
     "杂记/杂记menu.md",
     "README.md",
     "网络安全/信息与网络安全笔记.md",
