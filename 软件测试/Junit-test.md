@@ -164,7 +164,6 @@ public void testIsPalindrome() {
   - 非回文字符串。
   - 输入 `null` 的处理。
 
----
 
 #### **4. 测试 `capitalize` 方法**
 
