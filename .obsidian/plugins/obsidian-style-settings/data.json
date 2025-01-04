@@ -6,5 +6,7 @@
   "things-style@@h3-color": "#000000",
   "things-style@@h4-color": "#000000",
   "things-style@@h5-color": "#000000",
-  "things-style@@strong-color": "#2B4AA8"
+  "things-style@@strong-color": "#2B4AA8",
+  "things-style@@default-font-color": false,
+  "things-style@@active-line": false
 }
