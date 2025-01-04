@@ -1,6 +1,7 @@
 {
-  "cssTheme": "",
+  "cssTheme": "Blue Topaz",
   "accentColor": "",
   "baseFontSizeAction": false,
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "nativeMenus": false
 }
