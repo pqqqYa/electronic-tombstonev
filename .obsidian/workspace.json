@@ -13,6 +13,46 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "软件测试/期末总结.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "期末总结"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9186b54c16cc9e93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be3b4873d6a36100",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "软件测试/考试题目预测.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "考试题目预测"
+            }
+          }
+        ]
+      },
+      {
+        "id": "112bc27f0a88a75e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fedd4323ce341781",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "软件测试/PPT红字.md",
                 "mode": "source",
                 "source": false
@@ -77,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -103,10 +144,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软件测试/PPT红字.md"
+                "file": "软件测试/期末总结.md"
               },
               "icon": "lucide-list",
-              "title": "PPT红字 的大纲"
+              "title": "期末总结 的大纲"
             }
           },
           {
@@ -160,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,10 +215,13 @@
   "active": "00d18812a6cd3d7a",
   "lastOpenFiles": [
     "软件测试/PPT红字.md",
-    "软件测试/何-PPT重点.md",
-    "软件测试/期末总结.md",
-    "Vue/Vue3.md",
     "软件测试/考试题目预测.md",
+    "软件测试/期末总结.md",
+    "Temp/test.md",
+    "软件测试/思维导图/软件测试复习汇总.emmx",
+    "软件测试/思维导图/软件测试考试内容 - 副本.emmx",
+    "软件测试/何-PPT重点.md",
+    "Vue/Vue3.md",
     "软件测试/划重点录音文本.md",
     "论文/基础知识.md",
     "软件测试/附件/强一般等价类.png",
@@ -209,15 +254,12 @@
     "Temp/iWebShop商城系统测试计划书.md",
     "人工智能基础/Kmeans.md",
     "人工智能基础/思维导图",
-    "人工智能基础/思维导图/Kmeans.emmx",
-    "人工智能基础/Kmeans.emmx.qHcgEg",
     "杂记/杂记menu.md",
     "README.md",
     "网络安全/信息与网络安全笔记.md",
     "test.md",
     "git/git命令.md",
     "Vue/配置插件.md",
-    "test.md",
     "未命名.canvas"
   ]
 }
