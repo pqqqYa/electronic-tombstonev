@@ -6,6 +6,7 @@
       {
         "id": "43326fc9d6d39bdf",
         "type": "tabs",
+        "dimension": 50.23419203747073,
         "children": [
           {
             "id": "a08efd289a5ac598",
@@ -26,6 +27,7 @@
       {
         "id": "bc5ca2ba66d4b48d",
         "type": "tabs",
+        "dimension": 49.76580796252927,
         "children": [
           {
             "id": "dabcb0d874ab49e6",
@@ -97,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -181,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,10 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dabcb0d874ab49e6",
+  "active": "a08efd289a5ac598",
   "lastOpenFiles": [
-    "软件测试/期末总结.md",
     "软件测试/PPT红字.md",
+    "软件测试/期末总结.md",
     "软件测试/考试题目预测.md",
     "软件测试/划重点录音文本.md",
     "Temp/test.md",
