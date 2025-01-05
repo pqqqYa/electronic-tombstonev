@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "00145d226fb4f85e",
+        "id": "43326fc9d6d39bdf",
         "type": "tabs",
         "children": [
           {
-            "id": "00d18812a6cd3d7a",
+            "id": "a08efd289a5ac598",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -24,31 +24,11 @@
         ]
       },
       {
-        "id": "9186b54c16cc9e93",
+        "id": "bc5ca2ba66d4b48d",
         "type": "tabs",
         "children": [
           {
-            "id": "be3b4873d6a36100",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "软件测试/考试题目预测.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "考试题目预测"
-            }
-          }
-        ]
-      },
-      {
-        "id": "112bc27f0a88a75e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fedd4323ce341781",
+            "id": "dabcb0d874ab49e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -212,17 +192,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "00d18812a6cd3d7a",
+  "active": "dabcb0d874ab49e6",
   "lastOpenFiles": [
+    "软件测试/期末总结.md",
     "软件测试/PPT红字.md",
     "软件测试/考试题目预测.md",
-    "软件测试/期末总结.md",
+    "软件测试/划重点录音文本.md",
     "Temp/test.md",
     "软件测试/思维导图/软件测试复习汇总.emmx",
     "软件测试/思维导图/软件测试考试内容 - 副本.emmx",
     "软件测试/何-PPT重点.md",
     "Vue/Vue3.md",
-    "软件测试/划重点录音文本.md",
     "论文/基础知识.md",
     "软件测试/附件/强一般等价类.png",
     "软件测试/附件/测试用例-表格.png",
@@ -259,7 +239,6 @@
     "网络安全/信息与网络安全笔记.md",
     "test.md",
     "git/git命令.md",
-    "Vue/配置插件.md",
     "未命名.canvas"
   ]
 }
