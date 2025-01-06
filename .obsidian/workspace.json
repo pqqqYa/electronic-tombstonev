@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "43326fc9d6d39bdf",
+        "id": "e5479625ecda944e",
         "type": "tabs",
         "children": [
           {
-            "id": "a08efd289a5ac598",
+            "id": "89bb1fa3eafb7afe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,26 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "期末总结"
-            }
-          }
-        ]
-      },
-      {
-        "id": "da77f51efbb72cc7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "40ec309788727048",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "软件测试/考试题目预测.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "考试题目预测"
             }
           }
         ]
@@ -97,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -192,13 +171,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40ec309788727048",
+  "active": "89bb1fa3eafb7afe",
   "lastOpenFiles": [
+    "计算机网络/计算机网络--swpu.md",
+    "论文/基础知识.md",
+    "计算机网络/思维导图",
+    "软件测试/考试题目预测.md",
     "软件测试/期末总结.md",
     "electron/打包项目.md",
     "electron/配置项目.md",
     "electron/安装.md",
-    "软件测试/考试题目预测.md",
     "electron",
     "软件测试/PPT红字.md",
     "软件测试/划重点录音文本.md",
@@ -207,7 +189,6 @@
     "软件测试/思维导图/软件测试考试内容 - 副本.emmx",
     "软件测试/何-PPT重点.md",
     "Vue/Vue3.md",
-    "论文/基础知识.md",
     "软件测试/附件/强一般等价类.png",
     "软件测试/附件/测试用例-表格.png",
     "软件测试/附件/软件测试考试内容.svg",
@@ -231,7 +212,6 @@
     "软件测试/课程录音.docx",
     "软件测试/思维导图/软件测试考试内容.emmx",
     "软件测试/思维导图",
-    "软件测试/附件",
     "Temp/基于卷积神经网络实现蔬果识别.md",
     "Temp/VigorBill项目报告.md",
     "Temp/VigorMall项目报告.md",
@@ -239,7 +219,6 @@
     "人工智能基础/Kmeans.md",
     "杂记/杂记menu.md",
     "README.md",
-    "网络安全/信息与网络安全笔记.md",
     "未命名.canvas"
   ]
 }
