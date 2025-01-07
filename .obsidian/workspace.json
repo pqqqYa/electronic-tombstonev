@@ -103,10 +103,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "electron/配置项目.md"
+                "file": "软件测试/期末总结.md"
               },
               "icon": "lucide-list",
-              "title": "配置项目 的大纲"
+              "title": "期末总结 的大纲"
             }
           },
           {
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "electron/配置项目.md",
+                "file": "软件测试/期末总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "配置项目 的反向链接列表"
+              "title": "期末总结 的反向链接列表"
             }
           },
           {
@@ -156,12 +156,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,19 +200,19 @@
           }
         ],
         "direction": "vertical",
-        "x": 960,
+        "x": 1113,
         "y": 0,
-        "width": 960,
+        "width": 807,
         "height": 1032,
         "maximize": false,
         "zoom": 0.5
       }
     ]
   },
-  "active": "89bb1fa3eafb7afe",
+  "active": "0b722b4957c3394e",
   "lastOpenFiles": [
-    "软件测试/期末总结.md",
     "软件测试/期末总结Pro.md",
+    "软件测试/期末总结.md",
     "软件测试/考试题目预测.md",
     "计算机网络/计算机网络--swpu.md",
     "论文/基础知识.md",
