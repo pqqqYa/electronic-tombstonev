@@ -287,7 +287,7 @@
    编写 JUnit 测试用例，覆盖 `square` 和 `isEven` 方法。  
    **答案：**  
    ```java
-   import org.junit.Assert;
+   import org.junit.Assert.*;
    import org.junit.Test;
 
    public class MathUtilsTest {
@@ -314,24 +314,32 @@
    - 搜索关键字“软件测试”。  
    - 验证页面标题中是否包含“软件测试”。  
    **答案：**  
-   ```python
-   from selenium import webdriver
-   from selenium.webdriver.common.keys import Keys
+```java
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
-   # 打开浏览器
-   driver = webdriver.Chrome()
-   driver.get("https://www.baidu.com")
+public class SeleniumExample {
+    public static void main(String[] args) {
+        // 打开浏览器
+        WebDriver driver = new ChromeDriver();
+        driver.get("https://www.baidu.com");
 
-   # 搜索“软件测试”
-   search_box = driver.find_element("id", "kw")
-   search_box.send_keys("软件测试")
-   search_box.send_keys(Keys.RETURN)
+        // 搜索“软件测试”
+        WebElement searchBox = driver.findElement(By.id("search"));
+        searchBox.sendKeys("软件测试");
+        searchBox.sendKeys(org.openqa.selenium.Keys.RETURN);
 
-   # 验证标题
-   assert "软件测试" in driver.title
+        // 验证标题
+        assertTrue(driver.getTitle().contains("软件测试"));
 
-   driver.quit()
-   ```  
+        // 关闭浏览器
+        driver.quit();
+    }
+}
+```
 
 3. **【逻辑覆盖】**  
    **题目：** 对以下代码，编写测试用例，确保达到“条件覆盖”。  
