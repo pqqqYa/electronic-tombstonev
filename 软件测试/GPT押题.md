@@ -500,7 +500,7 @@ public class SeleniumExample {
    编写 JUnit 测试用例，覆盖 `isPalindrome` 方法。  
    **答案：**  
    ```java
-   import org.junit.Assert;
+   import org.junit.Assert.*;
    import org.junit.Test;
 
    public class StringUtilsTest {

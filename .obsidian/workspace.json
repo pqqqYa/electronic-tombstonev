@@ -155,13 +155,11 @@
               "title": "标签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 463.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,11 +208,11 @@
       }
     ]
   },
-  "active": "0b722b4957c3394e",
+  "active": "162e003f4300a95e",
   "lastOpenFiles": [
-    "软件测试/selenium语法（java）.md",
-    "软件测试/GPT押题.md",
     "软件测试/期末总结.md",
+    "软件测试/GPT押题.md",
+    "软件测试/selenium语法（java）.md",
     "计算机网络/第一章 计算机网络体系结构.md",
     "软件测试/03 GPT押题.md",
     "计算机网络/附件/计算机网络分层的服务.png",
