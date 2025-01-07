@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -173,6 +172,8 @@
   },
   "active": "0b722b4957c3394e",
   "lastOpenFiles": [
+    "软件测试/思维导图/知识点--软件测试.emmx.uIpQUJ",
+    "软件测试/思维导图/知识点--软件测试.emmx.KjBRvp",
     "软件测试/思维导图/知识点--软件测试.emmx.HPctNr",
     "软件测试/思维导图/知识点--软件测试.emmx.TaxdTm",
     "软件测试/思维导图/知识点--软件测试.emmx.EvYqDg",
@@ -212,8 +213,6 @@
     "软件测试/试卷.md",
     "软件测试/思维导图.md",
     "软件测试/复习知识点.md",
-    "软件测试/思维导图/软件测试考试内容.emmx.RitLFU",
-    "软件测试/课程录音.docx",
     "Temp/基于卷积神经网络实现蔬果识别.md",
     "Temp/VigorBill项目报告.md",
     "Temp/VigorMall项目报告.md",
