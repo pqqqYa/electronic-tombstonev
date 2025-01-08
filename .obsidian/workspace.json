@@ -155,11 +155,12 @@
               "title": "标签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 398.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,7 +170,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "162e003f4300a95e",
+  "active": "9e29a52a585c7e63",
   "lastOpenFiles": [
     "计算机网络/计算机网络--swpu.md",
     "软件测试/selenium语法（java）.md",
