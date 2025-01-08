@@ -138,18 +138,18 @@ WebDriver 提供了一系列的 API 来和浏览器进行交互，如下：
 
 ​ 通过 WebElement 实现与网站页面上元素的交互，这些元素包含文本框、文本域、按钮、单选框、div等，WebElement提供了一系列的方法对这些元素进行操作：
 
-|方法|描述|
-|---|---|
-|click()|对元素进行点击|
-|clear()|清空内容（如文本框内容）|
-|sendKeys(...)|写入内容与模拟按键操作|
-|isDisplayed()|元素是否可见（true:可见，false：不可见）|
-|isEnabled()|元素是否启用|
-|isSelected()|元素是否已选择|
-|getTagName()|获取元素标签名|
-|getAttribute(attributeName)|获取元素对应的属性值|
-|getText()|获取元素文本值（元素可见状态下才能获取到）|
-|submit()|表单提交|
+| 方法                          | 描述                        |
+| --------------------------- | ------------------------- |
+| click()                     | 对元素进行点击                   |
+| clear()                     | 清空内容（如文本框内容）              |
+| sendKeys(...)               | 写入内容与模拟按键操作               |
+| isDisplayed()               | 元素是否可见（true:可见，false：不可见） |
+| isEnabled()                 | 元素是否启用                    |
+| isSelected()                | 元素是否已选择                   |
+| getTagName()                | 获取元素标签名                   |
+| getAttribute(attributeName) | 获取元素对应的属性值                |
+| getText()                   | 获取元素文本值（元素可见状态下才能获取到）     |
+| submit()                    | 表单提交                      |
 ## 2.3 代码演示
 
 ~~~java
