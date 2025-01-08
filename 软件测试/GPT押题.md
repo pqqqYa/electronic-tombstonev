@@ -149,6 +149,7 @@
    - 划分等价类（弱一般、强一般、弱健壮、强健壮）；  
    - 写出每类等价类对应的测试用例。  
 
+<div class="page-break" style="page-break-before: always;"></div>
 
 
 ### 期末考试试卷（二）  
@@ -371,7 +372,10 @@ public class SeleniumExample {
      2. 输入用户名“abc” → 无效  
      3. 输入用户名“abcdefghijklmn” → 无效  
 
----
+
+
+<div class="page-break" style="page-break-before: always;"></div>
+
 
 
 ### 期末考试试卷（三）  
@@ -573,6 +577,7 @@ public class SeleniumExample {
      2. 输入金额 -10 → 无效  
      3. 输入金额 20,000 → 无效  
 
+<div class="page-break" style="page-break-before: always;"></div>
 
 ### 期末考试试卷（四）  
 
