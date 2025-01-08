@@ -84,14 +84,14 @@ public class Example1 {         // 定义一个主类
 
 selenium 提供了**8种**的定位方法: id, name, className, tagName, linkText, cssSelector,
 
-| 方法                                | 描述                    | 参数         | 示例                                         |
-| :-------------------------------- | --------------------- | ---------- | ------------------------------------------ |
-| findElement(By.id())              | 通过元素的 id 属性值来定位元素     | 对应的id属性值   | findElement(By.id("kw"))                   |
-| findElement(By.name())            | 通过元素的 name 属性值来定位元素   | 对应的name值   | findElement(By.name("user"))               |
-| findElement(By.className())       | 通过元素的 class 名来定位元素    | 对应的class类名 | findElement(By.className("passworld"))     |
-| findElement(By.tagName())         | 通过元素的 tag 标签名来定位元素    | 对应的标签名     | findElement(By.tagName("input"))           |
-| findElement(By.linkText())        | 通过元素标签对之间的文本信息来定位元素   | 文本内容       | findElement(By.linkText("登录"))             |
-| findElement(By.cssSelector())     | 通过css选择器来定位元素         | css元素选择器   | findElement(By.cssSelector("#kw"))         |
+| 方法                            | 描述                  | 参数         | 示例                                     |
+| :---------------------------- | ------------------- | ---------- | -------------------------------------- |
+| findElement(By.id())          | 通过元素的 id 属性值来定位元素   | 对应的id属性值   | findElement(By.id("kw"))               |
+| findElement(By.name())        | 通过元素的 name 属性值来定位元素 | 对应的name值   | findElement(By.name("user"))           |
+| findElement(By.className())   | 通过元素的 class 名来定位元素  | 对应的class类名 | findElement(By.className("passworld")) |
+| findElement(By.tagName())     | 通过元素的 tag 标签名来定位元素  | 对应的标签名     | findElement(By.tagName("input"))       |
+| findElement(By.linkText())    | 通过元素标签对之间的文本信息来定位元素 | 文本内容       | findElement(By.linkText("登录"))         |
+| findElement(By.cssSelector()) | 通过css选择器来定位元素       | css元素选择器   | findElement(By.cssSelector("#kw"))     |
 
 同时这8种方法都对应有着返回复数元素的方法，分别在调用的方法findElements(By.id()) 加上一个s：
 
