@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "36b8fe84573157a1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4a9cfee08a1e2bf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "软件测试/考试题目预测.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "考试题目预测"
-            }
-          }
-        ]
-      },
-      {
         "id": "b65c4e33163b2d6b",
         "type": "tabs",
         "children": [
@@ -192,10 +172,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a9cfee08a1e2bf1",
+  "active": "28b48d8e79b91e12",
   "lastOpenFiles": [
-    "软件测试/期末总结.md",
+    "软件测试/附件/Pasted image 20250109150041.png",
     "软件测试/考试题目预测.md",
+    "软件测试/期末总结.md",
     "软件测试/划重点录音文本.md",
     "软件测试/思维导图/知识点--软件测试.emmx.UetaSJ",
     "软件测试/思维导图/知识点--软件测试.emmx.NOnOQJ",
