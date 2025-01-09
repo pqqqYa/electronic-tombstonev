@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b65c4e33163b2d6b",
+        "id": "51ee2c27741925a3",
         "type": "tabs",
         "children": [
           {
-            "id": "28b48d8e79b91e12",
+            "id": "9131a3fb0a3d66fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -172,11 +172,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28b48d8e79b91e12",
+  "active": "9131a3fb0a3d66fc",
   "lastOpenFiles": [
+    "软件测试/期末总结Pro.md",
+    "软件测试/期末总结.md",
     "软件测试/附件/Pasted image 20250109150041.png",
     "软件测试/考试题目预测.md",
-    "软件测试/期末总结.md",
     "软件测试/划重点录音文本.md",
     "软件测试/思维导图/知识点--软件测试.emmx.UetaSJ",
     "软件测试/思维导图/知识点--软件测试.emmx.NOnOQJ",
@@ -218,7 +219,6 @@
     "软件测试/Junit-test.md",
     "SWPU/西南石油大学研究生考试相关.md",
     "软件测试/JunitTest.md",
-    "软件测试/附件/独立路径与环形复杂度.jpg",
     "软件测试/试卷.md",
     "未命名.canvas"
   ]
