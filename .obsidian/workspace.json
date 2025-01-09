@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "51ee2c27741925a3",
+        "id": "68d80b7f290feadd",
         "type": "tabs",
         "children": [
           {
-            "id": "9131a3fb0a3d66fc",
+            "id": "e3238b6794991c24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "软件测试/期末总结.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "期末总结"
+              "title": "新标签页"
             }
           }
         ]
@@ -77,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -172,12 +167,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9131a3fb0a3d66fc",
+  "active": "7a3dee57a4518add",
   "lastOpenFiles": [
+    "软件测试/期末总结.md",
+    "软件测试/附件/知识点--软件测试.svg",
     "软件测试/思维导图/知识点--软件测试.emmx.JifwOk",
     "软件测试/思维导图/知识点--软件测试.png",
     "软件测试/期末总结Pro.md",
-    "软件测试/期末总结.md",
     "软件测试/附件/Pasted image 20250109150041.png",
     "软件测试/考试题目预测.md",
     "软件测试/划重点录音文本.md",
@@ -205,7 +201,6 @@
     "计算机网络/附件/计算机网络三阶段多层ISP结构.png",
     "计算机网络/附件/计算机网络二阶段三级结构.png",
     "计算机网络/附件",
-    "软件测试/思维导图/知识点--软件测试.emmx.uIpQUJ",
     "软件测试/期末总结Pro.md",
     "论文/基础知识.md",
     "electron/打包项目.md",
@@ -216,7 +211,6 @@
     "软件测试/何-PPT重点.md",
     "Vue/Vue3.md",
     "软件测试/附件/强一般等价类.png",
-    "软件测试/附件/测试用例-表格.png",
     "软件测试/Junit-test.md",
     "SWPU/西南石油大学研究生考试相关.md",
     "软件测试/JunitTest.md",
