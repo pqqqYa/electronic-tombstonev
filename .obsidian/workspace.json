@@ -11,10 +11,14 @@
             "id": "e3238b6794991c24",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "软件测试/期末总结.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "期末总结"
             }
           }
         ]
@@ -99,10 +103,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软件测试/考试题目预测.md"
+                "file": "软件测试/期末总结.md"
               },
               "icon": "lucide-list",
-              "title": "考试题目预测 的大纲"
+              "title": "期末总结 的大纲"
             }
           },
           {
@@ -156,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5,
-    "collapsed": true
+    "width": 398.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,6 +172,7 @@
   },
   "active": "e3238b6794991c24",
   "lastOpenFiles": [
+    "软件测试/W/等价类划分.md",
     "软件测试/附件/知识点--软件测试.svg",
     "软件测试/期末总结.md",
     "软件测试/思维导图/知识点--软件测试.emmx.JifwOk",
