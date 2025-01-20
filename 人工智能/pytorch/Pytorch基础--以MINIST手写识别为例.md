@@ -126,7 +126,7 @@ class CNN(Module):
 
 **I. 定义这个方法，后面直接使用即可**
 
-`class CNN(Module):`定义一个名为CNN的类，继承自torch.nn.Module，是PyTorch中所有神经网络模块的[基类（父类）](../面向对象程序设计/基类（父类）.md)
+`class CNN(Module):`定义一个名为CNN的类，继承自torch.nn.Module，是PyTorch中所有神经网络模块的[基类（父类）](../../面向对象程序设计/基类（父类）.md)
 
 `def __init__(self, n_channels):`CNN类的构造函数，包含2个参数，`self`代表地址，一般不会修改，`n_channels`代表输入图像的[通道](../计算机视觉/通道.md)数
 
@@ -145,7 +145,7 @@ class CNN(Module):
 
 通过池化，在保留最重要特征的同时，图的尺寸再一次缩小，减少了模型的计算量和参数数量，同时增加在不同模型之间的通用性（减少过拟合，提高泛化能力）
 
-![](附件/池化层.png)
+![](attachment/池化层.png)
 
 
 # 4. 建立多层数字识别CNN神经网络模型

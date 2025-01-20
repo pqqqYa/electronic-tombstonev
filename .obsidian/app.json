@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "./附件",
+  "attachmentFolderPath": "./attachment",
   "showLineNumber": true,
   "pdfExportSettings": {
     "includeName": true,
@@ -10,7 +10,7 @@
     "downscalePercent": 100
   },
   "promptDelete": false,
-  "newLinkFormat": "relative",
+  "newLinkFormat": "absolute",
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
   "showInlineTitle": false,
