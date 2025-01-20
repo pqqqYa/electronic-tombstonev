@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软件测试/期末总结.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "期末总结"
+              "title": "README"
+            }
+          },
+          {
+            "id": "ebe1373a0bfcb975",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wod.docx.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "wod.docx"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,10 +118,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软件测试/期末总结.md"
+                "file": "wod.docx.md"
               },
               "icon": "lucide-list",
-              "title": "期末总结 的大纲"
+              "title": "wod.docx 的大纲"
             }
           },
           {
@@ -170,13 +185,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3238b6794991c24",
+  "active": "ebe1373a0bfcb975",
   "lastOpenFiles": [
+    "README.md",
+    "wod.docx.md",
+    "软件测试/期末总结.md",
     "软件测试/思维导图/知识点--软件测试.emmx.melLLD",
     "软件测试/思维导图/知识点--软件测试.emmx.QNiarK",
     "软件测试/思维导图/知识点--软件测试.emmx.QaJtPN",
     "软件测试/selenium语法（java）.md",
-    "软件测试/期末总结.md",
     "软件测试/W/等价类划分.md",
     "软件测试/附件/知识点--软件测试.svg",
     "软件测试/思维导图/知识点--软件测试.emmx.JifwOk",
@@ -198,7 +215,6 @@
     "软件测试/GPT押题.md",
     "软件测试/W/GPT押题.md",
     "软件测试/W",
-    "软件测试/思维导图/知识点--软件测试.emmx.mmizqK",
     "软件测试/03 GPT押题.md",
     "计算机网络/附件/计算机网络分层的服务.png",
     "计算机网络/附件/计算机网络速率的单位.png",
@@ -217,7 +233,6 @@
     "Vue/Vue3.md",
     "软件测试/附件/强一般等价类.png",
     "软件测试/Junit-test.md",
-    "SWPU/西南石油大学研究生考试相关.md",
     "未命名.canvas"
   ]
 }
