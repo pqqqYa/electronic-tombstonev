@@ -11,12 +11,14 @@
             "id": "e3238b6794991c24",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "英语/长难句分析.pdf"
+                "file": "考研择校/目录.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "长难句分析"
+              "icon": "lucide-file",
+              "title": "目录"
             }
           }
         ]
@@ -101,10 +103,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英语/长难句分析.pdf"
+                "file": "考研择校/目录.md"
               },
               "icon": "lucide-list",
-              "title": "长难句分析 的大纲"
+              "title": "目录 的大纲"
             }
           },
           {
@@ -154,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -170,9 +172,14 @@
   },
   "active": "e3238b6794991c24",
   "lastOpenFiles": [
+    "考研择校/SWPU/西南石油大学研究生考试相关.md",
+    "考研择校/目录.md",
+    "考研择校/attachment/Pasted image 20250121132958.png",
+    "考研择校/attachment",
+    "英语/长难句分析.pdf",
+    "考研择校",
     "英语/英语学习目录.md",
     "英语/基础语法概念.pdf",
-    "英语/长难句分析.pdf",
     "C语言/0. 面向考试的C语言不完全指北.md",
     "C语言/C语言学习目录.md",
     "论文/基础知识.md",
@@ -185,13 +192,10 @@
     "计算机网络/mindmap/物理层.emmx.ZmLgUd",
     "计算机网络/mindmap",
     "计算机网络/mindmap/物理层.emmx",
-    "SWPU/西南石油大学研究生考试相关.md",
     "网络安全/信息与网络安全笔记.md",
     "杂记/番茄工作法Pomodoro Technique.md",
     "杂记/杂记menu.md",
     "人工智能/人工智能swpu/Kmeans.md",
-    "基础技能",
-    "发展方向",
     "计算机视觉/计算机视觉.md",
     "计算机视觉/通道.md",
     "README.md",
@@ -207,14 +211,12 @@
     "软件测试/考试题目预测.md",
     "软件测试/划重点录音文本.md",
     "软件测试/W/Selenium.md",
-    "软件测试/W/Junit-test.md",
     "计算机网络/attachment/计算机网络分层的服务.png",
     "计算机网络/attachment/计算机网络速率的单位.png",
     "计算机网络/attachment/计算机网络的组成p2.png",
     "计算机网络/attachment/计算机网络的组成p1-OSI.png",
     "计算机网络/attachment/计算机网络三阶段多层ISP结构.png",
     "计算机网络/attachment/计算机网络二阶段三级结构.png",
-    "软件测试/attachment/强一般等价类.png",
     "未命名.canvas"
   ]
 }
