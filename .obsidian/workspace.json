@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研择校/学校目录.md",
+                "file": "计算机网络/第6章 应用层.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "学校目录"
+              "title": "第6章 应用层"
             }
           }
         ]
@@ -103,10 +103,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研择校/学校目录.md"
+                "file": "计算机网络/第6章 应用层.md"
               },
               "icon": "lucide-list",
-              "title": "学校目录 的大纲"
+              "title": "第6章 应用层 的大纲"
             }
           },
           {
@@ -172,9 +172,16 @@
   },
   "active": "e3238b6794991c24",
   "lastOpenFiles": [
+    "计算机网络/第5章 传输层.md",
+    "计算机网络/第6章 应用层.md",
+    "计算机网络/第4章 网络层.md",
+    "计算机网络/第2章  物理层.md",
+    "计算机网络/第3章 数据链路层.md",
+    "计算机网络/第1章 计算机网络体系结构.md",
+    "考研择校/学校目录.md",
+    "计算机网络/计算机网络--swpu.md",
     "todoList.emmx",
     "SCRCU/SCRCU入职考试.md",
-    "考研择校/学校目录.md",
     "考研择校/attachment/Pasted image 20250121145341.png",
     "考研择校/attachment/1231231.png",
     "考研择校/attachment/Pasted image 20250121145003.png",
@@ -194,14 +201,11 @@
     "C语言/0. 面向考试的C语言不完全指北.md",
     "C语言/C语言学习目录.md",
     "论文/基础知识.md",
-    "计算机网络/计算机网络--swpu.md",
-    "计算机网络/第一章 计算机网络体系结构.md",
     "计算机网络/mindmap/物理层.emmx.qQfuWu",
     "计算机网络/mindmap/物理层.emmx.Japibh",
     "计算机网络/mindmap/物理层.emmx.ihlwcU",
     "计算机网络/mindmap/物理层.emmx.ZmLgUd",
     "计算机网络/mindmap",
-    "计算机网络/mindmap/物理层.emmx",
     "网络安全/信息与网络安全笔记.md",
     "杂记/番茄工作法Pomodoro Technique.md",
     "杂记/杂记menu.md",
@@ -214,10 +218,6 @@
     "软件测试/期末总结.md",
     "软件测试/selenium语法（java）.md",
     "软件测试/W/等价类划分.md",
-    "软件测试/期末总结Pro.md",
-    "软件测试/考试题目预测.md",
-    "软件测试/划重点录音文本.md",
-    "软件测试/W/Selenium.md",
     "未命名.canvas"
   ]
 }
