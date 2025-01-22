@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "68d80b7f290feadd",
+        "id": "0ecfaab67cefc7dd",
         "type": "tabs",
         "children": [
           {
-            "id": "e3238b6794991c24",
+            "id": "652bc354583ce7c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/第6章 应用层.md",
+                "file": "论文/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第6章 应用层"
+              "title": "未命名"
             }
           }
         ]
@@ -103,10 +103,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/第6章 应用层.md"
+                "file": "论文/未命名.md"
               },
               "icon": "lucide-list",
-              "title": "第6章 应用层 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -170,10 +170,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3238b6794991c24",
+  "active": "652bc354583ce7c0",
   "lastOpenFiles": [
-    "计算机网络/第5章 传输层.md",
+    "论文/未命名.md",
     "计算机网络/第6章 应用层.md",
+    "计算机网络/第5章 传输层.md",
     "计算机网络/第4章 网络层.md",
     "计算机网络/第2章  物理层.md",
     "计算机网络/第3章 数据链路层.md",
@@ -217,7 +218,6 @@
     "wod.docx.md",
     "软件测试/期末总结.md",
     "软件测试/selenium语法（java）.md",
-    "软件测试/W/等价类划分.md",
     "未命名.canvas"
   ]
 }
