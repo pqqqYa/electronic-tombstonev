@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "考研择校/学校目录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "学校目录"
             }
           }
         ]
@@ -103,10 +103,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "考研择校/学校目录.md"
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "学校目录 的大纲"
             }
           },
           {
@@ -172,6 +172,12 @@
   },
   "active": "652bc354583ce7c0",
   "lastOpenFiles": [
+    "todoList.emmx.TMvTos",
+    "高等数学/mindmap/第一章__函数极限连续.emmx",
+    "高等数学/mindmap/第一章__函数极限连续.emmx.BbDuqu",
+    "高等数学/mindmap",
+    "高等数学",
+    "README.md",
     "考研择校/学校目录.md",
     "论文/未命名.md",
     "计算机网络/第6章 应用层.md",
@@ -203,21 +209,15 @@
     "C语言/C语言学习目录.md",
     "论文/基础知识.md",
     "计算机网络/mindmap/物理层.emmx.qQfuWu",
-    "计算机网络/mindmap/物理层.emmx.Japibh",
-    "计算机网络/mindmap/物理层.emmx.ihlwcU",
-    "计算机网络/mindmap/物理层.emmx.ZmLgUd",
-    "计算机网络/mindmap",
     "网络安全/信息与网络安全笔记.md",
     "杂记/番茄工作法Pomodoro Technique.md",
     "杂记/杂记menu.md",
     "人工智能/人工智能swpu/Kmeans.md",
     "计算机视觉/计算机视觉.md",
     "计算机视觉/通道.md",
-    "README.md",
     "H5/前端学习路线.md",
     "wod.docx.md",
     "软件测试/期末总结.md",
-    "软件测试/selenium语法（java）.md",
     "未命名.canvas"
   ]
 }
