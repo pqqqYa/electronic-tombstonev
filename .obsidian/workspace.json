@@ -11,14 +11,10 @@
             "id": "652bc354583ce7c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "考研择校/学校目录.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "学校目录"
+              "title": "新标签页"
             }
           }
         ]
@@ -102,11 +98,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "考研择校/学校目录.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "学校目录 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -170,8 +164,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "652bc354583ce7c0",
+  "active": "7a3dee57a4518add",
   "lastOpenFiles": [
+    "考研/调剂流程.emmx",
+    "考研/调剂流程.emmx.MOgBjl",
+    "考研/学校目录.md",
+    "考研/attachment/Pasted image 20250121145341.png",
+    "考研/attachment/Pasted image 20250121145003.png",
+    "考研/attachment/Pasted image 20250121145001.png",
+    "考研/attachment/Pasted image 20250121143239.png",
+    "考研/attachment/Pasted image 20250121143232.png",
+    "考研/attachment/Pasted image 20250121140606.png",
+    "考研/attachment/Pasted image 20250121140458.png",
+    "考研/attachment/Pasted image 20250121135051.png",
+    "考研/attachment/Pasted image 20250121132958.png",
+    "考研/attachment/2024分数线.png",
+    "考研/attachment",
+    "考研",
     "高等数学/mindmap/第一章__函数极限连续.emmx.sZjOxD",
     "todoList.emmx.TMvTos",
     "高等数学/mindmap/第一章__函数极限连续.emmx",
@@ -179,7 +188,6 @@
     "高等数学/mindmap",
     "高等数学",
     "README.md",
-    "考研择校/学校目录.md",
     "论文/未命名.md",
     "计算机网络/第6章 应用层.md",
     "计算机网络/第5章 传输层.md",
@@ -190,22 +198,8 @@
     "计算机网络/计算机网络--swpu.md",
     "todoList.emmx",
     "SCRCU/SCRCU入职考试.md",
-    "考研择校/attachment/Pasted image 20250121145341.png",
-    "考研择校/attachment/1231231.png",
-    "考研择校/attachment/Pasted image 20250121145003.png",
-    "考研择校/attachment/Pasted image 20250121145001.png",
-    "考研择校/attachment/2024分数线.png",
     "考研择校/SWPU/西南石油大学研究生考试相关.md",
-    "考研择校/attachment/Pasted image 20250121143239.png",
-    "考研择校/attachment/Pasted image 20250121143232.png",
-    "考研择校/attachment/Pasted image 20250121140458.png",
-    "考研择校/attachment/Pasted image 20250121140606.png",
-    "考研择校/attachment/Pasted image 20250121135051.png",
-    "考研择校/attachment",
-    "英语/长难句分析.pdf",
-    "考研择校",
     "英语/英语学习目录.md",
-    "英语/基础语法概念.pdf",
     "C语言/0. 面向考试的C语言不完全指北.md",
     "C语言/C语言学习目录.md",
     "论文/基础知识.md",
