@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研择校/学校目录.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "学校目录"
+              "title": "README"
             }
           }
         ]
@@ -103,10 +103,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研择校/学校目录.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
-              "title": "学校目录 的大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -172,6 +172,7 @@
   },
   "active": "652bc354583ce7c0",
   "lastOpenFiles": [
+    "考研择校/学校目录.md",
     "论文/未命名.md",
     "计算机网络/第6章 应用层.md",
     "计算机网络/第5章 传输层.md",
@@ -179,7 +180,6 @@
     "计算机网络/第2章  物理层.md",
     "计算机网络/第3章 数据链路层.md",
     "计算机网络/第1章 计算机网络体系结构.md",
-    "考研择校/学校目录.md",
     "计算机网络/计算机网络--swpu.md",
     "todoList.emmx",
     "SCRCU/SCRCU入职考试.md",
