@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0ecfaab67cefc7dd",
+        "id": "ead0cc31d77f0abb",
         "type": "tabs",
         "children": [
           {
-            "id": "652bc354583ce7c0",
+            "id": "deeef0649db42587",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "英语/基础语法概念.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "基础语法概念"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -168,14 +170,15 @@
       "canvas:新建白板": false
     }
   },
-  "active": "652bc354583ce7c0",
+  "active": "deeef0649db42587",
   "lastOpenFiles": [
-    "英语/未命名.canvas",
+    "未命名.canvas",
+    "README.md",
     "英语/基础语法概念.pdf",
+    "英语/未命名.canvas",
     "英语/英语语法.emmx.ihDeNj",
     "英语/英语学习目录.md",
     "英语/长难句分析.pdf",
-    "未命名.canvas",
     "考研/调剂流程.emmx.BVCrpu",
     "考研/调剂流程.emmx",
     "考研/调剂流程.emmx.MOgBjl",
@@ -194,7 +197,6 @@
     "考研",
     "高等数学/mindmap/第一章__函数极限连续.emmx.sZjOxD",
     "todoList.emmx.TMvTos",
-    "README.md",
     "论文/未命名.md",
     "计算机网络/第6章 应用层.md",
     "计算机网络/第5章 传输层.md",
