@@ -98,9 +98,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "未命名.canvas"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -161,11 +163,15 @@
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "canvas:新建白板": false
     }
   },
   "active": "7a3dee57a4518add",
   "lastOpenFiles": [
+    "未命名.canvas",
     "考研/调剂流程.emmx.BVCrpu",
     "考研/调剂流程.emmx",
     "考研/调剂流程.emmx.MOgBjl",
@@ -187,7 +193,6 @@
     "高等数学/mindmap/第一章__函数极限连续.emmx",
     "高等数学/mindmap/第一章__函数极限连续.emmx.BbDuqu",
     "高等数学/mindmap",
-    "高等数学",
     "README.md",
     "论文/未命名.md",
     "计算机网络/第6章 应用层.md",
@@ -211,7 +216,6 @@
     "计算机视觉/通道.md",
     "H5/前端学习路线.md",
     "wod.docx.md",
-    "软件测试/期末总结.md",
-    "未命名.canvas"
+    "软件测试/期末总结.md"
   ]
 }
