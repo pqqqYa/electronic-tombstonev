@@ -153,8 +153,7 @@
               "title": "标签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,7 +168,7 @@
       "canvas:新建白板": false
     }
   },
-  "active": "652bc354583ce7c0",
+  "active": "162e003f4300a95e",
   "lastOpenFiles": [
     "英语/英语学习目录.md",
     "英语/基础语法概念.pdf",
