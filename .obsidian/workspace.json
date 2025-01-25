@@ -11,10 +11,14 @@
             "id": "cd19d403fa80ec1d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "考研/简历.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "简历"
             }
           }
         ]
@@ -73,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -156,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 326.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,6 +173,8 @@
   },
   "active": "cd19d403fa80ec1d",
   "lastOpenFiles": [
+    "考研/考研流程.emmx.dVCSxJ",
+    "考研/简历.md",
     "考研/考研流程.emmx.NCnjpJ",
     "考研/考研流程.emmx.sPYKrt",
     "计算机网络/计算机网络体系结构.md",
@@ -180,7 +186,6 @@
     "考研/考研流程.emmx.AGCitz",
     "考研/考研流程.emmx.cjeTJy",
     "考研/考研流程.emmx",
-    "考研/调剂流程.emmx.tDljll",
     "计算机网络/数据链路层.md",
     "计算机网络/网络层.md",
     "计算机网络/物理层.md",
@@ -215,7 +220,6 @@
     "计算机视觉/计算机视觉.md",
     "计算机视觉/通道.md",
     "H5/前端学习路线.md",
-    "wod.docx.md",
-    "软件测试/期末总结.md"
+    "wod.docx.md"
   ]
 }
