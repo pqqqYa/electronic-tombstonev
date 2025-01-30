@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "论文/IDEA.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -171,9 +171,11 @@
       "canvas:新建白板": false
     }
   },
-  "active": "7a3dee57a4518add",
+  "active": "e30c72577b7d1a65",
   "lastOpenFiles": [
     "论文/基于联邦学习和蒙特卡洛树搜索的多医疗机构乳腺癌生存状态预测合作研究.md",
+    "论文/文章.md",
+    "论文/基础知识.md",
     "论文/IDEA.md",
     "计算机网络/mindmap/数据链路层.emmx",
     "计算机网络/mindmap/数据链路层.emmx.XJkiSg",
@@ -212,14 +214,12 @@
     "考研择校/SWPU/西南石油大学研究生考试相关.md",
     "C语言/0. 面向考试的C语言不完全指北.md",
     "C语言/C语言学习目录.md",
-    "论文/基础知识.md",
     "网络安全/信息与网络安全笔记.md",
     "杂记/番茄工作法Pomodoro Technique.md",
     "杂记/杂记menu.md",
     "人工智能/人工智能swpu/Kmeans.md",
     "计算机视觉/计算机视觉.md",
     "计算机视觉/通道.md",
-    "H5/前端学习路线.md",
-    "wod.docx.md"
+    "H5/前端学习路线.md"
   ]
 }
