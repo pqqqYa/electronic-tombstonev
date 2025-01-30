@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "85ff97bb2f5898fb",
+        "id": "77ea41ebb7d3d33f",
         "type": "tabs",
         "children": [
           {
             "id": "e30c72577b7d1a65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人工智能/知识点/HMM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HMM"
+            }
+          },
+          {
+            "id": "03632fed34b5a1ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,34 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "IDEA"
-            }
-          },
-          {
-            "id": "19fd3450b5ca017d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "论文/基于联邦学习和蒙特卡洛树搜索的多医疗机构乳腺癌生存状态预测合作研究.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "基于联邦学习和蒙特卡洛树搜索的多医疗机构乳腺癌生存状态预测合作研究"
-            }
-          },
-          {
-            "id": "44037d77c7b48d2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "论文/文章.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "文章"
             }
           }
         ],
@@ -106,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -132,10 +119,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文/基于联邦学习和蒙特卡洛树搜索的多医疗机构乳腺癌生存状态预测合作研究.md"
+                "file": "论文/IDEA.md"
               },
               "icon": "lucide-list",
-              "title": "基于联邦学习和蒙特卡洛树搜索的多医疗机构乳腺癌生存状态预测合作研究 的大纲"
+              "title": "IDEA 的大纲"
             }
           },
           {
@@ -189,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 250.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,11 +188,17 @@
       "canvas:新建白板": false
     }
   },
-  "active": "19fd3450b5ca017d",
+  "active": "03632fed34b5a1ab",
   "lastOpenFiles": [
-    "论文/文章.md",
-    "论文/IDEA.md",
     "论文/基于联邦学习和蒙特卡洛树搜索的多医疗机构乳腺癌生存状态预测合作研究.md",
+    "论文/mindmap/思路.emmx",
+    "论文/mindmap/思路.emmx.KyFsDf",
+    "论文/mindmap",
+    "论文/新建文件夹",
+    "论文/文章思路.canvas",
+    "论文/IDEA.md",
+    "论文/文章.md",
+    "人工智能/知识点/HMM.md",
     "论文/基础知识.md",
     "计算机网络/mindmap/数据链路层.emmx",
     "计算机网络/mindmap/数据链路层.emmx.XJkiSg",
@@ -213,10 +207,6 @@
     "考研/简历.md",
     "考研/考研流程.emmx.VNEEFY",
     "考研/考研流程.emmx.ShNJdS",
-    "考研/考研流程.emmx.ssHBlU",
-    "考研/考研流程.emmx.xoOQeV",
-    "考研/考研流程.emmx.TFAXVJ",
-    "考研/考研流程.emmx.QRYWrO",
     "计算机网络/计算机网络体系结构.md",
     "计算机网络/数据链路层.md",
     "计算机网络/网络层.md",
@@ -247,8 +237,6 @@
     "杂记/番茄工作法Pomodoro Technique.md",
     "杂记/杂记menu.md",
     "人工智能/人工智能swpu/Kmeans.md",
-    "计算机视觉/计算机视觉.md",
-    "计算机视觉/通道.md",
-    "H5/前端学习路线.md"
+    "计算机视觉/计算机视觉.md"
   ]
 }
