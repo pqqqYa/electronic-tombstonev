@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/IDEA.md",
+                "file": "论文/基于联邦学习和蒙特卡洛树搜索的多医疗机构乳腺癌生存状态预测合作研究.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IDEA"
+              "title": "基于联邦学习和蒙特卡洛树搜索的多医疗机构乳腺癌生存状态预测合作研究"
             }
           }
         ]
@@ -104,10 +104,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文/IDEA.md"
+                "file": "论文/基于联邦学习和蒙特卡洛树搜索的多医疗机构乳腺癌生存状态预测合作研究.md"
               },
               "icon": "lucide-list",
-              "title": "IDEA 的大纲"
+              "title": "基于联邦学习和蒙特卡洛树搜索的多医疗机构乳腺癌生存状态预测合作研究 的大纲"
             }
           },
           {
@@ -161,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 250.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
