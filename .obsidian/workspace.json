@@ -35,8 +35,7 @@
               "title": "基于联邦学习和蒙特卡洛树搜索的多医疗机构乳腺癌生存状态预测合作研究"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,10 +118,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文/基于联邦学习和蒙特卡洛树搜索的多医疗机构乳腺癌生存状态预测合作研究.md"
+                "file": "论文/文章.md"
               },
               "icon": "lucide-list",
-              "title": "基于联邦学习和蒙特卡洛树搜索的多医疗机构乳腺癌生存状态预测合作研究 的大纲"
+              "title": "文章 的大纲"
             }
           },
           {
@@ -226,7 +225,7 @@
       }
     ]
   },
-  "active": "80cd70ed266a7aea",
+  "active": "cad7f4f695ae7bf4",
   "lastOpenFiles": [
     "论文/IDEA.md",
     "论文/文章.md",
