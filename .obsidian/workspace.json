@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5a984d1dc6d99c25",
+        "id": "85ff97bb2f5898fb",
         "type": "tabs",
         "children": [
           {
-            "id": "8987f911dcb21f67",
+            "id": "e30c72577b7d1a65",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "论文/IDEA.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "IDEA"
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -99,10 +104,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英语/基础语法概念.pdf"
+                "file": "论文/IDEA.md"
               },
               "icon": "lucide-list",
-              "title": "基础语法概念 的大纲"
+              "title": "IDEA 的大纲"
             }
           },
           {
@@ -151,11 +156,13 @@
               "title": "标签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 250.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,8 +173,10 @@
       "canvas:新建白板": false
     }
   },
-  "active": "7a3dee57a4518add",
+  "active": "e30c72577b7d1a65",
   "lastOpenFiles": [
+    "论文/IDEA.md",
+    "论文/基于联邦学习和蒙特卡洛树搜索的多医疗机构乳腺癌生存状态预测合作研究.md",
     "计算机网络/mindmap/数据链路层.emmx",
     "计算机网络/mindmap/数据链路层.emmx.XJkiSg",
     "计算机网络/mindmap/新建 MindMaster.Document.emmx",
@@ -179,7 +188,6 @@
     "考研/考研流程.emmx.xoOQeV",
     "考研/考研流程.emmx.TFAXVJ",
     "考研/考研流程.emmx.QRYWrO",
-    "考研/考研流程.emmx.CngXyU",
     "计算机网络/计算机网络体系结构.md",
     "计算机网络/数据链路层.md",
     "计算机网络/网络层.md",
@@ -187,7 +195,6 @@
     "计算机网络/传输层.md",
     "计算机网络/应用层.md",
     "未命名.canvas",
-    "论文/未命名.md",
     "SCRCU/SCRCU入职考试.md",
     "README.md",
     "英语/未命名.canvas",
