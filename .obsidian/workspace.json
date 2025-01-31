@@ -11,10 +11,14 @@
             "id": "f30f1d608cd3740f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SCRCU/SCRCU入职考试.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "SCRCU入职考试"
             }
           }
         ]
@@ -153,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,6 +171,7 @@
   },
   "active": "f30f1d608cd3740f",
   "lastOpenFiles": [
+    "考研/考研流程.emmx.uChKFk",
     "考研/考研流程.emmx.vimCrn",
     "考研/考研流程.emmx.vKoGGH",
     "考研/考研流程.emmx.Xedrzf",
@@ -180,7 +186,6 @@
     "论文/基于联邦学习和蒙特卡洛树搜索的多医疗机构乳腺癌生存状态预测合作研究.md",
     "论文/mindmap/思路.emmx.ohmZgd",
     "人工智能/知识点/HMM.md",
-    "论文/mindmap/思路.emmx",
     "论文/文章思路.canvas",
     "论文/基础知识.md",
     "考研/简历.md",
