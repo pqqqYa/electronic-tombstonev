@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCRCU/SCRCU入职考试.md",
+                "file": "计算机网络/计算机网络体系结构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SCRCU入职考试"
+              "title": "计算机网络体系结构"
             }
           }
         ]
@@ -170,6 +170,11 @@
   },
   "active": "f30f1d608cd3740f",
   "lastOpenFiles": [
+    "计算机网络/mindmap/数据链路层.emmx.VVyIAK",
+    "计算机网络/数据链路层.md",
+    "计算机网络/物理层.md",
+    "计算机网络/计算机网络体系结构.md",
+    "SCRCU/SCRCU入职考试.md",
     "计算机网络/mindmap/物理层.emmx.tVcoOh",
     "计算机网络/mindmap/数据链路层.emmx.WoGJGg",
     "考研/考研流程.emmx.TnnHiI",
@@ -180,7 +185,6 @@
     "考研/考研流程.emmx.vKoGGH",
     "考研/考研流程.emmx.Xedrzf",
     "高等数学/mindmap/第一章__函数极限连续.emmx.phfoPr",
-    "高等数学/mindmap/第一章__函数极限连续.emmx.WpqFWi",
     "论文/文章.md",
     "论文/IDEA.md",
     "论文/基于联邦学习和蒙特卡洛树搜索的多医疗机构乳腺癌生存状态预测合作研究.md",
@@ -188,14 +192,10 @@
     "论文/文章思路.canvas",
     "论文/基础知识.md",
     "考研/简历.md",
-    "计算机网络/计算机网络体系结构.md",
-    "计算机网络/数据链路层.md",
     "计算机网络/网络层.md",
-    "计算机网络/物理层.md",
     "计算机网络/传输层.md",
     "计算机网络/应用层.md",
     "未命名.canvas",
-    "SCRCU/SCRCU入职考试.md",
     "README.md",
     "英语/未命名.canvas",
     "英语/英语学习目录.md",
