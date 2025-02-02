@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "493cf4d951697965",
+        "id": "26b2a729743165fa",
         "type": "tabs",
         "children": [
           {
-            "id": "b77328e599f4391a",
+            "id": "dbd19e45a1da24a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "计算机网络/计算机网络体系结构.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "计算机网络体系结构"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "汉",
+                "query": "tag:计算机网络",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,12 +104,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "计算机网络/计算机网络体系结构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "计算机网络体系结构 的大纲"
             }
           },
           {
@@ -154,8 +159,7 @@
               "title": "标签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,8 +174,9 @@
       "canvas:新建白板": false
     }
   },
-  "active": "b77328e599f4391a",
+  "active": "162e003f4300a95e",
   "lastOpenFiles": [
+    "计算机网络/计算机网络体系结构.md",
     "计算机网络/mindmap/数据链路层.emmx.ahknbz",
     "计算机网络/mindmap/数据链路层.emmx.WhVlBT",
     "计算机网络/mindmap/数据链路层.emmx.trZGjG",
@@ -182,7 +187,6 @@
     "论文/IDEA.md",
     "论文/文章.md",
     "论文/基于联邦学习和蒙特卡洛树搜索的多医疗机构乳腺癌生存状态预测合作研究.md",
-    "计算机网络/计算机网络体系结构.md",
     "计算机网络/mindmap/数据链路层.emmx.SOoHCU",
     "计算机网络/mindmap/数据链路层.emmx.VVyIAK",
     "计算机网络/数据链路层.md",
@@ -193,7 +197,6 @@
     "考研/考研流程.emmx.TnnHiI",
     "考研/考研流程.emmx.IUwsdX",
     "考研/考研流程.emmx.IZKWJo",
-    "考研/考研流程.emmx.uChKFk",
     "人工智能/知识点/HMM.md",
     "论文/文章思路.canvas",
     "论文/基础知识.md",
