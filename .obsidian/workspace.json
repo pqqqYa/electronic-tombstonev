@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6b051ff8b277f3c2",
+        "id": "493cf4d951697965",
         "type": "tabs",
         "children": [
           {
-            "id": "f30f1d608cd3740f",
+            "id": "b77328e599f4391a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "网络安全/信息与网络安全笔记.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "信息与网络安全笔记"
+              "title": "新标签页"
             }
           }
         ]
@@ -104,13 +100,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "网络安全/信息与网络安全笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "信息与网络安全笔记 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -175,8 +170,9 @@
       "canvas:新建白板": false
     }
   },
-  "active": "f30f1d608cd3740f",
+  "active": "b77328e599f4391a",
   "lastOpenFiles": [
+    "网络安全/信息与网络安全笔记.md",
     "Latex/Tex文件的基本结构.md",
     "Latex/LaTex学习目录.md",
     "Latex/Latex公式.md",
@@ -223,7 +219,6 @@
     "考研择校/SWPU/西南石油大学研究生考试相关.md",
     "C语言/0. 面向考试的C语言不完全指北.md",
     "C语言/C语言学习目录.md",
-    "网络安全/信息与网络安全笔记.md",
     "杂记/番茄工作法Pomodoro Technique.md",
     "杂记/杂记menu.md"
   ]
