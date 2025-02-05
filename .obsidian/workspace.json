@@ -160,13 +160,11 @@
               "title": "标签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,7 +175,7 @@
       "canvas:新建白板": false
     }
   },
-  "active": "ff80c56553e0f30c",
+  "active": "162e003f4300a95e",
   "lastOpenFiles": [
     "高等数学/目录.md",
     "高等数学/concept/函数.md",
