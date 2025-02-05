@@ -11,17 +11,14 @@
             "id": "8421361b989866dd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 946,
-                  "y": -194,
-                  "zoom": 0
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -107,13 +104,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -162,13 +159,11 @@
               "title": "标签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,10 +174,10 @@
       "canvas:新建白板": false
     }
   },
-  "active": "8421361b989866dd",
+  "active": "162e003f4300a95e",
   "lastOpenFiles": [
-    "README.md",
     "未命名.canvas",
+    "README.md",
     "计算机网络/计算机网络体系结构.md",
     "计算机网络/mindmap/数据链路层.emmx.ahknbz",
     "计算机网络/mindmap/数据链路层.emmx.WhVlBT",
