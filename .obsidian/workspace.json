@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "计算机网络/计算机网络体系结构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "计算机网络体系结构"
             }
           }
         ]
@@ -176,9 +176,9 @@
   },
   "active": "8421361b989866dd",
   "lastOpenFiles": [
+    "README.md",
     "计算机网络/mindmap/数据链路层.emmx.pcwfjA",
     "未命名.canvas",
-    "README.md",
     "计算机网络/计算机网络体系结构.md",
     "计算机网络/mindmap/数据链路层.emmx.ahknbz",
     "计算机网络/mindmap/数据链路层.emmx.WhVlBT",
@@ -199,7 +199,6 @@
     "计算机网络/mindmap/数据链路层.emmx.WoGJGg",
     "考研/考研流程.emmx.TnnHiI",
     "考研/考研流程.emmx.IUwsdX",
-    "考研/考研流程.emmx.IZKWJo",
     "人工智能/知识点/HMM.md",
     "论文/文章思路.canvas",
     "论文/基础知识.md",
