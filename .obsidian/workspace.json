@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e76d9573bd33cfa2",
+        "id": "01ffd8a3d509eb73",
         "type": "tabs",
         "children": [
           {
-            "id": "8421361b989866dd",
+            "id": "ff80c56553e0f30c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高等数学/高等数学.md",
+                "file": "高等数学/concept/函数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "高等数学"
+              "title": "函数"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 285.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -104,13 +105,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "高等数学/concept/函数.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "函数 的大纲"
             }
           },
           {
@@ -159,11 +160,13 @@
               "title": "标签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,46 +177,48 @@
       "canvas:新建白板": false
     }
   },
-  "active": "8421361b989866dd",
+  "active": "ff80c56553e0f30c",
   "lastOpenFiles": [
+    "高等数学/目录.md",
+    "高等数学/concept/函数.md",
+    "高等数学/concept/attachment/三角函数性质.png",
+    "高等数学/concept/attachment",
+    "高等数学/concept/极限.md",
+    "高等数学/concept/导数应用.md",
+    "高等数学/concept/场论初步.md",
+    "高等数学/concept/多元积分应用.md",
+    "高等数学/concept/曲面积分.md",
+    "高等数学/concept/曲线积分.md",
+    "高等数学/concept/三重积分.md",
+    "高等数学/concept/多元微分学在几何上的应用.md",
+    "高等数学/concept/曲面与空间曲线.md",
+    "高等数学/concept/空间平面与直线.md",
     "高等数学/高等数学.canvas",
-    "高等数学/高等数学.md",
+    "高等数学/concept/傅里叶级数.md",
+    "高等数学/concept/幂级数.md",
+    "高等数学/concept/多元函数的极值和最值.md",
+    "高等数学/concept/多元函数的微分法.md",
+    "高等数学/concept/定积分的应用.md",
+    "高等数学/concept/反常积分.md",
+    "高等数学/concept/微分.md",
+    "高等数学/concept/定积分.md",
     "高等数学/concept/多元积分学及其应用.md",
     "高等数学/concept",
     "高等数学/concept/空间解析几何.md",
     "高等数学/concept/向量代数.md",
-    "高等数学/concept/无穷级数.md",
+    "高等数学/concept/常数项级数.md",
     "高等数学/concept/二重积分.md",
-    "高等数学/concept/多元函数微分学.md",
-    "高等数学/concept/微分方程.md",
-    "高等数学/concept/反常积分.md",
-    "高等数学/concept/定积分.md",
-    "高等数学/concept/不定积分.md",
-    "高等数学/concept/微分.md",
-    "高等数学/concept/微分中值定理.md",
-    "高等数学/concept/导数.md",
-    "高等数学/concept/函数的连续性.md",
-    "高等数学/concept/极限.md",
-    "高等数学/concept/函数.md",
-    "计算机网络/计算机网络体系结构.md",
-    "Temp/未命名.md",
+    "高等数学/concept/多元函数.md",
     "Temp/attachment/Pasted image 20250205160936.png",
     "Temp/attachment",
-    "README.md",
     "计算机网络/mindmap/数据链路层.emmx.pcwfjA",
     "未命名.canvas",
     "计算机网络/mindmap/数据链路层.emmx.ahknbz",
     "计算机网络/mindmap/数据链路层.emmx.WhVlBT",
     "计算机网络/mindmap/数据链路层.emmx.trZGjG",
-    "网络安全/信息与网络安全笔记.md",
-    "Latex/Tex文件的基本结构.md",
-    "Latex/LaTex学习目录.md",
-    "Latex/Latex公式.md",
-    "论文/IDEA.md",
     "计算机网络/mindmap/数据链路层.emmx.SOoHCU",
     "计算机网络/mindmap/数据链路层.emmx.VVyIAK",
     "计算机网络/mindmap/物理层.emmx.tVcoOh",
-    "计算机网络/mindmap/数据链路层.emmx.WoGJGg",
     "论文/文章思路.canvas",
     "英语/未命名.canvas",
     "考研/attachment/Pasted image 20250121145341.png",
@@ -223,7 +228,6 @@
     "考研/attachment/Pasted image 20250121143232.png",
     "考研/attachment/Pasted image 20250121140606.png",
     "考研/attachment/Pasted image 20250121140458.png",
-    "考研/attachment/Pasted image 20250121135051.png",
-    "考研/attachment/Pasted image 20250121132958.png"
+    "考研/attachment/Pasted image 20250121135051.png"
   ]
 }
