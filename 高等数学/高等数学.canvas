@@ -1,4 +1,6 @@
 {
-	"nodes":[],
+	"nodes":[
+		{"id":"c947963e429253e6","x":62,"y":-60,"width":400,"height":400,"type":"file","file":"高等数学/concept/函数.md"}
+	],
 	"edges":[]
 }
