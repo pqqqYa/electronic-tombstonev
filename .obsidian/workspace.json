@@ -15,8 +15,8 @@
               "state": {
                 "file": "高等数学/高等数学.canvas",
                 "viewState": {
-                  "x": 341.9531612985924,
-                  "y": 134.13315788793474,
+                  "x": 512.2965295856072,
+                  "y": 280.0169278608078,
                   "zoom": -0.5214513986980454
                 }
               },
@@ -107,13 +107,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高等数学/concept/函数.md",
+                "file": "高等数学/高等数学.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "函数 的大纲"
+              "title": "高等数学 的大纲"
             }
           },
           {
@@ -179,8 +179,8 @@
   },
   "active": "ff80c56553e0f30c",
   "lastOpenFiles": [
-    "高等数学/高等数学.canvas",
     "高等数学/concept/函数.md",
+    "高等数学/高等数学.canvas",
     "高等数学/目录.md",
     "高等数学/concept/attachment/三角函数性质.png",
     "高等数学/concept/attachment",
