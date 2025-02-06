@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "01ffd8a3d509eb73",
+        "id": "71d806796de96038",
         "type": "tabs",
         "children": [
           {
-            "id": "ff80c56553e0f30c",
+            "id": "c84e8e331bed6393",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "高等数学/高等数学.canvas",
-                "viewState": {
-                  "x": 512.2965295856072,
-                  "y": 280.0169278608078,
-                  "zoom": -0.5214513986980454
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "高等数学"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -107,13 +100,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高等数学/高等数学.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "高等数学 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -162,7 +154,8 @@
               "title": "标签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,10 +170,19 @@
       "canvas:新建白板": false
     }
   },
-  "active": "ff80c56553e0f30c",
+  "active": "c84e8e331bed6393",
   "lastOpenFiles": [
-    "高等数学/concept/函数.md",
+    "未命名.canvas",
+    "前端/electron/配置项目.md",
+    "前端/electron/打包项目.md",
+    "前端/electron/安装.md",
+    "前端/Vue/配置插件.md",
+    "git/git命令.md",
+    "Latex/Tex文件的基本结构.md",
+    "Latex/LaTex学习目录.md",
+    "Latex/Latex公式.md",
     "高等数学/高等数学.canvas",
+    "高等数学/concept/函数.md",
     "高等数学/目录.md",
     "高等数学/concept/attachment/三角函数性质.png",
     "高等数学/concept/attachment",
@@ -199,19 +201,10 @@
     "高等数学/concept/多元函数的极值和最值.md",
     "高等数学/concept/多元函数的微分法.md",
     "高等数学/concept/定积分的应用.md",
-    "高等数学/concept/反常积分.md",
-    "高等数学/concept/微分.md",
-    "高等数学/concept/定积分.md",
-    "高等数学/concept/多元积分学及其应用.md",
     "高等数学/concept",
-    "高等数学/concept/空间解析几何.md",
-    "高等数学/concept/向量代数.md",
-    "高等数学/concept/常数项级数.md",
-    "高等数学/concept/二重积分.md",
     "Temp/attachment/Pasted image 20250205160936.png",
     "Temp/attachment",
     "计算机网络/mindmap/数据链路层.emmx.pcwfjA",
-    "未命名.canvas",
     "计算机网络/mindmap/数据链路层.emmx.ahknbz",
     "计算机网络/mindmap/数据链路层.emmx.WhVlBT",
     "计算机网络/mindmap/数据链路层.emmx.trZGjG",
