@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/408计算机网络目录.md",
+                "file": "计算机网络/计算机网络体系结构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "408计算机网络目录"
+              "title": "计算机网络体系结构"
             }
           }
         ]
@@ -104,13 +104,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文/基础知识.md",
+                "file": "计算机网络/计算机网络体系结构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "基础知识 的大纲"
+              "title": "计算机网络体系结构 的大纲"
             }
           },
           {
@@ -159,11 +159,13 @@
               "title": "标签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,12 +176,50 @@
       "canvas:新建白板": false
     }
   },
+  "floating": {
+    "id": "9bb221f91ca6fb04",
+    "type": "floating",
+    "children": [
+      {
+        "id": "625bad8e6466a822",
+        "type": "window",
+        "children": [
+          {
+            "id": "f99f21bb769ab75b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b806436a611cf3f0",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "新标签页"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 853,
+        "y": 0,
+        "width": 854,
+        "height": 912,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
   "active": "5473008e6acd36d1",
   "lastOpenFiles": [
+    "计算机网络/计算机网络体系结构.md",
+    "计算机网络/408计算机网络目录.md",
+    "计算机网络/计算机网络体系结构/计算机网络分层结构.md",
+    "计算机网络/计算机网络体系结构/计算机网络的性能指标.md",
     "论文/基础知识.md",
     "论文/IDEA.md",
     "论文/文章.md",
-    "计算机网络/408计算机网络目录.md",
     "论文/基于联邦学习和蒙特卡洛树搜索的多医疗机构乳腺癌生存状态预测合作研究.md",
     "计算机网络/计算机网络体系结构/OSI_ISO参考模型.md",
     "计算机网络/计算机网络体系结构/计算机网络的概念.md",
@@ -188,9 +228,7 @@
     "计算机网络/attachment/五层参考模型的数据封装与解封装.png",
     "计算机网络/计算机网络体系结构/计算机网络的功能.md",
     "计算机网络/计算机网络体系结构/计算机网络的发展.md",
-    "计算机网络/计算机网络体系结构/计算机网络分层结构.md",
     "计算机网络/计算机网络体系结构/计算机网路的组成.md",
-    "计算机网络/计算机网络体系结构/计算机网络的性能指标.md",
     "计算机网络/计算机网络体系结构/计算机网络的分类.md",
     "计算机网络/计算机网络体系结构",
     "高等数学/高等数学.canvas",
@@ -205,7 +243,6 @@
     "计算机网络/知识点/计算机网络体系结构/计算机网络分层结构.md",
     "计算机网络/知识点/计算机网络体系结构",
     "计算机网络/知识点/计算机网络体系结构/计算机网络的组成.md",
-    "计算机网络/知识点/计算机网络体系结构/计算机网络的性能指标.md",
     "计算机网络/计算机网络体系结构",
     "todoList.emmx.NGFKvd",
     "todoList.emmx.QQfTWc",
