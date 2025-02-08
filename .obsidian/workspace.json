@@ -159,7 +159,8 @@
               "title": "标签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,7 +175,7 @@
       "canvas:新建白板": false
     }
   },
-  "active": "162e003f4300a95e",
+  "active": "9e29a52a585c7e63",
   "lastOpenFiles": [
     "计算机网络/第一章 计算机网络体系结构.md",
     "计算机网络/408计算机网络目录.md",
