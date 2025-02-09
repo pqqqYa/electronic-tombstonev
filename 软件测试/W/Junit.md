@@ -4,7 +4,7 @@
 
 ---
 
-### 1. 业务代码
+### 0.1 业务代码
 ```java
 package review;
 
@@ -45,7 +45,7 @@ public class Calc {
 
 ---
 
-### 2. 基于 JUnit 的测试代码
+### 0.2 基于 JUnit 的测试代码
 
 以下代码测试了每个方法的功能：
 
@@ -103,7 +103,7 @@ public class Demo {
 
 # 二. 常用的assert
 
-## 总结表格
+## 1 总结表格
 
 | 断言方法                | 功能              |
 | ------------------- | --------------- |
@@ -120,10 +120,10 @@ public class Demo {
 
 ---
 
-## **1. `assertEquals`**
+## 2 **1. `assertEquals`**
 用于验证**实际值**是否与**期望值**相等。
 
-### 语法
+### 2.1 语法
 ```java
 assertEquals(expected, actual);
 assertEquals(message, expected, actual);
@@ -132,14 +132,14 @@ assertEquals(message, expected, actual);
 - `actual`：实际值。
 - `message`：断言失败时的错误提示信息（可选）。
 
-### 示例
+### 2.2 示例
 ```java
 assertEquals(5, 2 + 3); // 测试通过
 assertEquals("结果不符合预期", 10, 2 * 5); // 测试通过
 assertEquals("字符串比较", "hello", "he" + "llo"); // 测试通过
 ```
 
-### 不仅限数值的比较
+### 2.3 不仅限数值的比较
 
 `assertEquals` 可以比较的不仅是数值，还包括字符串、布尔值、对象等各种数据类型，具体取决于被比较的数据及其 `equals` 方法的实现。
 
@@ -175,10 +175,10 @@ assertEquals("字符串比较", "hello", "he" + "llo"); // 测试通过
 
 ---
 
-## **2. `assertNotEquals`**
+## 3 **2. `assertNotEquals`**
 用于验证**实际值**是否与**不期望的值**不同。
 
-### 语法
+### 3.1 语法
 ```java
 assertNotEquals(unexpected, actual);
 assertNotEquals(message, unexpected, actual);
@@ -187,7 +187,7 @@ assertNotEquals(message, unexpected, actual);
 - `actual`：实际值。
 - `message`：断言失败时的错误提示信息（可选）。
 
-### 示例
+### 3.2 示例
 ```java
 assertNotEquals(4, 2 + 3); // 测试通过
 assertNotEquals("结果不应该相等", 8, 2 * 5); // 测试通过
@@ -195,10 +195,10 @@ assertNotEquals("结果不应该相等", 8, 2 * 5); // 测试通过
 
 ---
 
-## **3. `assertTrue`**
+## 4 **3. `assertTrue`**
 用于验证条件表达式是否为 **`true`**。
 
-### 语法
+### 4.1 语法
 ```java
 assertTrue(condition);
 assertTrue(message, condition);
@@ -206,7 +206,7 @@ assertTrue(message, condition);
 - `condition`：布尔条件。
 - `message`：断言失败时的错误提示信息（可选）。
 
-### 示例
+### 4.2 示例
 ```java
 assertTrue(5 > 3); // 测试通过
 assertTrue("值必须大于0", 10 > 0); // 测试通过
@@ -214,10 +214,10 @@ assertTrue("值必须大于0", 10 > 0); // 测试通过
 
 ---
 
-## **4. `assertFalse`**
+## 5 **4. `assertFalse`**
 用于验证条件表达式是否为 **`false`**。
 
-### 语法
+### 5.1 语法
 ```java
 assertFalse(condition);
 assertFalse(message, condition);
@@ -225,7 +225,7 @@ assertFalse(message, condition);
 - `condition`：布尔条件。
 - `message`：断言失败时的错误提示信息（可选）。
 
-### 示例
+### 5.2 示例
 ```java
 assertFalse(5 < 3); // 测试通过
 assertFalse("值不能为负", -1 > 0); // 测试通过
@@ -233,10 +233,10 @@ assertFalse("值不能为负", -1 > 0); // 测试通过
 
 ---
 
-## **5. `assertNull`**
+## 6 **5. `assertNull`**
 用于验证对象是否为 **`null`**。
 
-### 语法
+### 6.1 语法
 ```java
 assertNull(actual);
 assertNull(message, actual);
@@ -244,7 +244,7 @@ assertNull(message, actual);
 - `actual`：实际值。
 - `message`：断言失败时的错误提示信息（可选）。
 
-### 示例
+### 6.2 示例
 ```java
 Object obj = null;
 assertNull(obj); // 测试通过
@@ -253,10 +253,10 @@ assertNull("对象应该为 null", obj); // 测试通过
 
 ---
 
-## **6. `assertNotNull`**
+## 7 **6. `assertNotNull`**
 用于验证对象是否 **不为 `null`**。
 
-### 语法
+### 7.1 语法
 ```java
 assertNotNull(actual);
 assertNotNull(message, actual);
@@ -264,7 +264,7 @@ assertNotNull(message, actual);
 - `actual`：实际值。
 - `message`：断言失败时的错误提示信息（可选）。
 
-### 示例
+### 7.2 示例
 ```java
 Object obj = new Object();
 assertNotNull(obj); // 测试通过
@@ -273,10 +273,10 @@ assertNotNull("对象不应该为 null", obj); // 测试通过
 
 ---
 
-## **7. `assertSame`**
+## 8 **7. `assertSame`**
 用于验证两个对象是否引用的是**同一个对象**（内存地址相同）。
 
-### 语法
+### 8.1 语法
 ```java
 assertSame(expected, actual);
 assertSame(message, expected, actual);
@@ -285,7 +285,7 @@ assertSame(message, expected, actual);
 - `actual`：实际的对象。
 - `message`：断言失败时的错误提示信息（可选）。
 
-### 示例
+### 8.2 示例
 ```java
 String str1 = "hello";
 String str2 = str1;
@@ -295,10 +295,10 @@ assertSame("两个对象引用应该相同", str1, str2); // 测试通过
 
 ---
 
-## **8. `assertNotSame`**
+## 9 **8. `assertNotSame`**
 用于验证两个对象是否引用的是**不同的对象**（内存地址不同）。
 
-### 语法
+### 9.1 语法
 ```java
 assertNotSame(unexpected, actual);
 assertNotSame(message, unexpected, actual);
@@ -307,7 +307,7 @@ assertNotSame(message, unexpected, actual);
 - `actual`：实际的对象。
 - `message`：断言失败时的错误提示信息（可选）。
 
-### 示例
+### 9.2 示例
 ```java
 String str1 = new String("hello");
 String str2 = new String("hello");
@@ -317,12 +317,12 @@ assertNotSame("两个对象引用不应该相同", str1, str2); // 测试通过
 
 ---
 
-## **9. `assertArrayEquals`**
+## 10 **9. `assertArrayEquals`**
 用于验证两个数组是否相等（包括长度和每个元素值都相等）。
 
 **注意**：`assertArrayEquals` 只能验证 **一维数组**，对于多维数组，需要手动循环比较每个维度。
 
-### 语法
+### 10.1 语法
 ```java
 assertArrayEquals(expectedArray, actualArray);
 assertArrayEquals(message, expectedArray, actualArray);
@@ -331,7 +331,7 @@ assertArrayEquals(message, expectedArray, actualArray);
 - `actualArray`：实际的数组。
 - `message`：断言失败时的错误提示信息（可选）。
 
-### 示例
+### 10.2 示例
 ```java
 int[] expected = {1, 2, 3};
 int[] actual = {1, 2, 3};
@@ -341,17 +341,17 @@ assertArrayEquals("两个数组应该相等", expected, actual); // 测试通过
 
 ---
 
-## **10. `fail`**
+## 11 **10. `fail`**
 强制使测试失败，用于明确标识代码中的逻辑问题。
 
-### 语法
+### 11.1 语法
 ```java
 fail();
 fail(message);
 ```
 - `message`：断言失败时的错误提示信息。
 
-### 示例
+### 11.2 示例
 ```java
 if (someCondition) {
     fail("逻辑错误：条件不应该满足");
@@ -364,7 +364,7 @@ if (someCondition) {
 
 ---
 
-### 1. **语法格式**
+### 0.1 **语法格式**
 
 ```java
 @Test(expected = 异常类型.class)
@@ -378,7 +378,7 @@ public void 方法名() {
 
 ---
 
-### 2. **示例**
+### 0.2 **示例**
 
 #### **1. 测试抛出除以 0 的异常**
 
@@ -423,7 +423,7 @@ public void testIllegalArgument() {
 
 ---
 
-### 3. **注意事项**
+### 0.3 **注意事项**
 
 1. **必须抛出指定类型的异常**
    - 如果测试方法没有抛出异常，或者抛出了与 `expected` 不匹配的异常，测试会失败。
@@ -434,7 +434,7 @@ public void testIllegalArgument() {
 
 ---
 
-### ***扩展：使用 ExpectedException 规则（可验证异常消息）**
+### 0.4 ***扩展：使用 ExpectedException 规则（可验证异常消息）**
 
 如果需要在 **JUnit 4** 中验证异常的具体消息，可以使用 `ExpectedException` 规则：
 

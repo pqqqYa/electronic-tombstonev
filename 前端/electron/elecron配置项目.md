@@ -1,4 +1,4 @@
-### ts中引入path模块出错
+### 0.1 ts中引入path模块出错
 
 Cannot find module 'path' or its corresponding type declarations.
 ##### 第一步
