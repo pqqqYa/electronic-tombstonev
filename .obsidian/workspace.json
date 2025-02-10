@@ -13,17 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高等数学/导数与微分.md",
+                "file": "英语/英语语法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "导数与微分"
+              "title": "英语语法"
             }
           },
           {
             "id": "f9cc02b959ed3174",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -31,11 +32,13 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "GPT使用指导"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,10 +195,11 @@
       "canvas:新建白板": false
     }
   },
-  "active": "9b31261ddacda402",
+  "active": "f9cc02b959ed3174",
   "lastOpenFiles": [
-    "Gpt/GPT使用指导.md",
+    "英语/英语语法.md",
     "高等数学/导数与微分.md",
+    "Gpt/GPT使用指导.md",
     "高等数学/函数.md",
     "高等数学/知识点/函数.md",
     "高等数学/目录.md",
@@ -229,7 +233,6 @@
     "考研/考研流程.html.files/image1.png",
     "计算机网络/第1章 计算机网络体系结构.md",
     "计算机网络/计算机网络体系结构/计算机网络的发展.md",
-    "计算机网络/计算机网络体系结构/计算机网络的组成.md",
     "计算机网络/计算机网络体系结构/未命名",
     "计算机网络/attachment/五层参考模型的数据封装与解封装.png",
     "计算机网络/计算机网络体系结构",
