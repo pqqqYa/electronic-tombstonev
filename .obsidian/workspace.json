@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "计算机网络/第4章 网络层.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "第4章 网络层"
@@ -181,9 +181,11 @@
   },
   "active": "d508f8d6fc0277e2",
   "lastOpenFiles": [
+    "计算机网络/未命名.md",
+    "计算机网络/第4章 网络层.md",
+    "计算机网络/attachment/路由聚合.png",
     "计算机网络/attachment/最初的IPv4地址.png",
     "计算机网络/进制转换.md",
-    "计算机网络/第4章 网络层.md",
     "计算机网络/知识点总结/各种协议.md",
     "计算机网络/attachment/IPv4分组（数据报）格式.png",
     "计算机网络/408计算机网络目录.md",
@@ -228,8 +230,6 @@
     "Temp/attachment/Pasted image 20250205160936.png",
     "Temp/attachment",
     "论文/文章思路.canvas",
-    "英语/未命名.canvas",
-    "考研/attachment/Pasted image 20250121145341.png",
-    "考研/attachment/Pasted image 20250121145003.png"
+    "英语/未命名.canvas"
   ]
 }
