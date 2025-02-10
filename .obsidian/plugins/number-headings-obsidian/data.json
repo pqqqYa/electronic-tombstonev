@@ -1,10 +1,10 @@
 {
   "skipTopLevel": true,
   "firstLevel": 2,
-  "maxLevel": 3,
+  "maxLevel": 4,
   "styleLevel1": "1",
   "styleLevelOther": "1",
-  "auto": true,
+  "auto": false,
   "separator": "",
   "contents": "",
   "skipHeadings": "",
