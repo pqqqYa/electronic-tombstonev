@@ -25,5 +25,5 @@ wsl --import <新子系统名字> <解压路径> <压缩包完整路径"D:\\unbu
 ## 移动文件
 
 ~~~cmd
-sudo cp /mnt/c/Users/ASUS/Downloads/jdk-8u162-linux-x64.tar.gz /home/hadoop/Downloads
+sudo cp /mnt/c/Users/ASUS/Downloads/hadoop-2.7.1.tar.gz /home/hadoop/Downloads
 ~~~
