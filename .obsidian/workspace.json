@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/进制转换.md",
+                "file": "高等数学/导数与微分--知识点.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "进制转换"
+              "title": "导数与微分--知识点"
             }
           }
         ],
@@ -110,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625
+    "width": 227.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -136,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/进制转换.md",
+                "file": "高等数学/导数与微分--知识点.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "进制转换 的大纲"
+              "title": "导数与微分--知识点 的大纲"
             }
           },
           {
@@ -183,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,11 +198,12 @@
   },
   "active": "9ef7f0a12801216f",
   "lastOpenFiles": [
+    "高等数学/函数--知识点.md",
+    "高等数学/极限--知识点.md",
+    "计算机网络/进制转换.md",
     "WSL/wsl常用命令.md",
     "Gpt/GPT使用指导.md",
     "WSL",
-    "高等数学/极限--知识点.md",
-    "高等数学/函数--知识点.md",
     "高等数学/导数与微分--知识点.md",
     "高等数学/attachment/反函数导数的本质.png",
     "计算机网络/第5章 传输层.md",
@@ -218,7 +221,6 @@
     "计算机网络/未命名.md",
     "计算机网络/attachment/路由聚合.png",
     "计算机网络/attachment/最初的IPv4地址.png",
-    "计算机网络/进制转换.md",
     "计算机网络/知识点总结/各种协议.md",
     "计算机网络/attachment/IPv4分组（数据报）格式.png",
     "计算机网络/408计算机网络目录.md",
