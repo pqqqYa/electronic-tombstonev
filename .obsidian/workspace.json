@@ -126,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625
+    "width": 227.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -194,8 +195,7 @@
               "title": "elecron配置项目 的出链列表"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,11 +210,11 @@
       "canvas:新建白板": false
     }
   },
-  "active": "9e29a52a585c7e63",
+  "active": "162e003f4300a95e",
   "lastOpenFiles": [
     "Gpt/GPT使用指导.md",
-    "高等数学/极限--知识点.md",
     "Latex/Latex公式.md",
+    "高等数学/极限--知识点.md",
     "高等数学/函数--知识点.md",
     "高等数学/导数与微分--知识点.md",
     "计算机网络/进制转换.md",
