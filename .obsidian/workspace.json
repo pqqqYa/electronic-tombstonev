@@ -194,7 +194,8 @@
               "title": "elecron配置项目 的出链列表"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -209,7 +210,7 @@
       "canvas:新建白板": false
     }
   },
-  "active": "162e003f4300a95e",
+  "active": "9e29a52a585c7e63",
   "lastOpenFiles": [
     "Gpt/GPT使用指导.md",
     "高等数学/极限--知识点.md",
