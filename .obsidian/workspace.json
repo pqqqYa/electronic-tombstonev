@@ -52,9 +52,19 @@
               "icon": "lucide-file",
               "title": "微分中值定理--知识点"
             }
+          },
+          {
+            "id": "0dc6d1c30025b66e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,8 +132,7 @@
               "title": "标签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -153,13 +162,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高等数学/微分中值定理--知识点.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "微分中值定理--知识点 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -211,13 +219,13 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "e3fdfef1d179e35f",
+  "active": "0dc6d1c30025b66e",
   "lastOpenFiles": [
+    "Gpt/GPT使用指导.md",
+    "高等数学/微分中值定理--知识点.md",
     "高等数学/导数应用--知识点.md",
     "高等数学/attachment/斜渐近线.png",
     "Latex/Latex公式.md",
-    "Gpt/GPT使用指导.md",
-    "高等数学/微分中值定理--知识点.md",
     "高等数学/attachment/费马引理.png",
     "高等数学/attachment/柯西中值定理.png",
     "高等数学/attachment/拉格朗日中值定理.png",
