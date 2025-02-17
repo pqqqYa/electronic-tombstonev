@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "服务",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,8 @@
               "title": "标签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -210,7 +211,7 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "ac97c85d48de1c1d",
+  "active": "e3fdfef1d179e35f",
   "lastOpenFiles": [
     "高等数学/导数应用--知识点.md",
     "高等数学/attachment/斜渐近线.png",
