@@ -40,7 +40,7 @@
             }
           },
           {
-            "id": "6e45ab952af63b69",
+            "id": "489be4ef1f12b791",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,9 +52,43 @@
               "icon": "lucide-file",
               "title": "不定积分--知识点"
             }
+          },
+          {
+            "id": "8354dc3aa0092fc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高等数学/导数与微分--知识点.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "导数与微分--知识点"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
+      },
+      {
+        "id": "862542393eceebca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e45ab952af63b69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高等数学/总结/导数与不定积分公式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "导数与不定积分公式"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625,
-    "collapsed": true
+    "width": 227.50152587890625
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -153,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高等数学/不定积分--知识点.md",
+                "file": "高等数学/总结/导数与不定积分公式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "不定积分--知识点 的大纲"
+              "title": "导数与不定积分公式 的大纲"
             }
           },
           {
@@ -210,13 +243,15 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "162e003f4300a95e",
+  "active": "6e45ab952af63b69",
   "lastOpenFiles": [
-    "Gpt/GPT使用指导.md",
-    "高等数学/不定积分--知识点.md",
-    "Latex/Latex公式.md",
-    "高等数学/三角函数.md",
     "高等数学/导数与微分--知识点.md",
+    "高等数学/总结/导数与不定积分公式.md",
+    "高等数学/不定积分--知识点.md",
+    "高等数学/总结/三角函数.md",
+    "高等数学/总结",
+    "Gpt/GPT使用指导.md",
+    "Latex/Latex公式.md",
     "高等数学/微分中值定理--知识点.md",
     "计算机网络/第六章 应用层.md",
     "计算机网络/第5章 传输层.md",
@@ -250,7 +285,6 @@
     "WSL",
     "高等数学/attachment",
     "英语/英语语法.md",
-    "高等数学/知识点/函数.md",
     "高等数学/高等数学.canvas",
     "Gpt",
     "计算机网络/知识点总结",
@@ -258,7 +292,6 @@
     "计算机网络/计算机网络体系结构",
     "计算机网络/知识点/计算机网络体系结构",
     "计算机网络/计算机网络体系结构",
-    "todoList.emmx.NGFKvd",
     "未命名.canvas",
     "论文/文章思路.canvas",
     "英语/未命名.canvas"
