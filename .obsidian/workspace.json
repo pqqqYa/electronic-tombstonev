@@ -63,8 +63,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,12 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Gpt/GPT使用指导.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "GPT使用指导 的大纲"
             }
           },
           {
@@ -219,13 +219,13 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "0dc6d1c30025b66e",
+  "active": "645b413f0311a8ba",
   "lastOpenFiles": [
+    "Latex/Latex公式.md",
     "Gpt/GPT使用指导.md",
     "高等数学/微分中值定理--知识点.md",
     "高等数学/导数应用--知识点.md",
     "高等数学/attachment/斜渐近线.png",
-    "Latex/Latex公式.md",
     "高等数学/attachment/费马引理.png",
     "高等数学/attachment/柯西中值定理.png",
     "高等数学/attachment/拉格朗日中值定理.png",
