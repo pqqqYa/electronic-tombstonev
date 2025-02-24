@@ -63,7 +63,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gpt/GPT使用指导.md",
+                "file": "高等数学/微分中值定理--知识点.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "GPT使用指导 的大纲"
+              "title": "微分中值定理--知识点 的大纲"
             }
           },
           {
@@ -219,7 +220,7 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "645b413f0311a8ba",
+  "active": "ac97c85d48de1c1d",
   "lastOpenFiles": [
     "Latex/Latex公式.md",
     "Gpt/GPT使用指导.md",
