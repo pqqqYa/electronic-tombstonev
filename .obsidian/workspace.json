@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/第4章 网络层.md",
+                "file": "计算机网络/第2章 物理层.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第4章 网络层"
+              "title": "第2章 物理层"
             }
           }
         ],
@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "信道",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625
+    "width": 227.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -152,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/第4章 网络层.md",
+                "file": "计算机网络/第2章 物理层.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "第4章 网络层 的大纲"
+              "title": "第2章 物理层 的大纲"
             }
           },
           {
@@ -199,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 272.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,7 +214,11 @@
   },
   "active": "af13bbdd79d5825f",
   "lastOpenFiles": [
+    "Gpt/GPT使用指导.md",
+    "计算机网络/第2章 物理层.md",
+    "计算机网络/第3章 数据链路层.md",
     "计算机网络/第1章 计算机网络体系结构.md",
+    "计算机网络/第4章 网络层.md",
     "计算机网络/408计算机网络目录.md",
     "Latex/Latex公式.md",
     "计算机操作系统/第5章 输入输出管理.md",
@@ -222,7 +228,6 @@
     "计算机操作系统/第1章 操作系统的概述.md",
     "高等数学/微分中值定理--知识点.md",
     "计算机操作系统",
-    "Gpt/GPT使用指导.md",
     "高等数学/导数应用--知识点.md",
     "高等数学/attachment/斜渐近线.png",
     "高等数学/attachment/费马引理.png",
@@ -240,7 +245,6 @@
     "高等数学/attachment/反函数导数的本质.png",
     "计算机网络/第5章 传输层.md",
     "计算机网络/attachment/UDP数据报格式.png",
-    "计算机网络/第4章 网络层.md",
     "高等数学/attachment/1.4 连续、可导、可微之间的关系.png",
     "高等数学/attachment",
     "英语/英语语法.md",
@@ -249,11 +253,9 @@
     "高等数学/知识点/导数与微分.md",
     "高等数学/高等数学.canvas",
     "Gpt",
-    "计算机网络/未命名.md",
     "计算机网络/attachment/路由聚合.png",
     "计算机网络/知识点总结/各种协议.md",
     "计算机网络/知识点总结",
-    "软件测试/W/等价类划分.md",
     "计算机网络/计算机网络体系结构/未命名",
     "计算机网络/计算机网络体系结构",
     "计算机网络/知识点/计算机网络体系结构",
