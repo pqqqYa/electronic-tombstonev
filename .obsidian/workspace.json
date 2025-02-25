@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高等数学/小总结/导数与不定积分公式.md",
+                "file": "高等数学/不定积分--知识点.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "导数与不定积分公式 的大纲"
+              "title": "不定积分--知识点 的大纲"
             }
           },
           {
@@ -203,8 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
-    "collapsed": true
+    "width": 272.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,10 +214,10 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "33cab5c3f96f570d",
+  "active": "0f5f7b65d942f80f",
   "lastOpenFiles": [
-    "高等数学/不定积分--知识点.md",
     "高等数学/小总结/导数与不定积分公式.md",
+    "高等数学/不定积分--知识点.md",
     "Gpt/GPT使用指导.md",
     "高等数学/小总结/三角函数.md",
     "高等数学/导数与微分--知识点.md",
