@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "1735a76a8fcf401a",
+            "id": "a79da1e2b739b101",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高等数学/不定积分--知识点.md",
+                "file": "计算机操作系统/第1章 操作系统的概述.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "不定积分--知识点"
+              "title": "第1章 操作系统的概述"
             }
           }
         ],
@@ -136,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高等数学/小总结/导数与不定积分公式.md",
+                "file": "计算机操作系统/第1章 操作系统的概述.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "导数与不定积分公式 的大纲"
+              "title": "第1章 操作系统的概述 的大纲"
             }
           },
           {
@@ -178,12 +178,12 @@
               "title": "elecron配置项目 的出链列表"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
-    "collapsed": true
+    "width": 272.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,15 +194,17 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "7a3dee57a4518add",
+  "active": "9e29a52a585c7e63",
   "lastOpenFiles": [
+    "Gpt/GPT使用指导.md",
+    "计算机操作系统/第1章 操作系统的概述.md",
+    "高等数学/不定积分--知识点.md",
+    "计算机组成原理",
     "计算机三级/技巧(名).pdf",
     "计算机三级/计算机三级考试.md",
     "计算机三级/选择题必背知识点.pdf",
     "计算机三级/大题(饭) 1.pdf",
     "数据可视化/matplotlib.md",
-    "高等数学/不定积分--知识点.md",
-    "Gpt/GPT使用指导.md",
     "Latex/Latex公式.md",
     "高等数学/小总结/导数与不定积分公式.md",
     "数据可视化",
@@ -226,7 +228,6 @@
     "计算机操作系统/第4章 文件管理.md",
     "计算机操作系统/第3章 内存管理.md",
     "计算机操作系统/第2章进程管理.md",
-    "计算机操作系统/第1章 操作系统的概述.md",
     "计算机操作系统",
     "高等数学/导数应用--知识点.md",
     "高等数学/attachment/斜渐近线.png",
@@ -241,7 +242,6 @@
     "高等数学/attachment",
     "高等数学/高等数学.canvas",
     "Gpt",
-    "计算机网络/知识点总结",
     "未命名.canvas",
     "论文/文章思路.canvas",
     "英语/未命名.canvas"
