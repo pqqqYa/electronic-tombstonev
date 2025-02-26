@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Gpt/GPT使用指导.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true,
@@ -37,8 +37,7 @@
               "title": "01.第1章 计算机系统概述"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,13 +135,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机组成原理/01.第1章 计算机系统概述.md",
+                "file": "Gpt/GPT使用指导.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01.第1章 计算机系统概述 的大纲"
+              "title": "GPT使用指导 的大纲"
             }
           },
           {
@@ -194,10 +193,10 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "1793657528d97159",
+  "active": "645b413f0311a8ba",
   "lastOpenFiles": [
-    "Gpt/GPT使用指导.md",
     "计算机组成原理/01.第1章 计算机系统概述.md",
+    "Gpt/GPT使用指导.md",
     "计算机操作系统/第1章 操作系统的概述.md",
     "README.md",
     "高等数学/不定积分--知识点.md",
