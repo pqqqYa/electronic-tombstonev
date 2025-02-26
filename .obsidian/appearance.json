@@ -3,5 +3,8 @@
   "accentColor": "",
   "baseFontSizeAction": false,
   "theme": "moonstone",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "mermaid"
+  ]
 }
