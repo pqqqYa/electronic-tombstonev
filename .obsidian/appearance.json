@@ -1,8 +1,8 @@
 {
-  "cssTheme": "Things",
+  "cssTheme": "Minimal",
   "accentColor": "",
   "baseFontSizeAction": false,
-  "theme": "moonstone",
+  "theme": "obsidian",
   "nativeMenus": false,
   "enabledCssSnippets": [
     "mermaid"
