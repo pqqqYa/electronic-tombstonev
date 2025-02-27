@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TCP/IP",
+                "query": "奇",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,8 @@
               "title": "标签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -195,11 +196,13 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "4a6d329e14adad2d",
+  "active": "e3fdfef1d179e35f",
   "lastOpenFiles": [
-    "计算机网络/第六章 应用层.md",
+    "计算机网络/408计算机网络目录.md",
+    "高等数学/微分中值定理--知识点.md",
     "高等数学/定积分--知识点.md",
     "高等数学/小总结/导数与不定积分公式.md",
+    "计算机网络/第六章 应用层.md",
     "高等数学/导数与微分--知识点.md",
     "高等数学/导数应用--知识点.md",
     "GPT/GPT使用指导.md",
@@ -209,7 +212,6 @@
     "计算机网络/attachment/确认号与接收窗口.png",
     "计算机网络/attachment/TCP报文段.png",
     "计算机网络/attachment/TCP首部.png",
-    "计算机网络/408计算机网络目录.md",
     "计算机网络/第4章 网络层.md",
     "计算机网络/attachment/OSPF区域.png",
     "README.md",
@@ -229,7 +231,6 @@
     "数据可视化/matplotlib.md",
     "数据可视化",
     "高等数学/小总结/三角函数.md",
-    "高等数学/微分中值定理--知识点.md",
     "高等数学/小总结",
     "计算机网络/attachment/循环冗余编码 (CRC)计算过程.png",
     "计算机网络/attachment/组帧-零比特填充法.png",
