@@ -144,45 +144,12 @@
               "icon": "lucide-list",
               "title": "README 的大纲"
             }
-          },
-          {
-            "id": "0cf9111c9abc1625",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "前端/electron/elecron配置项目.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "elecron配置项目 的反向链接列表"
-            }
-          },
-          {
-            "id": "e85b4e495a993c8f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "计算机网络/第5章 传输层.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "第5章 传输层 的出链列表"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 301.5
   },
   "left-ribbon": {
     "hiddenItems": {
