@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高等数学/定积分--知识点.md",
+                "file": "计算机网络/第4章 网络层.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "定积分--知识点"
+              "title": "第4章 网络层"
             }
           }
         ],
@@ -110,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625
+    "width": 227.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -136,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高等数学/定积分--知识点.md",
+                "file": "计算机网络/第4章 网络层.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "定积分--知识点 的大纲"
+              "title": "第4章 网络层 的大纲"
             }
           },
           {
@@ -178,7 +179,8 @@
               "title": "elecron配置项目 的出链列表"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,9 +195,14 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "162e003f4300a95e",
+  "active": "0fac4b3d54bfbeeb",
   "lastOpenFiles": [
     "GPT/GPT使用指导.md",
+    "计算机网络/第4章 网络层.md",
+    "计算机网络/第3章 数据链路层.md",
+    "计算机网络/第六章 应用层.md",
+    "计算机网络/第5章 传输层.md",
+    "计算机网络/第2章 物理层.md",
     "高等数学/定积分--知识点.md",
     "Latex/Latex公式.md",
     "高等数学/不定积分--知识点.md",
@@ -214,15 +221,10 @@
     "高等数学/微分中值定理--知识点.md",
     "高等数学/导数与微分--知识点.md",
     "高等数学/小总结",
-    "计算机网络/第六章 应用层.md",
-    "计算机网络/第5章 传输层.md",
-    "计算机网络/第4章 网络层.md",
-    "计算机网络/第3章 数据链路层.md",
     "计算机网络/attachment/循环冗余编码 (CRC)计算过程.png",
     "计算机网络/attachment/组帧-零比特填充法.png",
     "计算机网络/attachment/组帧-字节填充法.png",
     "计算机网络/attachment/组帧-字符计数法.png",
-    "计算机网络/第2章 物理层.md",
     "计算机网络/第1章 计算机网络体系结构.md",
     "计算机网络/408计算机网络目录.md",
     "计算机网络/进制转换.md",
