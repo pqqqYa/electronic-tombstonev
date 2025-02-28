@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统SWPU/题目.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "题目"
+              "title": "README"
             }
           }
         ]
@@ -179,8 +179,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "README.md",
     "操作系统SWPU/题目.md",
+    "README.md",
     "操作系统SWPU",
     "SCRCU/SCRCU入职考试.md",
     "GPT/GPT使用指导.md",
