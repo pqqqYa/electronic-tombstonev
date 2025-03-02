@@ -467,14 +467,14 @@ $$
 | ↔   | \leftrightarrow |
 | ⇔   | \Leftrightarrow |
 ### 长箭头表示
-| 符号 | MarkDown |
-| ---- | ---- |
-| ⟵ | \longleftarrow |
-| ⟸ | \Longleftarrow |
-| ⟶ | \longrightarrow |
-| ⟹ | \Longrightarrow |
-| ⟷ | \longleftrightarrow |
-| ⟺ | \Longleftrightarrow |
+| 符号  | MarkDown            |
+| --- | ------------------- |
+| ⟵   | \longleftarrow      |
+| ⟸   | \Longleftarrow      |
+| ⟶   | \longrightarrow     |
+| ⟹   | \Longrightarrow     |
+| ⟷   | \longleftrightarrow |
+| ⟺   | \Longleftrightarrow |
 ### 更多的箭头符号
 | 符号 | MarkDown |
 | ---- | ---- |

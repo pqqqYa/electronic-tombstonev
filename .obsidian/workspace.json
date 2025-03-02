@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网络安全/信息与网络安全笔记.md",
+                "file": "Latex/Latex公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "信息与网络安全笔记"
+              "title": "Latex公式"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "long",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,13 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GPT/GPT使用指导.md",
+                "file": "Latex/Latex公式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "GPT使用指导 的大纲"
+              "title": "Latex公式 的大纲"
             }
           },
           {
@@ -162,7 +162,8 @@
               "title": "README 的出链列表"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,14 +179,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e3fdfef1d179e35f",
+  "active": "9e29a52a585c7e63",
   "lastOpenFiles": [
     "README.md",
+    "网络安全/信息与网络安全笔记.md",
     "操作系统SWPU/题目.md",
     "操作系统SWPU",
     "SCRCU/SCRCU入职考试.md",
     "GPT/GPT使用指导.md",
-    "网络安全/信息与网络安全笔记.md",
     "Latex/Tex文件的基本结构.md",
     "数据可视化/matplotlib.md",
     "Latex/LaTex学习目录.md",
