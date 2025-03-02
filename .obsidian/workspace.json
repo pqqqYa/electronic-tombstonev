@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "网络安全/信息与网络安全笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "信息与网络安全笔记"
             }
           }
         ]
@@ -89,7 +89,8 @@
               "title": "标签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,10 +178,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e3fdfef1d179e35f",
   "lastOpenFiles": [
-    "操作系统SWPU/题目.md",
     "README.md",
+    "操作系统SWPU/题目.md",
     "操作系统SWPU",
     "SCRCU/SCRCU入职考试.md",
     "GPT/GPT使用指导.md",
