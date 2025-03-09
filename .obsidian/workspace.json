@@ -11,14 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "学校目录/择校.md",
-                "mode": "source",
-                "source": false
+                "file": "计算机三级/技巧(名).pdf"
               },
-              "icon": "lucide-file",
-              "title": "择校"
+              "icon": "lucide-file-text",
+              "title": "技巧(名)"
             }
           }
         ]
@@ -165,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,10 +176,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "162e003f4300a95e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "考研流程.emmx",
     "README.md",
+    "学校目录/择校.md",
+    "考研流程.emmx",
     "C语言/0. 面向考试的C语言不完全指北.md",
     "Latex/Latex公式.md",
     "计算机三级/大题(饭) 1.pdf",
@@ -224,7 +224,6 @@
     "计算机网络/attachment/组帧-字节填充法.png",
     "计算机网络/attachment/组帧-字符计数法.png",
     "计算机操作系统",
-    "WSL",
     "高等数学/高等数学.canvas",
     "未命名.canvas",
     "论文/文章思路.canvas",
