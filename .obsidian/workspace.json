@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "学校目录/择校.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "择校"
             }
           }
         ]
@@ -119,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "学校目录/择校.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "择校 的大纲"
             }
           },
           {
@@ -161,8 +161,7 @@
               "title": "README 的出链列表"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,8 +177,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "162e003f4300a95e",
   "lastOpenFiles": [
+    "考研流程.emmx",
     "README.md",
     "C语言/0. 面向考试的C语言不完全指北.md",
     "Latex/Latex公式.md",
@@ -216,7 +216,6 @@
     "计算机网络/第4章 网络层.md",
     "计算机网络/attachment/OSPF区域.png",
     "计算机网络/第3章 数据链路层.md",
-    "计算机网络/第1章 计算机网络体系结构.md",
     "计算机组成原理",
     "数据可视化",
     "高等数学/小总结",
