@@ -1,0 +1,338 @@
+@charset "utf-8";
+.body_home{ z-index: 2;}
+.body_b.showdiv{ z-index: 3;}
+.showdiv .u_header2{ transition: all 0.7s ease-in-out;}
+.subBanner{ position: relative;}
+.subBanner::before{ content: ''; display: block; width: 100%; height: 240px;
+    background-image: -moz-linear-gradient( 90deg, rgba(0,0,0,0) 0%, rgb(3,0,0) 100%);
+    background-image: -webkit-linear-gradient( 90deg, rgba(0,0,0,0) 0%, rgb(3,0,0) 100%);
+    background-image: -ms-linear-gradient( 90deg, rgba(0,0,0,0) 0%, rgb(3,0,0) 100%);
+    opacity: 0.8; position: absolute; top: 0; left: 0;
+}
+.subBanner .gp-img-responsive{ padding-bottom: 33.33%;}
+
+.subBody{ position: relative; top: 0;}
+.subContent{ position: relative;}
+.navBox{ width: 100%; background: rgba(37, 39, 48, 0.7); position: absolute; bottom: 100%; left: 0; z-index: 1;}
+.subTil{ flex-shrink: 0; line-height: 110px; width: 280px; text-align: center; background: url(../images/sub_til_bg.png) no-repeat center/cover;}
+.navBox ul{ width: calc(100% - 280px); justify-content: flex-start; padding-left: 50px;}
+.navBox ul li{position: relative;margin-right: 60px;}
+.navBox ul li:last-child{ margin-right: 0px;}
+.navBox ul a{ display: block; line-height: 110px; white-space: nowrap; position: relative;}
+.navBox ul a::before{ content: ''; display: block; width: 0%; height: 4px; background: #31a621; position: absolute; bottom: 0; left: 50%; transform: translateX(-50%); transition: all 0.35s ease;}
+.navBox li.on a::before, .navBox ul a:hover::before{width: calc(100% + 34px);}
+.navBox li.on a, .navBox ul a:hover{ color: #31a621;}
+
+.initial{ padding: 33px 32px 30px; line-height: 39px; background: #ebf0fa; justify-content: flex-start; flex-wrap: wrap;}
+.initial a{ font-size: 20px; color: #333; padding: 0 18px;}
+.initial .on a, .initial a:hover{ color: #31a621; font-weight: bold;}
+
+.subContainer{ padding-top: 10px;}
+.subContainer ul{ min-height: 300px;}
+.teacherList ul{ margin: 0 -13px;}
+.teacherList li{ margin-top: 50px;}
+.teacherList li a{ margin: 0 13px;}
+.teacherList .imgBox{ width: 198px; flex-shrink: 0;}
+.teacherList .gp-img-responsive{ padding-bottom: 131.31%;}
+.teacherList .infoBox{ width: calc(100% - 198px);}
+.teacherList .name{ padding-left: 25px; padding-top: 10px; box-sizing: border-box; border-bottom: 1px dashed #dfe5f2; border-right: 1px dashed #dfe5f2; min-height: 50px;}
+.teacherList .post{ padding-left: 25px; padding-top: 20px; padding-right: 18px; box-sizing: border-box; border-right: 1px dashed #dfe5f2; min-height: 150px; color: #999;}
+
+/* 新闻动态 */
+.newsList{ padding-top: 60px;}
+.newsList li{ padding-bottom: 40px; border-bottom: 1px dashed #cfd6e6; margin-bottom: 30px;}
+.newsList li:last-child{ margin-bottom: 0;}
+.newsList li a{ transition: all 0.35s ease;}
+.newsList li a:hover{ transform: translateY(-4px);}
+.newsList .imgBox{ width: 300px; flex-shrink: 0;}
+.newsList .gp-img-responsive{ padding-bottom: 56%;}
+.newsList .infoBox{ width: calc(100% - 320px); position: relative;}
+.newsList .title{ line-height: 26px; margin-bottom: 15px;}
+.newsList .summary{ line-height: 25px; color: #666;}
+.newsList .date{ font-family: 'Arial'; color: #999; padding-left: 34px; position: absolute; left: 0; bottom: 7px;}
+.newsList .date i{ position: absolute; left: 0; top: 50%; height: 1px; width: 20px; background: #032e7b; transform: translateY(-50%); margin-top: -3px;}
+.newsList .date i:last-child{ margin-top: 3px;}
+.newsList .date i:before{ content: ''; display: block; width: 4px; height: 4px; border-radius: 50%; border: 1px solid #032e7b; background: #fff; position: absolute; left: 4px; top: 50%; transform: translateY(-60%); transition: all 0.35s ease;}
+.newsList .date i:last-child:before{ left: auto; right: 4px;}
+.newsList a:hover .date i:before{ left: 12px;}
+.newsList a:hover .date i:last-child::before{ left: auto; right: 12px;}
+
+/* 通知公告 */
+.textList{ padding-top: 55px;}
+.textList li{ padding-bottom: 20px; border-bottom: 1px dashed #cfd6e6; margin-bottom: 40px;}
+.textList li:last-child{ margin-bottom: 20px;}
+.textList .title{ margin-left: 80px; line-height: 45px; padding-right: 32px; position: relative; transition: all 0.35s ease;}
+.textList a:hover .title{ transform: translateX(8px);}
+.textList .title::before{ content: ''; display: block; width: 22px; height: 7px; background: url(../images/rt_icon.png) no-repeat center/cover;
+    position: absolute; right: 10px; top: 50%; transform: translateY(-50%);}
+.textList .date{ position: relative;}
+.textList .date i{ display: block; width: 1px; height: 100%; background: #e5e5e5; position: absolute; right: -12px; top: 0;}
+.textList .date i::before, .textList .date i::after{ content: ''; display: block; width: 7px; height: 7px; border-radius: 50%; background: #e5e5e5;
+    position: absolute; top: 14px; left: 50%; transform: translateX(-60%); z-index: 1;}
+.textList .date i::before{ width: 10px; height: 15px; top: 10px; background: #fff;}
+.textList .date div{ color: #1744a0; line-height: 1;}
+.textList .year{ margin-top: 2px; font-size: 13px;}
+
+/* 学院简介 */
+.subContent > .gp-container{ position: relative;}
+.introduct{ position: relative; background: url(../images/intro_bg1.png) no-repeat top right, url(../images/intro_bg2.png) no-repeat left bottom;}
+
+/* 名誉院长 */
+.dean{ background: url(../images/intro_bg2.png) no-repeat left bottom;}
+.deanCon{ padding: 40px 0 100px; background: url(../images/dean_bg.png) no-repeat; background-size: 100% auto; background-position: 0px 40px; }
+.deanCon > .flex{ padding: 75px 0 0 50px; margin-bottom: 60px;}
+.deanCon .gp-img-responsive{ padding-bottom: 129.46%;}
+.deanCon .imgBox{ width: 240px; flex-shrink: 0; position: relative; z-index: 1;}
+.deanCon .imgBox::before{ content: ''; display: block; width: 100%; height: 100%; background: #fff; position: absolute; top: -15px; right: -15px; z-index: -1;}
+.deanCon .infoBox{ width: calc(100% - 295px);}
+.deanCon .name{ line-height: 1; padding: 10px 0;}
+.deanCon .post{ line-height: 36px; color: #666; margin-top: 20px; justify-content: flex-start; flex-wrap: wrap;}
+.deanCon .post span{ display: inline-block; margin-right: 50px; color: #666;}
+.deanCon .post span:last-child{ margin-right: 0;}
+.deanCon .summary{ line-height: 34px; margin-top: 40px;}
+.deanCon .box{ margin-bottom: 70px;}
+.deanCon .box:last-child{ margin-bottom: 0;}
+.deanCon .boxTil{ font-weight: bold; line-height: 1; position: relative;}
+.deanCon .boxTil::before{ content: ''; display: block; width: 100%; height: 0; border-bottom: 1px dashed #cfd6e6; position: absolute; top: 50%; transform: translateY(-50%); left: 0; z-index: 0;}
+.deanCon .boxTil span{ display: inline-block; padding-right: 15px; background: #fff; position: relative; z-index: 1;}
+.deanCon .boxCon{ line-height: 34px; margin-top: 24px;}
+
+/* 学院领导 */
+.leaderCon{ padding-bottom: 120px;}
+.leaderCon ul{ margin: 0 -22.5px; min-height: unset;}
+.leaderCon li{ margin-top: 50px; }
+.leaderCon ul .a{ margin: 0 22.5px; display: block; background: url(../images/leader_bg.png) no-repeat center/cover;}
+.leaderCon .imgBox{width: 180px;}
+.leaderCon .gp-img-responsive{ padding-bottom: 131.31%;}
+.leaderCon .infoBox{margin-left: 180px;padding: 30px 15px 0;box-sizing: border-box;}
+.leaderCon .name{line-height: 1.5;}
+.leaderCon .name a{ transition: all 0.2s ease;}
+.leaderCon ul .a:hover .name a{ color: #1237b2;}
+.leaderCon .name span{display: block;margin-top: 5px;vertical-align: top;/* line-height: 1.3; */font-size: 24px;}
+.leaderCon .post{color: #666;line-height: 26px;margin-top: 25px;-webkit-line-clamp: 5;}
+
+/* 科学研究 */
+.researchCon{ padding: 20px 0 88px;}
+.researchCon ul{ margin: 0 -20px;}
+.researchCon ul li{ margin-top: 40px;}
+.researchCon ul a{ margin: 0 20px;}
+.researchCon .imgBox{ width: 460px; flex-shrink: 0; background: #e6e6e6;}
+.researchCon .infoBox{ background: #f0f5ff; padding: 35px 45px 0 30px; position: relative;}
+.researchCon .infoBox::before{ content: ''; display: block; width: 20px; height: 8px; background: #31a621; position: absolute; left: 30px; top: 0;}
+.researchCon .gp-img-responsive{ padding-bottom: 56.09%;}
+.researchCon .name{ color: #333; line-height: 30px; max-height: 120px; overflow: hidden;}
+.researchCon .more{ position: absolute; bottom: 30px; right: 40px;}
+
+
+/*分页*/
+.pages{ margin: 60px 0 70px;}
+.gp-page { padding: 0; color:#999; font-size: 0px;}
+.gp-page:after,.gp-page:before { content:" "; display:table}
+.gp-page>a,.gp-page>span{display:inline-block;color: #666; background: #fff; cursor: pointer; width: 50px; height: 46px; line-height: 46px; font-size: 16px;border: 1px solid #1237b2;
+ position:relative;text-align: center; margin-bottom:0px; margin-left:5px;vertical-align: top; box-sizing: border-box; *display: inline; *zoom:1;}
+.gp-page-select{height: 32px;line-height: 32px;min-width: 50px;display:inline-block;*display: inline;*zoom:1;vertical-align: top;}
+.gp-page .gp-page-start,.gp-page .gp-page-end,.gp-page .gp-page-next,.gp-page .gp-page-prev,.gp-page > span {width: auto;padding:0 24px;}
+.gp-page .gp-page-start{ margin: 0 5px;}
+.gp-page .gp-page-end{ margin: 0 10px;}
+.gp-page > span{border:none}
+.gp-page > a:hover, .gp-page > a.active{ background-color:#032e7b; color: #fff;}
+.gp-m-page{ display: none;}
+.gp-m-page a{display: inline-block;margin:0 10px}
+/*居中*/
+.gp-page-centered {text-align:center}
+/*右对齐*/
+.gp-page-right {text-align:right}
+.gp-page .omit{ cursor: not-allowed;}
+.selectDiv{ display: inline-block; margin-right: 0px; margin-left: 10px; position: relative;}
+.selectDiv + span{ margin-left: 0; border: 1px solid #1237b2; border-left: none;}
+.selectDiv > span{ display: inline-block;border: 1px solid #1237b2; height: 46px; line-height: 46px; width: 68px; padding: 0 24px; background: #fff; text-align: left; position: relative;}
+.selectDiv > span::before{ content: ''; display: block; width: 8px; height: 4px; background: url(../images/page-down.png) no-repeat center/cover;
+    position: absolute; top: 50%; transform: translateY(-50%); right: 10px; transition: all 0.25s ease;}
+.selectDiv > span:hover::before{ transform: translateY(-50%) rotateZ(180deg);}
+.selectDiv dl{ display: none; position: absolute; width: 100%; left: 50%; transform: translateX(-50%); bottom: 100%; background: #ebf0fa; border-radius: 4px; border-bottom: 4px solid #fff;}
+.selectDiv dl a{ display: block;}
+.selectDiv:hover dl{ display: block;}
+.selectDiv a{ display: inline-block; line-height: 30px;}
+.selectDiv dd:hover{ background: #032e7b;}
+.selectDiv dd:hover a{ color: #fff;}
+.pageInput{ width: 32px; height: 32px; border: none; outline: none; background: #F2F2F2; text-align: center;}
+
+
+
+.gp-article{ padding: 20px 0 50px;}
+.gp-article::before, .gp-article::after{ display: none;}
+.gp-title{ font-weight: bold; color: #333; text-align: center; line-height: 60px; padding: 30px 0;}
+.gp-info{ text-align: center; padding: 20px 0; font-size: 0; line-height: 20px; background: #f2f2f2;}
+.gp-info span{ display: inline-block; color: #666; line-height: 20px; margin-right: 30px; vertical-align: middle;}
+.gp-info span:last-child{ margin-right: 0px;}
+.gp-content{ margin: 0 auto; margin: 44px 0 50px;}
+.gp-content p{ line-height: 30px; margin-bottom: 30px;}
+.gp-content p:last-child{ margin-bottom: 0px;}
+
+.Annex{ line-height: 20px;}
+.Annex h3{ padding-bottom: 20px; line-height: 30px; position: relative;}
+.Annex h3::before{ content: ''; display: block; width: 30px; height: 30px; background: url(../images/annex.png) no-repeat center/cover; position: absolute; top: 0; left: 0;}
+.Annex ul{ background: #f7f7f7; min-height: unset; padding: 10px 0;}
+.Annex li{ margin-bottom: 10px;}
+.Annex li:last-child{ margin-bottom: 0;}
+.Annex li::marker{ content: '';}
+.Annex li a{ display: block; line-height: 38px; padding: 0 44px; position: relative; transition: all 0.35s ease;}
+.Annex li a:hover{ color: #31a621;}
+.Annex li a::before{ content: ''; display: block; width: 12px; height: 1px; background: #31a621; position: absolute; top: 50%; transform: translateY(-50%); left: 20px;}
+
+.noLeft{ width: auto;}
+
+
+/* 响应式样式 */
+@media screen and (max-width:1600px){
+    
+}
+
+@media screen and (max-width:1440px) {
+    .teacherList ul{ margin: 0 -5px;}
+    .teacherList li a{ margin: 0 5px;}
+    .leaderCon ul{ margin: 0 -10px;}
+    .leaderCon ul .a{ margin: 0 10px;}
+    .leaderCon .name span{/* margin-left: 15px; */}
+    .researchCon ul{ margin: 0 -10px;}
+    .researchCon ul a{ margin: 0 10px;}
+    .researchCon .infoBox{ padding: 30px 15px 0;}
+}
+
+@media screen and (max-width:1400px) {
+    
+}
+
+@media screen and (max-width:1280px) {
+    .teacherList .imgBox{ width: 160px;}
+    .teacherList .infoBox{ width: calc(100% - 160px);}
+    .deanCon{ background-size: auto 240px;}
+    .leaderCon .infoBox{ padding: 30px 15px 0;}
+    .leaderCon .name span{display: block;margin-left: 0;/* line-height: 24px; *//* margin-top: 10px; */}
+    .leaderCon .post{ margin-top: 20px;}
+    .researchCon .imgBox{ width: 400px; transition: all 0.35s ease;}
+    .researchCon .infoBox{ width: calc(100% - 400px); transition: all 0.35s ease;}
+    .researchCon .more{ bottom: 15px; right: 20px;}
+    .initial a{ font-size: 16px; padding: 0 10px;}
+}
+
+@media screen and (max-width:1200px) {
+    .teacherList li{ width: 33.33%;}
+    .navBox ul{ overflow-x: scroll;}
+    .leaderCon{ padding-bottom: 60px;}
+    .leaderCon li{ margin-top: 30px;}
+    .leaderCon .imgBox{ width: 180px;}
+    .leaderCon .infoBox{ margin-left: 180px; padding: 20px 10px 0;}
+    .researchCon .imgBox{ width: 360px;}
+    .researchCon .infoBox{ width: calc(100% - 360px);}
+    
+}
+
+@media screen and (max-width:1100px) {
+    .leaderCon li{ width: 50%;}
+    .researchCon ul{ margin: 0 -5px;}
+    .researchCon ul a{ margin: 0 5px;}
+    .researchCon .imgBox{ width: 320px;}
+    .researchCon .infoBox{ width: calc(100% - 320px); padding: 20px 10px 0;}
+    .researchCon .more{ max-width: 45px; max-height: 45px;}
+    .researchCon ul li{ margin-top: 30px;}
+}
+@media screen and (max-width:1024px) {
+    .teacherList .name{ padding-left: 10px;}
+    .teacherList .post{ padding-left: 10px;}
+}
+
+@media screen and (max-width:997px) {
+    .subTil{ width: 200px; line-height: 80px; font-size: 26px;}
+    .navBox ul{ font-size: 18px; width: calc(100% - 200px); padding-left: 30px;}
+    .navBox ul li{ margin-right: 30px;}
+    .navBox ul a{ line-height: 80px;}
+    .pages{ margin: 30px 0;}
+    .gp-page{ display: none;}
+    .gp-m-page{ display: block;}
+    .initial{ padding: 15px 20px; line-height: 30px;}
+    .initial a{ font-size: 16px;}
+    .teacherList li{ width: 50%; margin-top: 30px;}
+    .newsList{ padding-top: 30px;}
+    .newsList li{ padding-bottom: 20px; margin-bottom: 20px;}
+    .gp-title{ line-height: 38px; font-size: 28px; padding: 20px 0;}
+    .gp-info{ padding: 10px 0;}
+    .gp-content{ margin: 30px 0;}
+    .gp-content p{ margin-bottom: 20px;}
+
+}
+
+@media screen and (max-width:767px) {
+    .subTil{ width: 140px; line-height: 50px; font-size: 20px;}
+    .navBox ul{ font-size: 16px; width: calc(100% - 140px); padding-left: 20px;}
+    .navBox ul li{ margin-right: 20px;}
+    .navBox ul a{ line-height: 50px;}
+    .newsList .infoBox{ width: calc(100% - 310px);}
+    .deanCon > .flex{ padding: 40px 0 0 20px;}
+    .deanCon .infoBox{ width: calc(100% - 270px);}
+    .deanCon .post{ margin-top: 0;}
+    .deanCon .summary{ margin-top: 20px;}
+    .leaderCon li{ width: 100%;}
+    .researchCon{ padding: 10px 0 40px;}
+    .researchCon ul li{ margin-top: 20px;}
+    .leaderCon .name span{font-size:22px;}
+}
+
+@media screen and (max-width:680px) {
+    .teacherList li{ width: 100%; margin-top: 20px;}
+    .subBanner::before{ height: 140px;}
+    .gp-title{ font-size: 24px; line-height: 30px;}
+    .gp-content p{ margin-bottom: 15px;}
+    .Annex li a{ line-height: 28px;}
+}
+
+@media screen and (max-width:540px) {
+    .subBanner .gp-img-responsive{ height: 200px; padding-bottom: 0;}
+    .subBanner::before{ height: 100px;}
+    .newsList li a{ flex-direction: column;}
+    .newsList .imgBox, .newsList .infoBox{ width: 100%;}
+    .newsList .infoBox{ margin-top: 10px;}
+    .newsList .title{ margin-bottom: 10px;}
+    .newsList .date{ position: relative; margin-top: 15px;}
+    .newsList .date i:before{ transform: translateY(-50%);}
+    .deanCon > .flex{ flex-direction: column; padding-left: 0; margin-bottom: 30px;}
+    .deanCon .imgBox{ margin: 0 auto;}
+    .deanCon .infoBox{ width: 100%;}
+    .deanCon .box{ margin-bottom: 30px;}
+}
+
+@media screen and (max-width:479px) {
+    .newsList li{ padding-bottom: 10px; margin-bottom: 15px;}
+    .subContainer ul{ min-height: 200px;}
+    .Annex ul{ min-height: unset;}
+    .Annex li a{ padding-right: 10px; line-height: 20px;}
+    .gp-m-page .gp-page-prev, .gp-m-page .gp-page-next{ padding: 0 15px; height: 40px; line-height: 40px;}
+    .textList .title{ margin-left: 60px; padding-right: 0;}
+    .textList .date i{ right: -6px;}
+    .textList .title::before{ display: none;}
+    .gp-article{ padding-top: 0;}
+    .gp-title{ font-size: 20px; line-height: 30px;}
+    .gp-content{ margin: 20px 0;}
+    .gp-content p{ line-height: 26px; margin-bottom: 10px;}
+    .deanCon .summary{ margin-top: 10px; line-height: 28px;}
+    .deanCon .boxCon{ margin-top: 10px; line-height: 28px;}
+    .deanCon > .flex{ margin-bottom: 20px;}
+    .deanCon .box{ margin-bottom: 20px;}
+    .deanCon{ padding: 30px 0;}
+    .researchCon ul a{ flex-direction: column;}
+    .researchCon .imgBox{ width: 100%;}
+    .researchCon .infoBox{ width: 100%; padding: 20px 10px;}
+    .researchCon .name{padding-right: 50px;}
+    .researchCon .more{ right: 10px; top: 50%; transform: translateY(-50%);}
+    .leaderCon .name span{font-size:21px;}
+}
+
+@media screen and (max-width:370px) {
+    .deanCon{ padding: 30px 0;}
+    .deanCon > .flex{ padding: 20px 0 0 0px;}
+    .deanCon .imgBox::before{ display: none;}
+    .leaderCon .imgBox{ width: 160px;}
+    .leaderCon .infoBox{ margin-left: 160px;}
+    .leaderCon .post{ margin-top: 10px;}
+    .researchCon .more{ max-width: 35px; max-height: 35px;}
+}

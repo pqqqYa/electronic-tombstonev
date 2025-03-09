@@ -1,0 +1,92 @@
+/**
+ * 招生目录页面脚本
+ */
+;(function($) {
+	$(document).ready(function() {
+		$('#zsml-name').html(zsml.name);
+		$('#zsml-nd').html(zsml.nd);
+		if(zsml.zslb == '1') {
+			$('#zsml-lb').html('硕士');
+		} else if(zsml.zslb == '2') {
+			$('#zsml-lb').html('博士');
+		}
+		
+		var setting = {
+			view: {
+				showIcon: false,
+				dblClickExpand: false
+			},
+			callback: {
+				onClick: onClick
+			}
+		};
+
+		function onClick(event, treeId, treeNode, clickFlag) {
+			/*if(treeNode.id == 0) { // 根节点点击事件，TODO
+				return false;
+			}*/
+			var level = treeNode.level;
+			if(level == 0 ){
+				return false; // 1、2级节点无事件
+			}
+			
+			if(level == 1){
+				var id = treeNode.id; // 根据3级节点 加载对应的大纲数据
+				var map = mainData['kmdgnr'];
+				var nr = map[id];
+				$('#ksdgnr').html(nr);
+				/*$.each(mainData['kmdgnr'], function(i, n) {
+					var dg = n;
+					var d = dg[treeNode.id];
+					if(n.id == treeNode.id) {
+						
+					}
+				});*/
+			}
+			$.each($("textarea"), function(i, n){
+				$(n).css("height", n.scrollHeight + "px");
+			})
+		}
+
+
+
+		
+		var zNodes =[];
+		for(var i=0;i<treeData.length;i++){
+			var item = '';
+					var children = [];
+					$.each(treeData[i].items, function(i, n) {
+						children.push({name: n['text'], id: n['value']});
+					});
+			item={name:treeData[i].text,id:treeData[i].value,open:true,children: children};
+				zNodes.push(item);
+		}
+		
+		
+
+		$.fn.zTree.init($("#zsml-dept-tree"), setting, zNodes);
+		
+		//回到顶部按钮
+		$(window).scroll(function(){
+		    if ($(window).scrollTop()>100){
+		        $("#up_btn").show();
+		    } else {
+		        $("#up_btn").hide();
+		    }
+		});
+		
+		//当点击跳转链接后，回到页面顶部位置
+		$("#up_btn").click(function(){
+		    $('body,html').animate({scrollTop:0}, 100);
+		    return false;
+		});
+		
+		// 默认点击第一个
+		var zTree = $.fn.zTree.getZTreeObj('zsml-dept-tree');
+		var nodes = zTree.getNodes();
+		var firstNode = nodes[0].children[0];
+		zTree.selectNode(firstNode); //选中第一个子节点
+		zTree.setting.callback.onClick(null, zTree.setting.treeId, firstNode);//调用事件
+
+	});
+})(jQuery);

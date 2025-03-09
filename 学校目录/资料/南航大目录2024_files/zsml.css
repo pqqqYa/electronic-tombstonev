@@ -1,0 +1,210 @@
+@CHARSET "UTF-8";
+
+html, body {
+	background-color: #fff;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: #007BBB;
+	color: #ffffff;
+	text-align: center;
+	padding: 5px;
+}
+
+nav {
+	float: left;
+	line-height: 30px;
+	background-color: #f5f8ff;
+	width: 300px;
+	height: calc(100% - 100px);
+}
+
+section {
+	width: calc(100% - 320px);
+	float: left;
+	padding: 0 10px;
+}
+
+h4, h5 {    
+	margin-top: 10px;
+	margin-bottom: 10px;
+	line-height: 1.1;
+	color: inherit;
+}
+h4 {
+	font-size: 18px;  
+}
+h5 {
+	font-size: 14px;
+}
+
+#zsml-nd {
+	padding: 0 10px;
+}
+
+.ztree {
+	padding-left: 20px;
+}
+
+.ztree li {
+	width: 260px;
+	text-overflow: ellipsis;
+	/* overflow: hidden; */
+}
+
+.ztree li a {
+	display: initial;
+	padding: 3px;
+}
+
+.ztree li span.button.switch.level0 {
+	visibility: hidden;
+	width: 1px;
+}
+
+.ztree li ul.level0 {
+	padding: 0;
+	background: none;
+}
+
+.ztree li a:hover {
+	text-decoration: none;
+}
+
+.ztree li a.curSelectedNode {
+	background-color: #007bbb;
+	color: #fff3f3;
+}
+
+#table-container {
+	border-radius: 10px;
+	box-shadow: 0 0 10px rgba(217, 228, 236, 1);
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+#zsml-table {
+	width: 100%;
+	border-spacing: 0;
+	border-collapse: collapse;
+	white-space: normal;
+	background-color: white;
+}
+
+#zsml-table thead tr th, #zsml-table tbody tr td {
+	border: 1px solid #E6EEF1;
+	color: #3A5064;
+	background-color: #FFF;
+	padding: 8px;
+	line-height: 1.42857143;
+	vertical-align: top;
+	font-size: 14px;
+}
+
+#zsml-table thead tr th {
+	background-color: #F5F8FF;
+	border-bottom: 2px #00ADED solid;
+	border-top: 1px solid #f4f4f4;
+	font-size: 14px;
+	vertical-align: middle;
+	font-weight: normal;
+	font-size: 125%;
+}
+
+#zsml-table td.td-folder {
+	font-weight: 800;
+}
+
+#zsml-table .trhid {
+	display: none;
+}
+
+#zsml-table .kmtd {
+	font-size: 13px;
+}
+
+#zsml-table td.yx_zy {
+	color: blue;
+	padding-left: 20px;
+}
+
+#zsml-table td.yx_zy_km {
+	padding-left: 30px;
+}
+
+#zsml-table td textarea{
+	width: 100%;
+    border: 0;
+    color: #3A5064;
+    background-color: #FFF;
+    vertical-align: top;
+    font-size: 14px;
+    font-family: '微软雅黑';
+    resize: none;
+	outline: none;
+	overflow: auto;
+}
+#up_btn {
+	position: fixed;
+	bottom: 60px;
+	right: 60px;
+	font-size: 30px;
+	cursor: pointer;
+	display: none;
+	color: #666;
+}
+.icon-msg {
+	margin-left: 10px;
+	color: #0093ff;
+	cursor: pointer;
+}
+
+
+/* Tooltip */
+.tooltip {
+	display: inline;
+	position: relative;
+}
+
+.tooltip-item {
+	cursor: pointer;
+}
+
+.tooltip:hover .tooltip-item::after {
+	pointer-events: auto;
+}
+
+
+.tooltip-content {
+	position: absolute;
+	z-index: 9999;
+	width: 800px;
+	left: 50%;
+	/*margin: 0 0 20px -180px;*/
+	top: 100%;
+	line-height: 1.5;
+	box-shadow: 0 0 20px 20px rgba(48,54,61,0.2);
+	background: #fff;
+	opacity: 0;
+	cursor: default;
+	pointer-events: none;
+	padding: 10px 20px;
+    font-weight: normal;
+    font-family: '宋体';
+}
+
+.tooltip-effect-1 .tooltip-content {
+	-webkit-transform: translate3d(0,-10px,0);
+	transform: translate3d(0,-10px,0);
+	-webkit-transition: opacity 0.3s, -webkit-transform 0.3s;
+	transition: opacity 0.3s, transform 0.3s;
+}
+
+.tooltip:hover .tooltip-content {
+	pointer-events: auto;
+	opacity: 1;
+	-webkit-transform: translate3d(0,0,0) rotate3d(0,0,0,0);
+	transform: translate3d(0,0,0) rotate3d(0,0,0,0);
+}

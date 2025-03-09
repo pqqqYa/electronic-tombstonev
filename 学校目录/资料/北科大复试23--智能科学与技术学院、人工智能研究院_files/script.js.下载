@@ -1,0 +1,36 @@
+$(function() {
+	$(".body_home").addClass("showdiv");
+	setTimeout(function() { $(".body_home").addClass("s"); }, 500);
+});
+var headerH = $('.u_header').height();
+$(".bb").click(function() {
+	$(".body_b").addClass("showdiv");
+	$(".header").addClass("mobile");
+	setTimeout(function() { $(".body_home").removeClass("showdiv"); }, 500);
+})
+$(".body_b").scrollTop(0);
+$(".body_home").mousewheel(function(event, delta, deltaX, deltaY) {
+	if(delta < 0){
+		$(".bb").click();
+		// setTimeout(function(){ enterEffects2();}, 500);
+	}
+});
+$(".body_b").mousewheel(function(event, delta, deltaX, deltaY) {
+	if (delta > 0 && $('body,html').scrollTop() < headerH) {
+		$(".body_home").addClass("showdiv");
+		$(".body_b").removeClass("showdiv");
+		if ($(".body_b").css("position") == "fixed") $(".header").removeClass("mobile");
+	}
+	if (deltaY > 0) {
+		$(".header2").removeClass("lit");
+	}
+	if (deltaY < 0) {
+		$(".header2").addClass("lit");
+		if ($('body,html').scrollTop() > headerH) {
+			$(".body_b").addClass("showdiv");
+			$(".header").addClass("mobile");
+			setTimeout(function() { $(".body_home").removeClass("showdiv"); }, 500);
+		}
+	}
+});
+

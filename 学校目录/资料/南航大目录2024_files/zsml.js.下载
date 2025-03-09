@@ -1,0 +1,90 @@
+/**
+ * 招生目录页面脚本
+ */
+;(function($) {
+	$(document).ready(function() {
+		$('#zsml-name').html(zsml.name);
+		$('#zsml-nd').html(zsml.nd);
+		if(zsml.zslb == '1') {
+			$('#zsml-lb').html('硕士');
+		} else if(zsml.zslb == '2') {
+			$('#zsml-lb').html('博士');
+		}
+		
+		var setting = {
+			view: {
+				showIcon: false,
+				dblClickExpand: false
+			},
+			callback: {
+				onClick: onClick
+			}
+		};
+
+		function onClick(event, treeId, treeNode, clickFlag) {
+			if(treeNode.id == 0) { // 根节点点击事件，TODO
+				return false;
+			}
+			var mllb = zsml.mllb;
+			var datas;
+			$.each(mainData['mllb_' + mllb], function(i, n) {
+				if(n.yxsh == treeNode.id) {
+					datas = n;
+					return;
+				}
+			});
+			
+			if(datas) {
+				$.each(datas.exportZsmlYxZys, function(i, n) {
+					n.kskm = n.kskm.replace('①1100外国语','').replace('②2200专业基础','').replace('③3300专业课','')
+					.replace('①188只招收推免生','').replace('②266只招收推免生','').replace('③799只招收推免生','').replace('④899只招收推免生','').replace('03、04方向：<br>','');
+				});
+				$('#zsml-data-template').tmpl(datas).replaceAll('#zsml-table');
+			} else {
+				$('#zsml-no-data-template').tmpl({"ZSLB": zsml.zslb}).replaceAll('#zsml-table');
+			}
+			
+			$.each($("textarea"), function(i, n){
+				$(n).css("height", n.scrollHeight + "px");
+			})
+
+		}
+
+		var children = [];
+		$.each(treeData.items, function(i, n) {
+			children.push({name: n['text'], id: n['value']});
+		});
+		var zNodes =[{ 
+			name: treeData.text,
+			id: treeData.value,
+			open:true,
+			children: children
+			}
+		];
+
+		$.fn.zTree.init($("#zsml-dept-tree"), setting, zNodes);
+		
+		//回到顶部按钮
+		$(window).scroll(function(){
+		    if ($(window).scrollTop()>100){
+		        $("#up_btn").show();
+		    } else {
+		        $("#up_btn").hide();
+		    }
+		});
+		
+		//当点击跳转链接后，回到页面顶部位置
+		$("#up_btn").click(function(){
+		    $('body,html').animate({scrollTop:0}, 100);
+		    return false;
+		});
+		
+		// 默认点击第一个
+		var zTree = $.fn.zTree.getZTreeObj('zsml-dept-tree');
+		var nodes = zTree.getNodes();
+		var firstNode = nodes[0].children[0];
+		zTree.selectNode(firstNode); //选中第一个子节点
+		zTree.setting.callback.onClick(null, zTree.setting.treeId, firstNode);//调用事件
+
+	});
+})(jQuery);

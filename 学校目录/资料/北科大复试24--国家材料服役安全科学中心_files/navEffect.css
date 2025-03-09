@@ -1,0 +1,123 @@
+@charset "utf-8";
+
+
+/*效果1*/
+.nav1 {}
+.nav1 > li > a{position: relative;	display: inline-block;transition: transform 0.3s;overflow: hidden;}
+.nav1 > li > a > span{display: inline-block;position: relative;transition: transform 0.3s;}
+.nav1 > li > a > span:before{position: absolute;	top: 100%;	content: attr(data-hover);	font-weight: bold;	transform: translate3d(0,0,0);}
+.nav1 > li > a:hover span{  	transform: translateY(-100%);   }
+/*效果2*/
+.nav2{background: #fff;}
+.nav2 > li > a{display: block;padding:15px 0}
+.nav2 > li > a:before,.nav2 > li > a:after {	display: inline-block;	opacity: 0; transition: transform 0.3s, opacity 0.2s;  }
+.nav2 > li > a:before {margin-right: 10px;	content: '['; 	-webkit-transform: translateX(20px);	transform: translateX(20px);  }
+.nav2 > li > a:after {margin-left: 10px;	content: ']';	-webkit-transform: translateX(-20px);	transform: translateX(-20px);}
+.nav2 > li > a:hover:before,.nav2 > li > a:hover:after{	opacity: 1; 	-webkit-transform: translateX(0px);transform: translateX(0px); }
+/*效果3*/
+.nav3 li >a{display: inline-block;padding:10px 0;position: relative;}
+.nav3 li >a:after{content: '';position: absolute;top: 100%;	left: 0;	width: 100%;height: 4px;	background: rgba(0,0,0,0.2);	opacity: 0;
+-webkit-transition: opacity 0.3s, -webkit-transform 0.3s;	transition: opacity 0.3s, transform 0.3s;-webkit-transform: translateY(10px);	transform: translateY(10px);}
+.nav3 li >a:hover:after,.nav3 li >a:hover:after {	opacity: 1;	-webkit-transform: translateY(0px);	transform: translateY(0px); }
+/*效果4*/
+.nav4 li >a{display: inline-block;padding:10px 0;position: relative;}
+.nav4 li >a:after {	position: absolute;	top: 100%;left: 0;width: 100%;height: 1px;background: #ccc;	content: '';	opacity: 0;	-webkit-transition: height 0.3s, opacity 0.3s, -webkit-transform 0.3s;transition: height 0.3s, opacity 0.3s, transform 0.3s;	-webkit-transform: translateY(-10px);	transform: translateY(-10px);}
+.nav4 li >a:hover:after {	height: 5px;	opacity: 1;	-webkit-transform: translateY(0px);		transform: translateY(0px);}
+/*效果5*/
+.nav5 > li > a{display: block;padding:15px 0;margin:0 10px;position: relative;}
+.nav5 > li > a:before,.nav5 > li > a:after{position: absolute;top: 0;left: 0;height: 2px;	background: #ccc;	content: '';}
+.nav5 > li > a:before {	width: 100%;	transition: all 0.3s;}
+.nav5 > li > a:after {	width: 2px;	transition: all 0.3s;}
+.nav5 > li > a:hover:before {top: 100%;opacity: 1;}
+.nav5 > li > a:hover:after {	height: 100%;} 
+/*效果6*/
+.nav6 > li > a{padding:12px 10px 10px;display: inline-block;position: relative;}
+.nav6 > li > a:before,.nav6 > li > a:after {position: absolute;top: 100%;	left: 0;width: 100%;	height: 3px;	background: #566473;	content: '';
+	-webkit-transition: -webkit-transform 0.3s;	transition: transform 0.3s;	-webkit-transform: scale(0.8);	transform: scale(0.8);}
+.nav6 > li > a:after {opacity: 0;transition: all 0.3s;}
+.nav6 > li > a:hover:after{	top: 0%;	opacity: 1;transform: scale(1);}
+.nav6 > li > a:hover:before{transform: scale(1);}
+/*效果7*/
+.nav7 > li > a{padding:10px 20px 12px;display: inline-block;position: relative;}
+.nav7 > li > a:before,.nav7 > li > a:after {	position: absolute;	top: 0;	left: 0;	width: 100%;	height: 100%;	border: 3px solid #ccd4d9;	content: '';	transition: all 0.3s;box-sizing: border-box;}
+.nav7 > li > a:after  {	border-color: #000;	opacity: 0;transform: translateY(-7px) translateX(6px);}
+.nav7 > li > a:hover:before {	opacity: 0;	transform: translateY(5px) translateX(-5px);}
+.nav7 > li > a:hover::after{	opacity: 1;	transform: translateY(0px) translateX(0px);}
+/*效果8*/
+.nav8{}
+.nav8 > li > a{display: inline-block;margin:0 10px;position: relative;overflow: hidden;}
+.nav8 > li > a > span{display: inline-block;padding:10px 20px;background: #0f7c67;color: #fff;transition: all 0.3s;}
+.nav8 > li > a:before{position: absolute;top: 0;left: 0;z-index: -1;padding: 10px 20px;	width: 100%;	height: 100%;	background: #fff;	color: #0f7c67;	content: attr(data-hover);	transform: translateX(-25%);transition: all 0.3s;box-sizing: border-box;}
+.nav8 > li > a:hover > span{transform: translateX(100%);color: #0f7c67;}
+.nav8 > li > a:hover:before{transform: translateX(0);opacity: 1;z-index: 0;}
+/*效果9*/
+.nav9{}
+.nav9 > li > a{display: inline-block;position: relative;padding:10px 0;border-top: 2px solid #0972b4;	color: #0972b4;}
+.nav9 > li > a:before {	position: absolute;	top: 0;	left: 0;overflow: hidden;	padding: 10px 0;	max-width: 0;	border-bottom: 2px solid #fff;	color: #fff;	content: attr(data-hover);		transition: max-width 0.5s;box-sizing: border-box;white-space: nowrap;}
+.nav9 > li > a:hover:before{max-width: 100%;}
+/*效果10*/
+.nav10 > li{height: 45px;line-height: 45px;letter-spacing: 1px;}
+.nav10 > li > a{position: relative;display: block;}
+.nav10 > li > a:before,.nav10 > li > a:after {	position: absolute;	top: 50%;	left: 50%;	width: 60px;	height: 60px;	border: 2px solid rgba(0,0,0,0.1);
+	border-radius: 50%;	content: '';	opacity: 0;		transition: transform 0.3s, opacity 0.3s;	transform: translateX(-50%) translateY(-50%) scale(0.2);}
+.nav10 > li > a:after {	border-width: 6px;transform: translateX(-50%) translateY(-50%) scale(0.4);}
+.nav10 > li > a:hover:before{opacity: 1;transform: translateX(-50%) translateY(-50%) scale(1.3);}
+.nav10 > li > a:hover:after{opacity: 1;transform: translateX(-50%) translateY(-50%) scale(1);}
+/*效果11*/
+.nav11 > li > a{display: inline-block;margin:10px 15px;position: relative;}
+.nav11 > li > a:before {position: absolute;top: 100%;left: 50%;	color: transparent;	content: '•';	text-shadow: 0 0 transparent;	font-size: 1.2em;
+		transition: text-shadow 0.3s, color 0.3s;	transform: translateX(-50%);	}
+.nav11 > li > a:hover:before {	color: #333;	text-shadow: 10px 0 #333, -10px 0 #333;}
+.nav11 > li > a:hover{color:#003C7F;}
+/*效果12*/
+.nav12{}
+.nav12 > li > a{display: inline-block;height: 40px;line-height: 40px;padding:0 20px;position: relative;}
+.nav12 > li > a:before,.nav12 > li > a:after {	position: absolute;	width: 40px;	height: 2px;	background: #333;	content: '';	opacity: 0.2;
+	transition: all 0.3s;;}
+.nav12 > li > a:before {	top: 0;	left: 0;	transform: rotate(90deg);	transform-origin: 0 0;}
+.nav12 > li > a:after {	bottom: 0;	right: 0;	transform: rotate(90deg);	transform-origin:100% 0;}
+.nav12 > li > a:hover:before{	left: 50%;transform: rotate(0deg) translateX(-50%);}
+.nav12 > li > a:hover:after{	right: 50%;transform: rotate(0deg) translateX(50%);}
+/*效果13*/
+.nav13{}
+.nav13 > li > a {display: block;position: relative;color: #999;}
+.nav13 > li > a:before{content:attr(data-hover);color:#9A0000;position: absolute;transition: transform 0.3s, opacity 0.3s;}
+.nav13 > li > a:hover:before{	transform: scale(0.9);	opacity: 0;}
+/*效果14*/
+.nav14 > li > a{	color: #6f8686;	text-shadow: 0 0 1px rgba(111,134,134,0.3);position: relative;}
+.nav14 > li > a:before {	color: #fff;	content: attr(data-hover);	position: absolute;	opacity: 0;	text-shadow: 0 0 1px rgba(255,255,255,0.3);		transform: scale(1.1) translateX(10px) translateY(-10px) rotate(4deg);		transition: transform 0.3s, opacity 0.3s;}
+.nav14 > li > a:hover:before{	transform: scale(1) translateX(0px) translateY(0px) rotate(0deg);	opacity: 1;}
+/*效果15*/
+.nav15 > li > a{display: inline-block;padding:10px 15px;position: relative;}
+.nav15 > li > a:before,.nav15 > li > a:after {	position: absolute;	width: 100%;	left: 0;	top: 50%;	height: 2px;	margin-top: -1px;	background: #b4770d;
+	content: '';	z-index: -1;		transition: transform 0.3s, opacity 0.3s;}
+.nav15 > li > a:before {  transform: translateY(-20px);}
+.nav15 > li > a:after { transform: translateY(20px);}
+.nav15 > li > a:hover{color: #BB1111;font-weight: bold;}
+.nav15 > li > a:hover:before {transform: rotate(45deg);opacity: 0.2;}
+.nav15 > li > a:hover:after {transform: rotate(-45deg);opacity: 0.2;}
+/*效果16*/
+.nav16 {}
+.nav16 > li > a > span {	position: relative;	display: inline-block;	padding: 10px 15px;	background: #587285;	box-shadow: inset 0 3px #2f4351;
+		transition: background 0.6s;transform-origin: 50% 0;		transform-style: preserve-3d;	transform-origin: 0% 50%;color: #fff;}
+.nav16 > li > a > span:before {position: absolute;top: 0;	left: 0;	width: 100%;	height: 100%;	background: #fff;	color: #2f4351;
+	content: attr(data-hover);	transform: rotateX(270deg);	transition: transform 0.6s;	transform-origin: 0 0;box-sizing: border-box;	padding: 10px 15px;	}
+.nav16 > li > a:hover > span{background: #2f4351;}
+.nav16 > li > a:hover > span:before{transform: rotateX(0deg);}
+/*效果17*/
+.nav17 {}
+.nav17 > li > a{display: inline-block;padding:10px 15px;position: relative;}
+.nav17 > li > a:before,.nav17 > li > a:after {	position: absolute;	left: 0;	width: 100%;	height: 2px;	background: #ccc;	content: '';
+	opacity: 0;	transition: opacity 0.3s, transform 0.3s;	transform: translateY(-10px);}
+.nav17 > li > a:before {top: 0;	transform: translateY(-10px);}
+.nav17 > li > a:after { 	bottom: 0;	transform: translateY(10px); }
+.nav17 > li > a:hover:before,.nav17 > li > a:hover:after{	opacity: 1;	transform: translateY(0px);	}
+/*效果18*/
+.nav18 {}
+.nav18 > li > a > span {	position: relative;	display: inline-block;	padding: 10px 35px;	background: #587285;	box-shadow: inset 0 3px #2f4351;
+		transition: background 0.6s;		transform-style: preserve-3d;	transform-origin: 100% 0%;color: #fff;}
+.nav18 > li > a > span:before {position: absolute;top: 0;	left: 0;	width: 100%;	height: 100%;	background: #fff;	color: #2f4351;
+	content: attr(data-hover);	transform: rotateX(270deg);	transition: transform 0.6s;	transform-origin: 0 0;box-sizing: border-box;	padding: 10px 15px;	}
+.nav18 > li > a:hover > span{background: #2f4351;}
+.nav18 > li > a:hover > span:before{transform: rotateX(0deg);}
+

@@ -1,0 +1,206 @@
+@charset "utf-8";
+
+.share {
+    /*! width: 190px; */
+    /* padding: 20px 0; */
+    /*! float: right; */
+    overflow: hidden;
+    /* position: fixed; */
+}
+
+.share_btn {
+    float: left;
+    text-align: center;
+    line-height: 28px;
+    font-weight: normal;
+    font-size: 14px;
+    color: #333;
+    margin: 10px 0;
+}
+
+.share .bdsharebuttonbox>a {
+    padding-left: 0;
+    margin: 0 15px 0 0 !important;
+    height: 32px;
+    text-indent: 0;
+    width: 32px;
+    line-height: 32px;
+    text-align: center;
+    background: none;
+    font-size: 23px;
+    display: inline-block;
+}
+
+.share .bdsharebuttonbox>a.bds_weixin {
+     color: #7dd43c
+}
+
+.shareBox {
+    width: 260px;
+    background-color: #fff;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin: -150px 0 0 -130px;
+    z-index: 9998;
+    height: 310px;
+    border: 6px solid #8F8F8F;
+    border-radius: 8px;
+    box-shadow: 0 0 7px #aaa;
+    display: none;
+}
+
+.shareBox {
+    font-size: 14px;
+}
+
+.shareBox .title {
+    background: #f6f6f6;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 10px 15px !important;
+}
+
+.shareClose {
+    position: absolute;
+    right: 0;
+    top: 0;
+    cursor: pointer;
+    font-size: 18px;
+    width: 20px;
+    ;
+}
+
+.sharelist {
+    position: static;
+    height: 250px;
+    overflow-y: auto;
+    padding-left: 17px !important;
+}
+
+.sharelist li {
+    float: left;
+    width: 130px;
+    padding: 2px;
+    margin-left: 6px;
+    _margin-left: 3px;
+    height: 28px;
+    overflow: hidden;
+    list-style: none;
+}
+
+.sharelist li a {
+    color: #565656;
+    font: 12px '宋体';
+    display: block;
+    text-decoration: none;
+    border: 1px solid #fff;
+    line-height: 18px;
+    width: auto;
+    height: auto;
+    text-indent: 0;
+}
+
+.weChatBox {
+    width: 280px;
+    height: 300px;
+    background-color: #fff;
+    border: solid 1px #d8d8d8;
+    padding: 10px;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    margin: -150px 0 0 -140px;
+    z-index: 9998;
+    display: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+}
+
+.weChatBox .w-title {
+    font-size: 12px;
+    font-weight: bold;
+    padding: 0 0 10px 0;
+}
+
+.w-close {
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    font-size: 20px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    color: #333;
+    cursor: pointer;
+}
+
+.qrcode {
+    width: 200px;
+    height: 200px;
+    margin: 15px auto;
+    background: #ccc;
+}
+
+.w-footer {
+    font-size: 12px;
+    line-height: 1.5;
+    color: #999;
+}
+
+#qrodeText {
+    opacity: 0;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 0;
+    visibility: hidden;
+}
+
+
+.wrap_share {
+    /* overflow: hidden; */
+    /* width: 60px; */
+    /* position: absolute; */
+    /* right: 0; */
+    /* top: -111px; */
+    height: 32px;
+    margin-top: 42px;
+}
+
+
+.bdsharebuttonbox {
+    float: left;
+    width: auto;
+}
+
+.bshare-custom {
+    width: auto;
+    float: left;
+}
+
+.share {
+    overflow: hidden;
+    /* width: auto; */
+    float: right;
+}
+
+.share .bshare-custom .bshare-sinaminiblog {
+    margin: 0 15px 0 0;
+    padding: 0px !important;
+    width: 32px;
+    height: 32px;
+}
+
+.share .bshare-custom .bshare-qzone {
+    margin: 0 15px 0 0;
+    padding: 0px !important;
+    width: 32px;
+    height: 32px;
+}
+
+.share .bshare-custom .bshare-more.more-style-addthis {
+    padding: 0px !important;
+    width: 60px;
+    height: 60px;
+}
