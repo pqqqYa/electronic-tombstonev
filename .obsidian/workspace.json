@@ -4,11 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "e3d712283115801d",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "c08a775bf07a3c03",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "学校目录/资料/南理复试2024.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "南理复试2024"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f6b56991e2aa79da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3da487c6fd6d829b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +38,21 @@
               "icon": "lucide-file",
               "title": "学校目录"
             }
+          },
+          {
+            "id": "c98461477ea54425",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "学校目录/资料/南理目录2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "南理目录2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,13 +209,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c98461477ea54425",
   "lastOpenFiles": [
+    "学校目录/学校目录.md",
+    "学校目录/择校.md",
+    "学校目录/资料/南理复试2024.pdf",
+    "学校目录/资料/南航大复试2024.pdf",
+    "学校目录/资料/南理目录2025.pdf",
     "README.md",
     "计算机三级/大题(饭) 1.pdf",
     "计算机三级/计算机三级考试.md",
     "计算机三级/技巧(名).pdf",
-    "学校目录/择校.md",
     "考研流程.emmx",
     "C语言/0. 面向考试的C语言不完全指北.md",
     "Latex/Latex公式.md",
@@ -215,16 +250,12 @@
     "计算机网络/attachment/确认号与接收窗口.png",
     "计算机网络/attachment/TCP报文段.png",
     "计算机网络/attachment/TCP首部.png",
-    "计算机网络/第4章 网络层.md",
     "计算机网络/attachment/OSPF区域.png",
     "计算机组成原理",
-    "数据可视化",
-    "高等数学/小总结",
     "计算机网络/attachment/循环冗余编码 (CRC)计算过程.png",
     "计算机网络/attachment/组帧-零比特填充法.png",
     "计算机网络/attachment/组帧-字节填充法.png",
     "计算机网络/attachment/组帧-字符计数法.png",
-    "计算机操作系统",
     "高等数学/高等数学.canvas",
     "未命名.canvas",
     "论文/文章思路.canvas",
