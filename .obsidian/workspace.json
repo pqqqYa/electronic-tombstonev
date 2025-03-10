@@ -11,14 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "计算机三级/大题(饭) 1.pdf"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-file-text",
+              "title": "大题(饭) 1"
             }
           }
         ]
@@ -93,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625
+    "width": 227.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -180,15 +179,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "计算机三级/技巧(名).pdf",
+    "计算机三级/计算机三级考试.md",
     "README.md",
+    "计算机三级/技巧(名).pdf",
     "学校目录/择校.md",
     "考研流程.emmx",
     "C语言/0. 面向考试的C语言不完全指北.md",
     "Latex/Latex公式.md",
     "计算机三级/大题(饭) 1.pdf",
     "计算机三级/选择题必背知识点.pdf",
-    "计算机三级/计算机三级考试.md",
     "Latex/LaTex学习目录.md",
     "软件测试/考试题目预测.md",
     "C语言/8. 结构体与C++引用.md",
