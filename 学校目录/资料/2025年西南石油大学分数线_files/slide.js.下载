@@ -1,0 +1,34 @@
+$(document).ready(function(){
+	
+	/* 设置第一张图片 */
+	$(".slider .bd li").first().before($(".slider .bd li").last());
+	
+	/* 鼠标悬停箭头按钮显示 */
+	$(".slider").hover(function(){
+		$(this).find(".arrow").stop(true,true).fadeIn(5000)
+	},function(){
+		$(this).find(".arrow").fadeOut(5000)
+	});
+	
+	/* 滚动切换 */
+	$(".slider").slide({
+		titCell:".hd ul", 
+		mainCell:".bd ul", 
+		effect:"leftLoop",
+		autoPlay:true, 
+		vis:3,
+		autoPage:true, 
+		trigger:"click",
+		interTime:6000
+	});
+$("#nav li").hover(function(){
+        $(this).addClass('on');
+        $(this).find("ul").slideDown();
+$(this).css('z-index','9999')   
+    },function(){
+        $(this).removeClass('on');
+        $(this).find("ul").slideUp();   
+$(this).css('z-index','9999')
+    });
+
+});
