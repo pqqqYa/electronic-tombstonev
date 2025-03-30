@@ -165,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,8 +177,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "162e003f4300a95e",
   "lastOpenFiles": [
+    "Latex/Latex公式.md",
     "README.md",
     "学校目录/资料/南理目录2025.pdf",
     "学校目录/学校目录.md",
@@ -191,7 +191,6 @@
     "计算机三级/技巧(名).pdf",
     "考研流程.emmx",
     "C语言/0. 面向考试的C语言不完全指北.md",
-    "Latex/Latex公式.md",
     "计算机三级/选择题必背知识点.pdf",
     "Latex/LaTex学习目录.md",
     "软件测试/考试题目预测.md",
