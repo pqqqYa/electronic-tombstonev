@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625
+    "width": 227.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -180,6 +181,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "大创/~$乐职晚年.doc",
     "大创/~$申请书v2-何-250406.doc",
     "大创/~$项申请书v1.doc",
     "README.md",
@@ -205,7 +207,6 @@
     "大创/App.emmx.OjMxGp",
     "大创/选题提纲.md",
     "大创/App.emmx.gADguw",
-    "大创/App.emmx",
     "大创/智学乡村v1.md",
     "大创/智学乡村v2.md",
     "学校目录/学校目录.md",
