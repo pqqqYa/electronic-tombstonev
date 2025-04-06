@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625,
-    "collapsed": true
+    "width": 227.50152587890625
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -181,6 +180,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "大创/流程.emmx.WFisIQ",
+    "大创/流程.emmx.ZMAccJ",
+    "大创/流程.emmx.DsopVx",
+    "大创/流程.emmx.LtSNMM",
     "大创/App.emmx.eHJNNP",
     "大创/App.emmx.ROATdG",
     "大创/App.emmx.SuppDh",
@@ -188,10 +191,6 @@
     "大创/App.emmx.rjgzNv",
     "大创/~WRD3945.tmp",
     "大创/~WRL0908.tmp",
-    "大创/~WRD0904.tmp",
-    "大创/~WRL0005.tmp",
-    "大创/~WRD0004.tmp",
-    "大创/~WRL0003.tmp",
     "README.md",
     "Latex/Latex公式.md",
     "大创/图.md",
