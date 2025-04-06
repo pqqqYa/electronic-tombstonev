@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "log",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学校目录/择校.md",
+                "file": "大创/4-5-2025书写-v2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "择校 的大纲"
+              "title": "4-5-2025书写-v2 的大纲"
             }
           },
           {
@@ -161,11 +161,13 @@
               "title": "README 的出链列表"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,53 +179,53 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "162e003f4300a95e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Latex/Latex公式.md",
+    "大创/图.md",
+    "大创/流程.emmx.QJZjrf",
+    "大创/流程.emmx",
+    "大创/流程.emmx.fFEZHc",
+    "大创/APP设计(功能描述)-draft.md",
+    "大创/智学乡村v6.md",
     "README.md",
-    "学校目录/资料/南理目录2025.pdf",
+    "大创/App 1.png",
+    "大创/App 1.emmx.QMEhWj",
+    "大创/App 1.emmx",
+    "attachment/Pasted image 20250405214640.png",
+    "attachment",
+    "大创/4-5-2025书写-v2.md",
+    "大创/4-5-2025书写-v1.md",
+    "大创/智学乡村v5.md",
+    "大创/APP设计(功能描述)-v1.md",
+    "大创/logo.png",
+    "Latex/Latex公式.md",
+    "大创/智学乡村v3.md",
+    "大创/智学乡村v4.md",
+    "大创/App.emmx.OjMxGp",
+    "大创/选题提纲.md",
+    "大创/App.emmx.gADguw",
+    "大创/App.emmx",
+    "大创/智学乡村v1.md",
+    "大创/智学乡村v2.md",
+    "大创",
     "学校目录/学校目录.md",
     "学校目录/择校.md",
-    "学校目录/资料/南理复试2024.pdf",
-    "学校目录/资料/南航大复试2024.pdf",
-    "计算机三级/大题(饭) 1.pdf",
     "计算机三级/计算机三级考试.md",
-    "计算机三级/技巧(名).pdf",
-    "考研流程.emmx",
     "C语言/0. 面向考试的C语言不完全指北.md",
-    "计算机三级/选择题必背知识点.pdf",
     "Latex/LaTex学习目录.md",
     "软件测试/考试题目预测.md",
     "C语言/8. 结构体与C++引用.md",
     "网络安全/信息与网络安全笔记.md",
     "操作系统SWPU/题目.md",
-    "操作系统SWPU",
     "SCRCU/SCRCU入职考试.md",
     "GPT/GPT使用指导.md",
-    "Latex/Tex文件的基本结构.md",
-    "数据可视化/matplotlib.md",
-    "考研/学校目录.md",
-    "英语/长难句分析.pdf",
-    "英语/英语语法.md",
-    "高等数学/定积分--知识点.md",
-    "计算机网络/408计算机网络目录.md",
-    "高等数学/微分中值定理--知识点.md",
-    "高等数学/小总结/导数与不定积分公式.md",
-    "计算机网络/第六章 应用层.md",
-    "高等数学/导数与微分--知识点.md",
-    "高等数学/导数应用--知识点.md",
-    "计算机网络/第5章 传输层.md",
     "计算机网络/attachment/捎带确认.png",
     "计算机网络/attachment/累计确认.png",
     "计算机网络/attachment/确认号与接收窗口.png",
     "计算机网络/attachment/TCP报文段.png",
     "计算机网络/attachment/TCP首部.png",
     "计算机网络/attachment/OSPF区域.png",
-    "计算机组成原理",
     "计算机网络/attachment/循环冗余编码 (CRC)计算过程.png",
-    "计算机网络/attachment/组帧-零比特填充法.png",
-    "计算机网络/attachment/组帧-字节填充法.png",
-    "计算机网络/attachment/组帧-字符计数法.png",
     "高等数学/高等数学.canvas",
     "未命名.canvas",
     "论文/文章思路.canvas",
