@@ -89,12 +89,12 @@
               "title": "标签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625
+    "width": 227.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -180,7 +180,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e3fdfef1d179e35f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "大挑/prominse.md",
     "大挑/会问的问题.md",
