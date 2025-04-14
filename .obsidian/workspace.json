@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625
+    "width": 227.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -119,13 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大创/答辩文稿2.md",
+                "file": "大挑/prominse.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "答辩文稿2 的大纲"
+              "title": "prominse 的大纲"
             }
           },
           {
@@ -166,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
