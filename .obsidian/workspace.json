@@ -35,8 +35,7 @@
               "title": "prominse"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,13 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大挑/prominse.md",
+                "file": "大挑/大挑校级答辩提问-黄.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "prominse 的大纲"
+              "title": "大挑校级答辩提问-黄 的大纲"
             }
           },
           {
@@ -194,10 +193,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9e29a52a585c7e63",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "大挑/大挑校级答辩提问-黄.md",
     "大挑/prominse.md",
+    "大挑/大挑校级答辩提问-黄.md",
     "大挑/会问的问题.md",
     "README.md",
     "大挑/答辩文稿2.md",
