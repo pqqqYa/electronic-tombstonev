@@ -181,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 291.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,7 +193,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "21da989141d6335b",
+  "active": "9e29a52a585c7e63",
   "lastOpenFiles": [
     "大挑/大挑校级答辩提问-黄.md",
     "大挑/prominse.md",
