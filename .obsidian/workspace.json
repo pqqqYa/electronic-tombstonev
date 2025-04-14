@@ -28,14 +28,15 @@
               "type": "markdown",
               "state": {
                 "file": "大挑/prominse.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "prominse"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,13 +135,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大挑/大挑校级答辩提问-黄.md",
+                "file": "大挑/prominse.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大挑校级答辩提问-黄 的大纲"
+              "title": "prominse 的大纲"
             }
           },
           {
@@ -193,10 +194,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "21da989141d6335b",
   "lastOpenFiles": [
-    "大挑/prominse.md",
     "大挑/大挑校级答辩提问-黄.md",
+    "大挑/prominse.md",
     "大挑/会问的问题.md",
     "README.md",
     "大挑/答辩文稿2.md",
