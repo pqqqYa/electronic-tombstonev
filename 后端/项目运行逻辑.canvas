@@ -6,6 +6,8 @@
       "height": 220,
       "id": "cd2bfd78d82f29bf",
       "label": "MySQL",
+      "styleAttributes": {
+      },
       "type": "group",
       "width": 300,
       "x": -240,
