@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "后端/项目运行逻辑.canvas",
-                "viewState": {
-                  "x": 412.6956457491152,
-                  "y": 31.68109607294069,
-                  "zoom": -0.6085805966240299
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "项目运行逻辑"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -122,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "后端/项目运行逻辑.canvas",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "项目运行逻辑 的大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -183,8 +180,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "README.md",
     "后端/项目运行逻辑.canvas",
+    "README.md",
     "后端",
     "大挑/大挑校级答辩提问-黄.md",
     "大挑/会问的问题.md",
