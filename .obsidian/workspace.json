@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCRCU/SCRCU入职考试.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SCRCU入职考试"
+              "title": "README"
             }
           }
         ]
@@ -119,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SCRCU/SCRCU入职考试.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "SCRCU入职考试 的大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -180,6 +180,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "SCRCU/SCRCU入职考试.md",
     "README.md",
     "区块链/PoS股权证明共识机制.md",
     "区块链.zip",
