@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "测试文件夹/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "未命名"
             }
           }
         ]
@@ -119,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "测试文件夹/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -180,8 +180,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "SCRCU/SCRCU入职考试.md",
     "README.md",
+    "测试文件夹/未命名.md",
+    "测试文件夹",
+    "SCRCU/SCRCU入职考试.md",
     "区块链/PoS股权证明共识机制.md",
     "区块链.zip",
     "区块链/NetWorks.md",
@@ -208,7 +210,6 @@
     "大创/App 1.emmx.vHpPfS",
     "大创/App 1.emmx.nuNPCh",
     "大创/App 1.emmx.FVCNCW",
-    "大创/App 1-B.emmx",
     "大创/立项申请书-v2.1何.md",
     "大创/图.md",
     "大创/APP设计(功能描述)-draft.md",
@@ -218,7 +219,6 @@
     "大创/4-5-2025书写-v2.md",
     "大创/4-5-2025书写-v1.md",
     "大创/智学乡村v5.md",
-    "大创/APP设计(功能描述)-v1.md",
     "大创/logo.png",
     "计算机网络/attachment/捎带确认.png",
     "计算机网络/attachment/累计确认.png",
