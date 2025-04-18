@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "区块链/PoS股权证明共识机制.md",
+                "file": "SCRCU/SCRCU入职考试.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PoS股权证明共识机制"
+              "title": "SCRCU入职考试"
             }
           }
         ]
@@ -119,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "区块链/PoS股权证明共识机制.md",
+                "file": "SCRCU/SCRCU入职考试.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "PoS股权证明共识机制 的大纲"
+              "title": "SCRCU入职考试 的大纲"
             }
           },
           {
@@ -178,8 +178,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7a3dee57a4518add",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "README.md",
+    "区块链/PoS股权证明共识机制.md",
     "区块链.zip",
     "区块链/NetWorks.md",
     "区块链/EVM以太坊虚拟机.md",
@@ -188,9 +190,7 @@
     "区块链/区块链知识点.md",
     "区块链/Transaction交易.md",
     "区块链/SmartContract智能合约.md",
-    "区块链/PoS股权证明共识机制.md",
     "区块链/Nodes-clients结点与计算机.md",
-    "README.md",
     "后端/项目运行逻辑.canvas",
     "后端",
     "大挑/大挑校级答辩提问-黄.md",
@@ -209,7 +209,6 @@
     "大创/App 1.emmx.FVCNCW",
     "大创/App 1-B.emmx",
     "大创/立项申请书-v2.1何.md",
-    "大创/~$申请书v2-何-250406.doc",
     "大创/图.md",
     "大创/APP设计(功能描述)-draft.md",
     "大创/智学乡村v6.md",
