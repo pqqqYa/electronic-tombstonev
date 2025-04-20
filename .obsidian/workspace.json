@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "测试文件夹/未命名.md",
+                "file": "测试文件夹/经典同步问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "经典同步问题"
             }
           }
         ]
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625
+    "width": 227.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -119,13 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "测试文件夹/未命名.md",
+                "file": "测试文件夹/经典同步问题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "经典同步问题 的大纲"
             }
           },
           {
@@ -166,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 206.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,7 +183,7 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "README.md",
-    "测试文件夹/未命名.md",
+    "测试文件夹/经典同步问题.md",
     "测试文件夹",
     "SCRCU/SCRCU入职考试.md",
     "区块链/PoS股权证明共识机制.md",
