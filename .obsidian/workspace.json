@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Latex/Latex公式.md",
-                "mode": "source",
-                "source": false
+                "file": "测试文件夹/小学期.canvas",
+                "viewState": {
+                  "x": 205.5891273960213,
+                  "y": 506.08520722233845,
+                  "zoom": -1.2171611932480597
+                }
               },
-              "icon": "lucide-file",
-              "title": "Latex公式"
+              "icon": "lucide-layout-dashboard",
+              "title": "小学期"
             }
           }
         ]
@@ -93,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625
+    "width": 227.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -181,8 +185,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "测试文件夹/经典同步问题.md",
     "README.md",
+    "测试文件夹/小学期.canvas",
+    "测试文件夹/未命名.md",
+    "Latex/Latex公式.md",
+    "测试文件夹/经典同步问题.md",
     "测试文件夹",
     "SCRCU/SCRCU入职考试.md",
     "区块链/PoS股权证明共识机制.md",
@@ -204,7 +211,6 @@
     "大挑/答辩文稿.md",
     "大挑",
     "大创/可能会问的问题.md",
-    "Latex/Latex公式.md",
     "大创/App 1-C.emmx.ixikkd",
     "大创/App 1-C.emmx.VnOzqM",
     "大创/App 1-C.emmx",
@@ -218,8 +224,6 @@
     "大创/App 1.png",
     "attachment/Pasted image 20250405214640.png",
     "大创/4-5-2025书写-v2.md",
-    "大创/4-5-2025书写-v1.md",
-    "大创/智学乡村v5.md",
     "大创/logo.png",
     "计算机网络/attachment/捎带确认.png",
     "计算机网络/attachment/累计确认.png",
