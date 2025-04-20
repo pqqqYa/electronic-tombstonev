@@ -431,6 +431,24 @@
       },
       "toNode": "080dd5cd8fb11940",
       "toSide": "left"
+    },
+    {
+      "fromNode": "f1fb358db6bab6fc",
+      "fromSide": "right",
+      "id": "687071a4b8ed1dd8",
+      "styleAttributes": {
+      },
+      "toNode": "8d9ddd335f56c74e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "f1fb358db6bab6fc",
+      "fromSide": "right",
+      "id": "3d4394a479fe9baa",
+      "styleAttributes": {
+      },
+      "toNode": "813eefb09be0fb34",
+      "toSide": "left"
     }
   ],
   "nodes": [
@@ -1004,15 +1022,37 @@
       "y": -467
     },
     {
-      "height": 435,
+      "height": 218,
       "id": "080dd5cd8fb11940",
       "styleAttributes": {
       },
-      "text": "修改pom.xml\n~~~xml\n<dependency>\n\t<groupId>com.auth0</groupId>\n\tartifactId\n\t<version>4.4.0</version>\n</dependency>\n~~~",
+      "text": "修改pom.xml\n~~~xml\n<dependency>\n\t<groupId>com.auth0</groupId>\n\t<artifactId>java-jwt</artifactId>\n\t<version>4.4.0</version>\n</dependency>\n~~~",
       "type": "text",
       "width": 520,
-      "x": 6340,
-      "y": -467
+      "x": 6360,
+      "y": -358
+    },
+    {
+      "height": 200,
+      "id": "8d9ddd335f56c74e",
+      "styleAttributes": {
+      },
+      "text": "书写JWT\n~~~java\n\n载荷\n过期时间\n加密算法1HMAC256\n密钥：202231772224\n~~~",
+      "type": "text",
+      "width": 600,
+      "x": 6360,
+      "y": 40
+    },
+    {
+      "height": 480,
+      "id": "813eefb09be0fb34",
+      "styleAttributes": {
+      },
+      "text": "验证JWT",
+      "type": "text",
+      "width": 600,
+      "x": 6360,
+      "y": 400
     }
   ]
 }
