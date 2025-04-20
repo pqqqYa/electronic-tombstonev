@@ -53,6 +53,15 @@
       },
       "toNode": "f1584064f44d1e49",
       "toSide": "left"
+    },
+    {
+      "fromNode": "cf22adc6ea0f8217",
+      "fromSide": "bottom",
+      "id": "ca93ecbf05046185",
+      "styleAttributes": {
+      },
+      "toNode": "e84e89e849cf1182",
+      "toSide": "top"
     }
   ],
   "nodes": [
@@ -192,6 +201,28 @@
       "width": 260,
       "x": -160,
       "y": 640
+    },
+    {
+      "height": 60,
+      "id": "cf22adc6ea0f8217",
+      "styleAttributes": {
+      },
+      "text": "创建项目",
+      "type": "text",
+      "width": 260,
+      "x": 1380,
+      "y": -580
+    },
+    {
+      "height": 60,
+      "id": "e84e89e849cf1182",
+      "styleAttributes": {
+      },
+      "text": "启动依赖",
+      "type": "text",
+      "width": 260,
+      "x": 1380,
+      "y": -400
     }
   ]
 }
