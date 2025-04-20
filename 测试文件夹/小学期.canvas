@@ -30,15 +30,6 @@
     {
       "fromNode": "968c4645e927909b",
       "fromSide": "right",
-      "id": "89a7b569ceacc046",
-      "styleAttributes": {
-      },
-      "toNode": "742d9015c552d29a",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "968c4645e927909b",
-      "fromSide": "right",
       "id": "9ec7c7ba750bdd45",
       "styleAttributes": {
       },
@@ -317,6 +308,25 @@
       },
       "toNode": "9c53e105ac62c025",
       "toSide": "top"
+    },
+    {
+      "fromNode": "968c4645e927909b",
+      "fromSide": "right",
+      "id": "9d58b354c866cd57",
+      "styleAttributes": {
+      },
+      "toNode": "c85b3febdf5ff2c8",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "968c4645e927909b",
+      "fromSide": "right",
+      "id": "e9c2c72e4f7122c1",
+      "styleAttributes": {
+        "path": "long-dashed"
+      },
+      "toNode": "3544f0a26bfeb97a",
+      "toSide": "left"
     }
   ],
   "nodes": [
@@ -332,6 +342,15 @@
       "y": -460
     },
     {
+      "height": 1360,
+      "id": "840108c243f8f67a",
+      "label": "项目组成",
+      "type": "group",
+      "width": 940,
+      "x": -400,
+      "y": -160
+    },
+    {
       "height": 560,
       "id": "d5764434d0329228",
       "label": "前端",
@@ -340,18 +359,18 @@
       "type": "group",
       "width": 700,
       "x": -180,
-      "y": -540
+      "y": -60
     },
     {
-      "height": 320,
+      "height": 440,
       "id": "b2903616fc94a8ad",
       "label": "后端",
       "styleAttributes": {
       },
       "type": "group",
-      "width": 700,
-      "x": -180,
-      "y": 180
+      "width": 840,
+      "x": -320,
+      "y": 660
     },
     {
       "height": 320,
@@ -362,62 +381,7 @@
       "type": "group",
       "width": 660,
       "x": -160,
-      "y": -460
-    },
-    {
-      "height": 60,
-      "id": "82723f453364cce6",
-      "styleAttributes": {
-      },
-      "text": "Pina",
-      "type": "text",
-      "width": 260,
-      "x": 220,
-      "y": -440
-    },
-    {
-      "height": 60,
-      "id": "e2829e3f9f8cdf68",
-      "styleAttributes": {
-      },
-      "text": "Router",
-      "type": "text",
-      "width": 260,
-      "x": 220,
-      "y": -340
-    },
-    {
-      "height": 60,
-      "id": "5071d6314f5ce385",
-      "styleAttributes": {
-      },
-      "text": "Axios",
-      "type": "text",
-      "width": 260,
-      "x": 220,
-      "y": -220
-    },
-    {
-      "height": 60,
-      "id": "93f710b499664fca",
-      "styleAttributes": {
-      },
-      "text": "TypeScript",
-      "type": "text",
-      "width": 260,
-      "x": -140,
-      "y": -60
-    },
-    {
-      "height": 60,
-      "id": "754d0640bd1460f1",
-      "styleAttributes": {
-      },
-      "text": "Vue\n",
-      "type": "text",
-      "width": 260,
-      "x": -140,
-      "y": -340
+      "y": 20
     },
     {
       "height": 60,
@@ -442,66 +406,11 @@
       "y": -220
     },
     {
-      "height": 60,
-      "id": "f1584064f44d1e49",
-      "styleAttributes": {
-      },
-      "text": "Spring Security",
-      "type": "text",
-      "width": 260,
-      "x": 200,
-      "y": 200
-    },
-    {
-      "height": 60,
-      "id": "968c4645e927909b",
-      "styleAttributes": {
-      },
-      "text": "SpringBoot",
-      "type": "text",
-      "width": 260,
-      "x": -160,
-      "y": 300
-    },
-    {
-      "height": 60,
-      "id": "1383ca46c8f8a617",
-      "styleAttributes": {
-      },
-      "text": "JWT",
-      "type": "text",
-      "width": 260,
-      "x": 200,
-      "y": 300
-    },
-    {
-      "height": 60,
-      "id": "742d9015c552d29a",
-      "styleAttributes": {
-      },
-      "text": "Redis",
-      "type": "text",
-      "width": 260,
-      "x": 200,
-      "y": 420
-    },
-    {
-      "height": 60,
-      "id": "8ca626772ac4768a",
-      "styleAttributes": {
-      },
-      "text": "MySql",
-      "type": "text",
-      "width": 260,
-      "x": -160,
-      "y": 640
-    },
-    {
       "height": 180,
       "id": "92269e22623bece3",
       "styleAttributes": {
       },
-      "text": "User.java\n~~~java\nprivate\nget\nset\n~~~",
+      "text": "User.java\n~~~java\n@Data\nprivate\n\n~~~",
       "type": "text",
       "width": 260,
       "x": 2960,
@@ -730,6 +639,17 @@
       "y": -60
     },
     {
+      "height": 60,
+      "id": "8921f95137444cce",
+      "styleAttributes": {
+      },
+      "text": "准备数据库",
+      "type": "text",
+      "width": 280,
+      "x": 2640,
+      "y": -660
+    },
+    {
       "file": "测试文件夹/接口文档.md",
       "height": 840,
       "id": "57fa8e69f8e805be",
@@ -737,19 +657,129 @@
       },
       "type": "file",
       "width": 1500,
-      "x": 2025,
-      "y": -1920
+      "x": 2030,
+      "y": -1720
     },
     {
       "height": 60,
-      "id": "8921f95137444cce",
+      "id": "82723f453364cce6",
       "styleAttributes": {
       },
-      "text": "准备数据库",
+      "text": "Pina",
       "type": "text",
       "width": 260,
-      "x": 2645,
-      "y": -920
+      "x": 220,
+      "y": 40
+    },
+    {
+      "height": 60,
+      "id": "e2829e3f9f8cdf68",
+      "styleAttributes": {
+      },
+      "text": "Router",
+      "type": "text",
+      "width": 260,
+      "x": 220,
+      "y": 140
+    },
+    {
+      "height": 60,
+      "id": "5071d6314f5ce385",
+      "styleAttributes": {
+      },
+      "text": "Axios",
+      "type": "text",
+      "width": 260,
+      "x": 220,
+      "y": 260
+    },
+    {
+      "height": 60,
+      "id": "93f710b499664fca",
+      "styleAttributes": {
+      },
+      "text": "TypeScript",
+      "type": "text",
+      "width": 260,
+      "x": -140,
+      "y": 420
+    },
+    {
+      "height": 60,
+      "id": "754d0640bd1460f1",
+      "styleAttributes": {
+      },
+      "text": "Vue\n",
+      "type": "text",
+      "width": 260,
+      "x": -140,
+      "y": 140
+    },
+    {
+      "height": 60,
+      "id": "8ca626772ac4768a",
+      "styleAttributes": {
+      },
+      "text": "MySql",
+      "type": "text",
+      "width": 260,
+      "x": -160,
+      "y": 1120
+    },
+    {
+      "height": 60,
+      "id": "f1584064f44d1e49",
+      "styleAttributes": {
+      },
+      "text": "Spring Security",
+      "type": "text",
+      "width": 260,
+      "x": 200,
+      "y": 680
+    },
+    {
+      "height": 60,
+      "id": "1383ca46c8f8a617",
+      "styleAttributes": {
+      },
+      "text": "JWT",
+      "type": "text",
+      "width": 260,
+      "x": 200,
+      "y": 780
+    },
+    {
+      "height": 60,
+      "id": "c85b3febdf5ff2c8",
+      "styleAttributes": {
+      },
+      "text": "Lombok（自动getset）",
+      "type": "text",
+      "width": 260,
+      "x": 200,
+      "y": 920
+    },
+    {
+      "height": 60,
+      "id": "3544f0a26bfeb97a",
+      "styleAttributes": {
+      },
+      "text": "druid（手动添加）",
+      "type": "text",
+      "width": 260,
+      "x": 200,
+      "y": 1020
+    },
+    {
+      "height": 60,
+      "id": "968c4645e927909b",
+      "styleAttributes": {
+      },
+      "text": "SpringBoot",
+      "type": "text",
+      "width": 260,
+      "x": -290,
+      "y": 860
     }
   ]
 }
