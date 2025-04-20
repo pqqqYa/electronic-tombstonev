@@ -62,6 +62,96 @@
       },
       "toNode": "e84e89e849cf1182",
       "toSide": "top"
+    },
+    {
+      "fromNode": "e84e89e849cf1182",
+      "fromSide": "right",
+      "id": "11b3f24c8a43a021",
+      "styleAttributes": {
+      },
+      "toNode": "147344c02bd7cc6c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e84e89e849cf1182",
+      "fromSide": "right",
+      "id": "901701377d8649ca",
+      "styleAttributes": {
+      },
+      "toNode": "b99a498be809b769",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e84e89e849cf1182",
+      "fromSide": "right",
+      "id": "05eba62116b4d437",
+      "styleAttributes": {
+      },
+      "toNode": "c504cf16c92d4df4",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e84e89e849cf1182",
+      "fromSide": "right",
+      "id": "8638238ac0d13444",
+      "styleAttributes": {
+      },
+      "toNode": "53ccc0cefb29111a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e84e89e849cf1182",
+      "fromSide": "bottom",
+      "id": "725cf1be46b7c7d3",
+      "styleAttributes": {
+      },
+      "toNode": "46ba26bc1bddb363",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "46ba26bc1bddb363",
+      "fromSide": "right",
+      "id": "d87c42b9ebd92a70",
+      "styleAttributes": {
+      },
+      "toNode": "2eb0649aa32e1aa7",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "46ba26bc1bddb363",
+      "fromSide": "right",
+      "id": "97218a5e1662e100",
+      "styleAttributes": {
+      },
+      "toNode": "03623c832c18f59d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "2eb0649aa32e1aa7",
+      "fromSide": "right",
+      "id": "ef290efde1737721",
+      "styleAttributes": {
+      },
+      "toNode": "bdeb6c4e0d63d33a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "46ba26bc1bddb363",
+      "fromSide": "right",
+      "id": "856f9f9f38ead251",
+      "styleAttributes": {
+      },
+      "toNode": "f6f8779842c935e0",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "f6f8779842c935e0",
+      "fromSide": "right",
+      "id": "e0ab3041e6147a56",
+      "styleAttributes": {
+      },
+      "toNode": "ff9bef63540c6b00",
+      "toSide": "left"
     }
   ],
   "nodes": [
@@ -223,6 +313,116 @@
       "width": 260,
       "x": 1380,
       "y": -400
+    },
+    {
+      "height": 60,
+      "id": "53ccc0cefb29111a",
+      "styleAttributes": {
+      },
+      "text": "SpringWeb",
+      "type": "text",
+      "width": 260,
+      "x": 1780,
+      "y": -520
+    },
+    {
+      "height": 60,
+      "id": "b99a498be809b769",
+      "styleAttributes": {
+      },
+      "text": "JDBC API",
+      "type": "text",
+      "width": 260,
+      "x": 1780,
+      "y": -430
+    },
+    {
+      "height": 60,
+      "id": "c504cf16c92d4df4",
+      "styleAttributes": {
+      },
+      "text": "MyBatis Framework",
+      "type": "text",
+      "width": 260,
+      "x": 1780,
+      "y": -340
+    },
+    {
+      "height": 60,
+      "id": "147344c02bd7cc6c",
+      "styleAttributes": {
+      },
+      "text": "MySQL Driver",
+      "type": "text",
+      "width": 260,
+      "x": 1780,
+      "y": -240
+    },
+    {
+      "height": 60,
+      "id": "03623c832c18f59d",
+      "styleAttributes": {
+      },
+      "text": "src/main/java/com/jiesenhe/springbootmybatis",
+      "type": "text",
+      "width": 420,
+      "x": 1740,
+      "y": -100
+    },
+    {
+      "height": 60,
+      "id": "2eb0649aa32e1aa7",
+      "styleAttributes": {
+      },
+      "text": "src/main/resources/mapper",
+      "type": "text",
+      "width": 300,
+      "x": 1740,
+      "y": 20
+    },
+    {
+      "height": 60,
+      "id": "bdeb6c4e0d63d33a",
+      "styleAttributes": {
+      },
+      "text": "xxxMapper.xml",
+      "type": "text",
+      "width": 260,
+      "x": 2200,
+      "y": 20
+    },
+    {
+      "height": 60,
+      "id": "f6f8779842c935e0",
+      "styleAttributes": {
+      },
+      "text": "src/main/resources",
+      "type": "text",
+      "width": 260,
+      "x": 1740,
+      "y": 140
+    },
+    {
+      "height": 60,
+      "id": "46ba26bc1bddb363",
+      "styleAttributes": {
+      },
+      "text": "文件创建",
+      "type": "text",
+      "width": 260,
+      "x": 1380,
+      "y": 20
+    },
+    {
+      "height": 580,
+      "id": "ff9bef63540c6b00",
+      "styleAttributes": {
+      },
+      "text": "# application.yml\n\n~~~yml\nserver:  \n  port: 8089  \n  servlet:  \n    context-path: /  \n  \nspring:  \n  datasource:  \n    driver-class-name: com.mysql.cj.jdbc.Driver  \n    url: jdbc:mysql://localhost:3306/test?characterEncoding=UTF-8&serverTimezone=GMT%2B8  \n    username: root  \n    password: 123123  \n    type: com.alibaba.druid.pool.DruidDataSource  \n  \n  \nmybatis:  \n  mapper-locations: classpath:mapper/*.xml  \n  #  打印sql语句  \n  configuration:  \n    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl\n~~~",
+      "type": "text",
+      "width": 720,
+      "x": 2200,
+      "y": 140
     }
   ]
 }
