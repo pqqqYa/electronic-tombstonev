@@ -375,6 +375,44 @@
       },
       "toNode": "4b878d116502514a",
       "toSide": "right"
+    },
+    {
+      "fromNode": "d902680bb3bda33b",
+      "fromSide": "bottom",
+      "id": "9e030cb6392d5284",
+      "styleAttributes": {
+      },
+      "toNode": "0ebd74f8b6e76684",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "0ebd74f8b6e76684",
+      "fromSide": "bottom",
+      "id": "92de6c6d95d90be6",
+      "styleAttributes": {
+      },
+      "toNode": "c5c99a94427ef516",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "a950fcc82befcb66",
+      "fromSide": "bottom",
+      "id": "f1926e31a3fdffcb",
+      "styleAttributes": {
+      },
+      "toNode": "d902680bb3bda33b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "0ebd74f8b6e76684",
+      "fromSide": "right",
+      "id": "ea5935d169d01c2f",
+      "styleAttributes": {
+        "path": "dotted"
+      },
+      "toEnd": "none",
+      "toNode": "f1fb358db6bab6fc",
+      "toSide": "left"
     }
   ],
   "nodes": [
@@ -461,17 +499,6 @@
       "width": 260,
       "x": 2650,
       "y": -2140
-    },
-    {
-      "height": 60,
-      "id": "20d965f3147c49fd",
-      "styleAttributes": {
-      },
-      "text": "测试",
-      "type": "text",
-      "width": 240,
-      "x": 2660,
-      "y": 2380
     },
     {
       "height": 60,
@@ -716,17 +743,6 @@
       "y": 2760
     },
     {
-      "file": "测试文件夹/application.yml.md",
-      "height": 480,
-      "id": "58f1756e1c86c2cf",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 850,
-      "x": 2370,
-      "y": 2240
-    },
-    {
       "height": 60,
       "id": "8921f95137444cce",
       "styleAttributes": {
@@ -881,6 +897,84 @@
       "width": 820,
       "x": 2970,
       "y": 660
+    },
+    {
+      "height": 60,
+      "id": "20d965f3147c49fd",
+      "styleAttributes": {
+      },
+      "text": "测试",
+      "type": "text",
+      "width": 240,
+      "x": 2860,
+      "y": 3560
+    },
+    {
+      "file": "测试文件夹/application.yml.md",
+      "height": 480,
+      "id": "58f1756e1c86c2cf",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 850,
+      "x": 2400,
+      "y": 2240
+    },
+    {
+      "height": 60,
+      "id": "0ebd74f8b6e76684",
+      "styleAttributes": {
+      },
+      "text": "返回令牌",
+      "type": "text",
+      "width": 260,
+      "x": 6460,
+      "y": -1700
+    },
+    {
+      "height": 60,
+      "id": "c5c99a94427ef516",
+      "styleAttributes": {
+      },
+      "text": "携带令牌去响应所有的服务",
+      "type": "text",
+      "width": 260,
+      "x": 6460,
+      "y": -1540
+    },
+    {
+      "height": 60,
+      "id": "a950fcc82befcb66",
+      "styleAttributes": {
+      },
+      "text": "注册",
+      "type": "text",
+      "width": 260,
+      "x": 6460,
+      "y": -1980
+    },
+    {
+      "height": 60,
+      "id": "d902680bb3bda33b",
+      "styleAttributes": {
+      },
+      "text": "登录",
+      "type": "text",
+      "width": 260,
+      "x": 6460,
+      "y": -1840
+    },
+    {
+      "height": 320,
+      "id": "f1fb358db6bab6fc",
+      "styleAttributes": {
+        "border": "dashed"
+      },
+      "text": "令牌JWT\n\nHeader：\n\n- \"alg\":\"HS256\"\n- \"type\":\"JWT\"\n\nPayload：\n\n- JSONdata\n\nSignature\n\n- header.pauload\n- scret",
+      "type": "text",
+      "width": 480,
+      "x": 6900,
+      "y": -1830
     }
   ]
 }
