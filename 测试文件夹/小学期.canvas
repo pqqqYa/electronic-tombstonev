@@ -207,7 +207,7 @@
       "styleAttributes": {
       },
       "toNode": "92269e22623bece3",
-      "toSide": "left"
+      "toSide": "top"
     },
     {
       "fromNode": "44164c4d8740f380",
@@ -297,7 +297,7 @@
       "id": "887657b75fa6fe92",
       "styleAttributes": {
       },
-      "toNode": "8921f95137444cce",
+      "toNode": "9aa2afa99d69260e",
       "toSide": "top"
     },
     {
@@ -327,9 +327,37 @@
       },
       "toNode": "3544f0a26bfeb97a",
       "toSide": "left"
+    },
+    {
+      "fromNode": "88683a1a648668ff",
+      "fromSide": "bottom",
+      "id": "07d3ba029e304b03",
+      "label": "书写开发文档",
+      "styleAttributes": {
+      },
+      "toNode": "57fa8e69f8e805be",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "9aa2afa99d69260e",
+      "fromSide": "bottom",
+      "id": "aa5ae2b9652fc720",
+      "styleAttributes": {
+      },
+      "toNode": "20d965f3147c49fd",
+      "toSide": "top"
     }
   ],
   "nodes": [
+    {
+      "height": 2800,
+      "id": "9aa2afa99d69260e",
+      "label": "开发",
+      "type": "group",
+      "width": 2880,
+      "x": 1340,
+      "y": -680
+    },
     {
       "height": 2560,
       "id": "9c53e105ac62c025",
@@ -404,17 +432,6 @@
       "width": 260,
       "x": 1380,
       "y": -220
-    },
-    {
-      "height": 180,
-      "id": "92269e22623bece3",
-      "styleAttributes": {
-      },
-      "text": "User.java\n~~~java\n@Data\nprivate\n\n~~~",
-      "type": "text",
-      "width": 260,
-      "x": 2960,
-      "y": 100
     },
     {
       "height": 60,
@@ -639,17 +656,6 @@
       "y": -60
     },
     {
-      "height": 60,
-      "id": "8921f95137444cce",
-      "styleAttributes": {
-      },
-      "text": "准备数据库",
-      "type": "text",
-      "width": 280,
-      "x": 2640,
-      "y": -660
-    },
-    {
       "file": "测试文件夹/接口文档.md",
       "height": 840,
       "id": "57fa8e69f8e805be",
@@ -780,6 +786,50 @@
       "width": 260,
       "x": -290,
       "y": 860
+    },
+    {
+      "height": 180,
+      "id": "92269e22623bece3",
+      "styleAttributes": {
+      },
+      "text": "User.java\n~~~java\n@Data//druid\nprivate\n\n~~~",
+      "type": "text",
+      "width": 260,
+      "x": 2700,
+      "y": 210
+    },
+    {
+      "height": 60,
+      "id": "88683a1a648668ff",
+      "styleAttributes": {
+      },
+      "text": "明确需求",
+      "type": "text",
+      "width": 260,
+      "x": 2650,
+      "y": -2140
+    },
+    {
+      "height": 60,
+      "id": "8921f95137444cce",
+      "styleAttributes": {
+      },
+      "text": "准备数据库",
+      "type": "text",
+      "width": 280,
+      "x": 2640,
+      "y": -600
+    },
+    {
+      "height": 60,
+      "id": "20d965f3147c49fd",
+      "styleAttributes": {
+      },
+      "text": "测试",
+      "type": "text",
+      "width": 240,
+      "x": 2660,
+      "y": 2380
     }
   ]
 }
