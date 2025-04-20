@@ -413,6 +413,24 @@
       "toEnd": "none",
       "toNode": "f1fb358db6bab6fc",
       "toSide": "left"
+    },
+    {
+      "fromNode": "9c53e105ac62c025",
+      "fromSide": "right",
+      "id": "67024b1649d1413c",
+      "styleAttributes": {
+      },
+      "toNode": "1d3d2017efe50022",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "f1fb358db6bab6fc",
+      "fromSide": "right",
+      "id": "7f70878896ffba86",
+      "styleAttributes": {
+      },
+      "toNode": "080dd5cd8fb11940",
+      "toSide": "left"
     }
   ],
   "nodes": [
@@ -435,6 +453,15 @@
       "width": 3140,
       "x": 1380,
       "y": -80
+    },
+    {
+      "height": 1600,
+      "id": "1d3d2017efe50022",
+      "label": "后端流程",
+      "type": "group",
+      "width": 1780,
+      "x": 5260,
+      "y": -580
     },
     {
       "height": 1360,
@@ -928,8 +955,8 @@
       "text": "返回令牌",
       "type": "text",
       "width": 260,
-      "x": 6460,
-      "y": -1700
+      "x": 5280,
+      "y": -280
     },
     {
       "height": 60,
@@ -939,8 +966,8 @@
       "text": "携带令牌去响应所有的服务",
       "type": "text",
       "width": 260,
-      "x": 6460,
-      "y": -1540
+      "x": 5280,
+      "y": -120
     },
     {
       "height": 60,
@@ -950,8 +977,8 @@
       "text": "注册",
       "type": "text",
       "width": 260,
-      "x": 6460,
-      "y": -1980
+      "x": 5280,
+      "y": -560
     },
     {
       "height": 60,
@@ -961,20 +988,31 @@
       "text": "登录",
       "type": "text",
       "width": 260,
-      "x": 6460,
-      "y": -1840
+      "x": 5280,
+      "y": -420
     },
     {
-      "height": 320,
+      "height": 435,
       "id": "f1fb358db6bab6fc",
       "styleAttributes": {
         "border": "dashed"
       },
-      "text": "令牌JWT\n\nHeader：\n\n- \"alg\":\"HS256\"\n- \"type\":\"JWT\"\n\nPayload：\n\n- JSONdata\n\nSignature\n\n- header.pauload\n- scret",
+      "text": "令牌JWT\n\nHeader：\n\n- \"alg\":\"HS256\"\n- \"type\":\"JWT\"\n\nPayload：\n\n- JSONdata\n\nSignature\n\n- header.pauload,secret\n\nbase64不安全，不要添加私密信息\n解密数字签名得到头部和载荷\n",
       "type": "text",
       "width": 480,
-      "x": 6900,
-      "y": -1830
+      "x": 5720,
+      "y": -467
+    },
+    {
+      "height": 435,
+      "id": "080dd5cd8fb11940",
+      "styleAttributes": {
+      },
+      "text": "修改pom.xml\n~~~xml\n<dependency>\n\t<groupId>com.auth0</groupId>\n\tartifactId\n\t<version>4.4.0</version>\n</dependency>\n~~~",
+      "type": "text",
+      "width": 520,
+      "x": 6340,
+      "y": -467
     }
   ]
 }
