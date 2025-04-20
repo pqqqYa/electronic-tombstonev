@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "测试文件夹/小学期.canvas",
-                "viewState": {
-                  "x": 3170,
-                  "y": 1010,
-                  "zoom": -2.889419459382113
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "小学期"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -96,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625,
-    "collapsed": true
+    "width": 227.50152587890625
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -185,8 +181,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "测试文件夹/接口文档.md",
     "测试文件夹/小学期.canvas",
+    "测试文件夹/接口文档.md",
     "测试文件夹/application.yml.md",
     "测试文件夹/pom.xml.md",
     "测试文件夹/pom - 副本.xml",
