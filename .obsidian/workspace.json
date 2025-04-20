@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "测试文件夹/pom.xml.md",
-                "mode": "source",
-                "source": false
+                "file": "测试文件夹/小学期.canvas",
+                "viewState": {
+                  "x": 1682.6056717097763,
+                  "y": -303.8649896374206,
+                  "zoom": -0.8358419924519791
+                }
               },
-              "icon": "lucide-file",
-              "title": "pom.xml"
+              "icon": "lucide-layout-dashboard",
+              "title": "小学期"
             }
           }
         ]
@@ -183,7 +186,9 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "测试文件夹/小学期.canvas",
+    "测试文件夹/application.yml.md",
     "测试文件夹/pom.xml.md",
+    "测试文件夹/pom - 副本.xml",
     "README.md",
     "Latex/Latex公式.md",
     "测试文件夹/经典同步问题.md",
@@ -213,14 +218,11 @@
     "大创/App 1-C.emmx",
     "大创/App 1.emmx.vHpPfS",
     "大创/App 1.emmx.nuNPCh",
-    "大创/App 1.emmx.FVCNCW",
     "大创/立项申请书-v2.1何.md",
     "大创/图.md",
     "大创/APP设计(功能描述)-draft.md",
-    "大创/智学乡村v6.md",
     "大创/App 1.png",
     "attachment/Pasted image 20250405214640.png",
-    "大创/4-5-2025书写-v2.md",
     "大创/logo.png",
     "计算机网络/attachment/捎带确认.png",
     "计算机网络/attachment/累计确认.png",
