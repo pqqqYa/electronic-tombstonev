@@ -433,33 +433,53 @@
       "toSide": "left"
     },
     {
-      "fromNode": "f1fb358db6bab6fc",
-      "fromSide": "right",
-      "id": "687071a4b8ed1dd8",
+      "fromNode": "080dd5cd8fb11940",
+      "fromSide": "bottom",
+      "id": "49404c7690b0f898",
       "styleAttributes": {
       },
       "toNode": "8d9ddd335f56c74e",
-      "toSide": "left"
+      "toSide": "top"
     },
     {
-      "fromNode": "f1fb358db6bab6fc",
-      "fromSide": "right",
-      "id": "3d4394a479fe9baa",
+      "fromNode": "8d9ddd335f56c74e",
+      "fromSide": "bottom",
+      "id": "f6da7f72c12f1b26",
       "styleAttributes": {
       },
       "toNode": "813eefb09be0fb34",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "007600788e8c75a1",
+      "fromSide": "right",
+      "id": "065d5d8593aabe47",
+      "styleAttributes": {
+      },
+      "toNode": "51861aab2d8d357b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "67746ea3890993e7",
+      "fromSide": "top",
+      "id": "6fd42e7387c60a28",
+      "label": "调用加密",
+      "styleAttributes": {
+        "path": "dotted"
+      },
+      "toNode": "51861aab2d8d357b",
       "toSide": "left"
     }
   ],
   "nodes": [
     {
-      "height": 3840,
+      "height": 3680,
       "id": "9aa2afa99d69260e",
       "label": "开发",
       "type": "group",
       "width": 3240,
       "x": 1360,
-      "y": -560
+      "y": -400
     },
     {
       "height": 3340,
@@ -478,8 +498,8 @@
       "label": "后端流程",
       "type": "group",
       "width": 1780,
-      "x": 5260,
-      "y": -580
+      "x": 5200,
+      "y": 790
     },
     {
       "height": 1360,
@@ -487,8 +507,8 @@
       "label": "项目组成",
       "type": "group",
       "width": 940,
-      "x": -400,
-      "y": -240
+      "x": -320,
+      "y": 560
     },
     {
       "height": 560,
@@ -498,8 +518,8 @@
       },
       "type": "group",
       "width": 700,
-      "x": -180,
-      "y": -140
+      "x": -100,
+      "y": 660
     },
     {
       "height": 440,
@@ -509,8 +529,8 @@
       },
       "type": "group",
       "width": 840,
-      "x": -320,
-      "y": 580
+      "x": -240,
+      "y": 1380
     },
     {
       "height": 320,
@@ -520,151 +540,8 @@
       },
       "type": "group",
       "width": 660,
-      "x": -160,
-      "y": -60
-    },
-    {
-      "file": "测试文件夹/接口文档.md",
-      "height": 840,
-      "id": "57fa8e69f8e805be",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 1500,
-      "x": 2030,
-      "y": -1720
-    },
-    {
-      "height": 60,
-      "id": "88683a1a648668ff",
-      "styleAttributes": {
-      },
-      "text": "明确需求",
-      "type": "text",
-      "width": 260,
-      "x": 2650,
-      "y": -2140
-    },
-    {
-      "height": 60,
-      "id": "754d0640bd1460f1",
-      "styleAttributes": {
-      },
-      "text": "Vue\n",
-      "type": "text",
-      "width": 260,
-      "x": -140,
-      "y": 60
-    },
-    {
-      "height": 60,
-      "id": "93f710b499664fca",
-      "styleAttributes": {
-      },
-      "text": "TypeScript",
-      "type": "text",
-      "width": 260,
-      "x": -140,
-      "y": 340
-    },
-    {
-      "height": 60,
-      "id": "82723f453364cce6",
-      "styleAttributes": {
-      },
-      "text": "Pina",
-      "type": "text",
-      "width": 260,
-      "x": 220,
-      "y": -40
-    },
-    {
-      "height": 60,
-      "id": "e2829e3f9f8cdf68",
-      "styleAttributes": {
-      },
-      "text": "Router",
-      "type": "text",
-      "width": 260,
-      "x": 220,
-      "y": 60
-    },
-    {
-      "height": 60,
-      "id": "5071d6314f5ce385",
-      "styleAttributes": {
-      },
-      "text": "Axios",
-      "type": "text",
-      "width": 260,
-      "x": 220,
-      "y": 180
-    },
-    {
-      "height": 60,
-      "id": "8ca626772ac4768a",
-      "styleAttributes": {
-      },
-      "text": "MySql",
-      "type": "text",
-      "width": 260,
-      "x": -160,
-      "y": 1040
-    },
-    {
-      "height": 60,
-      "id": "c85b3febdf5ff2c8",
-      "styleAttributes": {
-      },
-      "text": "Lombok（自动getset）",
-      "type": "text",
-      "width": 260,
-      "x": 200,
-      "y": 840
-    },
-    {
-      "height": 60,
-      "id": "3544f0a26bfeb97a",
-      "styleAttributes": {
-      },
-      "text": "druid（手动添加）",
-      "type": "text",
-      "width": 260,
-      "x": 200,
-      "y": 940
-    },
-    {
-      "height": 60,
-      "id": "968c4645e927909b",
-      "styleAttributes": {
-      },
-      "text": "SpringBoot",
-      "type": "text",
-      "width": 260,
-      "x": -290,
-      "y": 780
-    },
-    {
-      "height": 60,
-      "id": "f1584064f44d1e49",
-      "styleAttributes": {
-      },
-      "text": "Spring Security",
-      "type": "text",
-      "width": 260,
-      "x": 200,
-      "y": 600
-    },
-    {
-      "height": 60,
-      "id": "1383ca46c8f8a617",
-      "styleAttributes": {
-      },
-      "text": "JWT",
-      "type": "text",
-      "width": 260,
-      "x": 200,
-      "y": 700
+      "x": -80,
+      "y": 740
     },
     {
       "height": 60,
@@ -786,17 +663,6 @@
       "width": 990,
       "x": 1950,
       "y": 2760
-    },
-    {
-      "height": 60,
-      "id": "8921f95137444cce",
-      "styleAttributes": {
-      },
-      "text": "准备数据库",
-      "type": "text",
-      "width": 280,
-      "x": 2660,
-      "y": -280
     },
     {
       "height": 60,
@@ -967,25 +833,157 @@
     },
     {
       "height": 60,
-      "id": "0ebd74f8b6e76684",
+      "id": "8921f95137444cce",
       "styleAttributes": {
       },
-      "text": "返回令牌",
+      "text": "准备数据库",
       "type": "text",
-      "width": 260,
-      "x": 5280,
+      "width": 300,
+      "x": 2800,
       "y": -280
     },
     {
-      "height": 60,
-      "id": "c5c99a94427ef516",
+      "file": "测试文件夹/接口文档.md",
+      "height": 840,
+      "id": "57fa8e69f8e805be",
       "styleAttributes": {
       },
-      "text": "携带令牌去响应所有的服务",
+      "type": "file",
+      "width": 1500,
+      "x": 2220,
+      "y": -1700
+    },
+    {
+      "height": 60,
+      "id": "88683a1a648668ff",
+      "styleAttributes": {
+      },
+      "text": "明确需求",
       "type": "text",
       "width": 260,
-      "x": 5280,
-      "y": -120
+      "x": 2840,
+      "y": -2120
+    },
+    {
+      "height": 60,
+      "id": "93f710b499664fca",
+      "styleAttributes": {
+      },
+      "text": "TypeScript",
+      "type": "text",
+      "width": 260,
+      "x": -60,
+      "y": 1140
+    },
+    {
+      "height": 60,
+      "id": "c85b3febdf5ff2c8",
+      "styleAttributes": {
+      },
+      "text": "Lombok（自动getset）",
+      "type": "text",
+      "width": 260,
+      "x": 280,
+      "y": 1640
+    },
+    {
+      "height": 60,
+      "id": "3544f0a26bfeb97a",
+      "styleAttributes": {
+      },
+      "text": "druid（手动添加）",
+      "type": "text",
+      "width": 260,
+      "x": 280,
+      "y": 1740
+    },
+    {
+      "height": 60,
+      "id": "8ca626772ac4768a",
+      "styleAttributes": {
+      },
+      "text": "MySql",
+      "type": "text",
+      "width": 260,
+      "x": -80,
+      "y": 1840
+    },
+    {
+      "height": 60,
+      "id": "968c4645e927909b",
+      "styleAttributes": {
+      },
+      "text": "SpringBoot",
+      "type": "text",
+      "width": 260,
+      "x": -210,
+      "y": 1580
+    },
+    {
+      "height": 60,
+      "id": "f1584064f44d1e49",
+      "styleAttributes": {
+      },
+      "text": "Spring Security",
+      "type": "text",
+      "width": 260,
+      "x": 280,
+      "y": 1400
+    },
+    {
+      "height": 60,
+      "id": "1383ca46c8f8a617",
+      "styleAttributes": {
+      },
+      "text": "JWT",
+      "type": "text",
+      "width": 260,
+      "x": 280,
+      "y": 1500
+    },
+    {
+      "height": 60,
+      "id": "82723f453364cce6",
+      "styleAttributes": {
+      },
+      "text": "Pina",
+      "type": "text",
+      "width": 260,
+      "x": 300,
+      "y": 760
+    },
+    {
+      "height": 60,
+      "id": "754d0640bd1460f1",
+      "styleAttributes": {
+      },
+      "text": "Vue\n",
+      "type": "text",
+      "width": 260,
+      "x": -60,
+      "y": 860
+    },
+    {
+      "height": 60,
+      "id": "e2829e3f9f8cdf68",
+      "styleAttributes": {
+      },
+      "text": "Router",
+      "type": "text",
+      "width": 260,
+      "x": 300,
+      "y": 860
+    },
+    {
+      "height": 60,
+      "id": "5071d6314f5ce385",
+      "styleAttributes": {
+      },
+      "text": "Axios",
+      "type": "text",
+      "width": 260,
+      "x": 300,
+      "y": 980
     },
     {
       "height": 60,
@@ -995,19 +993,8 @@
       "text": "注册",
       "type": "text",
       "width": 260,
-      "x": 5280,
-      "y": -560
-    },
-    {
-      "height": 60,
-      "id": "d902680bb3bda33b",
-      "styleAttributes": {
-      },
-      "text": "登录",
-      "type": "text",
-      "width": 260,
-      "x": 5280,
-      "y": -420
+      "x": 5220,
+      "y": 810
     },
     {
       "height": 435,
@@ -1018,8 +1005,30 @@
       "text": "令牌JWT\n\nHeader：\n\n- \"alg\":\"HS256\"\n- \"type\":\"JWT\"\n\nPayload：\n\n- JSONdata\n\nSignature\n\n- header.pauload,secret\n\nbase64不安全，不要添加私密信息\n解密数字签名得到头部和载荷\n",
       "type": "text",
       "width": 480,
-      "x": 5720,
-      "y": -467
+      "x": 5660,
+      "y": 903
+    },
+    {
+      "height": 60,
+      "id": "d902680bb3bda33b",
+      "styleAttributes": {
+      },
+      "text": "登录",
+      "type": "text",
+      "width": 260,
+      "x": 5220,
+      "y": 950
+    },
+    {
+      "height": 60,
+      "id": "0ebd74f8b6e76684",
+      "styleAttributes": {
+      },
+      "text": "返回令牌",
+      "type": "text",
+      "width": 260,
+      "x": 5220,
+      "y": 1090
     },
     {
       "height": 218,
@@ -1029,8 +1038,8 @@
       "text": "修改pom.xml\n~~~xml\n<dependency>\n\t<groupId>com.auth0</groupId>\n\t<artifactId>java-jwt</artifactId>\n\t<version>4.4.0</version>\n</dependency>\n~~~",
       "type": "text",
       "width": 520,
-      "x": 6360,
-      "y": -358
+      "x": 6300,
+      "y": 903
     },
     {
       "height": 200,
@@ -1040,19 +1049,41 @@
       "text": "书写JWT\n~~~java\n\n载荷\n过期时间\n加密算法1HMAC256\n密钥：202231772224\n~~~",
       "type": "text",
       "width": 600,
-      "x": 6360,
-      "y": 40
+      "x": 6260,
+      "y": 1238
     },
     {
-      "height": 480,
+      "height": 60,
       "id": "813eefb09be0fb34",
       "styleAttributes": {
       },
       "text": "验证JWT",
       "type": "text",
-      "width": 600,
-      "x": 6360,
-      "y": 400
+      "width": 160,
+      "x": 6480,
+      "y": 1570
+    },
+    {
+      "height": 60,
+      "id": "c5c99a94427ef516",
+      "styleAttributes": {
+      },
+      "text": "携带令牌去响应所有的服务",
+      "type": "text",
+      "width": 260,
+      "x": 5220,
+      "y": 1250
+    },
+    {
+      "height": 60,
+      "id": "51861aab2d8d357b",
+      "styleAttributes": {
+      },
+      "text": "JwtUtil.java",
+      "type": "text",
+      "width": 260,
+      "x": 3520,
+      "y": 280
     }
   ]
 }
