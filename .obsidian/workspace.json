@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "测试文件夹/小学期.canvas",
-                "viewState": {
-                  "x": 2713.6173509805326,
-                  "y": 1199.734486276538,
-                  "zoom": 0
-                }
+                "file": "测试文件夹/pom.xml.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "小学期"
+              "icon": "lucide-file",
+              "title": "pom.xml"
             }
           }
         ]
@@ -185,9 +182,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "README.md",
     "测试文件夹/小学期.canvas",
-    "测试文件夹/未命名.md",
+    "测试文件夹/pom.xml.md",
+    "README.md",
     "Latex/Latex公式.md",
     "测试文件夹/经典同步问题.md",
     "测试文件夹",
