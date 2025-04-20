@@ -469,6 +469,15 @@
       },
       "toNode": "51861aab2d8d357b",
       "toSide": "left"
+    },
+    {
+      "fromNode": "46ba26bc1bddb363",
+      "fromSide": "right",
+      "id": "b6e3c14a0f6573e0",
+      "styleAttributes": {
+      },
+      "toNode": "53b8cc2d3e96168e",
+      "toSide": "left"
     }
   ],
   "nodes": [
@@ -1054,17 +1063,6 @@
     },
     {
       "height": 60,
-      "id": "813eefb09be0fb34",
-      "styleAttributes": {
-      },
-      "text": "验证JWT",
-      "type": "text",
-      "width": 160,
-      "x": 6480,
-      "y": 1570
-    },
-    {
-      "height": 60,
       "id": "c5c99a94427ef516",
       "styleAttributes": {
       },
@@ -1084,6 +1082,28 @@
       "width": 260,
       "x": 3520,
       "y": 280
+    },
+    {
+      "height": 60,
+      "id": "813eefb09be0fb34",
+      "styleAttributes": {
+      },
+      "text": "验证JWT，使用拦截器统一拦截",
+      "type": "text",
+      "width": 320,
+      "x": 6400,
+      "y": 1580
+    },
+    {
+      "height": 60,
+      "id": "53b8cc2d3e96168e",
+      "styleAttributes": {
+      },
+      "text": "src/main/java/com/jiesenhe/springbootmybatis",
+      "type": "text",
+      "width": 410,
+      "x": 1940,
+      "y": 1640
     }
   ]
 }
