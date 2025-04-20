@@ -206,6 +206,60 @@
       },
       "toNode": "58f1756e1c86c2cf",
       "toSide": "left"
+    },
+    {
+      "fromNode": "b88285627c6a2bd3",
+      "fromSide": "right",
+      "id": "a8d808707b536aa9",
+      "styleAttributes": {
+      },
+      "toNode": "92269e22623bece3",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "92269e22623bece3",
+      "fromSide": "right",
+      "id": "446ea897d5ccce1f",
+      "styleAttributes": {
+      },
+      "toNode": "1bf950865ae9ac5a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "92269e22623bece3",
+      "fromSide": "right",
+      "id": "c2fd39d37c52bcd2",
+      "styleAttributes": {
+      },
+      "toNode": "41a4a5c5ca0013dc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "44164c4d8740f380",
+      "fromSide": "right",
+      "id": "715b712676c11c1e",
+      "styleAttributes": {
+      },
+      "toNode": "576d8f3e4346761e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "fe28d63aceb48250",
+      "fromSide": "right",
+      "id": "b8075f7bc51936f7",
+      "styleAttributes": {
+      },
+      "toNode": "efa4d693df214c58",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "efa4d693df214c58",
+      "fromSide": "right",
+      "id": "d25c8189df82df11",
+      "styleAttributes": {
+      },
+      "toNode": "742ae0fb138460b5",
+      "toSide": "left"
     }
   ],
   "nodes": [
@@ -456,7 +510,7 @@
       "id": "44164c4d8740f380",
       "styleAttributes": {
       },
-      "text": "Dao",
+      "text": "mapper（接口）",
       "type": "text",
       "width": 260,
       "x": 2480,
@@ -547,6 +601,74 @@
       "width": 260,
       "x": 1930,
       "y": 1100
+    },
+    {
+      "height": 60,
+      "id": "92269e22623bece3",
+      "styleAttributes": {
+      },
+      "text": "User.java",
+      "type": "text",
+      "width": 260,
+      "x": 2960,
+      "y": 100
+    },
+    {
+      "height": 60,
+      "id": "1bf950865ae9ac5a",
+      "styleAttributes": {
+      },
+      "text": "private",
+      "type": "text",
+      "width": 260,
+      "x": 3360,
+      "y": 70
+    },
+    {
+      "height": 60,
+      "id": "41a4a5c5ca0013dc",
+      "styleAttributes": {
+      },
+      "text": "get set",
+      "type": "text",
+      "width": 260,
+      "x": 3360,
+      "y": 150
+    },
+    {
+      "height": 60,
+      "id": "576d8f3e4346761e",
+      "styleAttributes": {
+        "border": null,
+        "shape": null
+      },
+      "text": "UserMapper.java",
+      "type": "text",
+      "width": 260,
+      "x": 2960,
+      "y": -40
+    },
+    {
+      "height": 60,
+      "id": "efa4d693df214c58",
+      "styleAttributes": {
+      },
+      "text": "impl",
+      "type": "text",
+      "width": 260,
+      "x": 2960,
+      "y": 280
+    },
+    {
+      "height": 60,
+      "id": "742ae0fb138460b5",
+      "styleAttributes": {
+      },
+      "text": "UserSer",
+      "type": "text",
+      "width": 260,
+      "x": 3460,
+      "y": 280
     }
   ]
 }
