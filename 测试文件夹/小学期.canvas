@@ -184,7 +184,7 @@
       "fromNode": "fc39df89d9f07bde",
       "fromSide": "right",
       "id": "6099c55039fcd343",
-      "label": "第四步",
+      "label": "第五步",
       "styleAttributes": {
       },
       "toNode": "67746ea3890993e7",
@@ -248,17 +248,6 @@
       "toSide": "left"
     },
     {
-      "fromNode": "742ae0fb138460b5",
-      "fromSide": "top",
-      "id": "399ebc1c0f660fd7",
-      "label": "重写这个里面的方法@Override",
-      "styleAttributes": {
-        "path": "dotted"
-      },
-      "toNode": "576d8f3e4346761e",
-      "toSide": "right"
-    },
-    {
       "fromNode": "fe28d63aceb48250",
       "fromSide": "right",
       "id": "598f8c734e60a8da",
@@ -267,6 +256,28 @@
       },
       "toNode": "c5c90f62ef886865",
       "toSide": "left"
+    },
+    {
+      "fromNode": "742ae0fb138460b5",
+      "fromSide": "bottom",
+      "id": "d0753dfbe759cac9",
+      "label": "重写这个里面的方法@Override",
+      "styleAttributes": {
+        "path": "dotted"
+      },
+      "toNode": "c5c90f62ef886865",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "742ae0fb138460b5",
+      "fromSide": "top",
+      "id": "a44756bd5ebd58e7",
+      "label": "调用mapper",
+      "styleAttributes": {
+        "path": "dotted"
+      },
+      "toNode": "576d8f3e4346761e",
+      "toSide": "right"
     }
   ],
   "nodes": [
@@ -612,39 +623,6 @@
       "y": -40
     },
     {
-      "height": 380,
-      "id": "742ae0fb138460b5",
-      "styleAttributes": {
-      },
-      "text": "UserServiceImpl.java\n\n~~~java\n\n@Service\npublic class UserServiceImpl implements User Service{\n\t@Autowired  \n\tprivate UserMapper userMapper;\n\t@Override\n\tpublic ....{\n\t\t//调用上面的mapper完成数据库的查询\n\t\treturn userMapper.方法(传参);\n\t}\n}\n~~~",
-      "type": "text",
-      "width": 560,
-      "x": 3360,
-      "y": 280
-    },
-    {
-      "height": 60,
-      "id": "efa4d693df214c58",
-      "styleAttributes": {
-      },
-      "text": "impl",
-      "type": "text",
-      "width": 260,
-      "x": 2960,
-      "y": 440
-    },
-    {
-      "height": 60,
-      "id": "c5c90f62ef886865",
-      "styleAttributes": {
-      },
-      "text": "UserService.java",
-      "type": "text",
-      "width": 260,
-      "x": 2960,
-      "y": 760
-    },
-    {
       "height": 60,
       "id": "bdeb6c4e0d63d33a",
       "styleAttributes": {
@@ -665,6 +643,39 @@
       "width": 260,
       "x": 2440,
       "y": 560
+    },
+    {
+      "height": 60,
+      "id": "efa4d693df214c58",
+      "styleAttributes": {
+      },
+      "text": "impl",
+      "type": "text",
+      "width": 260,
+      "x": 3180,
+      "y": 440
+    },
+    {
+      "height": 180,
+      "id": "c5c90f62ef886865",
+      "styleAttributes": {
+      },
+      "text": "UserService.java\n\n~~~java\npublic interface UserService{\n\tpubic User 方法1(传参类型 参数名) ;\n}\n\n~~~",
+      "type": "text",
+      "width": 400,
+      "x": 3180,
+      "y": 760
+    },
+    {
+      "height": 340,
+      "id": "742ae0fb138460b5",
+      "styleAttributes": {
+      },
+      "text": "UserServiceImpl.java\n\n~~~java\n\n@Service\npublic class UserServiceImpl implements User Service{\n\t@Autowired  \n\tprivate UserMapper userMapper;\n\t@Override\n\tpublic User 方法1(传参类型 参数名) {//与UserService.java一致\n\t\t//调用上面的mapper完成数据库的查询\n\t\treturn userMapper.方法(传参);\n\t}\n}\n~~~",
+      "type": "text",
+      "width": 600,
+      "x": 3580,
+      "y": 300
     }
   ]
 }
