@@ -217,24 +217,6 @@
       "toSide": "left"
     },
     {
-      "fromNode": "92269e22623bece3",
-      "fromSide": "right",
-      "id": "446ea897d5ccce1f",
-      "styleAttributes": {
-      },
-      "toNode": "1bf950865ae9ac5a",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "92269e22623bece3",
-      "fromSide": "right",
-      "id": "c2fd39d37c52bcd2",
-      "styleAttributes": {
-      },
-      "toNode": "41a4a5c5ca0013dc",
-      "toSide": "left"
-    },
-    {
       "fromNode": "44164c4d8740f380",
       "fromSide": "right",
       "id": "715b712676c11c1e",
@@ -260,6 +242,17 @@
       },
       "toNode": "742ae0fb138460b5",
       "toSide": "left"
+    },
+    {
+      "fromNode": "742ae0fb138460b5",
+      "fromSide": "top",
+      "id": "399ebc1c0f660fd7",
+      "label": "重写这个里面的方法@Override",
+      "styleAttributes": {
+        "path": "dotted"
+      },
+      "toNode": "576d8f3e4346761e",
+      "toSide": "right"
     }
   ],
   "nodes": [
@@ -603,37 +596,15 @@
       "y": 1100
     },
     {
-      "height": 60,
+      "height": 180,
       "id": "92269e22623bece3",
       "styleAttributes": {
       },
-      "text": "User.java",
+      "text": "User.java\n~~~java\nprivate\nget\nset\n~~~",
       "type": "text",
       "width": 260,
       "x": 2960,
       "y": 100
-    },
-    {
-      "height": 60,
-      "id": "1bf950865ae9ac5a",
-      "styleAttributes": {
-      },
-      "text": "private",
-      "type": "text",
-      "width": 260,
-      "x": 3360,
-      "y": 70
-    },
-    {
-      "height": 60,
-      "id": "41a4a5c5ca0013dc",
-      "styleAttributes": {
-      },
-      "text": "get set",
-      "type": "text",
-      "width": 260,
-      "x": 3360,
-      "y": 150
     },
     {
       "height": 60,
@@ -657,17 +628,17 @@
       "type": "text",
       "width": 260,
       "x": 2960,
-      "y": 280
+      "y": 330
     },
     {
-      "height": 60,
+      "height": 380,
       "id": "742ae0fb138460b5",
       "styleAttributes": {
       },
-      "text": "UserSer",
+      "text": "UserServiceImpl.java\n\n~~~java\n\n@Service\npublic class UserServiceImpl implements User Service{\n\t@Autowired  \n\tprivate UserMapper UserMapper;\n\t@Override\n\tpublic ....{\n\t\t//调用上面的mapper完成数据库的查询\n\t}\n}\n~~~",
       "type": "text",
-      "width": 260,
-      "x": 3460,
+      "width": 560,
+      "x": 3360,
       "y": 280
     }
   ]
