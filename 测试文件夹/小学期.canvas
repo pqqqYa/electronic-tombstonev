@@ -471,13 +471,22 @@
       "toSide": "left"
     },
     {
-      "fromNode": "46ba26bc1bddb363",
+      "fromNode": "03623c832c18f59d",
       "fromSide": "right",
-      "id": "b6e3c14a0f6573e0",
+      "id": "941ea73de78ac352",
       "styleAttributes": {
       },
-      "toNode": "53b8cc2d3e96168e",
+      "toNode": "3e29fb2501af385f",
       "toSide": "left"
+    },
+    {
+      "fromNode": "20d965f3147c49fd",
+      "fromSide": "bottom",
+      "id": "92c084927701182f",
+      "styleAttributes": {
+      },
+      "toNode": "57a741d442131c2b",
+      "toSide": "top"
     }
   ],
   "nodes": [
@@ -485,6 +494,8 @@
       "height": 3680,
       "id": "9aa2afa99d69260e",
       "label": "开发",
+      "styleAttributes": {
+      },
       "type": "group",
       "width": 3240,
       "x": 1360,
@@ -493,7 +504,7 @@
     {
       "height": 3340,
       "id": "9c53e105ac62c025",
-      "label": "后端",
+      "label": "后端RESTful风格",
       "styleAttributes": {
       },
       "type": "group",
@@ -502,18 +513,11 @@
       "y": -80
     },
     {
-      "height": 1600,
-      "id": "1d3d2017efe50022",
-      "label": "后端流程",
-      "type": "group",
-      "width": 1780,
-      "x": 5200,
-      "y": 790
-    },
-    {
       "height": 1360,
       "id": "840108c243f8f67a",
       "label": "项目组成",
+      "styleAttributes": {
+      },
       "type": "group",
       "width": 940,
       "x": -320,
@@ -553,48 +557,15 @@
       "y": 740
     },
     {
-      "height": 60,
-      "id": "cf22adc6ea0f8217",
+      "height": 930,
+      "id": "1d3d2017efe50022",
+      "label": "后端流程",
       "styleAttributes": {
       },
-      "text": "创建项目",
-      "type": "text",
-      "width": 260,
-      "x": 1400,
-      "y": 760
-    },
-    {
-      "height": 60,
-      "id": "e84e89e849cf1182",
-      "styleAttributes": {
-      },
-      "text": "启动依赖",
-      "type": "text",
-      "width": 260,
-      "x": 1400,
-      "y": 940
-    },
-    {
-      "height": 60,
-      "id": "53ccc0cefb29111a",
-      "styleAttributes": {
-      },
-      "text": "SpringWeb",
-      "type": "text",
-      "width": 260,
-      "x": 1800,
-      "y": 820
-    },
-    {
-      "height": 60,
-      "id": "46ba26bc1bddb363",
-      "styleAttributes": {
-      },
-      "text": "文件创建",
-      "type": "text",
-      "width": 260,
-      "x": 1400,
-      "y": 1980
+      "type": "group",
+      "width": 1780,
+      "x": 4880,
+      "y": 1125
     },
     {
       "height": 60,
@@ -674,50 +645,6 @@
       "y": 2760
     },
     {
-      "height": 60,
-      "id": "007600788e8c75a1",
-      "styleAttributes": {
-      },
-      "text": "utils",
-      "type": "text",
-      "width": 260,
-      "x": 2510,
-      "y": 430
-    },
-    {
-      "height": 60,
-      "id": "bdeb6c4e0d63d33a",
-      "styleAttributes": {
-      },
-      "text": "xxxMapper.xml",
-      "type": "text",
-      "width": 260,
-      "x": 2510,
-      "y": 1960
-    },
-    {
-      "height": 60,
-      "id": "efa4d693df214c58",
-      "styleAttributes": {
-      },
-      "text": "impl",
-      "type": "text",
-      "width": 260,
-      "x": 3250,
-      "y": 1580
-    },
-    {
-      "height": 60,
-      "id": "fe28d63aceb48250",
-      "styleAttributes": {
-      },
-      "text": "Service",
-      "type": "text",
-      "width": 260,
-      "x": 2510,
-      "y": 1700
-    },
-    {
       "height": 180,
       "id": "c5c90f62ef886865",
       "styleAttributes": {
@@ -764,6 +691,138 @@
       "y": 1100
     },
     {
+      "height": 60,
+      "id": "4b878d116502514a",
+      "styleAttributes": {
+      },
+      "text": "Md5Util.java",
+      "type": "text",
+      "width": 260,
+      "x": 3520,
+      "y": 430
+    },
+    {
+      "height": 60,
+      "id": "20d965f3147c49fd",
+      "styleAttributes": {
+      },
+      "text": "测试",
+      "type": "text",
+      "width": 240,
+      "x": 2860,
+      "y": 3560
+    },
+    {
+      "height": 60,
+      "id": "51861aab2d8d357b",
+      "styleAttributes": {
+      },
+      "text": "JwtUtil.java",
+      "type": "text",
+      "width": 260,
+      "x": 3520,
+      "y": 280
+    },
+    {
+      "height": 60,
+      "id": "57a741d442131c2b",
+      "styleAttributes": {
+      },
+      "text": "前端设计",
+      "type": "text",
+      "width": 260,
+      "x": 2850,
+      "y": 3860
+    },
+    {
+      "height": 60,
+      "id": "a950fcc82befcb66",
+      "styleAttributes": {
+      },
+      "text": "注册",
+      "type": "text",
+      "width": 260,
+      "x": 4900,
+      "y": 1145
+    },
+    {
+      "height": 60,
+      "id": "813eefb09be0fb34",
+      "styleAttributes": {
+      },
+      "text": "验证JWT，使用拦截器统一拦截",
+      "type": "text",
+      "width": 320,
+      "x": 6080,
+      "y": 1915
+    },
+    {
+      "height": 60,
+      "id": "e84e89e849cf1182",
+      "styleAttributes": {
+      },
+      "text": "启动依赖",
+      "type": "text",
+      "width": 260,
+      "x": 1400,
+      "y": 940
+    },
+    {
+      "height": 60,
+      "id": "53ccc0cefb29111a",
+      "styleAttributes": {
+      },
+      "text": "SpringWeb",
+      "type": "text",
+      "width": 260,
+      "x": 1800,
+      "y": 820
+    },
+    {
+      "height": 60,
+      "id": "46ba26bc1bddb363",
+      "styleAttributes": {
+      },
+      "text": "文件创建",
+      "type": "text",
+      "width": 260,
+      "x": 1400,
+      "y": 1980
+    },
+    {
+      "height": 60,
+      "id": "bdeb6c4e0d63d33a",
+      "styleAttributes": {
+      },
+      "text": "xxxMapper.xml",
+      "type": "text",
+      "width": 260,
+      "x": 2510,
+      "y": 1960
+    },
+    {
+      "height": 60,
+      "id": "efa4d693df214c58",
+      "styleAttributes": {
+      },
+      "text": "impl",
+      "type": "text",
+      "width": 260,
+      "x": 3250,
+      "y": 1580
+    },
+    {
+      "height": 60,
+      "id": "fe28d63aceb48250",
+      "styleAttributes": {
+      },
+      "text": "Service",
+      "type": "text",
+      "width": 260,
+      "x": 2510,
+      "y": 1700
+    },
+    {
       "height": 180,
       "id": "92269e22623bece3",
       "styleAttributes": {
@@ -787,13 +846,24 @@
     },
     {
       "height": 60,
-      "id": "4b878d116502514a",
+      "id": "cf22adc6ea0f8217",
       "styleAttributes": {
       },
-      "text": "Md5Util.java",
+      "text": "创建项目",
       "type": "text",
       "width": 260,
-      "x": 3520,
+      "x": 1400,
+      "y": 760
+    },
+    {
+      "height": 60,
+      "id": "007600788e8c75a1",
+      "styleAttributes": {
+      },
+      "text": "utils",
+      "type": "text",
+      "width": 260,
+      "x": 2510,
       "y": 430
     },
     {
@@ -808,28 +878,6 @@
       "y": 810
     },
     {
-      "height": 360,
-      "id": "67746ea3890993e7",
-      "styleAttributes": {
-      },
-      "text": "UserController.java\n~~~java\n@RestController\n@RequestMapping(\"/User\")  \n@CrossOrigin(origins = \"http://localhost:5173/\")//跨域\npublic class UserController{\n\t@Autowired  \n\tprivate UserService userService;\n\t@GetMapping(\"/list\")  \n\tpublic ResponseEntity<Object> getUserList(@RequestBody User user) {  \n\t\treturn 方法1(传参类型 参数名) ;\n\t}\n}\n~~~",
-      "type": "text",
-      "width": 820,
-      "x": 2970,
-      "y": 660
-    },
-    {
-      "height": 60,
-      "id": "20d965f3147c49fd",
-      "styleAttributes": {
-      },
-      "text": "测试",
-      "type": "text",
-      "width": 240,
-      "x": 2860,
-      "y": 3560
-    },
-    {
       "file": "测试文件夹/application.yml.md",
       "height": 480,
       "id": "58f1756e1c86c2cf",
@@ -842,14 +890,47 @@
     },
     {
       "height": 60,
-      "id": "8921f95137444cce",
+      "id": "f1584064f44d1e49",
       "styleAttributes": {
       },
-      "text": "准备数据库",
+      "text": "Spring Security",
       "type": "text",
-      "width": 300,
-      "x": 2800,
-      "y": -280
+      "width": 260,
+      "x": 280,
+      "y": 1400
+    },
+    {
+      "height": 60,
+      "id": "1383ca46c8f8a617",
+      "styleAttributes": {
+      },
+      "text": "JWT",
+      "type": "text",
+      "width": 260,
+      "x": 280,
+      "y": 1500
+    },
+    {
+      "height": 60,
+      "id": "82723f453364cce6",
+      "styleAttributes": {
+      },
+      "text": "Pina",
+      "type": "text",
+      "width": 260,
+      "x": 300,
+      "y": 760
+    },
+    {
+      "height": 60,
+      "id": "3e29fb2501af385f",
+      "styleAttributes": {
+      },
+      "text": "inyterceptors",
+      "type": "text",
+      "width": 260,
+      "x": 2520,
+      "y": 1840
     },
     {
       "file": "测试文件夹/接口文档.md",
@@ -858,9 +939,9 @@
       "styleAttributes": {
       },
       "type": "file",
-      "width": 1500,
+      "width": 1520,
       "x": 2220,
-      "y": -1700
+      "y": -1500
     },
     {
       "height": 60,
@@ -870,19 +951,8 @@
       "text": "明确需求",
       "type": "text",
       "width": 260,
-      "x": 2840,
-      "y": -2120
-    },
-    {
-      "height": 60,
-      "id": "93f710b499664fca",
-      "styleAttributes": {
-      },
-      "text": "TypeScript",
-      "type": "text",
-      "width": 260,
-      "x": -60,
-      "y": 1140
+      "x": 2850,
+      "y": -1900
     },
     {
       "height": 60,
@@ -930,50 +1000,6 @@
     },
     {
       "height": 60,
-      "id": "f1584064f44d1e49",
-      "styleAttributes": {
-      },
-      "text": "Spring Security",
-      "type": "text",
-      "width": 260,
-      "x": 280,
-      "y": 1400
-    },
-    {
-      "height": 60,
-      "id": "1383ca46c8f8a617",
-      "styleAttributes": {
-      },
-      "text": "JWT",
-      "type": "text",
-      "width": 260,
-      "x": 280,
-      "y": 1500
-    },
-    {
-      "height": 60,
-      "id": "82723f453364cce6",
-      "styleAttributes": {
-      },
-      "text": "Pina",
-      "type": "text",
-      "width": 260,
-      "x": 300,
-      "y": 760
-    },
-    {
-      "height": 60,
-      "id": "754d0640bd1460f1",
-      "styleAttributes": {
-      },
-      "text": "Vue\n",
-      "type": "text",
-      "width": 260,
-      "x": -60,
-      "y": 860
-    },
-    {
-      "height": 60,
       "id": "e2829e3f9f8cdf68",
       "styleAttributes": {
       },
@@ -995,15 +1021,70 @@
       "y": 980
     },
     {
-      "height": 60,
-      "id": "a950fcc82befcb66",
+      "height": 360,
+      "id": "67746ea3890993e7",
       "styleAttributes": {
       },
-      "text": "注册",
+      "text": "UserController.java\n~~~java\n@RestController\n@RequestMapping(\"/User\")  \n@CrossOrigin(origins = \"http://localhost:5173/\")//跨域\npublic class UserController{\n\t@Autowired  \n\tprivate UserService userService;\n\t@GetMapping(\"/list\")  \n\tpublic ResponseEntity<Object> getUserList(@RequestBody User user) {  \n\t\treturn 方法1(传参类型 参数名) ;\n\t}\n}\n~~~",
+      "type": "text",
+      "width": 820,
+      "x": 2970,
+      "y": 660
+    },
+    {
+      "height": 60,
+      "id": "8921f95137444cce",
+      "styleAttributes": {
+      },
+      "text": "准备数据库",
+      "type": "text",
+      "width": 300,
+      "x": 2800,
+      "y": -280
+    },
+    {
+      "height": 60,
+      "id": "93f710b499664fca",
+      "styleAttributes": {
+      },
+      "text": "TypeScript",
       "type": "text",
       "width": 260,
-      "x": 5220,
-      "y": 810
+      "x": -60,
+      "y": 1140
+    },
+    {
+      "height": 60,
+      "id": "754d0640bd1460f1",
+      "styleAttributes": {
+      },
+      "text": "Vue\n",
+      "type": "text",
+      "width": 260,
+      "x": -60,
+      "y": 860
+    },
+    {
+      "height": 60,
+      "id": "d902680bb3bda33b",
+      "styleAttributes": {
+      },
+      "text": "登录",
+      "type": "text",
+      "width": 260,
+      "x": 4900,
+      "y": 1285
+    },
+    {
+      "height": 60,
+      "id": "0ebd74f8b6e76684",
+      "styleAttributes": {
+      },
+      "text": "返回令牌",
+      "type": "text",
+      "width": 260,
+      "x": 4900,
+      "y": 1425
     },
     {
       "height": 435,
@@ -1014,30 +1095,8 @@
       "text": "令牌JWT\n\nHeader：\n\n- \"alg\":\"HS256\"\n- \"type\":\"JWT\"\n\nPayload：\n\n- JSONdata\n\nSignature\n\n- header.pauload,secret\n\nbase64不安全，不要添加私密信息\n解密数字签名得到头部和载荷\n",
       "type": "text",
       "width": 480,
-      "x": 5660,
-      "y": 903
-    },
-    {
-      "height": 60,
-      "id": "d902680bb3bda33b",
-      "styleAttributes": {
-      },
-      "text": "登录",
-      "type": "text",
-      "width": 260,
-      "x": 5220,
-      "y": 950
-    },
-    {
-      "height": 60,
-      "id": "0ebd74f8b6e76684",
-      "styleAttributes": {
-      },
-      "text": "返回令牌",
-      "type": "text",
-      "width": 260,
-      "x": 5220,
-      "y": 1090
+      "x": 5340,
+      "y": 1238
     },
     {
       "height": 218,
@@ -1047,8 +1106,8 @@
       "text": "修改pom.xml\n~~~xml\n<dependency>\n\t<groupId>com.auth0</groupId>\n\t<artifactId>java-jwt</artifactId>\n\t<version>4.4.0</version>\n</dependency>\n~~~",
       "type": "text",
       "width": 520,
-      "x": 6300,
-      "y": 903
+      "x": 5980,
+      "y": 1238
     },
     {
       "height": 200,
@@ -1058,8 +1117,8 @@
       "text": "书写JWT\n~~~java\n\n载荷\n过期时间\n加密算法1HMAC256\n密钥：202231772224\n~~~",
       "type": "text",
       "width": 600,
-      "x": 6260,
-      "y": 1238
+      "x": 5940,
+      "y": 1573
     },
     {
       "height": 60,
@@ -1069,41 +1128,8 @@
       "text": "携带令牌去响应所有的服务",
       "type": "text",
       "width": 260,
-      "x": 5220,
-      "y": 1250
-    },
-    {
-      "height": 60,
-      "id": "51861aab2d8d357b",
-      "styleAttributes": {
-      },
-      "text": "JwtUtil.java",
-      "type": "text",
-      "width": 260,
-      "x": 3520,
-      "y": 280
-    },
-    {
-      "height": 60,
-      "id": "813eefb09be0fb34",
-      "styleAttributes": {
-      },
-      "text": "验证JWT，使用拦截器统一拦截",
-      "type": "text",
-      "width": 320,
-      "x": 6400,
-      "y": 1580
-    },
-    {
-      "height": 60,
-      "id": "53b8cc2d3e96168e",
-      "styleAttributes": {
-      },
-      "text": "src/main/java/com/jiesenhe/springbootmybatis",
-      "type": "text",
-      "width": 410,
-      "x": 1940,
-      "y": 1640
+      "x": 4900,
+      "y": 1585
     }
   ]
 }
