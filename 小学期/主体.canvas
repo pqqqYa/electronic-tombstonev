@@ -1,0 +1,17 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "height": 360,
+      "id": "c8c07b5764302c22",
+      "styleAttributes": {
+      },
+      "text": "# 问题\n\n| id  | title | detail | creater |\n| --- | ----- | ------ | ------- |\n|     |       |        |         |\n",
+      "type": "text",
+      "width": 420,
+      "x": -60,
+      "y": -180
+    }
+  ]
+}
