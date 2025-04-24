@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "后端/项目运行逻辑.canvas",
-                "viewState": {
-                  "x": -90,
-                  "y": -90,
-                  "zoom": 0
-                }
+                "file": "前端/Vue/配置插件.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "项目运行逻辑"
+              "icon": "lucide-file",
+              "title": "配置插件"
             }
           }
         ]
@@ -56,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "默克尔",
+                "query": "vue",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,10 +179,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7a3dee57a4518add",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "小学期.zip",
+    "前端/Vue/Vue3.md",
+    "小学期/小学期.canvas",
     "README.md",
+    "后端/项目运行逻辑.canvas",
+    "小学期.zip",
     "小学期/jwt.md",
     "小学期/接口文档.md",
     "小学期/接口文档模板.md",
@@ -209,7 +209,6 @@
     "区块链/Transaction交易.md",
     "区块链/SmartContract智能合约.md",
     "区块链/Nodes-clients结点与计算机.md",
-    "后端/项目运行逻辑.canvas",
     "后端",
     "大挑/大挑校级答辩提问-黄.md",
     "大挑/会问的问题.md",
@@ -221,7 +220,6 @@
     "大创/App 1-C.emmx.VnOzqM",
     "大创/App 1-C.emmx",
     "大创/App 1.emmx.vHpPfS",
-    "大创/App 1.emmx.nuNPCh",
     "大创/App 1.png",
     "attachment/Pasted image 20250405214640.png",
     "大创/logo.png",
