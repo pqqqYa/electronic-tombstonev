@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/Vue/配置插件.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "配置插件"
+              "title": "README"
             }
           }
         ]
@@ -181,6 +181,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "前端/Vue/配置插件.md",
     "前端/Vue/Vue3.md",
     "小学期/小学期.canvas",
     "README.md",
@@ -214,7 +215,6 @@
     "大挑/会问的问题.md",
     "大挑/prominse.md",
     "大挑/答辩文稿2.md",
-    "大挑/答辩文稿.md",
     "大挑",
     "大创/App 1-C.emmx.ixikkd",
     "大创/App 1-C.emmx.VnOzqM",
