@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "小学期/拍摄脚本.md",
-                "mode": "source",
-                "source": false
+                "file": "操作系统SWPU/题目.canvas",
+                "viewState": {
+                  "x": 300.3133659586535,
+                  "y": 931.9369128936479,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "拍摄脚本"
+              "icon": "lucide-layout-dashboard",
+              "title": "题目"
             }
           }
         ]
@@ -93,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625
+    "width": 227.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -181,10 +185,18 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "小学期/小学期.canvas",
+    "操作系统SWPU/attachment/第三章习题.png",
+    "操作系统SWPU/题目.canvas",
+    "操作系统SWPU/attachment/第二章习题.png",
+    "操作系统SWPU/attachment/第一章习题.png",
+    "操作系统SWPU/attachment",
     "README.md",
-    "小学期/转换文本.md",
+    "操作系统SWPU/未命名.md",
+    "操作系统SWPU/题目.md",
+    "操作系统课程",
     "小学期/拍摄脚本.md",
+    "小学期/小学期.canvas",
+    "小学期/转换文本.md",
     "小学期/拍摄脚本v2.md",
     "前端/Vue/配置插件.md",
     "前端/Vue/Vue3.md",
@@ -211,14 +223,10 @@
     "区块链/Account账户.md",
     "区块链/区块链知识点.md",
     "区块链/Transaction交易.md",
-    "区块链/SmartContract智能合约.md",
-    "区块链/Nodes-clients结点与计算机.md",
     "后端",
     "大挑",
     "大创/App 1-C.emmx.ixikkd",
     "大创/App 1-C.emmx.VnOzqM",
-    "大创/App 1-C.emmx",
-    "大创/App 1.emmx.vHpPfS",
     "大创/App 1.png",
     "attachment/Pasted image 20250405214640.png",
     "大创/logo.png",
@@ -226,9 +234,6 @@
     "计算机网络/attachment/累计确认.png",
     "计算机网络/attachment/确认号与接收窗口.png",
     "计算机网络/attachment/TCP报文段.png",
-    "计算机网络/attachment/TCP首部.png",
-    "计算机网络/attachment/OSPF区域.png",
-    "计算机网络/attachment/循环冗余编码 (CRC)计算过程.png",
     "高等数学/高等数学.canvas",
     "未命名.canvas",
     "论文/文章思路.canvas",
