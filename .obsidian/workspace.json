@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "小学期/拍摄脚本v2.md",
+                "file": "小学期/拍摄脚本.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "拍摄脚本v2 的大纲"
+              "title": "拍摄脚本 的大纲"
             }
           },
           {
@@ -200,10 +200,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c93c56a1120a35e9",
   "lastOpenFiles": [
-    "小学期/拍摄脚本.md",
     "小学期/拍摄脚本v2.md",
+    "小学期/拍摄脚本.md",
     "README.md",
     "前端/Vue/配置插件.md",
     "前端/Vue/Vue3.md",
