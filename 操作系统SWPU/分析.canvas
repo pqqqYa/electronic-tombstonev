@@ -25,17 +25,6 @@
       "y": 900
     },
     {
-      "file": "操作系统SWPU/attachment/第五章习题.png",
-      "height": 237,
-      "id": "f3f62fd1590e2d26",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 440,
-      "y": 560
-    },
-    {
       "file": "操作系统SWPU/attachment/第六章习题.png",
       "height": 235,
       "id": "b990646b32a5da72",
@@ -91,6 +80,17 @@
       "y": 1204
     },
     {
+      "file": "操作系统SWPU/attachment/第五章习题.png",
+      "height": 237,
+      "id": "f3f62fd1590e2d26",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1720,
+      "y": 565
+    },
+    {
       "file": "操作系统SWPU/attachment/第九章.png",
       "height": 223,
       "id": "6333b8b1a96594ef",
@@ -98,8 +98,8 @@
       },
       "type": "file",
       "width": 400,
-      "x": -1,
-      "y": 1500
+      "x": 1720,
+      "y": 912
     }
   ]
 }
