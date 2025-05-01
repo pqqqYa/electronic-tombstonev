@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "小学期/拍摄脚本v2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "拍摄脚本v2"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ea7ab5659744570d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c93c56a1120a35e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "小学期/拍摄脚本.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "拍摄脚本"
             }
           }
         ]
@@ -93,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625
+    "width": 227.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -119,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "小学期/拍摄脚本v2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "拍摄脚本v2 的大纲"
             }
           },
           {
@@ -166,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 206.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,6 +203,7 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "小学期/拍摄脚本.md",
+    "小学期/拍摄脚本v2.md",
     "README.md",
     "前端/Vue/配置插件.md",
     "前端/Vue/Vue3.md",
@@ -213,7 +236,6 @@
     "后端",
     "大挑/大挑校级答辩提问-黄.md",
     "大挑/会问的问题.md",
-    "大挑/prominse.md",
     "大挑",
     "大创/App 1-C.emmx.ixikkd",
     "大创/App 1-C.emmx.VnOzqM",
