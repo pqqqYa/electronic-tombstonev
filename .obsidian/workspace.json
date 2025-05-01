@@ -15,9 +15,9 @@
               "state": {
                 "file": "操作系统SWPU/题目.canvas",
                 "viewState": {
-                  "x": 300.3133659586535,
-                  "y": 931.9369128936479,
-                  "zoom": 0
+                  "x": 763.8649211168423,
+                  "y": 872.3892745350295,
+                  "zoom": -1.2171611932480597
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -185,6 +185,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "操作系统SWPU/attachment/第九章.png",
+    "操作系统SWPU/attachment/第八章.png",
+    "操作系统SWPU/attachment/第七章习题.png",
+    "操作系统SWPU/attachment/第六章习题.png",
+    "操作系统SWPU/attachment/第五章习题.png",
+    "操作系统SWPU/attachment/第四章习题.png",
     "操作系统SWPU/attachment/第三章习题.png",
     "操作系统SWPU/题目.canvas",
     "操作系统SWPU/attachment/第二章习题.png",
@@ -229,11 +235,6 @@
     "大创/App 1-C.emmx.VnOzqM",
     "大创/App 1.png",
     "attachment/Pasted image 20250405214640.png",
-    "大创/logo.png",
-    "计算机网络/attachment/捎带确认.png",
-    "计算机网络/attachment/累计确认.png",
-    "计算机网络/attachment/确认号与接收窗口.png",
-    "计算机网络/attachment/TCP报文段.png",
     "高等数学/高等数学.canvas",
     "未命名.canvas",
     "论文/文章思路.canvas",

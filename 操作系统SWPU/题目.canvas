@@ -3,28 +3,6 @@
   ],
   "nodes": [
     {
-      "file": "操作系统SWPU/attachment/第一章习题.png",
-      "height": 240,
-      "id": "9e3f91f5f9445610",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "file": "操作系统SWPU/attachment/第二章习题.png",
-      "height": 212,
-      "id": "9d4249f01ed469d2",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 0,
-      "y": 300
-    },
-    {
       "file": "操作系统SWPU/attachment/第三章习题.png",
       "height": 242,
       "id": "98b64fd065aed271",
@@ -34,6 +12,94 @@
       "width": 399,
       "x": 0,
       "y": 560
+    },
+    {
+      "file": "操作系统SWPU/attachment/第四章习题.png",
+      "height": 230,
+      "id": "262e7e6e6b73cc2b",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 0,
+      "y": 900
+    },
+    {
+      "file": "操作系统SWPU/attachment/第五章习题.png",
+      "height": 237,
+      "id": "f3f62fd1590e2d26",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 440,
+      "y": 560
+    },
+    {
+      "file": "操作系统SWPU/attachment/第六章习题.png",
+      "height": 235,
+      "id": "b990646b32a5da72",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 440,
+      "y": 900
+    },
+    {
+      "file": "操作系统SWPU/attachment/第二章习题.png",
+      "height": 240,
+      "id": "9d4249f01ed469d2",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 453,
+      "x": 440,
+      "y": 272
+    },
+    {
+      "file": "操作系统SWPU/attachment/第一章习题.png",
+      "height": 240,
+      "id": "9e3f91f5f9445610",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 0,
+      "y": 272
+    },
+    {
+      "file": "操作系统SWPU/attachment/第七章习题.png",
+      "height": 233,
+      "id": "b2a2f673ff5125ec",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 0,
+      "y": 1200
+    },
+    {
+      "file": "操作系统SWPU/attachment/第八章.png",
+      "height": 229,
+      "id": "cc0709314c256e7a",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 440,
+      "y": 1204
+    },
+    {
+      "file": "操作系统SWPU/attachment/第九章.png",
+      "height": 223,
+      "id": "6333b8b1a96594ef",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -1,
+      "y": 1500
     }
   ]
 }
