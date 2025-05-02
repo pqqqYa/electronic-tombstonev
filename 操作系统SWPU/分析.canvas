@@ -1,69 +1,6 @@
 {
   "edges": [
     {
-      "fromNode": "7fd2180cafa51ffc",
-      "fromSide": "right",
-      "id": "46caf03d997ab239",
-      "styleAttributes": {
-      },
-      "toNode": "22be6f5f6c9d765b",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "687546950c671414",
-      "fromSide": "right",
-      "id": "e9d24db004180201",
-      "styleAttributes": {
-      },
-      "toNode": "7fd2180cafa51ffc",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "687546950c671414",
-      "fromSide": "right",
-      "id": "9f5254df94aad001",
-      "styleAttributes": {
-      },
-      "toNode": "dfb7ca4feda29bef",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "dfb7ca4feda29bef",
-      "fromSide": "right",
-      "id": "d8056dcb631f70b2",
-      "styleAttributes": {
-      },
-      "toNode": "9395a7ca92507d86",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "687546950c671414",
-      "fromSide": "right",
-      "id": "646bfb8f90e5a221",
-      "styleAttributes": {
-      },
-      "toNode": "8d6bca5b2dd3e189",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "8d6bca5b2dd3e189",
-      "fromSide": "right",
-      "id": "2645671ae882bdb0",
-      "styleAttributes": {
-      },
-      "toNode": "30cc21df9444119e",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "8d6bca5b2dd3e189",
-      "fromSide": "right",
-      "id": "1fa3f7e2aca5be60",
-      "styleAttributes": {
-      },
-      "toNode": "d7f570b32a558010",
-      "toSide": "left"
-    },
-    {
       "fromNode": "e0865a4a1bf588b0",
       "fromSide": "right",
       "id": "4d3a99007f772ada",
@@ -134,196 +71,74 @@
       },
       "toNode": "879f83fd8b791043",
       "toSide": "left"
+    },
+    {
+      "fromEnd": "arrow",
+      "fromNode": "879f83fd8b791043",
+      "fromSide": "right",
+      "id": "87a5ce38d13ec114",
+      "styleAttributes": {
+        "path": "long-dashed"
+      },
+      "toNode": "1d1da7b457acc7a8",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e0865a4a1bf588b0",
+      "fromSide": "right",
+      "id": "3cab34c9906347a6",
+      "styleAttributes": {
+      },
+      "toNode": "c5987742d8d6fa0d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c5987742d8d6fa0d",
+      "fromSide": "right",
+      "id": "fbb5a7925a0812ac",
+      "styleAttributes": {
+      },
+      "toNode": "646bbab61ef253a0",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c5987742d8d6fa0d",
+      "fromSide": "right",
+      "id": "36b55ab967481c9d",
+      "styleAttributes": {
+      },
+      "toNode": "4738b851df478bce",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c5987742d8d6fa0d",
+      "fromSide": "right",
+      "id": "c10ee66acfdb40e4",
+      "styleAttributes": {
+      },
+      "toNode": "4efbd4839926a6e8",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c5987742d8d6fa0d",
+      "fromSide": "right",
+      "id": "5fd5d3a276a904b5",
+      "styleAttributes": {
+      },
+      "toNode": "c6dded12d5c5e6a3",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4efbd4839926a6e8",
+      "fromSide": "right",
+      "id": "a337b311a2e05722",
+      "styleAttributes": {
+      },
+      "toNode": "4d733917a0c388da",
+      "toSide": "left"
     }
   ],
   "nodes": [
-    {
-      "file": "操作系统SWPU/attachment/第一章习题.png",
-      "height": 240,
-      "id": "9e3f91f5f9445610",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 0,
-      "y": 272
-    },
-    {
-      "file": "操作系统SWPU/attachment/第二章习题.png",
-      "height": 240,
-      "id": "9d4249f01ed469d2",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 453,
-      "x": 0,
-      "y": 560
-    },
-    {
-      "file": "操作系统SWPU/attachment/第三章习题.png",
-      "height": 242,
-      "id": "98b64fd065aed271",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 399,
-      "x": 0,
-      "y": 847
-    },
-    {
-      "file": "操作系统SWPU/attachment/第四章习题.png",
-      "height": 230,
-      "id": "262e7e6e6b73cc2b",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 0,
-      "y": 1145
-    },
-    {
-      "file": "操作系统SWPU/attachment/第五章习题.png",
-      "height": 237,
-      "id": "f3f62fd1590e2d26",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -1,
-      "y": 1455
-    },
-    {
-      "file": "操作系统SWPU/attachment/第六章习题.png",
-      "height": 235,
-      "id": "b990646b32a5da72",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -1,
-      "y": 1760
-    },
-    {
-      "file": "操作系统SWPU/attachment/第七章习题.png",
-      "height": 233,
-      "id": "b2a2f673ff5125ec",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -1,
-      "y": 2040
-    },
-    {
-      "file": "操作系统SWPU/attachment/第八章.png",
-      "height": 229,
-      "id": "cc0709314c256e7a",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -1,
-      "y": 2320
-    },
-    {
-      "file": "操作系统SWPU/attachment/第九章.png",
-      "height": 223,
-      "id": "6333b8b1a96594ef",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 0,
-      "y": 2640
-    },
-    {
-      "height": 60,
-      "id": "7fd2180cafa51ffc",
-      "styleAttributes": {
-      },
-      "text": "目的（作用）",
-      "type": "text",
-      "width": 260,
-      "x": 840,
-      "y": 400
-    },
-    {
-      "height": 160,
-      "id": "22be6f5f6c9d765b",
-      "styleAttributes": {
-      },
-      "text": "1. 负责管理协调硬件、软件等计算机资源的工作\n2. 为上层用户、应用程序提供简单易用的服务\n3. 是一种系统软件，对硬件的扩充",
-      "type": "text",
-      "width": 360,
-      "x": 1240,
-      "y": 350
-    },
-    {
-      "height": 60,
-      "id": "687546950c671414",
-      "styleAttributes": {
-      },
-      "text": "操作系统",
-      "type": "text",
-      "width": 160,
-      "x": 500,
-      "y": 520
-    },
-    {
-      "height": 60,
-      "id": "dfb7ca4feda29bef",
-      "styleAttributes": {
-      },
-      "text": "明OS与硬件、其他系统软件以及用户之间的关系",
-      "type": "text",
-      "width": 260,
-      "x": 860,
-      "y": 680
-    },
-    {
-      "file": "操作系统SWPU/attachment/层次结构.png",
-      "height": 260,
-      "id": "9395a7ca92507d86",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 1240,
-      "y": 580
-    },
-    {
-      "height": 60,
-      "id": "8d6bca5b2dd3e189",
-      "styleAttributes": {
-      },
-      "text": "发展",
-      "type": "text",
-      "width": 260,
-      "x": 880,
-      "y": 920
-    },
-    {
-      "height": 60,
-      "id": "30cc21df9444119e",
-      "styleAttributes": {
-      },
-      "text": "阶段",
-      "type": "text",
-      "width": 260,
-      "x": 1380,
-      "y": 920
-    },
-    {
-      "height": 280,
-      "id": "d7f570b32a558010",
-      "styleAttributes": {
-      },
-      "text": "动力\n\n1. 计算机系统资源的利用率不断提高\n2. 方便用户\n3. 器件不断更新换代\n4. 计算机体系结构不断发展\n5. 新的应用需求不断被提出。",
-      "type": "text",
-      "width": 260,
-      "x": 1380,
-      "y": 1100
-    },
     {
       "height": 60,
       "id": "49f2cdaad70ef9f2",
@@ -356,17 +171,6 @@
       "width": 260,
       "x": 900,
       "y": 2140
-    },
-    {
-      "height": 60,
-      "id": "e0865a4a1bf588b0",
-      "styleAttributes": {
-      },
-      "text": "概述",
-      "type": "text",
-      "width": 160,
-      "x": 580,
-      "y": 2000
     },
     {
       "height": 60,
@@ -417,11 +221,198 @@
       "id": "879f83fd8b791043",
       "styleAttributes": {
       },
-      "text": "脱机技术",
+      "text": "脱机输入/输出技术",
       "type": "text",
       "width": 260,
       "x": 2180,
       "y": 2220
+    },
+    {
+      "height": 60,
+      "id": "1d1da7b457acc7a8",
+      "styleAttributes": {
+      },
+      "text": "联机输入/输出技术",
+      "type": "text",
+      "width": 260,
+      "x": 2660,
+      "y": 2220
+    },
+    {
+      "height": 60,
+      "id": "e0865a4a1bf588b0",
+      "styleAttributes": {
+      },
+      "text": "概述",
+      "type": "text",
+      "width": 160,
+      "x": 560,
+      "y": 2220
+    },
+    {
+      "file": "操作系统SWPU/attachment/第四章习题.png",
+      "height": 230,
+      "id": "262e7e6e6b73cc2b",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -879,
+      "y": 1323
+    },
+    {
+      "file": "操作系统SWPU/attachment/第五章习题.png",
+      "height": 237,
+      "id": "f3f62fd1590e2d26",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -880,
+      "y": 1633
+    },
+    {
+      "file": "操作系统SWPU/attachment/第六章习题.png",
+      "height": 235,
+      "id": "b990646b32a5da72",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -880,
+      "y": 1938
+    },
+    {
+      "file": "操作系统SWPU/attachment/第七章习题.png",
+      "height": 233,
+      "id": "b2a2f673ff5125ec",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -880,
+      "y": 2218
+    },
+    {
+      "file": "操作系统SWPU/attachment/第八章.png",
+      "height": 229,
+      "id": "cc0709314c256e7a",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -880,
+      "y": 2498
+    },
+    {
+      "file": "操作系统SWPU/attachment/第九章.png",
+      "height": 223,
+      "id": "6333b8b1a96594ef",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -879,
+      "y": 2818
+    },
+    {
+      "file": "操作系统SWPU/attachment/第一章习题.png",
+      "height": 240,
+      "id": "9e3f91f5f9445610",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -879,
+      "y": 450
+    },
+    {
+      "file": "操作系统SWPU/attachment/第二章习题.png",
+      "height": 240,
+      "id": "9d4249f01ed469d2",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 453,
+      "x": -879,
+      "y": 738
+    },
+    {
+      "file": "操作系统SWPU/attachment/第三章习题.png",
+      "height": 242,
+      "id": "98b64fd065aed271",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 399,
+      "x": -879,
+      "y": 1025
+    },
+    {
+      "height": 60,
+      "id": "646bbab61ef253a0",
+      "styleAttributes": {
+      },
+      "text": "并发",
+      "type": "text",
+      "width": 260,
+      "x": 1340,
+      "y": 2580
+    },
+    {
+      "height": 60,
+      "id": "4738b851df478bce",
+      "styleAttributes": {
+      },
+      "text": "共享",
+      "type": "text",
+      "width": 260,
+      "x": 1340,
+      "y": 2700
+    },
+    {
+      "height": 60,
+      "id": "4efbd4839926a6e8",
+      "styleAttributes": {
+      },
+      "text": "异步 ",
+      "type": "text",
+      "width": 260,
+      "x": 1340,
+      "y": 2820
+    },
+    {
+      "height": 60,
+      "id": "c6dded12d5c5e6a3",
+      "styleAttributes": {
+      },
+      "text": "虚拟",
+      "type": "text",
+      "width": 260,
+      "x": 1340,
+      "y": 2940
+    },
+    {
+      "height": 60,
+      "id": "c5987742d8d6fa0d",
+      "styleAttributes": {
+      },
+      "text": "特征",
+      "type": "text",
+      "width": 260,
+      "x": 900,
+      "y": 2760
+    },
+    {
+      "height": 60,
+      "id": "4d733917a0c388da",
+      "styleAttributes": {
+      },
+      "text": "",
+      "type": "text",
+      "width": 260,
+      "x": 1700,
+      "y": 2820
     }
   ]
 }
