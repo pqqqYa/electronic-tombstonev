@@ -183,7 +183,7 @@
       "styleAttributes": {
       },
       "type": "group",
-      "width": 440,
+      "width": 980,
       "x": 2160,
       "y": 2340
     },
@@ -486,18 +486,6 @@
     },
     {
       "color": "5",
-      "height": 60,
-      "id": "3705fe90fa98fa37",
-      "styleAttributes": {
-      },
-      "text": "单道程序和多道程序",
-      "type": "text",
-      "width": 260,
-      "x": 1700,
-      "y": 2580
-    },
-    {
-      "color": "5",
       "file": "操作系统SWPU/attachment/时间关系图3.png",
       "height": 122,
       "id": "b4b33f76890cab95",
@@ -530,6 +518,30 @@
       "type": "file",
       "width": 400,
       "x": 2180,
+      "y": 2367
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "3705fe90fa98fa37",
+      "styleAttributes": {
+      },
+      "text": "单道程序和多道程序",
+      "type": "text",
+      "width": 260,
+      "x": 1720,
+      "y": 2590
+    },
+    {
+      "color": "5",
+      "height": 524,
+      "id": "07b5962a07215f75",
+      "styleAttributes": {
+      },
+      "text": "注意：\n\n1. 区分是否抢占\n2. 抢占的方式是什么\n3. 时间关系图\n\t- 横轴时间\n\t- 纵轴作业ABC",
+      "type": "text",
+      "width": 420,
+      "x": 2600,
       "y": 2367
     }
   ]
