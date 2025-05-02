@@ -1,5 +1,68 @@
 {
   "edges": [
+    {
+      "fromNode": "7fd2180cafa51ffc",
+      "fromSide": "right",
+      "id": "46caf03d997ab239",
+      "styleAttributes": {
+      },
+      "toNode": "22be6f5f6c9d765b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "687546950c671414",
+      "fromSide": "right",
+      "id": "e9d24db004180201",
+      "styleAttributes": {
+      },
+      "toNode": "7fd2180cafa51ffc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "687546950c671414",
+      "fromSide": "right",
+      "id": "9f5254df94aad001",
+      "styleAttributes": {
+      },
+      "toNode": "dfb7ca4feda29bef",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "dfb7ca4feda29bef",
+      "fromSide": "right",
+      "id": "d8056dcb631f70b2",
+      "styleAttributes": {
+      },
+      "toNode": "9395a7ca92507d86",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "687546950c671414",
+      "fromSide": "right",
+      "id": "646bfb8f90e5a221",
+      "styleAttributes": {
+      },
+      "toNode": "8d6bca5b2dd3e189",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8d6bca5b2dd3e189",
+      "fromSide": "right",
+      "id": "2645671ae882bdb0",
+      "styleAttributes": {
+      },
+      "toNode": "30cc21df9444119e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8d6bca5b2dd3e189",
+      "fromSide": "right",
+      "id": "1fa3f7e2aca5be60",
+      "styleAttributes": {
+      },
+      "toNode": "d7f570b32a558010",
+      "toSide": "left"
+    }
   ],
   "nodes": [
     {
@@ -106,22 +169,88 @@
       "id": "7fd2180cafa51ffc",
       "styleAttributes": {
       },
-      "text": "操作系统的目的（作用）",
+      "text": "目的（作用）",
       "type": "text",
       "width": 260,
       "x": 840,
       "y": 400
     },
     {
-      "height": 300,
+      "height": 160,
       "id": "22be6f5f6c9d765b",
       "styleAttributes": {
       },
-      "text": "1. 负责管理协调硬件、软件等计算机资源的工作\n2. 为上层用户、应用程序提供简单易用的服务\n3. 是一种系统软件，对硬件的扩充1. 负责管理协调硬件、软件等计算机资源的工作\n4. 为上层用户、应用程序提供简单易用的服务\n5. 是一种系统软件，对硬件的扩充",
+      "text": "1. 负责管理协调硬件、软件等计算机资源的工作\n2. 为上层用户、应用程序提供简单易用的服务\n3. 是一种系统软件，对硬件的扩充",
       "type": "text",
       "width": 360,
-      "x": 1180,
-      "y": 320
+      "x": 1240,
+      "y": 350
+    },
+    {
+      "height": 60,
+      "id": "687546950c671414",
+      "styleAttributes": {
+      },
+      "text": "操作系统",
+      "type": "text",
+      "width": 160,
+      "x": 500,
+      "y": 520
+    },
+    {
+      "height": 60,
+      "id": "dfb7ca4feda29bef",
+      "styleAttributes": {
+      },
+      "text": "明OS与硬件、其他系统软件以及用户之间的关系",
+      "type": "text",
+      "width": 260,
+      "x": 860,
+      "y": 680
+    },
+    {
+      "file": "操作系统SWPU/attachment/层次结构.png",
+      "height": 260,
+      "id": "9395a7ca92507d86",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1240,
+      "y": 580
+    },
+    {
+      "height": 60,
+      "id": "8d6bca5b2dd3e189",
+      "styleAttributes": {
+      },
+      "text": "发展",
+      "type": "text",
+      "width": 260,
+      "x": 880,
+      "y": 920
+    },
+    {
+      "height": 60,
+      "id": "30cc21df9444119e",
+      "styleAttributes": {
+      },
+      "text": "阶段",
+      "type": "text",
+      "width": 260,
+      "x": 1380,
+      "y": 920
+    },
+    {
+      "height": 280,
+      "id": "d7f570b32a558010",
+      "styleAttributes": {
+      },
+      "text": "动力\n\n1. 计算机系统资源的利用率不断提高\n2. 方便用户\n3. 器件不断更新换代\n4. 计算机体系结构不断发展\n5. 新的应用需求不断被提出。",
+      "type": "text",
+      "width": 260,
+      "x": 1380,
+      "y": 1100
     }
   ]
 }

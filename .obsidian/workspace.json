@@ -15,8 +15,8 @@
               "state": {
                 "file": "操作系统SWPU/分析.canvas",
                 "viewState": {
-                  "x": 1261.5361905865855,
-                  "y": 581.2243825889548,
+                  "x": 1346.469641523957,
+                  "y": 1204.2032254302928,
                   "zoom": -0.21716119324805971
                 }
               },
@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625
+    "width": 227.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -184,6 +185,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "操作系统SWPU/attachment/层次结构.png",
     "README.md",
     "小学期/拍摄脚本v2.md",
     "小学期/转换文本.md",
