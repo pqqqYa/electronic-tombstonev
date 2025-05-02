@@ -136,6 +136,24 @@
       },
       "toNode": "4d733917a0c388da",
       "toSide": "left"
+    },
+    {
+      "fromNode": "e0865a4a1bf588b0",
+      "fromSide": "right",
+      "id": "418ce20793f78706",
+      "styleAttributes": {
+      },
+      "toNode": "028a1f5f1cd8031a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "028a1f5f1cd8031a",
+      "fromSide": "right",
+      "id": "0d1d7166f3fd1fa8",
+      "styleAttributes": {
+      },
+      "toNode": "1ba03cbc16d343f1",
+      "toSide": "left"
     }
   ],
   "nodes": [
@@ -404,15 +422,37 @@
       "y": 2760
     },
     {
-      "height": 60,
+      "height": 120,
       "id": "4d733917a0c388da",
       "styleAttributes": {
       },
-      "text": "",
+      "text": "操作系统的异步特征源于多道程序环境下进程因资源限制以不可预知的“走走停停”方式并发执行，但通过进程控制及同步机制确保相同环境下多次运行结果一致。",
+      "type": "text",
+      "width": 360,
+      "x": 1690,
+      "y": 2790
+    },
+    {
+      "height": 60,
+      "id": "028a1f5f1cd8031a",
+      "styleAttributes": {
+      },
+      "text": "目态与管态（双机工作模式）",
+      "type": "text",
+      "width": 300,
+      "x": 940,
+      "y": 3100
+    },
+    {
+      "height": 60,
+      "id": "1ba03cbc16d343f1",
+      "styleAttributes": {
+      },
+      "text": "简述",
       "type": "text",
       "width": 260,
-      "x": 1700,
-      "y": 2820
+      "x": 1340,
+      "y": 3100
     }
   ]
 }
