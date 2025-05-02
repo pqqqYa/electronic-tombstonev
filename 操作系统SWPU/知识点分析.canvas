@@ -154,6 +154,25 @@
       },
       "toNode": "1ba03cbc16d343f1",
       "toSide": "left"
+    },
+    {
+      "fromNode": "646bbab61ef253a0",
+      "fromSide": "right",
+      "id": "9e3bb5781af50cd0",
+      "styleAttributes": {
+      },
+      "toNode": "3705fe90fa98fa37",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "3705fe90fa98fa37",
+      "fromSide": "right",
+      "id": "6e18ad18f88e3626",
+      "styleAttributes": {
+      },
+      "toNode": "84b3f76112181239",
+      "toSide": "left"
     }
   ],
   "nodes": [
@@ -254,17 +273,6 @@
       "type": "text",
       "width": 260,
       "x": 2660,
-      "y": 2220
-    },
-    {
-      "height": 60,
-      "id": "e0865a4a1bf588b0",
-      "styleAttributes": {
-      },
-      "text": "概述",
-      "type": "text",
-      "width": 160,
-      "x": 560,
       "y": 2220
     },
     {
@@ -453,6 +461,41 @@
       "width": 260,
       "x": 1340,
       "y": 3100
+    },
+    {
+      "height": 60,
+      "id": "e0865a4a1bf588b0",
+      "styleAttributes": {
+      },
+      "text": "概述",
+      "type": "text",
+      "width": 160,
+      "x": 480,
+      "y": 2520
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "3705fe90fa98fa37",
+      "styleAttributes": {
+      },
+      "text": "单道程序和多道程序",
+      "type": "text",
+      "width": 260,
+      "x": 1700,
+      "y": 2580
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "84b3f76112181239",
+      "styleAttributes": {
+      },
+      "text": "时间关系图",
+      "type": "text",
+      "width": 260,
+      "x": 2060,
+      "y": 2580
     }
   ]
 }
