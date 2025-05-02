@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "操作系统SWPU/知识点分析.canvas",
-                "viewState": {
-                  "x": 1431.0498445014307,
-                  "y": 2157.3594680569367,
-                  "zoom": -0.6085805966240299
-                }
+                "file": "小学期/拍摄脚本.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "知识点分析"
+              "icon": "lucide-file",
+              "title": "拍摄脚本"
             }
           }
         ]
@@ -96,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625,
-    "collapsed": true
+    "width": 227.50152587890625
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -185,14 +181,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "小学期/拍摄脚本v2.md",
+    "README.md",
+    "操作系统SWPU/知识点分析.canvas",
     "操作系统SWPU/attachment/时间关系图3.png",
     "操作系统SWPU/attachment/时间关系图2.png",
     "操作系统SWPU/attachment/时间关系图1.png",
-    "README.md",
     "小学期/转换文本.md",
-    "操作系统SWPU/知识点分析.canvas",
     "操作系统SWPU/attachment/层次结构.png",
-    "小学期/拍摄脚本v2.md",
     "小学期/拍摄脚本.md",
     "操作系统SWPU/题目.md",
     "操作系统SWPU/未命名",
@@ -202,7 +198,6 @@
     "操作系统SWPU/attachment/第六章习题.png",
     "操作系统SWPU/attachment/第五章习题.png",
     "操作系统SWPU/attachment/第四章习题.png",
-    "操作系统SWPU/attachment/第三章习题.png",
     "操作系统SWPU/attachment",
     "操作系统课程",
     "小学期/小学期.canvas",
