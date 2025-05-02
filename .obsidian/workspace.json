@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "小学期/拍摄脚本v2.md",
-                "mode": "source",
-                "source": false
+                "file": "操作系统SWPU/分析.canvas",
+                "viewState": {
+                  "x": 1261.5361905865855,
+                  "y": 581.2243825889548,
+                  "zoom": -0.21716119324805971
+                }
               },
-              "icon": "lucide-file",
-              "title": "拍摄脚本v2"
+              "icon": "lucide-layout-dashboard",
+              "title": "分析"
             }
           }
         ]
@@ -182,8 +185,8 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "README.md",
-    "小学期/转换文本.md",
     "小学期/拍摄脚本v2.md",
+    "小学期/转换文本.md",
     "小学期/拍摄脚本.md",
     "操作系统SWPU/题目.md",
     "操作系统SWPU/分析.canvas",
