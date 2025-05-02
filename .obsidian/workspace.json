@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "操作系统SWPU/分析.canvas",
-                "viewState": {
-                  "x": 357.90650892679787,
-                  "y": 1471.9317354744794,
-                  "zoom": -0.21716119324805971
-                }
+                "file": "小学期/转换文本.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "分析"
+              "icon": "lucide-file",
+              "title": "转换文本"
             }
           }
         ]
@@ -96,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625,
-    "collapsed": true
+    "width": 227.50152587890625
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -185,13 +181,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "操作系统SWPU/attachment/层次结构.png",
     "README.md",
+    "操作系统SWPU/分析.canvas",
+    "操作系统SWPU/attachment/层次结构.png",
     "小学期/拍摄脚本v2.md",
     "小学期/转换文本.md",
     "小学期/拍摄脚本.md",
     "操作系统SWPU/题目.md",
-    "操作系统SWPU/分析.canvas",
     "操作系统SWPU/未命名",
     "操作系统SWPU/attachment/第九章.png",
     "操作系统SWPU/attachment/第八章.png",
@@ -233,7 +229,6 @@
     "后端",
     "大挑",
     "大创/App 1-C.emmx.ixikkd",
-    "大创/App 1.png",
     "高等数学/高等数学.canvas",
     "未命名.canvas",
     "论文/文章思路.canvas",
