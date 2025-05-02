@@ -165,17 +165,28 @@
       "toSide": "left"
     },
     {
-      "color": "5",
       "fromNode": "3705fe90fa98fa37",
       "fromSide": "right",
-      "id": "6e18ad18f88e3626",
+      "id": "2700fcc17e9337a0",
       "styleAttributes": {
       },
-      "toNode": "84b3f76112181239",
+      "toNode": "81a2985048546377",
       "toSide": "left"
     }
   ],
   "nodes": [
+    {
+      "color": "5",
+      "height": 564,
+      "id": "81a2985048546377",
+      "label": "时间关系图",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 440,
+      "x": 2160,
+      "y": 2340
+    },
     {
       "height": 60,
       "id": "49f2cdaad70ef9f2",
@@ -487,15 +498,39 @@
     },
     {
       "color": "5",
-      "height": 60,
-      "id": "84b3f76112181239",
+      "file": "操作系统SWPU/attachment/时间关系图3.png",
+      "height": 122,
+      "id": "b4b33f76890cab95",
       "styleAttributes": {
       },
-      "text": "时间关系图",
-      "type": "text",
-      "width": 260,
-      "x": 2060,
-      "y": 2580
+      "type": "file",
+      "width": 400,
+      "x": 2180,
+      "y": 2769
+    },
+    {
+      "color": "5",
+      "file": "操作系统SWPU/attachment/时间关系图2.png",
+      "height": 120,
+      "id": "370067ece4605edb",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 2180,
+      "y": 2560
+    },
+    {
+      "color": "5",
+      "file": "操作系统SWPU/attachment/时间关系图1.png",
+      "height": 133,
+      "id": "897c8d59e24f511c",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 2180,
+      "y": 2367
     }
   ]
 }
