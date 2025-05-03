@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "操作系统SWPU/知识点分析.canvas",
-                "viewState": {
-                  "x": 1239.6186616276416,
-                  "y": 2207.4622522521936,
-                  "zoom": -0.6874762365479403
-                }
+                "file": "小学期/转换文本.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "知识点分析"
+              "icon": "lucide-file",
+              "title": "转换文本"
             }
           },
           {
@@ -198,13 +195,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "操作系统SWPU/知识点分析.canvas",
     "操作系统SWPU/MOOC.md",
     "操作系统SWPU/考试题型.md",
     "README.md",
     "小学期/拍摄脚本.md",
     "小学期/转换文本.md",
     "小学期/拍摄脚本v2.md",
-    "操作系统SWPU/知识点分析.canvas",
     "操作系统SWPU/attachment/时间关系图3.png",
     "操作系统SWPU/attachment/时间关系图2.png",
     "操作系统SWPU/attachment/时间关系图1.png",
@@ -244,7 +241,6 @@
     "区块链/Block区块.md",
     "区块链/Account账户.md",
     "区块链/区块链知识点.md",
-    "区块链/Transaction交易.md",
     "后端",
     "大挑",
     "大创/App 1-C.emmx.ixikkd",
