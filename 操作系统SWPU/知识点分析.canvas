@@ -244,6 +244,24 @@
       },
       "toNode": "8e0f4cfcddc29747",
       "toSide": "left"
+    },
+    {
+      "fromNode": "2861b97ce849557e",
+      "fromSide": "right",
+      "id": "cdc94755c8ef98f9",
+      "styleAttributes": {
+      },
+      "toNode": "fd136e9ac393c164",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "646bbab61ef253a0",
+      "fromSide": "right",
+      "id": "9a56ed94065f03c1",
+      "styleAttributes": {
+      },
+      "toNode": "beaa83592337daaa",
+      "toSide": "left"
     }
   ],
   "nodes": [
@@ -258,6 +276,15 @@
       "width": 980,
       "x": 2160,
       "y": 2340
+    },
+    {
+      "height": 280,
+      "id": "0bac9664d209dad2",
+      "label": "未命名组",
+      "type": "group",
+      "width": 720,
+      "x": 1240,
+      "y": 3080
     },
     {
       "file": "操作系统SWPU/attachment/第四章习题.png",
@@ -628,6 +655,7 @@
       "y": 1650
     },
     {
+      "color": "4",
       "height": 190,
       "id": "a28a8b1ea8aea908",
       "styleAttributes": {
@@ -639,6 +667,7 @@
       "y": 1730
     },
     {
+      "color": "4",
       "height": 60,
       "id": "d6eb03bfee55e30f",
       "styleAttributes": {
@@ -650,39 +679,7 @@
       "y": 3280
     },
     {
-      "height": 60,
-      "id": "2861b97ce849557e",
-      "styleAttributes": {
-      },
-      "text": "向上层提供方便易用的服务\n",
-      "type": "text",
-      "width": 260,
-      "x": 1260,
-      "y": 3200
-    },
-    {
-      "height": 71,
-      "id": "8e0f4cfcddc29747",
-      "styleAttributes": {
-      },
-      "text": "操作系统为应用程序调用内核功能提供的接口",
-      "type": "text",
-      "width": 280,
-      "x": 1600,
-      "y": 3195
-    },
-    {
-      "height": 60,
-      "id": "bee924a9c3aef1ce",
-      "styleAttributes": {
-      },
-      "text": "功能",
-      "type": "text",
-      "width": 260,
-      "x": 900,
-      "y": 3200
-    },
-    {
+      "color": "4",
       "height": 60,
       "id": "a36a52f1fe28901c",
       "styleAttributes": {
@@ -694,6 +691,7 @@
       "y": 3100
     },
     {
+      "color": "4",
       "height": 160,
       "id": "be14fdac86e15602",
       "styleAttributes": {
@@ -703,6 +701,65 @@
       "width": 440,
       "x": 1760,
       "y": 1960
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "2861b97ce849557e",
+      "styleAttributes": {
+      },
+      "text": "向上层提供方便易用的服务\n",
+      "type": "text",
+      "width": 260,
+      "x": 1260,
+      "y": 3185
+    },
+    {
+      "height": 60,
+      "id": "bee924a9c3aef1ce",
+      "styleAttributes": {
+      },
+      "text": "功能",
+      "type": "text",
+      "width": 260,
+      "x": 900,
+      "y": 3185
+    },
+    {
+      "color": "4",
+      "height": 71,
+      "id": "8e0f4cfcddc29747",
+      "styleAttributes": {
+      },
+      "text": "操作系统为应用程序调用内核功能提供的接口",
+      "type": "text",
+      "width": 280,
+      "x": 1660,
+      "y": 3150
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "fd136e9ac393c164",
+      "styleAttributes": {
+      },
+      "text": "用户程序的输入和输出操作实际上由os完成",
+      "type": "text",
+      "width": 260,
+      "x": 1670,
+      "y": 3245
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "beaa83592337daaa",
+      "styleAttributes": {
+      },
+      "text": "若干个事件在同一时间间隔内发生",
+      "type": "text",
+      "width": 260,
+      "x": 1720,
+      "y": 2500
     }
   ]
 }
