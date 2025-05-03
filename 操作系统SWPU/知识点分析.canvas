@@ -208,6 +208,42 @@
       },
       "toNode": "be14fdac86e15602",
       "toSide": "left"
+    },
+    {
+      "fromNode": "bee924a9c3aef1ce",
+      "fromSide": "right",
+      "id": "6a10ccabb67abbd1",
+      "styleAttributes": {
+      },
+      "toNode": "a36a52f1fe28901c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "bee924a9c3aef1ce",
+      "fromSide": "right",
+      "id": "0a790cf4f8ee64e6",
+      "styleAttributes": {
+      },
+      "toNode": "2861b97ce849557e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "bee924a9c3aef1ce",
+      "fromSide": "right",
+      "id": "dfaf553899a3fb3a",
+      "styleAttributes": {
+      },
+      "toNode": "d6eb03bfee55e30f",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "2861b97ce849557e",
+      "fromSide": "right",
+      "id": "4c5bd4a1a8e5e5e2",
+      "styleAttributes": {
+      },
+      "toNode": "8e0f4cfcddc29747",
+      "toSide": "left"
     }
   ],
   "nodes": [
@@ -354,17 +390,6 @@
       "width": 260,
       "x": 1340,
       "y": 2940
-    },
-    {
-      "height": 60,
-      "id": "bee924a9c3aef1ce",
-      "styleAttributes": {
-      },
-      "text": "5功能",
-      "type": "text",
-      "width": 260,
-      "x": 900,
-      "y": 3100
     },
     {
       "height": 60,
@@ -603,15 +628,70 @@
       "y": 1650
     },
     {
-      "height": 80,
+      "height": 190,
       "id": "a28a8b1ea8aea908",
       "styleAttributes": {
       },
-      "text": "实时操作系统：\n响应时间的重要性超过协同资源的利用率",
+      "text": "实时操作系统：\n1. 响应时间的重要性超过协同资源的利用率\n2. 规定时间内处理来自外部的事件\n3. 必须既要及时响应、快速处理，又要有高可靠性和安全性",
       "type": "text",
-      "width": 380,
+      "width": 440,
       "x": 1760,
       "y": 1730
+    },
+    {
+      "height": 60,
+      "id": "d6eb03bfee55e30f",
+      "styleAttributes": {
+      },
+      "text": "是最接近硬件的一层软件",
+      "type": "text",
+      "width": 260,
+      "x": 1260,
+      "y": 3280
+    },
+    {
+      "height": 60,
+      "id": "2861b97ce849557e",
+      "styleAttributes": {
+      },
+      "text": "向上层提供方便易用的服务\n",
+      "type": "text",
+      "width": 260,
+      "x": 1260,
+      "y": 3200
+    },
+    {
+      "height": 71,
+      "id": "8e0f4cfcddc29747",
+      "styleAttributes": {
+      },
+      "text": "操作系统为应用程序调用内核功能提供的接口",
+      "type": "text",
+      "width": 280,
+      "x": 1600,
+      "y": 3195
+    },
+    {
+      "height": 60,
+      "id": "bee924a9c3aef1ce",
+      "styleAttributes": {
+      },
+      "text": "功能",
+      "type": "text",
+      "width": 260,
+      "x": 900,
+      "y": 3200
+    },
+    {
+      "height": 60,
+      "id": "a36a52f1fe28901c",
+      "styleAttributes": {
+      },
+      "text": "操作系统是系统资源的管理者\n",
+      "type": "text",
+      "width": 300,
+      "x": 1260,
+      "y": 3100
     },
     {
       "height": 160,
@@ -622,7 +702,7 @@
       "type": "text",
       "width": 440,
       "x": 1760,
-      "y": 1830
+      "y": 1960
     }
   ]
 }
