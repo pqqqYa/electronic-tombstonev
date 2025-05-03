@@ -35,8 +35,7 @@
               "title": "考试题型"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,10 +193,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c349c26ce27deb43",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "操作系统SWPU/MOOC.md",
     "操作系统SWPU/考试题型.md",
+    "操作系统SWPU/MOOC.md",
     "README.md",
     "小学期/拍摄脚本.md",
     "小学期/转换文本.md",
