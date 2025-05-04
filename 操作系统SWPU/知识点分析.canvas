@@ -471,6 +471,69 @@
       },
       "toNode": "b3cf9c0e5fa45ce8",
       "toSide": "left"
+    },
+    {
+      "fromNode": "b3cf9c0e5fa45ce8",
+      "fromSide": "right",
+      "id": "a97702f348158e7b",
+      "styleAttributes": {
+      },
+      "toNode": "0a11715510e2ae3b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b3cf9c0e5fa45ce8",
+      "fromSide": "right",
+      "id": "e6057aa8ea7be905",
+      "styleAttributes": {
+      },
+      "toNode": "c6078688543511f7",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b3cf9c0e5fa45ce8",
+      "fromSide": "right",
+      "id": "ed8e92bb4ee7051b",
+      "styleAttributes": {
+      },
+      "toNode": "74fccecbd2937153",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "200911739d77a0dd",
+      "fromSide": "right",
+      "id": "2044ad00b854d60a",
+      "styleAttributes": {
+      },
+      "toNode": "ec73ef075f22ff15",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "fc417d0dd79353f2",
+      "fromSide": "right",
+      "id": "58562432aeefb2f0",
+      "styleAttributes": {
+      },
+      "toNode": "200911739d77a0dd",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "16bd0fe3078f6ba0",
+      "fromSide": "right",
+      "id": "37a2736017a8bd13",
+      "styleAttributes": {
+      },
+      "toNode": "9369c3999dcf8dda",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "16bd0fe3078f6ba0",
+      "fromSide": "right",
+      "id": "17eb506eeb0487c8",
+      "styleAttributes": {
+      },
+      "toNode": "a51c205f059a23a1",
+      "toSide": "left"
     }
   ],
   "nodes": [
@@ -1201,36 +1264,113 @@
     },
     {
       "height": 60,
-      "id": "fc417d0dd79353f2",
-      "styleAttributes": {
-      },
-      "text": "处理机调度与死锁",
-      "type": "text",
-      "width": 260,
-      "x": 3980,
-      "y": 2840
-    },
-    {
-      "height": 60,
       "id": "b3cf9c0e5fa45ce8",
       "styleAttributes": {
       },
       "text": "调度",
       "type": "text",
       "width": 260,
-      "x": 4360,
-      "y": 2620
+      "x": 1410,
+      "y": 160
     },
     {
       "height": 60,
       "id": "74fccecbd2937153",
       "styleAttributes": {
       },
-      "text": "",
+      "text": "高级调度",
       "type": "text",
       "width": 260,
-      "x": 4700,
-      "y": 2460
+      "x": 1830,
+      "y": 0
+    },
+    {
+      "height": 60,
+      "id": "0a11715510e2ae3b",
+      "styleAttributes": {
+      },
+      "text": "中级调度",
+      "type": "text",
+      "width": 260,
+      "x": 1830,
+      "y": 160
+    },
+    {
+      "height": 60,
+      "id": "c6078688543511f7",
+      "styleAttributes": {
+      },
+      "text": "低级调度",
+      "type": "text",
+      "width": 260,
+      "x": 1830,
+      "y": 320
+    },
+    {
+      "height": 60,
+      "id": "fc417d0dd79353f2",
+      "styleAttributes": {
+      },
+      "text": "处理机调度与死锁",
+      "type": "text",
+      "width": 260,
+      "x": 970,
+      "y": 380
+    },
+    {
+      "height": 60,
+      "id": "200911739d77a0dd",
+      "styleAttributes": {
+      },
+      "text": "作业",
+      "type": "text",
+      "width": 260,
+      "x": 1410,
+      "y": 480
+    },
+    {
+      "height": 60,
+      "id": "ec73ef075f22ff15",
+      "styleAttributes": {
+      },
+      "text": "JCB工作控制块",
+      "type": "text",
+      "width": 260,
+      "x": 1830,
+      "y": 480
+    },
+    {
+      "height": 60,
+      "id": "16bd0fe3078f6ba0",
+      "styleAttributes": {
+      },
+      "text": "　进程的描述与控制",
+      "type": "text",
+      "width": 260,
+      "x": 3700,
+      "y": 2720
+    },
+    {
+      "file": "操作系统SWPU/attachment/前驱图.png",
+      "height": 245,
+      "id": "9369c3999dcf8dda",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 4200,
+      "y": 2400
+    },
+    {
+      "height": 420,
+      "id": "a51c205f059a23a1",
+      "styleAttributes": {
+      },
+      "text": "进程\n\n定义\n1.  进程是一段可并发执行的具有独立功能的程序\n2. 是关于某个数据集的一次执行过程\n3. 是OS进行资源分配和保护的基本单位\n\n为什么要引入进程\n\n1. 为了实现多个程序的并发执行\n2. 传统的程序与其他程序并发执行时，执行结果不可再现，因此，传统的程序不能与其他程序并发执行，只有在为之创建进程后，其才能与其他程序（进程）并发执行。\n3. 并发执行的程序“停停走走”地执行，只有在为它创建进程后，在它停下时，方能将其CPU 现场信息保存在它的PCB（processing control block，进程控制块）中，待下次被调度执行时再从 PCB中恢复CPU现场而继续执行，但传统的程序却无法满足上述要求",
+      "type": "text",
+      "width": 880,
+      "x": 4180,
+      "y": 2760
     }
   ]
 }
