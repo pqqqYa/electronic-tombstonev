@@ -462,6 +462,15 @@
       },
       "toNode": "62617354cd851d1c",
       "toSide": "top"
+    },
+    {
+      "fromNode": "fc417d0dd79353f2",
+      "fromSide": "right",
+      "id": "537da246f358b98d",
+      "styleAttributes": {
+      },
+      "toNode": "b3cf9c0e5fa45ce8",
+      "toSide": "left"
     }
   ],
   "nodes": [
@@ -1189,6 +1198,39 @@
       "width": 260,
       "x": 1950,
       "y": 2260
+    },
+    {
+      "height": 60,
+      "id": "fc417d0dd79353f2",
+      "styleAttributes": {
+      },
+      "text": "处理机调度与死锁",
+      "type": "text",
+      "width": 260,
+      "x": 3980,
+      "y": 2840
+    },
+    {
+      "height": 60,
+      "id": "b3cf9c0e5fa45ce8",
+      "styleAttributes": {
+      },
+      "text": "调度",
+      "type": "text",
+      "width": 260,
+      "x": 4360,
+      "y": 2620
+    },
+    {
+      "height": 60,
+      "id": "74fccecbd2937153",
+      "styleAttributes": {
+      },
+      "text": "",
+      "type": "text",
+      "width": 260,
+      "x": 4700,
+      "y": 2460
     }
   ]
 }
