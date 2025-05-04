@@ -262,6 +262,44 @@
       },
       "toNode": "beaa83592337daaa",
       "toSide": "left"
+    },
+    {
+      "fromNode": "a36a52f1fe28901c",
+      "fromSide": "right",
+      "id": "0fbfdfa1aa89716c",
+      "styleAttributes": {
+      },
+      "toNode": "823984f1e2212bb4",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a36a52f1fe28901c",
+      "fromSide": "right",
+      "id": "9302a1f0f62b1eb8",
+      "styleAttributes": {
+      },
+      "toNode": "8171145ff88bd3ab",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a36a52f1fe28901c",
+      "fromSide": "right",
+      "id": "696269ada8990202",
+      "styleAttributes": {
+      },
+      "toNode": "74797559df23d43d",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromNode": "a36a52f1fe28901c",
+      "fromSide": "bottom",
+      "id": "11fefb89716fdb7d",
+      "styleAttributes": {
+        "path": "dotted"
+      },
+      "toNode": "b238208550c6f995",
+      "toSide": "top"
     }
   ],
   "nodes": [
@@ -639,28 +677,6 @@
     },
     {
       "height": 60,
-      "id": "028a1f5f1cd8031a",
-      "styleAttributes": {
-      },
-      "text": "目态与管态（双机工作模式）",
-      "type": "text",
-      "width": 300,
-      "x": 900,
-      "y": 3400
-    },
-    {
-      "height": 60,
-      "id": "1ba03cbc16d343f1",
-      "styleAttributes": {
-      },
-      "text": "简述",
-      "type": "text",
-      "width": 260,
-      "x": 1300,
-      "y": 3400
-    },
-    {
-      "height": 60,
       "id": "879f83fd8b791043",
       "styleAttributes": {
       },
@@ -682,51 +698,26 @@
       "y": 1650
     },
     {
-      "color": "4",
       "height": 60,
-      "id": "d6eb03bfee55e30f",
+      "id": "028a1f5f1cd8031a",
       "styleAttributes": {
       },
-      "text": "是最接近硬件的一层软件",
-      "type": "text",
-      "width": 260,
-      "x": 1260,
-      "y": 3280
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "a36a52f1fe28901c",
-      "styleAttributes": {
-      },
-      "text": "操作系统是系统资源的管理者\n",
+      "text": "目态与管态（双机工作模式）",
       "type": "text",
       "width": 300,
-      "x": 1260,
-      "y": 3100
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "2861b97ce849557e",
-      "styleAttributes": {
-      },
-      "text": "向上层提供方便易用的服务\n",
-      "type": "text",
-      "width": 260,
-      "x": 1260,
-      "y": 3185
-    },
-    {
-      "height": 60,
-      "id": "bee924a9c3aef1ce",
-      "styleAttributes": {
-      },
-      "text": "功能",
-      "type": "text",
-      "width": 260,
       "x": 900,
-      "y": 3185
+      "y": 3660
+    },
+    {
+      "height": 60,
+      "id": "1ba03cbc16d343f1",
+      "styleAttributes": {
+      },
+      "text": "简述",
+      "type": "text",
+      "width": 260,
+      "x": 1300,
+      "y": 3660
     },
     {
       "color": "4",
@@ -737,8 +728,8 @@
       "text": "操作系统为应用程序调用内核功能提供的接口",
       "type": "text",
       "width": 280,
-      "x": 1660,
-      "y": 3150
+      "x": 1730,
+      "y": 3350
     },
     {
       "color": "4",
@@ -749,8 +740,104 @@
       "text": "用户程序的输入和输出操作实际上由os完成",
       "type": "text",
       "width": 260,
-      "x": 1670,
-      "y": 3245
+      "x": 1740,
+      "y": 3445
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "a36a52f1fe28901c",
+      "styleAttributes": {
+      },
+      "text": "操作系统是系统资源的管理者\n",
+      "type": "text",
+      "width": 300,
+      "x": 1300,
+      "y": 3110
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "d6eb03bfee55e30f",
+      "styleAttributes": {
+      },
+      "text": "是最接近硬件的一层软件",
+      "type": "text",
+      "width": 260,
+      "x": 1300,
+      "y": 3505
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "2861b97ce849557e",
+      "styleAttributes": {
+      },
+      "text": "向上层提供方便易用的服务\n",
+      "type": "text",
+      "width": 260,
+      "x": 1300,
+      "y": 3410
+    },
+    {
+      "height": 60,
+      "id": "bee924a9c3aef1ce",
+      "styleAttributes": {
+      },
+      "text": "功能",
+      "type": "text",
+      "width": 260,
+      "x": 900,
+      "y": 3320
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "b238208550c6f995",
+      "styleAttributes": {
+        "border": "dashed"
+      },
+      "text": "注意区分事件管理和资源管理的不同",
+      "type": "text",
+      "width": 260,
+      "x": 1320,
+      "y": 3240
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "8171145ff88bd3ab",
+      "styleAttributes": {
+      },
+      "text": "程序",
+      "type": "text",
+      "width": 260,
+      "x": 1740,
+      "y": 3110
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "74797559df23d43d",
+      "styleAttributes": {
+      },
+      "text": "CPU",
+      "type": "text",
+      "width": 260,
+      "x": 1740,
+      "y": 3195
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "823984f1e2212bb4",
+      "styleAttributes": {
+      },
+      "text": "主存",
+      "type": "text",
+      "width": 260,
+      "x": 1740,
+      "y": 3030
     }
   ]
 }
