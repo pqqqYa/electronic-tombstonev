@@ -614,28 +614,6 @@
       "y": 2460
     },
     {
-      "height": 1260,
-      "id": "61c92619b74397de",
-      "label": "线程",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 1200,
-      "x": 4240,
-      "y": 5780
-    },
-    {
-      "height": 440,
-      "id": "3d3cc273bb03acca",
-      "label": "通信机制",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 860,
-      "x": 4240,
-      "y": 5160
-    },
-    {
       "height": 1400,
       "id": "25c7be33ad132363",
       "label": "进程状态",
@@ -645,6 +623,17 @@
       "width": 1331,
       "x": 4780,
       "y": 3680
+    },
+    {
+      "height": 1260,
+      "id": "61c92619b74397de",
+      "label": "线程",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1200,
+      "x": 4240,
+      "y": 5780
     },
     {
       "height": 575,
@@ -668,6 +657,247 @@
       "width": 980,
       "x": 2160,
       "y": 2520
+    },
+    {
+      "height": 440,
+      "id": "3d3cc273bb03acca",
+      "label": "通信机制",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 860,
+      "x": 4240,
+      "y": 5160
+    },
+    {
+      "height": 60,
+      "id": "1d1da7b457acc7a8",
+      "styleAttributes": {
+      },
+      "text": "联机输入/输出技术",
+      "type": "text",
+      "width": 260,
+      "x": 2710,
+      "y": 995
+    },
+    {
+      "color": "4",
+      "height": 160,
+      "id": "5333069719264160",
+      "styleAttributes": {
+      },
+      "text": "分布式OS\n- 分布式系统数据对于用户具有透明性\n- 分布式系统具有健壮性，处理进程可自动在多节点迁移\n- 分布式系统只能有一个操作系统",
+      "type": "text",
+      "width": 540,
+      "x": 2430,
+      "y": 1090
+    },
+    {
+      "color": "4",
+      "height": 250,
+      "id": "ba01caf30d0de1a5",
+      "styleAttributes": {
+        "border": null
+      },
+      "text": "传感器节点OS\n\n- 无人智能守卫\n- 传感器节点OS工作可为事件驱动和时钟周期触发两种\n\n\n  \n传感器节点\n\n-  传感器节点可理解为一个小型计算机\n-  传感器节点因为RAM小，故OS一般比较简单",
+      "type": "text",
+      "width": 510,
+      "x": 2430,
+      "y": 1265
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "a1faab903ef9773d",
+      "styleAttributes": {
+      },
+      "text": "采用：Linux",
+      "type": "text",
+      "width": 160,
+      "x": 2460,
+      "y": 1860
+    },
+    {
+      "height": 60,
+      "id": "38eeed694d95a7fb",
+      "styleAttributes": {
+      },
+      "text": "单道批处理系统",
+      "type": "text",
+      "width": 260,
+      "x": 1830,
+      "y": 995
+    },
+    {
+      "color": "4",
+      "height": 190,
+      "id": "a28a8b1ea8aea908",
+      "styleAttributes": {
+      },
+      "text": "实时操作系统：\n1. 响应时间的重要性超过协同资源的利用率\n2. 规定时间内处理来自外部的事件\n3. 必须既要及时响应、快速处理，又要有高可靠性和安全性",
+      "type": "text",
+      "width": 440,
+      "x": 1830,
+      "y": 1075
+    },
+    {
+      "color": "4",
+      "height": 160,
+      "id": "be14fdac86e15602",
+      "styleAttributes": {
+      },
+      "text": "分时操作系统：\n1. 允许在一台主机上同时连接多个终端，各个用户可以通过各自的终端交互使用计算机\n2. 用户数越多，则响应时间越长",
+      "type": "text",
+      "width": 440,
+      "x": 1830,
+      "y": 1305
+    },
+    {
+      "color": "4",
+      "height": 240,
+      "id": "9c3eb2aaf8df3c45",
+      "styleAttributes": {
+      },
+      "text": "嵌入式系统\n\n1. Vxworks和Linux都是嵌入式OS\n2. 掌上计算机是基于系统小型化需求出现，而嵌入式系统主要是基于智能化需求\n3. 嵌入式系统的安全需以**系统整体为核心**\n4. 掌上计算机OS可以有众多第三方应用，而嵌入式OS的应用是少数可信软件，固化在ROM中",
+      "type": "text",
+      "width": 480,
+      "x": 1830,
+      "y": 1515
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "b37efa36aa8f991f",
+      "styleAttributes": {
+      },
+      "text": "服务器OS",
+      "type": "text",
+      "width": 260,
+      "x": 1950,
+      "y": 2040
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "c88e015b90b4c2b0",
+      "styleAttributes": {
+      },
+      "text": "微机OS",
+      "type": "text",
+      "width": 260,
+      "x": 1940,
+      "y": 1860
+    },
+    {
+      "color": "4",
+      "height": 100,
+      "id": "966b471b99df8140",
+      "styleAttributes": {
+      },
+      "text": "多处理机os：\n-  有通信、连接和一致性等专门功能的服务器操作系统的变体",
+      "type": "text",
+      "width": 530,
+      "x": 2460,
+      "y": 2020
+    },
+    {
+      "height": 60,
+      "id": "879f83fd8b791043",
+      "styleAttributes": {
+      },
+      "text": "脱机输入/输出技术",
+      "type": "text",
+      "width": 260,
+      "x": 2270,
+      "y": 995
+    },
+    {
+      "height": 240,
+      "id": "8b6625b3c8b623fe",
+      "styleAttributes": {
+      },
+      "text": "OS是一组控制和管理计算机硬件和软件资源、合理地对各类作业进行调度以方便用户 使用计算机的程序集合。\n\n1. 是配置在计算机硬件上的第一层系统软件，是对硬件系统的首次扩 充\n2. 是硬件系统和应用软件间的桥梁\n3. 是用户与计算机硬件进行交互的接口\n4. 是计算机系统资 源的管理者。",
+      "type": "text",
+      "width": 580,
+      "x": 870,
+      "y": 1050
+    },
+    {
+      "height": 60,
+      "id": "49f2cdaad70ef9f2",
+      "styleAttributes": {
+      },
+      "text": "目标",
+      "type": "text",
+      "width": 260,
+      "x": 870,
+      "y": 1330
+    },
+    {
+      "height": 60,
+      "id": "e0865a4a1bf588b0",
+      "styleAttributes": {
+      },
+      "text": "概述",
+      "type": "text",
+      "width": 160,
+      "x": 480,
+      "y": 2520
+    },
+    {
+      "height": 60,
+      "id": "979235170d22f0bc",
+      "styleAttributes": {
+      },
+      "text": "作用",
+      "type": "text",
+      "width": 260,
+      "x": 870,
+      "y": 1490
+    },
+    {
+      "height": 60,
+      "id": "b7481f88b21e67c2",
+      "styleAttributes": {
+      },
+      "text": "与硬件、软件、用户之间的关系",
+      "type": "text",
+      "width": 260,
+      "x": 870,
+      "y": 1640
+    },
+    {
+      "height": 60,
+      "id": "a97b7fc22b6084a9",
+      "styleAttributes": {
+      },
+      "text": "发展",
+      "type": "text",
+      "width": 260,
+      "x": 870,
+      "y": 2120
+    },
+    {
+      "height": 60,
+      "id": "efca2fbf1be1ca34",
+      "styleAttributes": {
+      },
+      "text": "动力",
+      "type": "text",
+      "width": 260,
+      "x": 1320,
+      "y": 2230
+    },
+    {
+      "height": 60,
+      "id": "b17c936965a6dc44",
+      "styleAttributes": {
+      },
+      "text": "阶段/分类",
+      "type": "text",
+      "width": 260,
+      "x": 1260,
+      "y": 1605
     },
     {
       "file": "操作系统SWPU/attachment/第四章习题.png",
@@ -769,267 +999,6 @@
       "y": 1025
     },
     {
-      "file": "操作系统SWPU/attachment/前驱图.png",
-      "height": 245,
-      "id": "9369c3999dcf8dda",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 4200,
-      "y": 2400
-    },
-    {
-      "color": "5",
-      "height": 524,
-      "id": "07b5962a07215f75",
-      "styleAttributes": {
-      },
-      "text": "注意：\n\n1. 区分是否抢占\n2. 抢占的方式是什么\n3. 时间关系图\n\t- 横轴时间\n\t- 纵轴作业ABC\n\n利用率计算 = $\\frac{cpu时间}{总时间}$",
-      "type": "text",
-      "width": 420,
-      "x": 2600,
-      "y": 2547
-    },
-    {
-      "height": 60,
-      "id": "1d1da7b457acc7a8",
-      "styleAttributes": {
-      },
-      "text": "联机输入/输出技术",
-      "type": "text",
-      "width": 260,
-      "x": 2710,
-      "y": 995
-    },
-    {
-      "color": "4",
-      "height": 160,
-      "id": "5333069719264160",
-      "styleAttributes": {
-      },
-      "text": "分布式OS\n- 分布式系统数据对于用户具有透明性\n- 分布式系统具有健壮性，处理进程可自动在多节点迁移\n- 分布式系统只能有一个操作系统",
-      "type": "text",
-      "width": 540,
-      "x": 2430,
-      "y": 1090
-    },
-    {
-      "color": "4",
-      "height": 100,
-      "id": "966b471b99df8140",
-      "styleAttributes": {
-      },
-      "text": "多处理机os：\n-  有通信、连接和一致性等专门功能的服务器操作系统的变体",
-      "type": "text",
-      "width": 530,
-      "x": 2460,
-      "y": 2020
-    },
-    {
-      "color": "4",
-      "height": 250,
-      "id": "ba01caf30d0de1a5",
-      "styleAttributes": {
-        "border": null
-      },
-      "text": "传感器节点OS\n\n- 无人智能守卫\n- 传感器节点OS工作可为事件驱动和时钟周期触发两种\n\n\n  \n传感器节点\n\n-  传感器节点可理解为一个小型计算机\n-  传感器节点因为RAM小，故OS一般比较简单",
-      "type": "text",
-      "width": 510,
-      "x": 2430,
-      "y": 1265
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "a1faab903ef9773d",
-      "styleAttributes": {
-      },
-      "text": "采用：Linux",
-      "type": "text",
-      "width": 160,
-      "x": 2460,
-      "y": 1860
-    },
-    {
-      "color": "5",
-      "file": "操作系统SWPU/attachment/时间关系图1.png",
-      "height": 133,
-      "id": "897c8d59e24f511c",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 2180,
-      "y": 2547
-    },
-    {
-      "color": "5",
-      "file": "操作系统SWPU/attachment/时间关系图2.png",
-      "height": 120,
-      "id": "370067ece4605edb",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 2180,
-      "y": 2740
-    },
-    {
-      "color": "5",
-      "file": "操作系统SWPU/attachment/时间关系图3.png",
-      "height": 122,
-      "id": "b4b33f76890cab95",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 2180,
-      "y": 2949
-    },
-    {
-      "height": 180,
-      "id": "b738c53a1632b2fd",
-      "styleAttributes": {
-      },
-      "text": "特权指令\n\n1. 其执行可能有损系统的安全性",
-      "type": "text",
-      "width": 380,
-      "x": 1370,
-      "y": 5060
-    },
-    {
-      "color": "4",
-      "height": 340,
-      "id": "979e60438fb5d9c9",
-      "styleAttributes": {
-      },
-      "text": "管态\n\n1. 执行输入输出指令\n2. CPU执行操作系统代码",
-      "type": "text",
-      "width": 480,
-      "x": 1320,
-      "y": 4320
-    },
-    {
-      "color": "4",
-      "height": 240,
-      "id": "5ec06531c42d47a1",
-      "styleAttributes": {
-      },
-      "text": "目态\n\n1. 算术运算指令\n2. 把运算结果送入内存的指令\n3. 从内存取数的内存",
-      "type": "text",
-      "width": 480,
-      "x": 1320,
-      "y": 4720
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "8171145ff88bd3ab",
-      "styleAttributes": {
-      },
-      "text": "程序",
-      "type": "text",
-      "width": 260,
-      "x": 1730,
-      "y": 3600
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "74797559df23d43d",
-      "styleAttributes": {
-      },
-      "text": "CPU",
-      "type": "text",
-      "width": 260,
-      "x": 1730,
-      "y": 3685
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "fd136e9ac393c164",
-      "styleAttributes": {
-      },
-      "text": "用户程序的输入和输出操作实际上由os完成",
-      "type": "text",
-      "width": 260,
-      "x": 1730,
-      "y": 3935
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "62617354cd851d1c",
-      "styleAttributes": {
-      },
-      "text": "大型机OS",
-      "type": "text",
-      "width": 260,
-      "x": 1950,
-      "y": 2260
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "beaa83592337daaa",
-      "styleAttributes": {
-      },
-      "text": "若干个事件在同一时间间隔内发生",
-      "type": "text",
-      "width": 260,
-      "x": 1720,
-      "y": 2470
-    },
-    {
-      "height": 120,
-      "id": "4d733917a0c388da",
-      "styleAttributes": {
-      },
-      "text": "操作系统的异步特征源于多道程序环境下进程因资源限制以不可预知的“走走停停”方式并发执行，但通过进程控制及同步机制确保相同环境下多次运行结果一致。",
-      "type": "text",
-      "width": 360,
-      "x": 1690,
-      "y": 2861
-    },
-    {
-      "color": "5",
-      "height": 230,
-      "id": "3705fe90fa98fa37",
-      "styleAttributes": {
-      },
-      "text": "单道程序和多道程序\n\n- 并发运行多个程序\n- 提高系统资源利用率\n\t- cpu利用率\n\t- 外部设备利用率\n- 前提是中断功能",
-      "type": "text",
-      "width": 260,
-      "x": 1720,
-      "y": 2560
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "823984f1e2212bb4",
-      "styleAttributes": {
-      },
-      "text": "主存",
-      "type": "text",
-      "width": 260,
-      "x": 1730,
-      "y": 3520
-    },
-    {
-      "color": "4",
-      "height": 71,
-      "id": "8e0f4cfcddc29747",
-      "styleAttributes": {
-      },
-      "text": "操作系统为应用程序调用内核功能提供的接口",
-      "type": "text",
-      "width": 280,
-      "x": 1720,
-      "y": 3840
-    },
-    {
       "height": 60,
       "id": "74fccecbd2937153",
       "styleAttributes": {
@@ -1075,88 +1044,6 @@
     },
     {
       "height": 60,
-      "id": "38eeed694d95a7fb",
-      "styleAttributes": {
-      },
-      "text": "单道批处理系统",
-      "type": "text",
-      "width": 260,
-      "x": 1830,
-      "y": 995
-    },
-    {
-      "color": "4",
-      "height": 190,
-      "id": "a28a8b1ea8aea908",
-      "styleAttributes": {
-      },
-      "text": "实时操作系统：\n1. 响应时间的重要性超过协同资源的利用率\n2. 规定时间内处理来自外部的事件\n3. 必须既要及时响应、快速处理，又要有高可靠性和安全性",
-      "type": "text",
-      "width": 440,
-      "x": 1830,
-      "y": 1075
-    },
-    {
-      "color": "4",
-      "height": 160,
-      "id": "be14fdac86e15602",
-      "styleAttributes": {
-      },
-      "text": "分时操作系统：\n1. 允许在一台主机上同时连接多个终端，各个用户可以通过各自的终端交互使用计算机\n2. 用户数越多，则响应时间越长",
-      "type": "text",
-      "width": 440,
-      "x": 1830,
-      "y": 1305
-    },
-    {
-      "color": "4",
-      "height": 240,
-      "id": "9c3eb2aaf8df3c45",
-      "styleAttributes": {
-      },
-      "text": "嵌入式系统\n\n1. Vxworks和Linux都是嵌入式OS\n2. 掌上计算机是基于系统小型化需求出现，而嵌入式系统主要是基于智能化需求\n3. 嵌入式系统的安全需以**系统整体为核心**\n4. 掌上计算机OS可以有众多第三方应用，而嵌入式OS的应用是少数可信软件，固化在ROM中",
-      "type": "text",
-      "width": 480,
-      "x": 1830,
-      "y": 1515
-    },
-    {
-      "height": 60,
-      "id": "879f83fd8b791043",
-      "styleAttributes": {
-      },
-      "text": "脱机输入/输出技术",
-      "type": "text",
-      "width": 260,
-      "x": 2270,
-      "y": 995
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "b37efa36aa8f991f",
-      "styleAttributes": {
-      },
-      "text": "服务器OS",
-      "type": "text",
-      "width": 260,
-      "x": 1950,
-      "y": 2040
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "c88e015b90b4c2b0",
-      "styleAttributes": {
-      },
-      "text": "微机OS",
-      "type": "text",
-      "width": 260,
-      "x": 1940,
-      "y": 1860
-    },
-    {
-      "height": 60,
       "id": "b3cf9c0e5fa45ce8",
       "styleAttributes": {
       },
@@ -1179,14 +1066,277 @@
     },
     {
       "height": 60,
-      "id": "646bbab61ef253a0",
+      "id": "fc417d0dd79353f2",
       "styleAttributes": {
       },
-      "text": "并发",
+      "text": "处理机调度与死锁",
       "type": "text",
       "width": 260,
-      "x": 1340,
-      "y": 2550
+      "x": 970,
+      "y": 380
+    },
+    {
+      "height": 60,
+      "id": "3b46b673bc671b1f",
+      "styleAttributes": {
+      },
+      "text": "管道通信",
+      "type": "text",
+      "width": 260,
+      "x": 4260,
+      "y": 5520
+    },
+    {
+      "height": 300,
+      "id": "be81c2652efd14a4",
+      "styleAttributes": {
+      },
+      "text": "**高级通信机制**\n\n1. 共享存储器系统通信机制：在共享存储器 系统中，相互通信的进程共享某些数据结构或存储区，进程之间通过这些“空间”进行通信\n2. 管道通信系统通信机制：发送进程和接收进程利用管道进行通信\n3. 消息传递系统通信机 制：进程不必借助任何共享存储区或数据结构，而是以格式化的消息（message）为单位，将通信的数据封装在消息中，并利用OS提供的一组通信命令在进程间进行消息传递，完成进程间的 数据交换\n4. 客户机-服务器系统通信机制：在网络环境的各种应用领域，客户机-服务器系统 的通信机制已成为当前主流的通信实现机制。",
+      "type": "text",
+      "width": 820,
+      "x": 4260,
+      "y": 5180
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "8171145ff88bd3ab",
+      "styleAttributes": {
+      },
+      "text": "程序",
+      "type": "text",
+      "width": 260,
+      "x": 1730,
+      "y": 3600
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "74797559df23d43d",
+      "styleAttributes": {
+      },
+      "text": "CPU",
+      "type": "text",
+      "width": 260,
+      "x": 1730,
+      "y": 3685
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "823984f1e2212bb4",
+      "styleAttributes": {
+      },
+      "text": "主存",
+      "type": "text",
+      "width": 260,
+      "x": 1730,
+      "y": 3520
+    },
+    {
+      "file": "操作系统SWPU/attachment/七状态模型.png",
+      "height": 460,
+      "id": "bb9d8ce5ee04b04b",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1291,
+      "x": 4800,
+      "y": 3750
+    },
+    {
+      "height": 260,
+      "id": "38372e0fad32359d",
+      "styleAttributes": {
+      },
+      "text": "-  运行态：进程占有处理机，正在运行。\n- 就绪态：进程具备运行条件，等待系统分配处理机以便运行。\n- 等待态（又称为阻塞态或睡眠态）：进程不具备运行条件，正在等待某个事件的完成\n- 挂起状态：\n\t1. 实际上就是一种静止的状态\n\t2. 一个进程被挂起后，不管它是否处于就绪状态，系统都不会分配给它处理机",
+      "type": "text",
+      "width": 560,
+      "x": 4800,
+      "y": 4260
+    },
+    {
+      "height": 160,
+      "id": "b878ff26a70e1d8b",
+      "styleAttributes": {
+      },
+      "text": "1.  运行态→等待态：等待使用资源或某事件发生\n2. 等待态→就绪态：资源得到满足或某事件已经发生\n3. 运行态→就绪态：运行时间片到达或出现有更高优先级的进程\n4. 就绪态→运行态：CPU空闲时调度选中一个就绪进程需要其运行",
+      "type": "text",
+      "width": 711,
+      "x": 5380,
+      "y": 4260
+    },
+    {
+      "height": 240,
+      "id": "9b0695fbda028f06",
+      "styleAttributes": {
+      },
+      "text": "1. 终端用户的需要：当终端用户在自己的程序运行期间发现问题时，希望暂停进程的运行\n2. 父进程请求：父进程挂起自己的某个子进程，检查并修改该子进程，或者协调各子进程 之间的活动\n3. 负荷调节的需要：当实时系统中的工作负荷较重、实时任务受到影响时，挂起一些不重要的进程\n4. OS的需要：OS挂起某些进程，检查或统计运行中的资源使用情况",
+      "type": "text",
+      "width": 560,
+      "x": 4800,
+      "y": 4660
+    },
+    {
+      "height": 340,
+      "id": "8afe5c6c8661b713",
+      "styleAttributes": {
+      },
+      "text": "**为什么要在OS中引入线程？**\n1. 在OS中引入线程是为了减少进程在并发执行时所付出的时空开销，使OS具有更好的并发性，提高CPU的利用率。\n2. 进程是分配资源的基本单位，而线程则是系统调度的基本单位。\n3. 由于进程是资源的拥有者，因此在其创建、撤销、切换操作中需要较大的时空开销，限制了**并发程度的进一步提高**。为**减少进程切换的开销**，通常把进程作为资源分配单位和调度单位这两个属性进行分开处理，即进程还是作为资源分配的基本单位，但是不作为调度的基本单位（很少调度或切换），把调度执行与切换的责任交给“线程”。\n\t- 资源分配：进程\n\t- 调度、切换：线程\n4. 好处：提高系统的并发度，还能使系统适应新的对称多处理机环境，充分发挥其性能。",
+      "type": "text",
+      "width": 880,
+      "x": 4260,
+      "y": 5800
+    },
+    {
+      "height": 820,
+      "id": "e40720bde5a4d460",
+      "styleAttributes": {
+      },
+      "text": "**用户级线程和内核支持线程有何区别**\n\n- 内核支持线程是在内核支持下实现的，即每个线程的TCB均设置在内核中， 所有对线程的操作（如创建、撤销和切换等）都是通过系统功能调用由内核中的相应处理程序 完成的。\n- 用户级线程则仅存在于用户空间中，即每个线程的TCB均设置在用户空间中，所有 对线程的操作也在用户空间中完成，而无须内核帮助。\n\n比较内核支持线程和用户级线程。\n1.  内核支持。\n\t- 用户级线程可在一个不支持线程的OS中实现\n\t- 内核支持线程则需要得到OS内核的支持\n2. 处理机的分配。\n\t- 在多处理机环境下，对纯粹的用户级线程来说，内核只为一个进程分配一个处理机，即进程无法享用多处理机带来的好处\n\t- 当设置有内核支持线程时，内核可调度一个应用中的多个线程同时在多个处理机上并行运行，从而提高程序的执行速度和效率。\n3. 调度和线程执行时间。\n\t- 对设置有内核支持线程的系统，内核的调度方式和调度算法与进程的十分相似，但调度的单位是线程\n\t- 对仅设置了用户级线程的系统，内核调度的单位为进程，当进程获得CPU时，隶属于该进程的多个线程可通过用户态下的线程调度分 13 第 1 部分　课后习题参考答案 享由内核分配给进程的CPU执行时间。因此，在相同条件下，内核支持线程通常会得到比用户 级线程更多的CPU执行时间。\n4. 切换速度。\n\t- 用户级线程的切换通常发生在一个应用程序的各线 程之间，由于无须陷入内核，而且切换的规则也相当简单，因此切换速度比内核支持线程至少 快一个数量级。\n5. 系统调用\n\t- 在典型的OS中，许多系统调用都会引起阻塞。当一个用户级线程 执行这些系统调用时，被阻塞的是整个进程；而当一个内核支持线程执行这些系统调用时，则 仅阻塞这一线程，但仍可调度其所属进程的其他线程执行。",
+      "type": "text",
+      "width": 880,
+      "x": 4260,
+      "y": 6200
+    },
+    {
+      "height": 180,
+      "id": "b738c53a1632b2fd",
+      "styleAttributes": {
+      },
+      "text": "特权指令\n\n1. 其执行可能有损系统的安全性",
+      "type": "text",
+      "width": 380,
+      "x": 1370,
+      "y": 5060
+    },
+    {
+      "color": "4",
+      "height": 340,
+      "id": "979e60438fb5d9c9",
+      "styleAttributes": {
+      },
+      "text": "管态\n\n1. 执行输入输出指令\n2. CPU执行操作系统代码",
+      "type": "text",
+      "width": 480,
+      "x": 1320,
+      "y": 4320
+    },
+    {
+      "color": "4",
+      "height": 240,
+      "id": "5ec06531c42d47a1",
+      "styleAttributes": {
+      },
+      "text": "目态\n\n1. 算术运算指令\n2. 把运算结果送入内存的指令\n3. 从内存取数的内存",
+      "type": "text",
+      "width": 480,
+      "x": 1320,
+      "y": 4720
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "fd136e9ac393c164",
+      "styleAttributes": {
+      },
+      "text": "用户程序的输入和输出操作实际上由os完成",
+      "type": "text",
+      "width": 260,
+      "x": 1730,
+      "y": 3935
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "d6eb03bfee55e30f",
+      "styleAttributes": {
+      },
+      "text": "是最接近硬件的一层软件",
+      "type": "text",
+      "width": 260,
+      "x": 1290,
+      "y": 3995
+    },
+    {
+      "height": 60,
+      "id": "2bc65c1b1e1274bc",
+      "styleAttributes": {
+      },
+      "text": "特权指令与非特权指令",
+      "type": "text",
+      "width": 260,
+      "x": 870,
+      "y": 5240
+    },
+    {
+      "height": 60,
+      "id": "028a1f5f1cd8031a",
+      "styleAttributes": {
+      },
+      "text": "目态与管态（双机工作模式）",
+      "type": "text",
+      "width": 300,
+      "x": 870,
+      "y": 4460
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "ef59cc614e3dfccd",
+      "styleAttributes": {
+      },
+      "text": "中断和异常处理",
+      "type": "text",
+      "width": 260,
+      "x": 860,
+      "y": 5660
+    },
+    {
+      "color": "4",
+      "height": 100,
+      "id": "8d61fe0ec82280a0",
+      "styleAttributes": {
+      },
+      "text": "计算机系统中判断是否有中断事件发生应该在执行完一条指令后",
+      "type": "text",
+      "width": 260,
+      "x": 1260,
+      "y": 5540
+    },
+    {
+      "height": 60,
+      "id": "16bd0fe3078f6ba0",
+      "styleAttributes": {
+      },
+      "text": "　进程的描述与控制",
+      "type": "text",
+      "width": 260,
+      "x": 3520,
+      "y": 4200
+    },
+    {
+      "height": 120,
+      "id": "4d733917a0c388da",
+      "styleAttributes": {
+      },
+      "text": "操作系统的异步特征源于多道程序环境下进程因资源限制以不可预知的“走走停停”方式并发执行，但通过进程控制及同步机制确保相同环境下多次运行结果一致。",
+      "type": "text",
+      "width": 360,
+      "x": 1690,
+      "y": 2861
+    },
+    {
+      "color": "4",
+      "height": 71,
+      "id": "8e0f4cfcddc29747",
+      "styleAttributes": {
+      },
+      "text": "操作系统为应用程序调用内核功能提供的接口",
+      "type": "text",
+      "width": 280,
+      "x": 1720,
+      "y": 3840
     },
     {
       "height": 60,
@@ -1209,40 +1359,6 @@
       "width": 260,
       "x": 900,
       "y": 2760
-    },
-    {
-      "height": 60,
-      "id": "c6dded12d5c5e6a3",
-      "styleAttributes": {
-      },
-      "text": "虚拟",
-      "type": "text",
-      "width": 260,
-      "x": 1340,
-      "y": 3011
-    },
-    {
-      "height": 60,
-      "id": "4738b851df478bce",
-      "styleAttributes": {
-      },
-      "text": "共享",
-      "type": "text",
-      "width": 260,
-      "x": 1340,
-      "y": 2730
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "d6eb03bfee55e30f",
-      "styleAttributes": {
-      },
-      "text": "是最接近硬件的一层软件",
-      "type": "text",
-      "width": 260,
-      "x": 1290,
-      "y": 3995
     },
     {
       "color": "4",
@@ -1293,96 +1409,6 @@
       "y": 3810
     },
     {
-      "height": 240,
-      "id": "8b6625b3c8b623fe",
-      "styleAttributes": {
-      },
-      "text": "OS是一组控制和管理计算机硬件和软件资源、合理地对各类作业进行调度以方便用户 使用计算机的程序集合。\n\n1. 是配置在计算机硬件上的第一层系统软件，是对硬件系统的首次扩 充\n2. 是硬件系统和应用软件间的桥梁\n3. 是用户与计算机硬件进行交互的接口\n4. 是计算机系统资 源的管理者。",
-      "type": "text",
-      "width": 580,
-      "x": 870,
-      "y": 1050
-    },
-    {
-      "height": 60,
-      "id": "49f2cdaad70ef9f2",
-      "styleAttributes": {
-      },
-      "text": "目标",
-      "type": "text",
-      "width": 260,
-      "x": 870,
-      "y": 1330
-    },
-    {
-      "height": 60,
-      "id": "e0865a4a1bf588b0",
-      "styleAttributes": {
-      },
-      "text": "概述",
-      "type": "text",
-      "width": 160,
-      "x": 480,
-      "y": 2520
-    },
-    {
-      "height": 60,
-      "id": "979235170d22f0bc",
-      "styleAttributes": {
-      },
-      "text": "作用",
-      "type": "text",
-      "width": 260,
-      "x": 870,
-      "y": 1490
-    },
-    {
-      "height": 60,
-      "id": "2bc65c1b1e1274bc",
-      "styleAttributes": {
-      },
-      "text": "特权指令与非特权指令",
-      "type": "text",
-      "width": 260,
-      "x": 870,
-      "y": 5240
-    },
-    {
-      "height": 60,
-      "id": "028a1f5f1cd8031a",
-      "styleAttributes": {
-      },
-      "text": "目态与管态（双机工作模式）",
-      "type": "text",
-      "width": 300,
-      "x": 870,
-      "y": 4460
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "ef59cc614e3dfccd",
-      "styleAttributes": {
-      },
-      "text": "中断和异常处理",
-      "type": "text",
-      "width": 260,
-      "x": 860,
-      "y": 5660
-    },
-    {
-      "color": "4",
-      "height": 100,
-      "id": "8d61fe0ec82280a0",
-      "styleAttributes": {
-      },
-      "text": "计算机系统中判断是否有中断事件发生应该在执行完一条指令后",
-      "type": "text",
-      "width": 260,
-      "x": 1260,
-      "y": 5540
-    },
-    {
       "height": 60,
       "id": "1ba03cbc16d343f1",
       "styleAttributes": {
@@ -1394,59 +1420,74 @@
       "y": 4180
     },
     {
-      "height": 60,
-      "id": "fc417d0dd79353f2",
+      "file": "操作系统SWPU/attachment/前驱图.png",
+      "height": 245,
+      "id": "9369c3999dcf8dda",
       "styleAttributes": {
       },
-      "text": "处理机调度与死锁",
+      "type": "file",
+      "width": 400,
+      "x": 4200,
+      "y": 2400
+    },
+    {
+      "color": "5",
+      "height": 524,
+      "id": "07b5962a07215f75",
+      "styleAttributes": {
+      },
+      "text": "注意：\n\n1. 区分是否抢占\n2. 抢占的方式是什么\n3. 时间关系图\n\t- 横轴时间\n\t- 纵轴作业ABC\n\n利用率计算 = $\\frac{cpu时间}{总时间}$",
       "type": "text",
-      "width": 260,
-      "x": 970,
-      "y": 380
+      "width": 420,
+      "x": 2600,
+      "y": 2547
+    },
+    {
+      "color": "5",
+      "file": "操作系统SWPU/attachment/时间关系图1.png",
+      "height": 133,
+      "id": "897c8d59e24f511c",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 2180,
+      "y": 2547
+    },
+    {
+      "color": "5",
+      "file": "操作系统SWPU/attachment/时间关系图2.png",
+      "height": 120,
+      "id": "370067ece4605edb",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 2180,
+      "y": 2740
+    },
+    {
+      "color": "5",
+      "file": "操作系统SWPU/attachment/时间关系图3.png",
+      "height": 122,
+      "id": "b4b33f76890cab95",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 2180,
+      "y": 2949
     },
     {
       "height": 60,
-      "id": "b7481f88b21e67c2",
+      "id": "c6dded12d5c5e6a3",
       "styleAttributes": {
       },
-      "text": "与硬件、软件、用户之间的关系",
+      "text": "虚拟",
       "type": "text",
       "width": 260,
-      "x": 870,
-      "y": 1640
-    },
-    {
-      "height": 60,
-      "id": "a97b7fc22b6084a9",
-      "styleAttributes": {
-      },
-      "text": "发展",
-      "type": "text",
-      "width": 260,
-      "x": 870,
-      "y": 2120
-    },
-    {
-      "height": 60,
-      "id": "efca2fbf1be1ca34",
-      "styleAttributes": {
-      },
-      "text": "动力",
-      "type": "text",
-      "width": 260,
-      "x": 1320,
-      "y": 2230
-    },
-    {
-      "height": 60,
-      "id": "b17c936965a6dc44",
-      "styleAttributes": {
-      },
-      "text": "阶段/分类",
-      "type": "text",
-      "width": 260,
-      "x": 1260,
-      "y": 1605
+      "x": 1340,
+      "y": 3011
     },
     {
       "height": 160,
@@ -1482,17 +1523,6 @@
       "y": 3450
     },
     {
-      "file": "操作系统SWPU/attachment/七状态模型.png",
-      "height": 460,
-      "id": "bb9d8ce5ee04b04b",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 1291,
-      "x": 4800,
-      "y": 3750
-    },
-    {
       "height": 60,
       "id": "b56211bc15192ec9",
       "styleAttributes": {
@@ -1504,92 +1534,62 @@
       "y": 3370
     },
     {
-      "height": 260,
-      "id": "38372e0fad32359d",
-      "styleAttributes": {
-      },
-      "text": "-  运行态：进程占有处理机，正在运行。\n- 就绪态：进程具备运行条件，等待系统分配处理机以便运行。\n- 等待态（又称为阻塞态或睡眠态）：进程不具备运行条件，正在等待某个事件的完成\n- 挂起状态：\n\t1. 实际上就是一种静止的状态\n\t2. 一个进程被挂起后，不管它是否处于就绪状态，系统都不会分配给它处理机",
-      "type": "text",
-      "width": 560,
-      "x": 4800,
-      "y": 4260
-    },
-    {
-      "height": 160,
-      "id": "b878ff26a70e1d8b",
-      "styleAttributes": {
-      },
-      "text": "1.  运行态→等待态：等待使用资源或某事件发生\n2. 等待态→就绪态：资源得到满足或某事件已经发生\n3. 运行态→就绪态：运行时间片到达或出现有更高优先级的进程\n4. 就绪态→运行态：CPU空闲时调度选中一个就绪进程需要其运行",
-      "type": "text",
-      "width": 711,
-      "x": 5380,
-      "y": 4260
-    },
-    {
-      "height": 240,
-      "id": "9b0695fbda028f06",
-      "styleAttributes": {
-      },
-      "text": "1. 终端用户的需要：当终端用户在自己的程序运行期间发现问题时，希望暂停进程的运行\n2. 父进程请求：父进程挂起自己的某个子进程，检查并修改该子进程，或者协调各子进程 之间的活动\n3. 负荷调节的需要：当实时系统中的工作负荷较重、实时任务受到影响时，挂起一些不重要的进程\n4. OS的需要：OS挂起某些进程，检查或统计运行中的资源使用情况",
-      "type": "text",
-      "width": 560,
-      "x": 4800,
-      "y": 4660
-    },
-    {
+      "color": "4",
       "height": 60,
-      "id": "16bd0fe3078f6ba0",
+      "id": "62617354cd851d1c",
       "styleAttributes": {
       },
-      "text": "　进程的描述与控制",
+      "text": "大型机OS",
       "type": "text",
       "width": 260,
-      "x": 3520,
-      "y": 4200
+      "x": 1950,
+      "y": 2260
     },
     {
+      "color": "4",
       "height": 60,
-      "id": "3b46b673bc671b1f",
+      "id": "beaa83592337daaa",
       "styleAttributes": {
       },
-      "text": "管道通信",
+      "text": "若干个事件在同一时间间隔内发生",
       "type": "text",
       "width": 260,
-      "x": 4260,
-      "y": 5520
+      "x": 1720,
+      "y": 2470
     },
     {
-      "height": 300,
-      "id": "be81c2652efd14a4",
+      "color": "5",
+      "height": 230,
+      "id": "3705fe90fa98fa37",
       "styleAttributes": {
       },
-      "text": "**高级通信机制**\n\n1. 共享存储器系统通信机制：在共享存储器 系统中，相互通信的进程共享某些数据结构或存储区，进程之间通过这些“空间”进行通信\n2. 管道通信系统通信机制：发送进程和接收进程利用管道进行通信\n3. 消息传递系统通信机 制：进程不必借助任何共享存储区或数据结构，而是以格式化的消息（message）为单位，将通信的数据封装在消息中，并利用OS提供的一组通信命令在进程间进行消息传递，完成进程间的 数据交换\n4. 客户机-服务器系统通信机制：在网络环境的各种应用领域，客户机-服务器系统 的通信机制已成为当前主流的通信实现机制。",
+      "text": "单道程序和多道程序\n\n- 并发运行多个程序\n- 提高系统资源利用率\n\t- cpu利用率\n\t- 外部设备利用率\n- 前提是中断功能",
       "type": "text",
-      "width": 820,
-      "x": 4260,
-      "y": 5180
-    },
-    {
-      "height": 340,
-      "id": "8afe5c6c8661b713",
-      "styleAttributes": {
-      },
-      "text": "**为什么要在OS中引入线程？**\n1. 在OS中引入线程是为了减少进程在并发执行时所付出的时空开销，使OS具有更好的并发性，提高CPU的利用率。\n2. 进程是分配资源的基本单位，而线程则是系统调度的基本单位。\n3. 由于进程是资源的拥有者，因此在其创建、撤销、切换操作中需要较大的时空开销，限制了**并发程度的进一步提高**。为**减少进程切换的开销**，通常把进程作为资源分配单位和调度单位这两个属性进行分开处理，即进程还是作为资源分配的基本单位，但是不作为调度的基本单位（很少调度或切换），把调度执行与切换的责任交给“线程”。\n\t- 资源分配：进程\n\t- 调度、切换：线程\n4. 好处：提高系统的并发度，还能使系统适应新的对称多处理机环境，充分发挥其性能。",
-      "type": "text",
-      "width": 880,
-      "x": 4260,
-      "y": 5800
+      "width": 260,
+      "x": 1720,
+      "y": 2560
     },
     {
       "height": 60,
-      "id": "e40720bde5a4d460",
+      "id": "646bbab61ef253a0",
       "styleAttributes": {
       },
-      "text": "用户级线程和内核支持线程有何区别",
+      "text": "并发",
       "type": "text",
-      "width": 320,
-      "x": 4260,
-      "y": 6200
+      "width": 260,
+      "x": 1340,
+      "y": 2550
+    },
+    {
+      "height": 60,
+      "id": "4738b851df478bce",
+      "styleAttributes": {
+      },
+      "text": "共享",
+      "type": "text",
+      "width": 260,
+      "x": 1340,
+      "y": 2730
     }
   ]
 }

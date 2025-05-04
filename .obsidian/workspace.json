@@ -15,9 +15,9 @@
               "state": {
                 "file": "操作系统SWPU/知识点分析.canvas",
                 "viewState": {
-                  "x": 4638.727009518518,
-                  "y": 6084.901974822837,
-                  "zoom": -0.6085805966240299
+                  "x": 4700,
+                  "y": 6560.362976573831,
+                  "zoom": -0.2184235191335025
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -185,11 +185,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "README.md",
+    "操作系统SWPU/知识点分析.canvas",
     "操作系统SWPU/attachment/七状态模型.png",
     "操作系统SWPU/进程.md",
     "操作系统SWPU/attachment/前驱图.png",
-    "操作系统SWPU/知识点分析.canvas",
-    "README.md",
     "小学期/转换文本.md",
     "小学期/分工.md",
     "小学期/拍摄脚本.md",
@@ -206,7 +206,6 @@
     "操作系统SWPU/attachment/第八章.png",
     "操作系统SWPU/attachment/第七章习题.png",
     "操作系统SWPU/attachment/第六章习题.png",
-    "操作系统SWPU/attachment/第五章习题.png",
     "操作系统SWPU/attachment",
     "操作系统课程",
     "小学期/小学期.canvas",
