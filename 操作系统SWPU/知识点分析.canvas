@@ -365,12 +365,78 @@
       "toSide": "left"
     },
     {
-      "fromNode": "b17c936965a6dc44",
+      "fromNode": "a28a8b1ea8aea908",
       "fromSide": "right",
       "id": "3a85cc2c79d11e00",
       "styleAttributes": {
       },
       "toNode": "ba01caf30d0de1a5",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a28a8b1ea8aea908",
+      "fromSide": "right",
+      "id": "14562e54766f1b63",
+      "styleAttributes": {
+      },
+      "toNode": "5333069719264160",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b37efa36aa8f991f",
+      "fromSide": "right",
+      "id": "d914038ac5edd3f9",
+      "styleAttributes": {
+      },
+      "toNode": "966b471b99df8140",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b17c936965a6dc44",
+      "fromSide": "right",
+      "id": "5bde91d625cd76e2",
+      "styleAttributes": {
+      },
+      "toNode": "b37efa36aa8f991f",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromNode": "9c3eb2aaf8df3c45",
+      "fromSide": "right",
+      "id": "5c490bec44aaae85",
+      "styleAttributes": {
+      },
+      "toNode": "a1faab903ef9773d",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromNode": "b37efa36aa8f991f",
+      "fromSide": "right",
+      "id": "d3eebf6086fe4dd3",
+      "styleAttributes": {
+      },
+      "toNode": "a1faab903ef9773d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b17c936965a6dc44",
+      "fromSide": "right",
+      "id": "fbf28c0cea8d6458",
+      "styleAttributes": {
+      },
+      "toNode": "c88e015b90b4c2b0",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromNode": "c88e015b90b4c2b0",
+      "fromSide": "right",
+      "id": "2d324c4f3e3daa5d",
+      "styleAttributes": {
+      },
+      "toNode": "a1faab903ef9773d",
       "toSide": "left"
     }
   ],
@@ -410,105 +476,6 @@
       "y": 2520
     },
     {
-      "file": "操作系统SWPU/attachment/第四章习题.png",
-      "height": 230,
-      "id": "262e7e6e6b73cc2b",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -879,
-      "y": 1323
-    },
-    {
-      "file": "操作系统SWPU/attachment/第五章习题.png",
-      "height": 237,
-      "id": "f3f62fd1590e2d26",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -880,
-      "y": 1633
-    },
-    {
-      "file": "操作系统SWPU/attachment/第六章习题.png",
-      "height": 235,
-      "id": "b990646b32a5da72",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -880,
-      "y": 1938
-    },
-    {
-      "file": "操作系统SWPU/attachment/第七章习题.png",
-      "height": 233,
-      "id": "b2a2f673ff5125ec",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -880,
-      "y": 2218
-    },
-    {
-      "file": "操作系统SWPU/attachment/第八章.png",
-      "height": 229,
-      "id": "cc0709314c256e7a",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -880,
-      "y": 2498
-    },
-    {
-      "file": "操作系统SWPU/attachment/第一章习题.png",
-      "height": 240,
-      "id": "9e3f91f5f9445610",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -879,
-      "y": 450
-    },
-    {
-      "file": "操作系统SWPU/attachment/第二章习题.png",
-      "height": 240,
-      "id": "9d4249f01ed469d2",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 453,
-      "x": -879,
-      "y": 738
-    },
-    {
-      "file": "操作系统SWPU/attachment/第三章习题.png",
-      "height": 242,
-      "id": "98b64fd065aed271",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 399,
-      "x": -879,
-      "y": 1025
-    },
-    {
-      "file": "操作系统SWPU/attachment/第九章.png",
-      "height": 223,
-      "id": "6333b8b1a96594ef",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": -879,
-      "y": 2818
-    },
-    {
       "color": "5",
       "height": 524,
       "id": "07b5962a07215f75",
@@ -519,332 +486,6 @@
       "width": 420,
       "x": 2600,
       "y": 2547
-    },
-    {
-      "height": 240,
-      "id": "8b6625b3c8b623fe",
-      "styleAttributes": {
-      },
-      "text": "OS是一组控制和管理计算机硬件和软件资源、合理地对各类作业进行调度以方便用户 使用计算机的程序集合。\n\n1. 是配置在计算机硬件上的第一层系统软件，是对硬件系统的首次扩 充\n2. 是硬件系统和应用软件间的桥梁\n3. 是用户与计算机硬件进行交互的接口\n4. 是计算机系统资 源的管理者。",
-      "type": "text",
-      "width": 580,
-      "x": 870,
-      "y": 1050
-    },
-    {
-      "height": 60,
-      "id": "b7481f88b21e67c2",
-      "styleAttributes": {
-      },
-      "text": "与硬件、软件、用户之间的关系",
-      "type": "text",
-      "width": 260,
-      "x": 870,
-      "y": 1640
-    },
-    {
-      "height": 60,
-      "id": "b17c936965a6dc44",
-      "styleAttributes": {
-      },
-      "text": "阶段/分类",
-      "type": "text",
-      "width": 260,
-      "x": 1320,
-      "y": 2030
-    },
-    {
-      "height": 60,
-      "id": "38eeed694d95a7fb",
-      "styleAttributes": {
-      },
-      "text": "单道批处理系统",
-      "type": "text",
-      "width": 260,
-      "x": 1830,
-      "y": 995
-    },
-    {
-      "color": "4",
-      "height": 190,
-      "id": "a28a8b1ea8aea908",
-      "styleAttributes": {
-      },
-      "text": "实时操作系统：\n1. 响应时间的重要性超过协同资源的利用率\n2. 规定时间内处理来自外部的事件\n3. 必须既要及时响应、快速处理，又要有高可靠性和安全性",
-      "type": "text",
-      "width": 440,
-      "x": 1830,
-      "y": 1075
-    },
-    {
-      "color": "4",
-      "height": 160,
-      "id": "be14fdac86e15602",
-      "styleAttributes": {
-      },
-      "text": "分时操作系统：\n1. 允许在一台主机上同时连接多个终端，各个用户可以通过各自的终端交互使用计算机\n2. 用户数越多，则响应时间越长",
-      "type": "text",
-      "width": 440,
-      "x": 1830,
-      "y": 1305
-    },
-    {
-      "color": "4",
-      "height": 240,
-      "id": "9c3eb2aaf8df3c45",
-      "styleAttributes": {
-      },
-      "text": "嵌入式系统\n\n1. Vxworks和Linux都是嵌入式OS\n2. 掌上计算机是基于系统小型化需求出现，而嵌入式系统主要是基于智能化需求\n3. 嵌入式系统的安全需以**系统整体为核心**\n4. 掌上计算机OS可以有众多第三方应用，而嵌入式OS的应用是少数可信软件，固化在ROM中",
-      "type": "text",
-      "width": 480,
-      "x": 1830,
-      "y": 1515
-    },
-    {
-      "color": "4",
-      "height": 90,
-      "id": "ba01caf30d0de1a5",
-      "styleAttributes": {
-        "border": "dashed"
-      },
-      "text": "传感器节点OS\n\n- 无人智能守卫",
-      "type": "text",
-      "width": 480,
-      "x": 1830,
-      "y": 1815
-    },
-    {
-      "height": 60,
-      "id": "49f2cdaad70ef9f2",
-      "styleAttributes": {
-      },
-      "text": "目标",
-      "type": "text",
-      "width": 260,
-      "x": 870,
-      "y": 1330
-    },
-    {
-      "height": 60,
-      "id": "979235170d22f0bc",
-      "styleAttributes": {
-      },
-      "text": "作用",
-      "type": "text",
-      "width": 260,
-      "x": 870,
-      "y": 1490
-    },
-    {
-      "color": "4",
-      "height": 340,
-      "id": "979e60438fb5d9c9",
-      "styleAttributes": {
-      },
-      "text": "管态\n\n1. 执行输入输出指令\n2. CPU执行操作系统代码",
-      "type": "text",
-      "width": 480,
-      "x": 1320,
-      "y": 4320
-    },
-    {
-      "color": "4",
-      "height": 240,
-      "id": "5ec06531c42d47a1",
-      "styleAttributes": {
-      },
-      "text": "目态\n\n1. 算术运算指令\n2. 把运算结果送入内存的指令\n3. 从内存取数的内存",
-      "type": "text",
-      "width": 480,
-      "x": 1320,
-      "y": 4720
-    },
-    {
-      "height": 60,
-      "id": "028a1f5f1cd8031a",
-      "styleAttributes": {
-      },
-      "text": "目态与管态（双机工作模式）",
-      "type": "text",
-      "width": 300,
-      "x": 870,
-      "y": 4460
-    },
-    {
-      "height": 60,
-      "id": "2bc65c1b1e1274bc",
-      "styleAttributes": {
-      },
-      "text": "特权指令与非特权指令",
-      "type": "text",
-      "width": 260,
-      "x": 870,
-      "y": 5240
-    },
-    {
-      "height": 180,
-      "id": "b738c53a1632b2fd",
-      "styleAttributes": {
-      },
-      "text": "特权指令\n\n1. 其执行可能有损系统的安全性",
-      "type": "text",
-      "width": 380,
-      "x": 1370,
-      "y": 5060
-    },
-    {
-      "height": 60,
-      "id": "879f83fd8b791043",
-      "styleAttributes": {
-      },
-      "text": "脱机输入/输出技术",
-      "type": "text",
-      "width": 260,
-      "x": 2270,
-      "y": 995
-    },
-    {
-      "height": 60,
-      "id": "1d1da7b457acc7a8",
-      "styleAttributes": {
-      },
-      "text": "联机输入/输出技术",
-      "type": "text",
-      "width": 260,
-      "x": 2710,
-      "y": 995
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "ef59cc614e3dfccd",
-      "styleAttributes": {
-      },
-      "text": "中断和异常处理",
-      "type": "text",
-      "width": 260,
-      "x": 860,
-      "y": 5660
-    },
-    {
-      "color": "4",
-      "height": 100,
-      "id": "8d61fe0ec82280a0",
-      "styleAttributes": {
-      },
-      "text": "计算机系统中判断是否有中断事件发生应该在执行完一条指令后",
-      "type": "text",
-      "width": 260,
-      "x": 1260,
-      "y": 5540
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "a36a52f1fe28901c",
-      "styleAttributes": {
-      },
-      "text": "操作系统是系统资源的管理者\n",
-      "type": "text",
-      "width": 300,
-      "x": 1290,
-      "y": 3600
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "2861b97ce849557e",
-      "styleAttributes": {
-      },
-      "text": "向上层提供方便易用的服务\n",
-      "type": "text",
-      "width": 260,
-      "x": 1290,
-      "y": 3900
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "d6eb03bfee55e30f",
-      "styleAttributes": {
-      },
-      "text": "是最接近硬件的一层软件",
-      "type": "text",
-      "width": 260,
-      "x": 1290,
-      "y": 3995
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "b238208550c6f995",
-      "styleAttributes": {
-        "border": "dashed"
-      },
-      "text": "注意区分事件管理和资源管理的不同",
-      "type": "text",
-      "width": 260,
-      "x": 1310,
-      "y": 3730
-    },
-    {
-      "color": "4",
-      "height": 71,
-      "id": "8e0f4cfcddc29747",
-      "styleAttributes": {
-      },
-      "text": "操作系统为应用程序调用内核功能提供的接口",
-      "type": "text",
-      "width": 280,
-      "x": 1720,
-      "y": 3840
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "8171145ff88bd3ab",
-      "styleAttributes": {
-      },
-      "text": "程序",
-      "type": "text",
-      "width": 260,
-      "x": 1730,
-      "y": 3600
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "74797559df23d43d",
-      "styleAttributes": {
-      },
-      "text": "CPU",
-      "type": "text",
-      "width": 260,
-      "x": 1730,
-      "y": 3685
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "823984f1e2212bb4",
-      "styleAttributes": {
-      },
-      "text": "主存",
-      "type": "text",
-      "width": 260,
-      "x": 1730,
-      "y": 3520
-    },
-    {
-      "height": 60,
-      "id": "bee924a9c3aef1ce",
-      "styleAttributes": {
-      },
-      "text": "功能",
-      "type": "text",
-      "width": 260,
-      "x": 890,
-      "y": 3810
     },
     {
       "color": "4",
@@ -917,38 +558,82 @@
       "y": 2949
     },
     {
-      "height": 60,
-      "id": "a97b7fc22b6084a9",
+      "color": "5",
+      "height": 230,
+      "id": "3705fe90fa98fa37",
       "styleAttributes": {
       },
-      "text": "发展",
+      "text": "单道程序和多道程序\n\n- 并发运行多个程序\n- 提高系统资源利用率\n\t- cpu利用率\n\t- 外部设备利用率\n- 前提是中断功能",
+      "type": "text",
+      "width": 260,
+      "x": 1720,
+      "y": 2560
+    },
+    {
+      "height": 60,
+      "id": "4efbd4839926a6e8",
+      "styleAttributes": {
+      },
+      "text": "异步 ",
+      "type": "text",
+      "width": 260,
+      "x": 1340,
+      "y": 2891
+    },
+    {
+      "file": "操作系统SWPU/attachment/第四章习题.png",
+      "height": 230,
+      "id": "262e7e6e6b73cc2b",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -879,
+      "y": 1323
+    },
+    {
+      "file": "操作系统SWPU/attachment/第八章.png",
+      "height": 229,
+      "id": "cc0709314c256e7a",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -880,
+      "y": 2498
+    },
+    {
+      "file": "操作系统SWPU/attachment/第九章.png",
+      "height": 223,
+      "id": "6333b8b1a96594ef",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -879,
+      "y": 2818
+    },
+    {
+      "height": 240,
+      "id": "8b6625b3c8b623fe",
+      "styleAttributes": {
+      },
+      "text": "OS是一组控制和管理计算机硬件和软件资源、合理地对各类作业进行调度以方便用户 使用计算机的程序集合。\n\n1. 是配置在计算机硬件上的第一层系统软件，是对硬件系统的首次扩 充\n2. 是硬件系统和应用软件间的桥梁\n3. 是用户与计算机硬件进行交互的接口\n4. 是计算机系统资 源的管理者。",
+      "type": "text",
+      "width": 580,
+      "x": 870,
+      "y": 1050
+    },
+    {
+      "height": 60,
+      "id": "49f2cdaad70ef9f2",
+      "styleAttributes": {
+      },
+      "text": "目标",
       "type": "text",
       "width": 260,
       "x": 870,
-      "y": 2120
-    },
-    {
-      "height": 60,
-      "id": "1ba03cbc16d343f1",
-      "styleAttributes": {
-      },
-      "text": "简述",
-      "type": "text",
-      "width": 260,
-      "x": 1320,
-      "y": 4180
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "fd136e9ac393c164",
-      "styleAttributes": {
-      },
-      "text": "用户程序的输入和输出操作实际上由os完成",
-      "type": "text",
-      "width": 260,
-      "x": 1730,
-      "y": 3935
+      "y": 1330
     },
     {
       "height": 60,
@@ -974,40 +659,6 @@
     },
     {
       "height": 60,
-      "id": "efca2fbf1be1ca34",
-      "styleAttributes": {
-      },
-      "text": "动力",
-      "type": "text",
-      "width": 260,
-      "x": 1320,
-      "y": 2230
-    },
-    {
-      "color": "5",
-      "height": 230,
-      "id": "3705fe90fa98fa37",
-      "styleAttributes": {
-      },
-      "text": "单道程序和多道程序\n\n- 并发运行多个程序\n- 提高系统资源利用率\n\t- cpu利用率\n\t- 外部设备利用率\n- 前提是中断功能",
-      "type": "text",
-      "width": 260,
-      "x": 1720,
-      "y": 2560
-    },
-    {
-      "height": 60,
-      "id": "4efbd4839926a6e8",
-      "styleAttributes": {
-      },
-      "text": "异步 ",
-      "type": "text",
-      "width": 260,
-      "x": 1340,
-      "y": 2891
-    },
-    {
-      "height": 60,
       "id": "c6dded12d5c5e6a3",
       "styleAttributes": {
       },
@@ -1027,6 +678,478 @@
       "width": 260,
       "x": 1340,
       "y": 2730
+    },
+    {
+      "height": 60,
+      "id": "b7481f88b21e67c2",
+      "styleAttributes": {
+      },
+      "text": "与硬件、软件、用户之间的关系",
+      "type": "text",
+      "width": 260,
+      "x": 870,
+      "y": 1640
+    },
+    {
+      "height": 60,
+      "id": "b17c936965a6dc44",
+      "styleAttributes": {
+      },
+      "text": "阶段/分类",
+      "type": "text",
+      "width": 260,
+      "x": 1320,
+      "y": 2030
+    },
+    {
+      "height": 60,
+      "id": "38eeed694d95a7fb",
+      "styleAttributes": {
+      },
+      "text": "单道批处理系统",
+      "type": "text",
+      "width": 260,
+      "x": 1830,
+      "y": 995
+    },
+    {
+      "color": "4",
+      "height": 190,
+      "id": "a28a8b1ea8aea908",
+      "styleAttributes": {
+      },
+      "text": "实时操作系统：\n1. 响应时间的重要性超过协同资源的利用率\n2. 规定时间内处理来自外部的事件\n3. 必须既要及时响应、快速处理，又要有高可靠性和安全性",
+      "type": "text",
+      "width": 440,
+      "x": 1830,
+      "y": 1075
+    },
+    {
+      "color": "4",
+      "height": 160,
+      "id": "be14fdac86e15602",
+      "styleAttributes": {
+      },
+      "text": "分时操作系统：\n1. 允许在一台主机上同时连接多个终端，各个用户可以通过各自的终端交互使用计算机\n2. 用户数越多，则响应时间越长",
+      "type": "text",
+      "width": 440,
+      "x": 1830,
+      "y": 1305
+    },
+    {
+      "color": "4",
+      "height": 240,
+      "id": "9c3eb2aaf8df3c45",
+      "styleAttributes": {
+      },
+      "text": "嵌入式系统\n\n1. Vxworks和Linux都是嵌入式OS\n2. 掌上计算机是基于系统小型化需求出现，而嵌入式系统主要是基于智能化需求\n3. 嵌入式系统的安全需以**系统整体为核心**\n4. 掌上计算机OS可以有众多第三方应用，而嵌入式OS的应用是少数可信软件，固化在ROM中",
+      "type": "text",
+      "width": 480,
+      "x": 1830,
+      "y": 1515
+    },
+    {
+      "height": 60,
+      "id": "979235170d22f0bc",
+      "styleAttributes": {
+      },
+      "text": "作用",
+      "type": "text",
+      "width": 260,
+      "x": 870,
+      "y": 1490
+    },
+    {
+      "height": 60,
+      "id": "a97b7fc22b6084a9",
+      "styleAttributes": {
+      },
+      "text": "发展",
+      "type": "text",
+      "width": 260,
+      "x": 870,
+      "y": 2120
+    },
+    {
+      "height": 60,
+      "id": "efca2fbf1be1ca34",
+      "styleAttributes": {
+      },
+      "text": "动力",
+      "type": "text",
+      "width": 260,
+      "x": 1320,
+      "y": 2230
+    },
+    {
+      "file": "操作系统SWPU/attachment/第五章习题.png",
+      "height": 237,
+      "id": "f3f62fd1590e2d26",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -880,
+      "y": 1633
+    },
+    {
+      "file": "操作系统SWPU/attachment/第六章习题.png",
+      "height": 235,
+      "id": "b990646b32a5da72",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -880,
+      "y": 1938
+    },
+    {
+      "file": "操作系统SWPU/attachment/第七章习题.png",
+      "height": 233,
+      "id": "b2a2f673ff5125ec",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -880,
+      "y": 2218
+    },
+    {
+      "file": "操作系统SWPU/attachment/第一章习题.png",
+      "height": 240,
+      "id": "9e3f91f5f9445610",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -879,
+      "y": 450
+    },
+    {
+      "file": "操作系统SWPU/attachment/第二章习题.png",
+      "height": 240,
+      "id": "9d4249f01ed469d2",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 453,
+      "x": -879,
+      "y": 738
+    },
+    {
+      "file": "操作系统SWPU/attachment/第三章习题.png",
+      "height": 242,
+      "id": "98b64fd065aed271",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 399,
+      "x": -879,
+      "y": 1025
+    },
+    {
+      "height": 60,
+      "id": "2bc65c1b1e1274bc",
+      "styleAttributes": {
+      },
+      "text": "特权指令与非特权指令",
+      "type": "text",
+      "width": 260,
+      "x": 870,
+      "y": 5240
+    },
+    {
+      "height": 180,
+      "id": "b738c53a1632b2fd",
+      "styleAttributes": {
+      },
+      "text": "特权指令\n\n1. 其执行可能有损系统的安全性",
+      "type": "text",
+      "width": 380,
+      "x": 1370,
+      "y": 5060
+    },
+    {
+      "height": 60,
+      "id": "879f83fd8b791043",
+      "styleAttributes": {
+      },
+      "text": "脱机输入/输出技术",
+      "type": "text",
+      "width": 260,
+      "x": 2270,
+      "y": 995
+    },
+    {
+      "height": 60,
+      "id": "1d1da7b457acc7a8",
+      "styleAttributes": {
+      },
+      "text": "联机输入/输出技术",
+      "type": "text",
+      "width": 260,
+      "x": 2710,
+      "y": 995
+    },
+    {
+      "color": "4",
+      "height": 340,
+      "id": "979e60438fb5d9c9",
+      "styleAttributes": {
+      },
+      "text": "管态\n\n1. 执行输入输出指令\n2. CPU执行操作系统代码",
+      "type": "text",
+      "width": 480,
+      "x": 1320,
+      "y": 4320
+    },
+    {
+      "color": "4",
+      "height": 240,
+      "id": "5ec06531c42d47a1",
+      "styleAttributes": {
+      },
+      "text": "目态\n\n1. 算术运算指令\n2. 把运算结果送入内存的指令\n3. 从内存取数的内存",
+      "type": "text",
+      "width": 480,
+      "x": 1320,
+      "y": 4720
+    },
+    {
+      "height": 60,
+      "id": "028a1f5f1cd8031a",
+      "styleAttributes": {
+      },
+      "text": "目态与管态（双机工作模式）",
+      "type": "text",
+      "width": 300,
+      "x": 870,
+      "y": 4460
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "ef59cc614e3dfccd",
+      "styleAttributes": {
+      },
+      "text": "中断和异常处理",
+      "type": "text",
+      "width": 260,
+      "x": 860,
+      "y": 5660
+    },
+    {
+      "color": "4",
+      "height": 100,
+      "id": "8d61fe0ec82280a0",
+      "styleAttributes": {
+      },
+      "text": "计算机系统中判断是否有中断事件发生应该在执行完一条指令后",
+      "type": "text",
+      "width": 260,
+      "x": 1260,
+      "y": 5540
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "d6eb03bfee55e30f",
+      "styleAttributes": {
+      },
+      "text": "是最接近硬件的一层软件",
+      "type": "text",
+      "width": 260,
+      "x": 1290,
+      "y": 3995
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "8171145ff88bd3ab",
+      "styleAttributes": {
+      },
+      "text": "程序",
+      "type": "text",
+      "width": 260,
+      "x": 1730,
+      "y": 3600
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "74797559df23d43d",
+      "styleAttributes": {
+      },
+      "text": "CPU",
+      "type": "text",
+      "width": 260,
+      "x": 1730,
+      "y": 3685
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "823984f1e2212bb4",
+      "styleAttributes": {
+      },
+      "text": "主存",
+      "type": "text",
+      "width": 260,
+      "x": 1730,
+      "y": 3520
+    },
+    {
+      "height": 60,
+      "id": "1ba03cbc16d343f1",
+      "styleAttributes": {
+      },
+      "text": "简述",
+      "type": "text",
+      "width": 260,
+      "x": 1320,
+      "y": 4180
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "a36a52f1fe28901c",
+      "styleAttributes": {
+      },
+      "text": "操作系统是系统资源的管理者\n",
+      "type": "text",
+      "width": 300,
+      "x": 1290,
+      "y": 3600
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "2861b97ce849557e",
+      "styleAttributes": {
+      },
+      "text": "向上层提供方便易用的服务\n",
+      "type": "text",
+      "width": 260,
+      "x": 1290,
+      "y": 3900
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "b238208550c6f995",
+      "styleAttributes": {
+        "border": "dashed"
+      },
+      "text": "注意区分事件管理和资源管理的不同",
+      "type": "text",
+      "width": 260,
+      "x": 1310,
+      "y": 3730
+    },
+    {
+      "color": "4",
+      "height": 71,
+      "id": "8e0f4cfcddc29747",
+      "styleAttributes": {
+      },
+      "text": "操作系统为应用程序调用内核功能提供的接口",
+      "type": "text",
+      "width": 280,
+      "x": 1720,
+      "y": 3840
+    },
+    {
+      "height": 60,
+      "id": "bee924a9c3aef1ce",
+      "styleAttributes": {
+      },
+      "text": "功能",
+      "type": "text",
+      "width": 260,
+      "x": 890,
+      "y": 3810
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "fd136e9ac393c164",
+      "styleAttributes": {
+      },
+      "text": "用户程序的输入和输出操作实际上由os完成",
+      "type": "text",
+      "width": 260,
+      "x": 1730,
+      "y": 3935
+    },
+    {
+      "color": "4",
+      "height": 160,
+      "id": "5333069719264160",
+      "styleAttributes": {
+      },
+      "text": "分布式OS\n- 分布式系统数据对于用户具有透明性\n- 分布式系统具有健壮性，处理进程可自动在多节点迁移\n- 分布式系统只能有一个操作系统",
+      "type": "text",
+      "width": 540,
+      "x": 2430,
+      "y": 1090
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "a1faab903ef9773d",
+      "styleAttributes": {
+      },
+      "text": "Linux",
+      "type": "text",
+      "width": 120,
+      "x": 2460,
+      "y": 1605
+    },
+    {
+      "height": 60,
+      "id": "b37efa36aa8f991f",
+      "styleAttributes": {
+      },
+      "text": "服务器OS",
+      "type": "text",
+      "width": 260,
+      "x": 2050,
+      "y": 2040
+    },
+    {
+      "height": 100,
+      "id": "966b471b99df8140",
+      "styleAttributes": {
+      },
+      "text": "多处理机os：\n-  有通信、连接和一致性等专门功能的服务器操作系统的变体",
+      "type": "text",
+      "width": 530,
+      "x": 2460,
+      "y": 2020
+    },
+    {
+      "color": "4",
+      "height": 90,
+      "id": "ba01caf30d0de1a5",
+      "styleAttributes": {
+        "border": "dashed"
+      },
+      "text": "传感器节点OS\n\n- 无人智能守卫",
+      "type": "text",
+      "width": 480,
+      "x": 2430,
+      "y": 1265
+    },
+    {
+      "height": 60,
+      "id": "c88e015b90b4c2b0",
+      "styleAttributes": {
+      },
+      "text": "微机OS",
+      "type": "text",
+      "width": 260,
+      "x": 2040,
+      "y": 1860
     }
   ]
 }
