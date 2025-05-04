@@ -1012,13 +1012,14 @@
       "y": 1900
     },
     {
+      "color": "4",
       "height": 90,
       "id": "ba01caf30d0de1a5",
       "styleAttributes": {
       },
       "text": "传感器节点OS\n\n- 无人智能守卫",
       "type": "text",
-      "width": 440,
+      "width": 480,
       "x": 1800,
       "y": 2200
     }
