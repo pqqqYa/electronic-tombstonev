@@ -304,6 +304,15 @@
   ],
   "nodes": [
     {
+      "height": 870,
+      "id": "0460b2c49b35ce2f",
+      "label": "未命名组",
+      "type": "group",
+      "width": 1720,
+      "x": 880,
+      "y": 2460
+    },
+    {
       "color": "5",
       "height": 564,
       "id": "81a2985048546377",
@@ -313,7 +322,7 @@
       "type": "group",
       "width": 980,
       "x": 2160,
-      "y": 2340
+      "y": 2520
     },
     {
       "file": "操作系统SWPU/attachment/第四章习题.png",
@@ -537,85 +546,6 @@
       "y": 1730
     },
     {
-      "height": 60,
-      "id": "4efbd4839926a6e8",
-      "styleAttributes": {
-      },
-      "text": "异步 ",
-      "type": "text",
-      "width": 260,
-      "x": 1340,
-      "y": 2820
-    },
-    {
-      "height": 60,
-      "id": "c6dded12d5c5e6a3",
-      "styleAttributes": {
-      },
-      "text": "虚拟",
-      "type": "text",
-      "width": 260,
-      "x": 1340,
-      "y": 2940
-    },
-    {
-      "height": 60,
-      "id": "646bbab61ef253a0",
-      "styleAttributes": {
-      },
-      "text": "并发",
-      "type": "text",
-      "width": 260,
-      "x": 1340,
-      "y": 2580
-    },
-    {
-      "height": 60,
-      "id": "4738b851df478bce",
-      "styleAttributes": {
-      },
-      "text": "共享",
-      "type": "text",
-      "width": 260,
-      "x": 1340,
-      "y": 2700
-    },
-    {
-      "color": "5",
-      "file": "操作系统SWPU/attachment/时间关系图1.png",
-      "height": 133,
-      "id": "897c8d59e24f511c",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 2180,
-      "y": 2367
-    },
-    {
-      "height": 120,
-      "id": "4d733917a0c388da",
-      "styleAttributes": {
-      },
-      "text": "操作系统的异步特征源于多道程序环境下进程因资源限制以不可预知的“走走停停”方式并发执行，但通过进程控制及同步机制确保相同环境下多次运行结果一致。",
-      "type": "text",
-      "width": 360,
-      "x": 1690,
-      "y": 2790
-    },
-    {
-      "color": "5",
-      "height": 60,
-      "id": "3705fe90fa98fa37",
-      "styleAttributes": {
-      },
-      "text": "单道程序和多道程序",
-      "type": "text",
-      "width": 260,
-      "x": 1720,
-      "y": 2590
-    },
-    {
       "color": "4",
       "height": 160,
       "id": "be14fdac86e15602",
@@ -626,54 +556,6 @@
       "width": 440,
       "x": 1760,
       "y": 1960
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "beaa83592337daaa",
-      "styleAttributes": {
-      },
-      "text": "若干个事件在同一时间间隔内发生",
-      "type": "text",
-      "width": 260,
-      "x": 1720,
-      "y": 2500
-    },
-    {
-      "color": "5",
-      "file": "操作系统SWPU/attachment/时间关系图3.png",
-      "height": 122,
-      "id": "b4b33f76890cab95",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 2180,
-      "y": 2769
-    },
-    {
-      "color": "5",
-      "file": "操作系统SWPU/attachment/时间关系图2.png",
-      "height": 120,
-      "id": "370067ece4605edb",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 2180,
-      "y": 2560
-    },
-    {
-      "color": "5",
-      "height": 524,
-      "id": "07b5962a07215f75",
-      "styleAttributes": {
-      },
-      "text": "注意：\n\n1. 区分是否抢占\n2. 抢占的方式是什么\n3. 时间关系图\n\t- 横轴时间\n\t- 纵轴作业ABC\n\n利用率计算 = $\\frac{cpu时间}{总时间}$",
-      "type": "text",
-      "width": 420,
-      "x": 2600,
-      "y": 2367
     },
     {
       "height": 60,
@@ -698,26 +580,83 @@
       "y": 1650
     },
     {
-      "height": 60,
-      "id": "028a1f5f1cd8031a",
+      "color": "5",
+      "height": 230,
+      "id": "3705fe90fa98fa37",
       "styleAttributes": {
       },
-      "text": "目态与管态（双机工作模式）",
+      "text": "单道程序和多道程序\n\n- 并发运行多个程序\n- 提高系统资源利用率\n\t- cpu利用率\n\t- 外部设备利用率\n- 前提是中断功能",
       "type": "text",
-      "width": 300,
-      "x": 900,
-      "y": 3660
+      "width": 260,
+      "x": 1720,
+      "y": 2560
     },
     {
       "height": 60,
-      "id": "1ba03cbc16d343f1",
+      "id": "646bbab61ef253a0",
       "styleAttributes": {
       },
-      "text": "简述",
+      "text": "并发",
       "type": "text",
       "width": 260,
-      "x": 1300,
-      "y": 3660
+      "x": 1340,
+      "y": 2550
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "beaa83592337daaa",
+      "styleAttributes": {
+      },
+      "text": "若干个事件在同一时间间隔内发生",
+      "type": "text",
+      "width": 260,
+      "x": 1720,
+      "y": 2470
+    },
+    {
+      "height": 120,
+      "id": "4d733917a0c388da",
+      "styleAttributes": {
+      },
+      "text": "操作系统的异步特征源于多道程序环境下进程因资源限制以不可预知的“走走停停”方式并发执行，但通过进程控制及同步机制确保相同环境下多次运行结果一致。",
+      "type": "text",
+      "width": 360,
+      "x": 1690,
+      "y": 2861
+    },
+    {
+      "height": 60,
+      "id": "4efbd4839926a6e8",
+      "styleAttributes": {
+      },
+      "text": "异步 ",
+      "type": "text",
+      "width": 260,
+      "x": 1340,
+      "y": 2891
+    },
+    {
+      "height": 60,
+      "id": "c6dded12d5c5e6a3",
+      "styleAttributes": {
+      },
+      "text": "虚拟",
+      "type": "text",
+      "width": 260,
+      "x": 1340,
+      "y": 3011
+    },
+    {
+      "height": 60,
+      "id": "4738b851df478bce",
+      "styleAttributes": {
+      },
+      "text": "共享",
+      "type": "text",
+      "width": 260,
+      "x": 1340,
+      "y": 2730
     },
     {
       "color": "4",
@@ -729,7 +668,7 @@
       "type": "text",
       "width": 280,
       "x": 1730,
-      "y": 3350
+      "y": 3560
     },
     {
       "color": "4",
@@ -741,19 +680,65 @@
       "type": "text",
       "width": 260,
       "x": 1740,
-      "y": 3445
+      "y": 3655
     },
     {
       "color": "4",
       "height": 60,
-      "id": "a36a52f1fe28901c",
+      "id": "8171145ff88bd3ab",
       "styleAttributes": {
       },
-      "text": "操作系统是系统资源的管理者\n",
+      "text": "程序",
+      "type": "text",
+      "width": 260,
+      "x": 1740,
+      "y": 3320
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "74797559df23d43d",
+      "styleAttributes": {
+      },
+      "text": "CPU",
+      "type": "text",
+      "width": 260,
+      "x": 1740,
+      "y": 3405
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "823984f1e2212bb4",
+      "styleAttributes": {
+      },
+      "text": "主存",
+      "type": "text",
+      "width": 260,
+      "x": 1740,
+      "y": 3240
+    },
+    {
+      "height": 60,
+      "id": "028a1f5f1cd8031a",
+      "styleAttributes": {
+      },
+      "text": "目态与管态（双机工作模式）",
       "type": "text",
       "width": 300,
+      "x": 900,
+      "y": 3870
+    },
+    {
+      "height": 60,
+      "id": "1ba03cbc16d343f1",
+      "styleAttributes": {
+      },
+      "text": "简述",
+      "type": "text",
+      "width": 260,
       "x": 1300,
-      "y": 3110
+      "y": 3870
     },
     {
       "color": "4",
@@ -765,7 +750,7 @@
       "type": "text",
       "width": 260,
       "x": 1300,
-      "y": 3505
+      "y": 3715
     },
     {
       "color": "4",
@@ -777,7 +762,7 @@
       "type": "text",
       "width": 260,
       "x": 1300,
-      "y": 3410
+      "y": 3620
     },
     {
       "height": 60,
@@ -788,6 +773,18 @@
       "type": "text",
       "width": 260,
       "x": 900,
+      "y": 3530
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "a36a52f1fe28901c",
+      "styleAttributes": {
+      },
+      "text": "操作系统是系统资源的管理者\n",
+      "type": "text",
+      "width": 300,
+      "x": 1300,
       "y": 3320
     },
     {
@@ -801,43 +798,55 @@
       "type": "text",
       "width": 260,
       "x": 1320,
-      "y": 3240
+      "y": 3450
     },
     {
-      "color": "4",
-      "height": 60,
-      "id": "8171145ff88bd3ab",
+      "color": "5",
+      "height": 524,
+      "id": "07b5962a07215f75",
       "styleAttributes": {
       },
-      "text": "程序",
+      "text": "注意：\n\n1. 区分是否抢占\n2. 抢占的方式是什么\n3. 时间关系图\n\t- 横轴时间\n\t- 纵轴作业ABC\n\n利用率计算 = $\\frac{cpu时间}{总时间}$",
       "type": "text",
-      "width": 260,
-      "x": 1740,
-      "y": 3110
+      "width": 420,
+      "x": 2600,
+      "y": 2547
     },
     {
-      "color": "4",
-      "height": 60,
-      "id": "74797559df23d43d",
+      "color": "5",
+      "file": "操作系统SWPU/attachment/时间关系图1.png",
+      "height": 133,
+      "id": "897c8d59e24f511c",
       "styleAttributes": {
       },
-      "text": "CPU",
-      "type": "text",
-      "width": 260,
-      "x": 1740,
-      "y": 3195
+      "type": "file",
+      "width": 400,
+      "x": 2180,
+      "y": 2547
     },
     {
-      "color": "4",
-      "height": 60,
-      "id": "823984f1e2212bb4",
+      "color": "5",
+      "file": "操作系统SWPU/attachment/时间关系图2.png",
+      "height": 120,
+      "id": "370067ece4605edb",
       "styleAttributes": {
       },
-      "text": "主存",
-      "type": "text",
-      "width": 260,
-      "x": 1740,
-      "y": 3030
+      "type": "file",
+      "width": 400,
+      "x": 2180,
+      "y": 2740
+    },
+    {
+      "color": "5",
+      "file": "操作系统SWPU/attachment/时间关系图3.png",
+      "height": 122,
+      "id": "b4b33f76890cab95",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 2180,
+      "y": 2949
     }
   ]
 }
