@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "操作系统SWPU/知识点分析.canvas",
-                "viewState": {
-                  "x": 4700,
-                  "y": 6560.362976573831,
-                  "zoom": -0.2184235191335025
-                }
+                "file": "操作系统SWPU/操作系统错题-龙/Mook.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "知识点分析"
+              "icon": "lucide-file",
+              "title": "Mook"
             }
           }
         ]
@@ -96,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625,
-    "collapsed": true
+    "width": 227.50152587890625
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -185,8 +181,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "README.md",
+    "操作系统SWPU/操作系统错题-龙/雨课堂.md",
     "操作系统SWPU/知识点分析.canvas",
+    "操作系统SWPU/操作系统错题-龙/Mook.md",
+    "操作系统SWPU/操作系统错题-龙",
+    "README.md",
     "操作系统SWPU/attachment/七状态模型.png",
     "操作系统SWPU/进程.md",
     "操作系统SWPU/attachment/前驱图.png",
@@ -229,11 +228,8 @@
     "区块链/PoS股权证明共识机制.md",
     "区块链.zip",
     "区块链/NetWorks.md",
-    "区块链/EVM以太坊虚拟机.md",
-    "区块链/Block区块.md",
     "后端",
     "大挑",
-    "大创/App 1-C.emmx.ixikkd",
     "高等数学/高等数学.canvas",
     "未命名.canvas",
     "论文/文章思路.canvas",
