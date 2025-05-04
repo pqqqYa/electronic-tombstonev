@@ -498,18 +498,6 @@
       "y": 1025
     },
     {
-      "color": "4",
-      "height": 60,
-      "id": "beaa83592337daaa",
-      "styleAttributes": {
-      },
-      "text": "若干个事件在同一时间间隔内发生",
-      "type": "text",
-      "width": 260,
-      "x": 1720,
-      "y": 2470
-    },
-    {
       "file": "操作系统SWPU/attachment/第九章.png",
       "height": 223,
       "id": "6333b8b1a96594ef",
@@ -519,50 +507,6 @@
       "width": 400,
       "x": -879,
       "y": 2818
-    },
-    {
-      "height": 60,
-      "id": "e0865a4a1bf588b0",
-      "styleAttributes": {
-      },
-      "text": "概述",
-      "type": "text",
-      "width": 160,
-      "x": 480,
-      "y": 2520
-    },
-    {
-      "height": 60,
-      "id": "c5987742d8d6fa0d",
-      "styleAttributes": {
-      },
-      "text": "4特征",
-      "type": "text",
-      "width": 260,
-      "x": 900,
-      "y": 2760
-    },
-    {
-      "height": 60,
-      "id": "646bbab61ef253a0",
-      "styleAttributes": {
-      },
-      "text": "并发",
-      "type": "text",
-      "width": 260,
-      "x": 1340,
-      "y": 2550
-    },
-    {
-      "height": 120,
-      "id": "4d733917a0c388da",
-      "styleAttributes": {
-      },
-      "text": "操作系统的异步特征源于多道程序环境下进程因资源限制以不可预知的“走走停停”方式并发执行，但通过进程控制及同步机制确保相同环境下多次运行结果一致。",
-      "type": "text",
-      "width": 360,
-      "x": 1690,
-      "y": 2861
     },
     {
       "color": "5",
@@ -577,42 +521,6 @@
       "y": 2547
     },
     {
-      "color": "5",
-      "file": "操作系统SWPU/attachment/时间关系图1.png",
-      "height": 133,
-      "id": "897c8d59e24f511c",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 2180,
-      "y": 2547
-    },
-    {
-      "color": "5",
-      "file": "操作系统SWPU/attachment/时间关系图2.png",
-      "height": 120,
-      "id": "370067ece4605edb",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 2180,
-      "y": 2740
-    },
-    {
-      "color": "5",
-      "file": "操作系统SWPU/attachment/时间关系图3.png",
-      "height": 122,
-      "id": "b4b33f76890cab95",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 2180,
-      "y": 2949
-    },
-    {
       "height": 240,
       "id": "8b6625b3c8b623fe",
       "styleAttributes": {
@@ -622,17 +530,6 @@
       "width": 580,
       "x": 870,
       "y": 1050
-    },
-    {
-      "height": 60,
-      "id": "a97b7fc22b6084a9",
-      "styleAttributes": {
-      },
-      "text": "发展",
-      "type": "text",
-      "width": 260,
-      "x": 870,
-      "y": 2120
     },
     {
       "height": 60,
@@ -655,17 +552,6 @@
       "width": 260,
       "x": 1320,
       "y": 2030
-    },
-    {
-      "height": 60,
-      "id": "efca2fbf1be1ca34",
-      "styleAttributes": {
-      },
-      "text": "动力",
-      "type": "text",
-      "width": 260,
-      "x": 1320,
-      "y": 2230
     },
     {
       "height": 60,
@@ -750,17 +636,6 @@
       "y": 1490
     },
     {
-      "height": 60,
-      "id": "1ba03cbc16d343f1",
-      "styleAttributes": {
-      },
-      "text": "简述",
-      "type": "text",
-      "width": 260,
-      "x": 1320,
-      "y": 4180
-    },
-    {
       "color": "4",
       "height": 340,
       "id": "979e60438fb5d9c9",
@@ -842,6 +717,30 @@
     {
       "color": "4",
       "height": 60,
+      "id": "ef59cc614e3dfccd",
+      "styleAttributes": {
+      },
+      "text": "中断和异常处理",
+      "type": "text",
+      "width": 260,
+      "x": 860,
+      "y": 5660
+    },
+    {
+      "color": "4",
+      "height": 100,
+      "id": "8d61fe0ec82280a0",
+      "styleAttributes": {
+      },
+      "text": "计算机系统中判断是否有中断事件发生应该在执行完一条指令后",
+      "type": "text",
+      "width": 260,
+      "x": 1260,
+      "y": 5540
+    },
+    {
+      "color": "4",
+      "height": 60,
       "id": "a36a52f1fe28901c",
       "styleAttributes": {
       },
@@ -903,18 +802,6 @@
     {
       "color": "4",
       "height": 60,
-      "id": "fd136e9ac393c164",
-      "styleAttributes": {
-      },
-      "text": "用户程序的输入和输出操作实际上由os完成",
-      "type": "text",
-      "width": 260,
-      "x": 1730,
-      "y": 3935
-    },
-    {
-      "color": "4",
-      "height": 60,
       "id": "8171145ff88bd3ab",
       "styleAttributes": {
       },
@@ -939,26 +826,162 @@
     {
       "color": "4",
       "height": 60,
-      "id": "ef59cc614e3dfccd",
+      "id": "823984f1e2212bb4",
       "styleAttributes": {
       },
-      "text": "中断和异常处理",
+      "text": "主存",
       "type": "text",
       "width": 260,
-      "x": 860,
-      "y": 5660
+      "x": 1730,
+      "y": 3520
+    },
+    {
+      "height": 60,
+      "id": "bee924a9c3aef1ce",
+      "styleAttributes": {
+      },
+      "text": "功能",
+      "type": "text",
+      "width": 260,
+      "x": 890,
+      "y": 3810
     },
     {
       "color": "4",
-      "height": 100,
-      "id": "8d61fe0ec82280a0",
+      "height": 60,
+      "id": "beaa83592337daaa",
       "styleAttributes": {
       },
-      "text": "计算机系统中判断是否有中断事件发生应该在执行完一条指令后",
+      "text": "若干个事件在同一时间间隔内发生",
       "type": "text",
       "width": 260,
-      "x": 1260,
-      "y": 5540
+      "x": 1720,
+      "y": 2470
+    },
+    {
+      "height": 60,
+      "id": "646bbab61ef253a0",
+      "styleAttributes": {
+      },
+      "text": "并发",
+      "type": "text",
+      "width": 260,
+      "x": 1340,
+      "y": 2550
+    },
+    {
+      "height": 120,
+      "id": "4d733917a0c388da",
+      "styleAttributes": {
+      },
+      "text": "操作系统的异步特征源于多道程序环境下进程因资源限制以不可预知的“走走停停”方式并发执行，但通过进程控制及同步机制确保相同环境下多次运行结果一致。",
+      "type": "text",
+      "width": 360,
+      "x": 1690,
+      "y": 2861
+    },
+    {
+      "color": "5",
+      "file": "操作系统SWPU/attachment/时间关系图1.png",
+      "height": 133,
+      "id": "897c8d59e24f511c",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 2180,
+      "y": 2547
+    },
+    {
+      "color": "5",
+      "file": "操作系统SWPU/attachment/时间关系图2.png",
+      "height": 120,
+      "id": "370067ece4605edb",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 2180,
+      "y": 2740
+    },
+    {
+      "color": "5",
+      "file": "操作系统SWPU/attachment/时间关系图3.png",
+      "height": 122,
+      "id": "b4b33f76890cab95",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 2180,
+      "y": 2949
+    },
+    {
+      "height": 60,
+      "id": "a97b7fc22b6084a9",
+      "styleAttributes": {
+      },
+      "text": "发展",
+      "type": "text",
+      "width": 260,
+      "x": 870,
+      "y": 2120
+    },
+    {
+      "height": 60,
+      "id": "1ba03cbc16d343f1",
+      "styleAttributes": {
+      },
+      "text": "简述",
+      "type": "text",
+      "width": 260,
+      "x": 1320,
+      "y": 4180
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "fd136e9ac393c164",
+      "styleAttributes": {
+      },
+      "text": "用户程序的输入和输出操作实际上由os完成",
+      "type": "text",
+      "width": 260,
+      "x": 1730,
+      "y": 3935
+    },
+    {
+      "height": 60,
+      "id": "e0865a4a1bf588b0",
+      "styleAttributes": {
+      },
+      "text": "概述",
+      "type": "text",
+      "width": 160,
+      "x": 480,
+      "y": 2520
+    },
+    {
+      "height": 60,
+      "id": "c5987742d8d6fa0d",
+      "styleAttributes": {
+      },
+      "text": "4特征",
+      "type": "text",
+      "width": 260,
+      "x": 900,
+      "y": 2760
+    },
+    {
+      "height": 60,
+      "id": "efca2fbf1be1ca34",
+      "styleAttributes": {
+      },
+      "text": "动力",
+      "type": "text",
+      "width": 260,
+      "x": 1320,
+      "y": 2230
     },
     {
       "color": "5",
@@ -1004,29 +1027,6 @@
       "width": 260,
       "x": 1340,
       "y": 2730
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "823984f1e2212bb4",
-      "styleAttributes": {
-      },
-      "text": "主存",
-      "type": "text",
-      "width": 260,
-      "x": 1730,
-      "y": 3520
-    },
-    {
-      "height": 60,
-      "id": "bee924a9c3aef1ce",
-      "styleAttributes": {
-      },
-      "text": "功能",
-      "type": "text",
-      "width": 260,
-      "x": 890,
-      "y": 3810
     }
   ]
 }
