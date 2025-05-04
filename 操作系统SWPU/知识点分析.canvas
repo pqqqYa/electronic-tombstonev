@@ -318,6 +318,42 @@
       },
       "toNode": "5ec06531c42d47a1",
       "toSide": "left"
+    },
+    {
+      "fromNode": "e0865a4a1bf588b0",
+      "fromSide": "right",
+      "id": "d1440e30912bce5f",
+      "styleAttributes": {
+      },
+      "toNode": "2bc65c1b1e1274bc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "2bc65c1b1e1274bc",
+      "fromSide": "right",
+      "id": "5ffafe815a758775",
+      "styleAttributes": {
+      },
+      "toNode": "b738c53a1632b2fd",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e0865a4a1bf588b0",
+      "fromSide": "right",
+      "id": "c95eee569a2e068c",
+      "styleAttributes": {
+      },
+      "toNode": "ef59cc614e3dfccd",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ef59cc614e3dfccd",
+      "fromSide": "right",
+      "id": "198de6d3afb104ab",
+      "styleAttributes": {
+      },
+      "toNode": "8d61fe0ec82280a0",
+      "toSide": "left"
     }
   ],
   "nodes": [
@@ -600,17 +636,6 @@
       "y": 2949
     },
     {
-      "height": 60,
-      "id": "028a1f5f1cd8031a",
-      "styleAttributes": {
-      },
-      "text": "目态与管态（双机工作模式）",
-      "type": "text",
-      "width": 300,
-      "x": 890,
-      "y": 4310
-    },
-    {
       "color": "4",
       "height": 60,
       "id": "a36a52f1fe28901c",
@@ -731,63 +756,6 @@
       "y": 3810
     },
     {
-      "height": 60,
-      "id": "879f83fd8b791043",
-      "styleAttributes": {
-      },
-      "text": "脱机输入/输出技术",
-      "type": "text",
-      "width": 260,
-      "x": 2200,
-      "y": 1530
-    },
-    {
-      "height": 60,
-      "id": "1d1da7b457acc7a8",
-      "styleAttributes": {
-      },
-      "text": "联机输入/输出技术",
-      "type": "text",
-      "width": 260,
-      "x": 2680,
-      "y": 1530
-    },
-    {
-      "height": 60,
-      "id": "38eeed694d95a7fb",
-      "styleAttributes": {
-      },
-      "text": "单道批处理系统",
-      "type": "text",
-      "width": 260,
-      "x": 1760,
-      "y": 1530
-    },
-    {
-      "color": "4",
-      "height": 190,
-      "id": "a28a8b1ea8aea908",
-      "styleAttributes": {
-      },
-      "text": "实时操作系统：\n1. 响应时间的重要性超过协同资源的利用率\n2. 规定时间内处理来自外部的事件\n3. 必须既要及时响应、快速处理，又要有高可靠性和安全性",
-      "type": "text",
-      "width": 440,
-      "x": 1760,
-      "y": 1610
-    },
-    {
-      "color": "4",
-      "height": 160,
-      "id": "be14fdac86e15602",
-      "styleAttributes": {
-      },
-      "text": "分时操作系统：\n1. 允许在一台主机上同时连接多个终端，各个用户可以通过各自的终端交互使用计算机\n2. 用户数越多，则响应时间越长",
-      "type": "text",
-      "width": 440,
-      "x": 1760,
-      "y": 1840
-    },
-    {
       "height": 240,
       "id": "8b6625b3c8b623fe",
       "styleAttributes": {
@@ -822,50 +790,6 @@
     },
     {
       "height": 60,
-      "id": "b7481f88b21e67c2",
-      "styleAttributes": {
-      },
-      "text": "与硬件、软件、用户之间的关系",
-      "type": "text",
-      "width": 260,
-      "x": 870,
-      "y": 1630
-    },
-    {
-      "height": 60,
-      "id": "a97b7fc22b6084a9",
-      "styleAttributes": {
-      },
-      "text": "发展",
-      "type": "text",
-      "width": 260,
-      "x": 870,
-      "y": 1810
-    },
-    {
-      "height": 60,
-      "id": "b17c936965a6dc44",
-      "styleAttributes": {
-      },
-      "text": "阶段",
-      "type": "text",
-      "width": 260,
-      "x": 1320,
-      "y": 1720
-    },
-    {
-      "height": 60,
-      "id": "efca2fbf1be1ca34",
-      "styleAttributes": {
-      },
-      "text": "动力",
-      "type": "text",
-      "width": 260,
-      "x": 1320,
-      "y": 1920
-    },
-    {
-      "height": 60,
       "id": "1ba03cbc16d343f1",
       "styleAttributes": {
       },
@@ -876,26 +800,184 @@
       "y": 4180
     },
     {
+      "color": "4",
       "height": 340,
       "id": "979e60438fb5d9c9",
       "styleAttributes": {
       },
-      "text": "管态\n\n1. 执行输入输出指令",
+      "text": "管态\n\n1. 执行输入输出指令\n2. CPU执行操作系统代码",
       "type": "text",
       "width": 480,
       "x": 1320,
       "y": 4320
     },
     {
-      "height": 60,
+      "color": "4",
+      "height": 240,
       "id": "5ec06531c42d47a1",
       "styleAttributes": {
       },
-      "text": "目态",
+      "text": "目态\n\n1. 算术运算指令\n2. 把运算结果送入内存的指令\n3. 从内存取数的内存",
+      "type": "text",
+      "width": 480,
+      "x": 1320,
+      "y": 4720
+    },
+    {
+      "height": 60,
+      "id": "028a1f5f1cd8031a",
+      "styleAttributes": {
+      },
+      "text": "目态与管态（双机工作模式）",
+      "type": "text",
+      "width": 300,
+      "x": 870,
+      "y": 4460
+    },
+    {
+      "height": 60,
+      "id": "a97b7fc22b6084a9",
+      "styleAttributes": {
+      },
+      "text": "发展",
+      "type": "text",
+      "width": 260,
+      "x": 870,
+      "y": 2120
+    },
+    {
+      "height": 60,
+      "id": "b17c936965a6dc44",
+      "styleAttributes": {
+      },
+      "text": "阶段",
       "type": "text",
       "width": 260,
       "x": 1320,
-      "y": 4720
+      "y": 2030
+    },
+    {
+      "height": 60,
+      "id": "efca2fbf1be1ca34",
+      "styleAttributes": {
+      },
+      "text": "动力",
+      "type": "text",
+      "width": 260,
+      "x": 1320,
+      "y": 2230
+    },
+    {
+      "height": 60,
+      "id": "38eeed694d95a7fb",
+      "styleAttributes": {
+      },
+      "text": "单道批处理系统",
+      "type": "text",
+      "width": 260,
+      "x": 1760,
+      "y": 1840
+    },
+    {
+      "color": "4",
+      "height": 190,
+      "id": "a28a8b1ea8aea908",
+      "styleAttributes": {
+      },
+      "text": "实时操作系统：\n1. 响应时间的重要性超过协同资源的利用率\n2. 规定时间内处理来自外部的事件\n3. 必须既要及时响应、快速处理，又要有高可靠性和安全性",
+      "type": "text",
+      "width": 440,
+      "x": 1760,
+      "y": 1920
+    },
+    {
+      "color": "4",
+      "height": 160,
+      "id": "be14fdac86e15602",
+      "styleAttributes": {
+      },
+      "text": "分时操作系统：\n1. 允许在一台主机上同时连接多个终端，各个用户可以通过各自的终端交互使用计算机\n2. 用户数越多，则响应时间越长",
+      "type": "text",
+      "width": 440,
+      "x": 1760,
+      "y": 2150
+    },
+    {
+      "height": 60,
+      "id": "879f83fd8b791043",
+      "styleAttributes": {
+      },
+      "text": "脱机输入/输出技术",
+      "type": "text",
+      "width": 260,
+      "x": 2200,
+      "y": 1840
+    },
+    {
+      "height": 60,
+      "id": "b7481f88b21e67c2",
+      "styleAttributes": {
+      },
+      "text": "与硬件、软件、用户之间的关系",
+      "type": "text",
+      "width": 260,
+      "x": 870,
+      "y": 1640
+    },
+    {
+      "height": 60,
+      "id": "1d1da7b457acc7a8",
+      "styleAttributes": {
+      },
+      "text": "联机输入/输出技术",
+      "type": "text",
+      "width": 260,
+      "x": 2640,
+      "y": 1840
+    },
+    {
+      "height": 60,
+      "id": "2bc65c1b1e1274bc",
+      "styleAttributes": {
+      },
+      "text": "特权指令与非特权指令",
+      "type": "text",
+      "width": 260,
+      "x": 870,
+      "y": 5240
+    },
+    {
+      "height": 180,
+      "id": "b738c53a1632b2fd",
+      "styleAttributes": {
+      },
+      "text": "特权指令\n\n1. 其执行可能有损系统的安全性",
+      "type": "text",
+      "width": 380,
+      "x": 1370,
+      "y": 5060
+    },
+    {
+      "height": 60,
+      "id": "ef59cc614e3dfccd",
+      "styleAttributes": {
+      },
+      "text": "中断和异常处理",
+      "type": "text",
+      "width": 260,
+      "x": 860,
+      "y": 5660
+    },
+    {
+      "height": 120,
+      "id": "8d61fe0ec82280a0",
+      "styleAttributes": {
+      },
+      "text": "计算机系统中判断是否有中断事件发生应该在",
+      "type": "text",
+      "width": 260,
+      "x": 1260,
+      "y": 5540
     }
   ]
 }
