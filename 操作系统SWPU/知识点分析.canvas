@@ -354,6 +354,24 @@
       },
       "toNode": "8d61fe0ec82280a0",
       "toSide": "left"
+    },
+    {
+      "fromNode": "b17c936965a6dc44",
+      "fromSide": "right",
+      "id": "05fd6a492c01ee0a",
+      "styleAttributes": {
+      },
+      "toNode": "9c3eb2aaf8df3c45",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b17c936965a6dc44",
+      "fromSide": "right",
+      "id": "3a85cc2c79d11e00",
+      "styleAttributes": {
+      },
+      "toNode": "ba01caf30d0de1a5",
+      "toSide": "left"
     }
   ],
   "nodes": [
@@ -850,7 +868,7 @@
       "id": "b17c936965a6dc44",
       "styleAttributes": {
       },
-      "text": "阶段",
+      "text": "阶段/分类",
       "type": "text",
       "width": 260,
       "x": 1320,
@@ -869,52 +887,6 @@
     },
     {
       "height": 60,
-      "id": "38eeed694d95a7fb",
-      "styleAttributes": {
-      },
-      "text": "单道批处理系统",
-      "type": "text",
-      "width": 260,
-      "x": 1760,
-      "y": 1840
-    },
-    {
-      "color": "4",
-      "height": 190,
-      "id": "a28a8b1ea8aea908",
-      "styleAttributes": {
-      },
-      "text": "实时操作系统：\n1. 响应时间的重要性超过协同资源的利用率\n2. 规定时间内处理来自外部的事件\n3. 必须既要及时响应、快速处理，又要有高可靠性和安全性",
-      "type": "text",
-      "width": 440,
-      "x": 1760,
-      "y": 1920
-    },
-    {
-      "color": "4",
-      "height": 160,
-      "id": "be14fdac86e15602",
-      "styleAttributes": {
-      },
-      "text": "分时操作系统：\n1. 允许在一台主机上同时连接多个终端，各个用户可以通过各自的终端交互使用计算机\n2. 用户数越多，则响应时间越长",
-      "type": "text",
-      "width": 440,
-      "x": 1760,
-      "y": 2150
-    },
-    {
-      "height": 60,
-      "id": "879f83fd8b791043",
-      "styleAttributes": {
-      },
-      "text": "脱机输入/输出技术",
-      "type": "text",
-      "width": 260,
-      "x": 2200,
-      "y": 1840
-    },
-    {
-      "height": 60,
       "id": "b7481f88b21e67c2",
       "styleAttributes": {
       },
@@ -923,17 +895,6 @@
       "width": 260,
       "x": 870,
       "y": 1640
-    },
-    {
-      "height": 60,
-      "id": "1d1da7b457acc7a8",
-      "styleAttributes": {
-      },
-      "text": "联机输入/输出技术",
-      "type": "text",
-      "width": 260,
-      "x": 2640,
-      "y": 1840
     },
     {
       "height": 60,
@@ -958,6 +919,7 @@
       "y": 5060
     },
     {
+      "color": "4",
       "height": 60,
       "id": "ef59cc614e3dfccd",
       "styleAttributes": {
@@ -969,15 +931,96 @@
       "y": 5660
     },
     {
-      "height": 120,
+      "color": "4",
+      "height": 100,
       "id": "8d61fe0ec82280a0",
       "styleAttributes": {
       },
-      "text": "计算机系统中判断是否有中断事件发生应该在",
+      "text": "计算机系统中判断是否有中断事件发生应该在执行完一条指令后",
       "type": "text",
       "width": 260,
       "x": 1260,
       "y": 5540
+    },
+    {
+      "height": 60,
+      "id": "38eeed694d95a7fb",
+      "styleAttributes": {
+      },
+      "text": "单道批处理系统",
+      "type": "text",
+      "width": 260,
+      "x": 1800,
+      "y": 1380
+    },
+    {
+      "color": "4",
+      "height": 190,
+      "id": "a28a8b1ea8aea908",
+      "styleAttributes": {
+      },
+      "text": "实时操作系统：\n1. 响应时间的重要性超过协同资源的利用率\n2. 规定时间内处理来自外部的事件\n3. 必须既要及时响应、快速处理，又要有高可靠性和安全性",
+      "type": "text",
+      "width": 440,
+      "x": 1800,
+      "y": 1460
+    },
+    {
+      "color": "4",
+      "height": 160,
+      "id": "be14fdac86e15602",
+      "styleAttributes": {
+      },
+      "text": "分时操作系统：\n1. 允许在一台主机上同时连接多个终端，各个用户可以通过各自的终端交互使用计算机\n2. 用户数越多，则响应时间越长",
+      "type": "text",
+      "width": 440,
+      "x": 1800,
+      "y": 1690
+    },
+    {
+      "height": 60,
+      "id": "879f83fd8b791043",
+      "styleAttributes": {
+      },
+      "text": "脱机输入/输出技术",
+      "type": "text",
+      "width": 260,
+      "x": 2240,
+      "y": 1380
+    },
+    {
+      "height": 60,
+      "id": "1d1da7b457acc7a8",
+      "styleAttributes": {
+      },
+      "text": "联机输入/输出技术",
+      "type": "text",
+      "width": 260,
+      "x": 2680,
+      "y": 1380
+    },
+    {
+      "color": "4",
+      "height": 240,
+      "id": "9c3eb2aaf8df3c45",
+      "styleAttributes": {
+      },
+      "text": "嵌入式系统\n\n1. Vxworks和Linux都是嵌入式OS\n2. 掌上计算机是基于系统小型化需求出现，而嵌入式系统主要是基于智能化需求\n3. 嵌入式系统的安全需以**系统整体为核心**\n4. 掌上计算机OS可以有众多第三方应用，而嵌入式OS的应用是少数可信软件，固化在ROM中",
+      "type": "text",
+      "width": 480,
+      "x": 1800,
+      "y": 1900
+    },
+    {
+      "height": 90,
+      "id": "ba01caf30d0de1a5",
+      "styleAttributes": {
+      },
+      "text": "传感器节点OS\n\n- 无人智能守卫",
+      "type": "text",
+      "width": 440,
+      "x": 1800,
+      "y": 2200
     }
   ]
 }
