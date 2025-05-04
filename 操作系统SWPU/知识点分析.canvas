@@ -406,6 +406,7 @@
       "fromSide": "right",
       "id": "5c490bec44aaae85",
       "styleAttributes": {
+        "path": "dotted"
       },
       "toNode": "a1faab903ef9773d",
       "toSide": "left"
@@ -416,6 +417,7 @@
       "fromSide": "right",
       "id": "d3eebf6086fe4dd3",
       "styleAttributes": {
+        "path": "dotted"
       },
       "toNode": "a1faab903ef9773d",
       "toSide": "left"
@@ -435,9 +437,31 @@
       "fromSide": "right",
       "id": "2d324c4f3e3daa5d",
       "styleAttributes": {
+        "path": "dotted"
       },
       "toNode": "a1faab903ef9773d",
       "toSide": "left"
+    },
+    {
+      "fromNode": "b17c936965a6dc44",
+      "fromSide": "right",
+      "id": "d2b404d220d9df17",
+      "styleAttributes": {
+      },
+      "toNode": "62617354cd851d1c",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromNode": "b37efa36aa8f991f",
+      "fromSide": "bottom",
+      "id": "dfd8c7b7086b521e",
+      "label": "极大提高可靠性，满足关键任务需求",
+      "styleAttributes": {
+        "path": "dotted"
+      },
+      "toNode": "62617354cd851d1c",
+      "toSide": "top"
     }
   ],
   "nodes": [
@@ -689,17 +713,6 @@
       "width": 260,
       "x": 870,
       "y": 1640
-    },
-    {
-      "height": 60,
-      "id": "b17c936965a6dc44",
-      "styleAttributes": {
-      },
-      "text": "阶段/分类",
-      "type": "text",
-      "width": 260,
-      "x": 1320,
-      "y": 2030
     },
     {
       "height": 60,
@@ -1095,28 +1108,6 @@
     },
     {
       "color": "4",
-      "height": 60,
-      "id": "a1faab903ef9773d",
-      "styleAttributes": {
-      },
-      "text": "Linux",
-      "type": "text",
-      "width": 120,
-      "x": 2460,
-      "y": 1605
-    },
-    {
-      "height": 60,
-      "id": "b37efa36aa8f991f",
-      "styleAttributes": {
-      },
-      "text": "服务器OS",
-      "type": "text",
-      "width": 260,
-      "x": 2050,
-      "y": 2040
-    },
-    {
       "height": 100,
       "id": "966b471b99df8140",
       "styleAttributes": {
@@ -1129,18 +1120,42 @@
     },
     {
       "color": "4",
-      "height": 90,
+      "height": 250,
       "id": "ba01caf30d0de1a5",
       "styleAttributes": {
-        "border": "dashed"
+        "border": null
       },
-      "text": "传感器节点OS\n\n- 无人智能守卫",
+      "text": "传感器节点OS\n\n- 无人智能守卫\n- 传感器节点OS工作可为事件驱动和时钟周期触发两种\n\n\n  \n传感器节点\n\n-  传感器节点可理解为一个小型计算机\n-  传感器节点因为RAM小，故OS一般比较简单",
       "type": "text",
-      "width": 480,
+      "width": 510,
       "x": 2430,
       "y": 1265
     },
     {
+      "height": 60,
+      "id": "b17c936965a6dc44",
+      "styleAttributes": {
+      },
+      "text": "阶段/分类",
+      "type": "text",
+      "width": 260,
+      "x": 1260,
+      "y": 1605
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "b37efa36aa8f991f",
+      "styleAttributes": {
+      },
+      "text": "服务器OS",
+      "type": "text",
+      "width": 260,
+      "x": 1950,
+      "y": 2040
+    },
+    {
+      "color": "4",
       "height": 60,
       "id": "c88e015b90b4c2b0",
       "styleAttributes": {
@@ -1148,8 +1163,32 @@
       "text": "微机OS",
       "type": "text",
       "width": 260,
-      "x": 2040,
+      "x": 1940,
       "y": 1860
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "a1faab903ef9773d",
+      "styleAttributes": {
+      },
+      "text": "采用：Linux",
+      "type": "text",
+      "width": 160,
+      "x": 2460,
+      "y": 1860
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "62617354cd851d1c",
+      "styleAttributes": {
+      },
+      "text": "大型机OS",
+      "type": "text",
+      "width": 260,
+      "x": 1950,
+      "y": 2260
     }
   ]
 }
