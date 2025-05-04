@@ -614,22 +614,37 @@
       "y": 2460
     },
     {
-      "height": 1400,
-      "id": "25c7be33ad132363",
-      "label": "进程状态",
-      "type": "group",
-      "width": 1331,
-      "x": 4780,
-      "y": 3680
-    },
-    {
       "height": 1260,
       "id": "61c92619b74397de",
       "label": "线程",
+      "styleAttributes": {
+      },
       "type": "group",
       "width": 1200,
       "x": 4240,
       "y": 5780
+    },
+    {
+      "height": 440,
+      "id": "3d3cc273bb03acca",
+      "label": "通信机制",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 860,
+      "x": 4240,
+      "y": 5160
+    },
+    {
+      "height": 1400,
+      "id": "25c7be33ad132363",
+      "label": "进程状态",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1331,
+      "x": 4780,
+      "y": 3680
     },
     {
       "height": 575,
@@ -653,15 +668,6 @@
       "width": 980,
       "x": 2160,
       "y": 2520
-    },
-    {
-      "height": 440,
-      "id": "3d3cc273bb03acca",
-      "label": "通信机制",
-      "type": "group",
-      "width": 860,
-      "x": 4240,
-      "y": 5160
     },
     {
       "file": "操作系统SWPU/attachment/第四章习题.png",
@@ -1479,6 +1485,8 @@
       "file": "操作系统SWPU/attachment/七状态模型.png",
       "height": 460,
       "id": "bb9d8ce5ee04b04b",
+      "styleAttributes": {
+      },
       "type": "file",
       "width": 1291,
       "x": 4800,
@@ -1530,6 +1538,17 @@
     },
     {
       "height": 60,
+      "id": "16bd0fe3078f6ba0",
+      "styleAttributes": {
+      },
+      "text": "　进程的描述与控制",
+      "type": "text",
+      "width": 260,
+      "x": 3520,
+      "y": 4200
+    },
+    {
+      "height": 60,
       "id": "3b46b673bc671b1f",
       "styleAttributes": {
       },
@@ -1549,17 +1568,6 @@
       "width": 820,
       "x": 4260,
       "y": 5180
-    },
-    {
-      "height": 60,
-      "id": "16bd0fe3078f6ba0",
-      "styleAttributes": {
-      },
-      "text": "　进程的描述与控制",
-      "type": "text",
-      "width": 260,
-      "x": 3520,
-      "y": 4200
     },
     {
       "height": 340,
