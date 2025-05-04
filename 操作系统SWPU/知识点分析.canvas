@@ -278,15 +278,6 @@
       "y": 2340
     },
     {
-      "height": 280,
-      "id": "0bac9664d209dad2",
-      "label": "未命名组",
-      "type": "group",
-      "width": 720,
-      "x": 1240,
-      "y": 3080
-    },
-    {
       "file": "操作系统SWPU/attachment/第四章习题.png",
       "height": 230,
       "id": "262e7e6e6b73cc2b",
@@ -398,28 +389,6 @@
     },
     {
       "height": 60,
-      "id": "4efbd4839926a6e8",
-      "styleAttributes": {
-      },
-      "text": "异步 ",
-      "type": "text",
-      "width": 260,
-      "x": 1340,
-      "y": 2820
-    },
-    {
-      "height": 60,
-      "id": "c6dded12d5c5e6a3",
-      "styleAttributes": {
-      },
-      "text": "虚拟",
-      "type": "text",
-      "width": 260,
-      "x": 1340,
-      "y": 2940
-    },
-    {
-      "height": 60,
       "id": "49f2cdaad70ef9f2",
       "styleAttributes": {
       },
@@ -475,6 +444,84 @@
     },
     {
       "height": 60,
+      "id": "a97b7fc22b6084a9",
+      "styleAttributes": {
+      },
+      "text": "发展",
+      "type": "text",
+      "width": 260,
+      "x": 900,
+      "y": 2320
+    },
+    {
+      "height": 60,
+      "id": "c5987742d8d6fa0d",
+      "styleAttributes": {
+      },
+      "text": "4特征",
+      "type": "text",
+      "width": 260,
+      "x": 900,
+      "y": 2760
+    },
+    {
+      "height": 240,
+      "id": "8b6625b3c8b623fe",
+      "styleAttributes": {
+      },
+      "text": "OS是一组控制和管理计算机硬件和软件资源、合理地对各类作业进行调度以方便用户 使用计算机的程序集合。\n\n1. 是配置在计算机硬件上的第一层系统软件，是对硬件系统的首次扩 充\n2. 是硬件系统和应用软件间的桥梁\n3. 是用户与计算机硬件进行交互的接口\n4. 是计算机系统资 源的管理者。",
+      "type": "text",
+      "width": 580,
+      "x": 900,
+      "y": 1560
+    },
+    {
+      "height": 60,
+      "id": "38eeed694d95a7fb",
+      "styleAttributes": {
+      },
+      "text": "单道批处理系统",
+      "type": "text",
+      "width": 260,
+      "x": 1760,
+      "y": 1650
+    },
+    {
+      "color": "4",
+      "height": 190,
+      "id": "a28a8b1ea8aea908",
+      "styleAttributes": {
+      },
+      "text": "实时操作系统：\n1. 响应时间的重要性超过协同资源的利用率\n2. 规定时间内处理来自外部的事件\n3. 必须既要及时响应、快速处理，又要有高可靠性和安全性",
+      "type": "text",
+      "width": 440,
+      "x": 1760,
+      "y": 1730
+    },
+    {
+      "height": 60,
+      "id": "4efbd4839926a6e8",
+      "styleAttributes": {
+      },
+      "text": "异步 ",
+      "type": "text",
+      "width": 260,
+      "x": 1340,
+      "y": 2820
+    },
+    {
+      "height": 60,
+      "id": "c6dded12d5c5e6a3",
+      "styleAttributes": {
+      },
+      "text": "虚拟",
+      "type": "text",
+      "width": 260,
+      "x": 1340,
+      "y": 2940
+    },
+    {
+      "height": 60,
       "id": "646bbab61ef253a0",
       "styleAttributes": {
       },
@@ -494,6 +541,65 @@
       "width": 260,
       "x": 1340,
       "y": 2700
+    },
+    {
+      "color": "5",
+      "file": "操作系统SWPU/attachment/时间关系图1.png",
+      "height": 133,
+      "id": "897c8d59e24f511c",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 2180,
+      "y": 2367
+    },
+    {
+      "height": 120,
+      "id": "4d733917a0c388da",
+      "styleAttributes": {
+      },
+      "text": "操作系统的异步特征源于多道程序环境下进程因资源限制以不可预知的“走走停停”方式并发执行，但通过进程控制及同步机制确保相同环境下多次运行结果一致。",
+      "type": "text",
+      "width": 360,
+      "x": 1690,
+      "y": 2790
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "3705fe90fa98fa37",
+      "styleAttributes": {
+      },
+      "text": "单道程序和多道程序",
+      "type": "text",
+      "width": 260,
+      "x": 1720,
+      "y": 2590
+    },
+    {
+      "color": "4",
+      "height": 160,
+      "id": "be14fdac86e15602",
+      "styleAttributes": {
+      },
+      "text": "分时操作系统：\n1. 允许在一台主机上同时连接多个终端，各个用户可以通过各自的终端交互使用计算机\n2. 用户数越多，则响应时间越长",
+      "type": "text",
+      "width": 440,
+      "x": 1760,
+      "y": 1960
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "beaa83592337daaa",
+      "styleAttributes": {
+      },
+      "text": "若干个事件在同一时间间隔内发生",
+      "type": "text",
+      "width": 260,
+      "x": 1720,
+      "y": 2500
     },
     {
       "color": "5",
@@ -518,18 +624,6 @@
       "width": 400,
       "x": 2180,
       "y": 2560
-    },
-    {
-      "color": "5",
-      "file": "操作系统SWPU/attachment/时间关系图1.png",
-      "height": 133,
-      "id": "897c8d59e24f511c",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 2180,
-      "y": 2367
     },
     {
       "color": "5",
@@ -567,62 +661,6 @@
     },
     {
       "height": 60,
-      "id": "a97b7fc22b6084a9",
-      "styleAttributes": {
-      },
-      "text": "发展",
-      "type": "text",
-      "width": 260,
-      "x": 900,
-      "y": 2320
-    },
-    {
-      "height": 60,
-      "id": "c5987742d8d6fa0d",
-      "styleAttributes": {
-      },
-      "text": "4特征",
-      "type": "text",
-      "width": 260,
-      "x": 900,
-      "y": 2760
-    },
-    {
-      "height": 240,
-      "id": "8b6625b3c8b623fe",
-      "styleAttributes": {
-      },
-      "text": "OS是一组控制和管理计算机硬件和软件资源、合理地对各类作业进行调度以方便用户 使用计算机的程序集合。\n\n1. 是配置在计算机硬件上的第一层系统软件，是对硬件系统的首次扩 充\n2. 是硬件系统和应用软件间的桥梁\n3. 是用户与计算机硬件进行交互的接口\n4. 是计算机系统资 源的管理者。",
-      "type": "text",
-      "width": 580,
-      "x": 900,
-      "y": 1560
-    },
-    {
-      "height": 120,
-      "id": "4d733917a0c388da",
-      "styleAttributes": {
-      },
-      "text": "操作系统的异步特征源于多道程序环境下进程因资源限制以不可预知的“走走停停”方式并发执行，但通过进程控制及同步机制确保相同环境下多次运行结果一致。",
-      "type": "text",
-      "width": 360,
-      "x": 1690,
-      "y": 2790
-    },
-    {
-      "color": "5",
-      "height": 60,
-      "id": "3705fe90fa98fa37",
-      "styleAttributes": {
-      },
-      "text": "单道程序和多道程序",
-      "type": "text",
-      "width": 260,
-      "x": 1720,
-      "y": 2590
-    },
-    {
-      "height": 60,
       "id": "879f83fd8b791043",
       "styleAttributes": {
       },
@@ -642,29 +680,6 @@
       "width": 260,
       "x": 2680,
       "y": 1650
-    },
-    {
-      "height": 60,
-      "id": "38eeed694d95a7fb",
-      "styleAttributes": {
-      },
-      "text": "单道批处理系统",
-      "type": "text",
-      "width": 260,
-      "x": 1760,
-      "y": 1650
-    },
-    {
-      "color": "4",
-      "height": 190,
-      "id": "a28a8b1ea8aea908",
-      "styleAttributes": {
-      },
-      "text": "实时操作系统：\n1. 响应时间的重要性超过协同资源的利用率\n2. 规定时间内处理来自外部的事件\n3. 必须既要及时响应、快速处理，又要有高可靠性和安全性",
-      "type": "text",
-      "width": 440,
-      "x": 1760,
-      "y": 1730
     },
     {
       "color": "4",
@@ -689,18 +704,6 @@
       "width": 300,
       "x": 1260,
       "y": 3100
-    },
-    {
-      "color": "4",
-      "height": 160,
-      "id": "be14fdac86e15602",
-      "styleAttributes": {
-      },
-      "text": "分时操作系统：\n1. 允许在一台主机上同时连接多个终端，各个用户可以通过各自的终端交互使用计算机\n2. 用户数越多，则响应时间越长",
-      "type": "text",
-      "width": 440,
-      "x": 1760,
-      "y": 1960
     },
     {
       "color": "4",
@@ -748,18 +751,6 @@
       "width": 260,
       "x": 1670,
       "y": 3245
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "beaa83592337daaa",
-      "styleAttributes": {
-      },
-      "text": "若干个事件在同一时间间隔内发生",
-      "type": "text",
-      "width": 260,
-      "x": 1720,
-      "y": 2500
     }
   ]
 }
