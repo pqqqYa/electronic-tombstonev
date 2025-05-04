@@ -379,6 +379,8 @@
       "height": 870,
       "id": "0460b2c49b35ce2f",
       "label": "4大特征",
+      "styleAttributes": {
+      },
       "type": "group",
       "width": 2320,
       "x": 880,
@@ -388,6 +390,8 @@
       "height": 575,
       "id": "9bdc9531af3894cb",
       "label": "功能",
+      "styleAttributes": {
+      },
       "type": "group",
       "width": 1150,
       "x": 880,
@@ -865,28 +869,6 @@
     },
     {
       "height": 60,
-      "id": "b17c936965a6dc44",
-      "styleAttributes": {
-      },
-      "text": "阶段/分类",
-      "type": "text",
-      "width": 260,
-      "x": 1320,
-      "y": 2030
-    },
-    {
-      "height": 60,
-      "id": "efca2fbf1be1ca34",
-      "styleAttributes": {
-      },
-      "text": "动力",
-      "type": "text",
-      "width": 260,
-      "x": 1320,
-      "y": 2230
-    },
-    {
-      "height": 60,
       "id": "b7481f88b21e67c2",
       "styleAttributes": {
       },
@@ -941,6 +923,28 @@
       "width": 260,
       "x": 1260,
       "y": 5540
+    },
+    {
+      "height": 60,
+      "id": "b17c936965a6dc44",
+      "styleAttributes": {
+      },
+      "text": "阶段/分类",
+      "type": "text",
+      "width": 260,
+      "x": 1320,
+      "y": 2030
+    },
+    {
+      "height": 60,
+      "id": "efca2fbf1be1ca34",
+      "styleAttributes": {
+      },
+      "text": "动力",
+      "type": "text",
+      "width": 260,
+      "x": 1320,
+      "y": 2230
     },
     {
       "height": 60,
