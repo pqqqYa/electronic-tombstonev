@@ -15,9 +15,9 @@
               "state": {
                 "file": "操作系统SWPU/知识点分析.canvas",
                 "viewState": {
-                  "x": 4481.913400892982,
-                  "y": 3057.0680911090694,
-                  "zoom": -0.8257417898720898
+                  "x": 4749.115851638805,
+                  "y": 3727.983679151928,
+                  "zoom": -0.6085805966240299
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -185,6 +185,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "操作系统SWPU/attachment/七状态模型.png",
+    "操作系统SWPU/进程.md",
     "操作系统SWPU/attachment/前驱图.png",
     "操作系统SWPU/知识点分析.canvas",
     "README.md",
@@ -230,7 +232,6 @@
     "区块链/NetWorks.md",
     "区块链/EVM以太坊虚拟机.md",
     "区块链/Block区块.md",
-    "区块链/Account账户.md",
     "后端",
     "大挑",
     "大创/App 1-C.emmx.ixikkd",
