@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "小学期/小学期.canvas",
-                "viewState": {
-                  "x": 1932.9453842825164,
-                  "y": 980.2228901644825,
-                  "zoom": -0.6228205295648432
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "小学期"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -184,8 +181,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "小学期/主体.canvas",
     "小学期/小学期.canvas",
+    "小学期/主体.canvas",
     "README.md",
     "操作系统SWPU/操作系统错题-龙/Mook.md",
     "操作系统SWPU/操作系统错题-龙/雨课堂.md",
