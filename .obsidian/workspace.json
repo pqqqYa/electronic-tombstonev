@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "小学期/小学期.canvas",
+                "viewState": {
+                  "x": 1932.9453842825164,
+                  "y": 980.2228901644825,
+                  "zoom": -0.6228205295648432
+                }
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-layout-dashboard",
+              "title": "小学期"
             }
           }
         ]
@@ -181,6 +184,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "小学期/主体.canvas",
+    "小学期/小学期.canvas",
     "README.md",
     "操作系统SWPU/操作系统错题-龙/Mook.md",
     "操作系统SWPU/操作系统错题-龙/雨课堂.md",
@@ -207,7 +212,6 @@
     "操作系统SWPU/attachment/第六章习题.png",
     "操作系统SWPU/attachment",
     "操作系统课程",
-    "小学期/小学期.canvas",
     "前端/Vue/配置插件.md",
     "前端/Vue/Vue3.md",
     "后端/项目运行逻辑.canvas",
