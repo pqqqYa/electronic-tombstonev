@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "43ea00ab49fbfcbd",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "83ad5979da74440e",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "README"
             }
           }
         ]
@@ -174,7 +178,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "83ad5979da74440e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "前端/Vue/attachment/1696662197101-55d2b251-f6e5-47f4-b3f1-d8531bbf9279.gif",
     "操作系统SWPU/PPT题/习题收集.md",
