@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd9586121d4cbd03",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://www.icourse163.org/.index.jsp.swp",
-                "title": "中国大学MOOC_优质在线课程学习平台",
-                "mode": "webview"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "中国大学MOOC_优质在线课程学习平台"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -179,11 +179,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "bd9586121d4cbd03",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "README.md",
     "小学期/小学期.canvas",
+    "小学期/jwt.md",
+    "小学期/README.md",
+    "小学期/Chat History.md",
     "小学期/主体.canvas",
+    "README.md",
     "操作系统SWPU/操作系统错题-龙/Mook.md",
     "操作系统SWPU/操作系统错题-龙/雨课堂.md",
     "操作系统SWPU/知识点分析.canvas",
@@ -213,7 +216,6 @@
     "前端/Vue/Vue3.md",
     "后端/项目运行逻辑.canvas",
     "小学期.zip",
-    "小学期/jwt.md",
     "小学期/接口文档.md",
     "小学期/接口文档模板.md",
     "小学期/技术选型.md",
@@ -226,9 +228,7 @@
     "测试文件夹/经典同步问题.md",
     "测试文件夹",
     "SCRCU/SCRCU入职考试.md",
-    "区块链/PoS股权证明共识机制.md",
     "区块链.zip",
-    "区块链/NetWorks.md",
     "后端",
     "大挑",
     "高等数学/高等数学.canvas",
