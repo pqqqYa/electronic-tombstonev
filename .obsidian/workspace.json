@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "操作系统SWPU/PPT题/PPT中的题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "PPT中的题"
             }
           }
         ]
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625
+    "width": 227.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -181,12 +182,25 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "操作系统SWPU/PPT题/习题收集.md",
+    "操作系统SWPU/PPT题/PPT中的题.md",
+    "操作系统SWPU/PPT题/attachment/6409065e56631646a00a0558f3c7ae29.png",
+    "操作系统SWPU/PPT题/attachment/70189155c1cea2b91d47c4b5e7be1344.png",
+    "操作系统SWPU/PPT题/attachment/Pasted image 20250505175537.png",
+    "操作系统SWPU/PPT题/attachment/Pasted image 20250506091926.png",
+    "操作系统SWPU/PPT题/attachment/Pasted image 20250506093141.png",
+    "操作系统SWPU/PPT题/attachment/Pasted image 20250506093749.png",
+    "操作系统SWPU/PPT题/attachment/Pasted image 20250506094514.png",
+    "操作系统SWPU/PPT题/attachment/Pasted image 20250506211747.png",
+    "操作系统SWPU/PPT题/attachment/未命名",
+    "操作系统SWPU/PPT题/attachment",
+    "README.md",
+    "操作系统SWPU/PPT题",
     "小学期/小学期.canvas",
     "小学期/jwt.md",
     "小学期/README.md",
     "小学期/Chat History.md",
     "小学期/主体.canvas",
-    "README.md",
     "操作系统SWPU/操作系统错题-龙/Mook.md",
     "操作系统SWPU/操作系统错题-龙/雨课堂.md",
     "操作系统SWPU/知识点分析.canvas",
@@ -200,16 +214,8 @@
     "操作系统SWPU/MOOC.md",
     "操作系统SWPU/考试题型.md",
     "小学期/拍摄脚本v2.md",
-    "操作系统SWPU/attachment/时间关系图3.png",
-    "操作系统SWPU/attachment/时间关系图2.png",
-    "操作系统SWPU/attachment/时间关系图1.png",
-    "操作系统SWPU/attachment/层次结构.png",
     "操作系统SWPU/题目.md",
-    "操作系统SWPU/未命名",
-    "操作系统SWPU/attachment/第九章.png",
-    "操作系统SWPU/attachment/第八章.png",
-    "操作系统SWPU/attachment/第七章习题.png",
-    "操作系统SWPU/attachment/第六章习题.png",
+    "操作系统SWPU/PPT题",
     "操作系统SWPU/attachment",
     "操作系统课程",
     "前端/Vue/配置插件.md",
@@ -225,12 +231,7 @@
     "测试文件夹/pom.xml.md",
     "测试文件夹/pom - 副本.xml",
     "Latex/Latex公式.md",
-    "测试文件夹/经典同步问题.md",
     "测试文件夹",
-    "SCRCU/SCRCU入职考试.md",
-    "区块链.zip",
-    "后端",
-    "大挑",
     "高等数学/高等数学.canvas",
     "未命名.canvas",
     "论文/文章思路.canvas",
