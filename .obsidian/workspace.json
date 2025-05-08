@@ -120,13 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "小学期/转换文本.md",
+                "file": "操作系统SWPU/PPT题/PPT中的题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "转换文本 的大纲"
+              "title": "PPT中的题 的大纲"
             }
           },
           {
@@ -167,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5,
-    "collapsed": true
+    "width": 206.5
   },
   "left-ribbon": {
     "hiddenItems": {

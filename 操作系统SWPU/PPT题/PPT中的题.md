@@ -117,3 +117,30 @@ P1和P2可以同时读取X
 即两个进程的while条件不可能同时为真或同时为假，因此，其中必有且只有一个进程可以顺利进入临界区。假设错误，命题得证。
 
 ---
+
+如何用PV操作实现？（思考题）
+
+~~~c
+ void reader() {
+     do {
+　　　Swait(L,1,1)
+          Swait(mx,1,0);
+	　　　…
+          perform read operation;
+	　　　…
+          Ssignal(L,1);
+    }while(TRUE);
+}
+void  writer() {
+   do {
+      Swait(mx,1,1；L,RN,0);
+      perform write operation;
+      Ssignal(mx,1);
+    }while(TRUE);
+}
+int RN;
+semaphore L=RN，mx=1;
+~~~
+
+## 第五章
+
