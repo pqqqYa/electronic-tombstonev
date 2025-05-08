@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统SWPU/PPT题/PPT中的题.md",
+                "file": "操作系统SWPU/PPT题/习题收集.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PPT中的题"
+              "title": "习题收集"
             }
           }
         ]
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625,
-    "collapsed": true
+    "width": 227.50152587890625
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -120,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统SWPU/PPT题/PPT中的题.md",
+                "file": "操作系统SWPU/PPT题/习题收集.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "PPT中的题 的大纲"
+              "title": "习题收集 的大纲"
             }
           },
           {
@@ -181,9 +180,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "操作系统SWPU/PPT题/PPT中的题.md",
+    "操作系统SWPU/PPT题/PPT中的题-20点57分2025年5月8日.md",
     "操作系统SWPU/PPT题/attachment/Pasted image 20250508201515.png",
     "操作系统SWPU/PPT题/习题收集.md",
-    "操作系统SWPU/PPT题/PPT中的题.md",
     "操作系统SWPU/PPT题/attachment/6409065e56631646a00a0558f3c7ae29.png",
     "操作系统SWPU/PPT题/attachment/70189155c1cea2b91d47c4b5e7be1344.png",
     "操作系统SWPU/PPT题/attachment/Pasted image 20250505175537.png",
@@ -207,7 +207,6 @@
     "操作系统SWPU/操作系统错题-龙",
     "操作系统SWPU/attachment/七状态模型.png",
     "操作系统SWPU/进程.md",
-    "操作系统SWPU/attachment/前驱图.png",
     "小学期/转换文本.md",
     "小学期/分工.md",
     "小学期/拍摄脚本.md",
