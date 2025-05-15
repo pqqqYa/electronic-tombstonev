@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "后端/neo提示词.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625
+    "width": 227.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -180,9 +181,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "后端/提示词.md",
     "README.md",
     "后端/neo提示词.md",
+    "后端/提示词.md",
     "前端/Vue/attachment/1696662197101-55d2b251-f6e5-47f4-b3f1-d8531bbf9279.gif",
     "操作系统SWPU/PPT题/习题收集.md",
     "操作系统SWPU/PPT题/PPT中的题.md",
