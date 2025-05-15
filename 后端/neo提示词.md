@@ -46,3 +46,32 @@ controller
 
 测试用例
 
+~~~txt
+根据 UsersController.java
+
+在 data 书写包含这个文件中全部接口且符合swagger v3（openapi）规范的json测试用例文件
+
+1. 生成的文件中所有的url都是localhost:8089开头
+
+2. 每一个测试用例中都需要包含调试数据
+
+3. 生成每一个接口测试问当前阅读每一个接口定义的函数，查看他需要的返回值是什么
+
+4. 接口说明相关的文本均采用简体中文进行书写
+~~~
+
+~~~txt
+要求同上，续写 users_swagger_test.json ，这次的接口代码是 ProductsMapper.java
+~~~
+
+~~~txt
+续写 users_swagger_test.json ，包含 OrdersController.java 这个文件中全部接口且符合swagger v3（openapi）规范的json测试用例文件
+
+1. 生成的文件中所有的url都是localhost:8089开头
+
+2. 每一个测试用例中都需要包含调试数据
+
+3. 生成每一个接口测试问当前阅读每一个接口定义的函数，查看他需要的返回值是什么
+
+4. 接口说明相关的文本均采用简体中文进行书写
+~~~
