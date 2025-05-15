@@ -37,3 +37,12 @@ service生成
 ~~~txt
 根据 mapper 中的 OrdersMapper.java ProductsMapper.java UsersMapper.java 书写 service serviceImpl 中对应的java代码
 ~~~
+
+controller
+
+~~~txt
+根据 service 中的 OrdersServiceImpl.java ProductsServiceImpl.java UsersServiceImpl.java OrdersService.java ProductsService.java UsersService.java 在 controller 中书写对应的后端接口代码，要求符合RestFul规范，使用 R.java 作为dto
+~~~
+
+测试用例
+
