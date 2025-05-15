@@ -14,8 +14,8 @@
 3. 实现购物车增加，删除，即订单的增删改查
 我在这里有一些没有提到的功能，你分析我的描述，帮我适当添加一些合理的功能
  
-pojo类已存在src/main/java/com/swpu/zhuhaowei/pojo|
-根据sql文件在src/main/resources/mapper中书写xml文件，如UserMapper.xml。
+pojo类已存在于pojo文件夹中
+根据sql文件在修改Mapper文件
 
 满足软件对数据库操作的需要。
 1. 严格按照sql文件中的列名进行编写
