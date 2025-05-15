@@ -9,17 +9,31 @@
 **mapperxml创建**
 ~~~txt
 这是一个Springboot+Mybatis构建的购物商城软件
+
 1. 实现用户的登录、注册、信息更新、信息查询
 2. 实现商品的增加，删除，修改信息
 3. 实现购物车增加，删除，即订单的增删改查
+
 我在这里有一些没有提到的功能，你分析我的描述，帮我适当添加一些合理的功能
- 
-pojo类已存在于pojo文件夹中
-根据sql文件在修改Mapper文件
+pojo类已存在 Orders.java Products.java Users.java
+根据sql文件 practice.sql 在 mapper 下书写xml文件实现对数据库的操作
 
 满足软件对数据库操作的需要。
+
 1. 严格按照sql文件中的列名进行编写
 2. 使用<where> 和<if>动态标签支持按条件查询
 3. 添加尽量详细的注释
 4. 注意代码编写的规范性
+~~~
+
+mapperjava创建
+
+~~~txt
+根据 mapper 中的 OrdersMapper.xml ProductsMapper.xml UsersMapper.xml 书写 mapper 中的对应的java代码
+~~~
+
+service生成
+
+~~~txt
+根据 mapper 中的 OrdersMapper.java ProductsMapper.java UsersMapper.java 书写 service serviceImpl 中对应的java代码
 ~~~
