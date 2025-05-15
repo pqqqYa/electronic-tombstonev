@@ -26,25 +26,25 @@ pojo类已存在 Orders.java Products.java Users.java
 4. 注意代码编写的规范性
 ~~~
 
-mapperjava创建
+**mapperjava创建**
 
 ~~~txt
 根据 mapper 中的 OrdersMapper.xml ProductsMapper.xml UsersMapper.xml 书写 mapper 中的对应的java代码
 ~~~
 
-service生成
+**service生成**
 
 ~~~txt
 根据 mapper 中的 OrdersMapper.java ProductsMapper.java UsersMapper.java 书写 service serviceImpl 中对应的java代码
 ~~~
 
-controller
+**controller**
 
 ~~~txt
 根据 service 中的 OrdersServiceImpl.java ProductsServiceImpl.java UsersServiceImpl.java OrdersService.java ProductsService.java UsersService.java 在 controller 中书写对应的后端接口代码，要求符合RestFul规范，使用 R.java 作为dto
 ~~~
 
-测试用例
+**测试用例**
 
 ~~~txt
 根据 UsersController.java
