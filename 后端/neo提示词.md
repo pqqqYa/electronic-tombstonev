@@ -47,15 +47,11 @@ pojo类已存在 Orders.java Products.java Users.java
 根据 service 中的 OrdersServiceImpl.java ProductsServiceImpl.java UsersServiceImpl.java OrdersService.java ProductsService.java UsersService.java 在 controller 中书写对应的后端接口代码，要求符合RestFul规范，使用 R.java 作为dto
 ~~~
 
-**登录**
-~~~txt
-我定义了一个Jwtuttil类，里面记载了如何传入用户名和用户信息生成token，
-~~~
 
 **抛出异常**
 
 ~~~txt
-修改controller里面的所有接口，使用try catch进行包裹，除了预期输出以外，均返回msg为“异常操作”信息，要求符合RestFul规范，使用 R.java 作为dto
+在不改变接口作用的前提下，可以通过添加 try-catch 捕获异常，并通过 if 语句判断业务逻辑中的边界情况（如参数为空、操作失败等），以返回更友好的错误提示给前端，要求符合RestFul规范，使用 R.java 作为dto
 ~~~
 
 
