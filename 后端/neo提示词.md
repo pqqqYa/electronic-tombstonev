@@ -15,6 +15,8 @@
 3. 实现购物车增加，删除，即订单的增删改查
 
 我在这里有一些没有提到的功能，你分析我的描述，帮我适当添加一些合理的功能
+
+
 pojo类已存在 Orders.java Products.java Users.java
 根据sql文件 practice.sql 在 mapper 下书写xml文件实现对数据库的操作
 
@@ -24,6 +26,7 @@ pojo类已存在 Orders.java Products.java Users.java
 2. 使用<where> 和<if>动态标签支持按条件查询
 3. 添加尽量详细的注释
 4. 注意代码编写的规范性
+5. 注意考虑数据库内的外键
 ~~~
 
 **mapperjava创建**
