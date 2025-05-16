@@ -47,6 +47,17 @@ pojo类已存在 Orders.java Products.java Users.java
 根据 service 中的 OrdersServiceImpl.java ProductsServiceImpl.java UsersServiceImpl.java OrdersService.java ProductsService.java UsersService.java 在 controller 中书写对应的后端接口代码，要求符合RestFul规范，使用 R.java 作为dto
 ~~~
 
+**登录**
+~~~txt
+修改登录接口,调用jwtUtil类，返回的data值为token，要求符合RestFul规范，使用 R.java 作为dto
+~~~
+
+**抛出异常**
+
+修改controller里面的所有接口，使用try catch进行包裹，除了预期输出以外
+
+
+
 **测试用例**
 
 ~~~txt
