@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625,
-    "collapsed": true
+    "width": 227.50152587890625
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -178,8 +177,9 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "7a3dee57a4518add",
   "lastOpenFiles": [
+    "数据可视化",
     "后端/模拟题.md",
     "后端/neo提示词.md",
     "README.md",
@@ -228,7 +228,6 @@
     "小学期/接口文档模板.md",
     "小学期/技术选型.md",
     "测试文件夹/小学期.canvas",
-    "测试文件夹/接口文档.md",
     "测试文件夹/pom - 副本.xml",
     "测试文件夹",
     "高等数学/高等数学.canvas",
