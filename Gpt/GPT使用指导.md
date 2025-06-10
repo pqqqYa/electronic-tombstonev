@@ -1,4 +1,6 @@
-
+~~~txt
+帮我整理以上内容，如以下模板 ~~~md ##### 1 以下哪个选项不是Scala的数据类型？ A. A Byte,Short, Int,Unit B. Long, Char, String C. Float, Double, Boolean D. Integer, Void 答案：D ~~~
+~~~
 
 ~~~ text
 帮助我将上图中的文字调整格式，转化为markdown格式，文本中的公式使用以$为分隔的latex公式表达，如“$f(x)$”,"$$f(x)=x+1$$",$的周围不需要空格。
