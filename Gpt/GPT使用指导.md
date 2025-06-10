@@ -1,5 +1,6 @@
 ~~~txt
 帮我整理以上内容，如以下模板 ~~~md ##### 1 以下哪个选项不是Scala的数据类型？ A. A Byte,Short, Int,Unit B. Long, Char, String C. Float, Double, Boolean D. Integer, Void 答案：D ~~~
+处理完成后去除重复的题目
 ~~~
 
 ~~~ text
