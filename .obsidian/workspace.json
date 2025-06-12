@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3c449d87f091c699",
+        "id": "e4509e853827fd00",
         "type": "tabs",
         "children": [
-          {
-            "id": "f21f8ff40632e909",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "大数据/7.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7"
-            }
-          },
           {
             "id": "aaaa6d3299108e15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GPT/GPT使用指导.md",
+                "file": "大数据/all in one.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GPT使用指导"
+              "title": "all in one"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625
+    "width": 227.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -134,12 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "大数据/all in one.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "all in one 的大纲"
             }
           },
           {
@@ -180,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 244.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,15 +180,16 @@
   },
   "active": "aaaa6d3299108e15",
   "lastOpenFiles": [
-    "大数据/7.md",
-    "大数据/6.md",
+    "大数据/4.md",
+    "大数据/all in one.md",
+    "大数据/3.md",
+    "大数据/8.md",
     "GPT/GPT使用指导.md",
     "大数据/5.md",
-    "大数据/4.md",
-    "大数据/3.md",
+    "大数据/6.md",
+    "大数据/7.md",
     "大数据/2.md",
     "大数据/1.md",
-    "大数据/8.md",
     "数据分析/SWPU/随堂练习2.md",
     "大数据",
     "数据分析/SWPU/随堂练习1.md",
@@ -231,7 +218,6 @@
     "大数据",
     "数据分析/自学/支持向量机Support Vector Machine.md",
     "数据分析/自学/回归技术Regression Technique.md",
-    "后端/neo提示词.md",
     "前端/Vue/attachment/1696662197101-55d2b251-f6e5-47f4-b3f1-d8531bbf9279.gif",
     "操作系统SWPU/PPT题/attachment/Pasted image 20250508201515.png",
     "操作系统SWPU/PPT题/attachment/6409065e56631646a00a0558f3c7ae29.png",
