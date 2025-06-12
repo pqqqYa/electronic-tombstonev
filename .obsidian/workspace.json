@@ -35,8 +35,7 @@
               "title": "GPT使用指导"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625
+    "width": 227.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -134,13 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GPT/GPT使用指导.md",
+                "file": "大数据/all in one.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "GPT使用指导 的大纲"
+              "title": "all in one 的大纲"
             }
           },
           {
@@ -193,14 +193,14 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "fba5b04d769f91b4",
+  "active": "aaaa6d3299108e15",
   "lastOpenFiles": [
+    "GPT/GPT使用指导.md",
     "大数据/all in one.md",
     "大数据/1.md",
     "大数据/4.md",
     "大数据/3.md",
     "大数据/8.md",
-    "GPT/GPT使用指导.md",
     "大数据/5.md",
     "大数据/6.md",
     "大数据/7.md",
