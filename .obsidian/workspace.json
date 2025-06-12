@@ -167,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 244.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,8 +181,9 @@
   },
   "active": "aaaa6d3299108e15",
   "lastOpenFiles": [
-    "大数据/4.md",
+    "大数据/1.md",
     "大数据/all in one.md",
+    "大数据/4.md",
     "大数据/3.md",
     "大数据/8.md",
     "GPT/GPT使用指导.md",
@@ -189,7 +191,6 @@
     "大数据/6.md",
     "大数据/7.md",
     "大数据/2.md",
-    "大数据/1.md",
     "数据分析/SWPU/随堂练习2.md",
     "大数据",
     "数据分析/SWPU/随堂练习1.md",
