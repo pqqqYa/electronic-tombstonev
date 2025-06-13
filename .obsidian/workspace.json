@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625,
-    "collapsed": true
+    "width": 227.50152587890625
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -193,7 +192,7 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "aaaa6d3299108e15",
+  "active": "7a3dee57a4518add",
   "lastOpenFiles": [
     "GPT/GPT使用指导.md",
     "大数据/all in one.md",
