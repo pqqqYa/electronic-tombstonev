@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 244.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,8 +178,14 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "21c6b012e518156d",
+  "active": "7a3dee57a4518add",
   "lastOpenFiles": [
+    "数据分析/SWPU/数据挖掘.emmx",
+    "数据分析/SWPU/数据挖掘.emmx.NLAdQs",
+    "数据分析/SWPU/数据挖掘过程.emmx",
+    "数据分析/SWPU/新建 MindMaster.Document.emmx",
+    "数据分析/SWPU/未命名.canvas",
+    "数据分析/SWPU/复习.md",
     "大数据/all in one.md",
     "GPT/GPT使用指导.md",
     "大数据/1.md",
@@ -192,7 +199,6 @@
     "数据分析/SWPU/随堂练习2.md",
     "大数据",
     "数据分析/SWPU/随堂练习1.md",
-    "数据分析/SWPU/复习.md",
     "数据分析/SWPU/数据分析.svg",
     "数据分析/自学/数据分析学习目录.md",
     "数据分析/自学",
@@ -202,9 +208,7 @@
     "数据分析/SWPU/数据分析.emmx",
     "数据分析/数据分析.emmx.BWkUBk",
     "数据分析/思维导图.emmx",
-    "数据分析/新建 MindMaster.Document.emmx",
     "数据分析/SWPU/课程梳理.md",
-    "数据分析/SWPU",
     "大数据/第3章 Spark的设计与运行原理.md",
     "大数据/第2章Scala语言基础单元测验.md",
     "大数据/第1章大数据技术概述单元测验.md",
@@ -214,9 +218,7 @@
     "大数据/第6章 Spark SQL.md",
     "大数据/第5章 RDD编程.md",
     "数据分析/自学/混淆矩阵.md",
-    "大数据",
     "数据分析/自学/支持向量机Support Vector Machine.md",
-    "数据分析/自学/回归技术Regression Technique.md",
     "前端/Vue/attachment/1696662197101-55d2b251-f6e5-47f4-b3f1-d8531bbf9279.gif",
     "操作系统SWPU/PPT题/attachment/Pasted image 20250508201515.png",
     "操作系统SWPU/PPT题/attachment/6409065e56631646a00a0558f3c7ae29.png",
@@ -233,7 +235,6 @@
     "测试文件夹/小学期.canvas",
     "高等数学/高等数学.canvas",
     "未命名.canvas",
-    "论文/文章思路.canvas",
-    "英语/未命名.canvas"
+    "论文/文章思路.canvas"
   ]
 }
