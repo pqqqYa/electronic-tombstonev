@@ -120,13 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大数据/大数据.canvas",
+                "file": "小学期/实训二期/代码训练.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大数据 的大纲"
+              "title": "代码训练 的大纲"
             }
           },
           {
@@ -167,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 244.5
   },
   "left-ribbon": {
     "hiddenItems": {
