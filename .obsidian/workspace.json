@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "小学期/实训二期/代码训练.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "代码训练"
-            }
-          },
-          {
-            "id": "70f0fc877cc895cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "小学期/实训二期/未命名.md",
                 "mode": "source",
                 "source": false
@@ -35,8 +21,7 @@
               "title": "未命名"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625,
-    "collapsed": true
+    "width": 227.50152587890625
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -194,11 +178,13 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "70f0fc877cc895cd",
+  "active": "5ff1f28c82e021d0",
   "lastOpenFiles": [
     "小学期/实训二期/代码训练.md",
-    "小学期/实训二期/未命名.md",
+    "小学期/实训二期/attachment/Pasted image 20250618164606.png",
     "小学期/实训二期/attachment/Pasted image 20250618084511.png",
+    "小学期/实训二期/attachment/Pasted image 20250618164540.png",
+    "小学期/实训二期/未命名.md",
     "小学期/实训二期/attachment/Pasted image 20250618084431.png",
     "小学期/实训二期/attachment/Pasted image 20250618084427.png",
     "小学期/实训二期/attachment/Pasted image 20250618084330.png",
@@ -206,8 +192,6 @@
     "小学期/实训二期/attachment/Pasted image 20250618084155.png",
     "小学期/实训二期/attachment/Pasted image 20250618084119.png",
     "小学期/实训二期/attachment/Pasted image 20250618083233.png",
-    "小学期/实训二期/attachment/Pasted image 20250618083218.png",
-    "小学期/实训二期/attachment/Pasted image 20250618083207.png",
     "小学期/Springboot后端实训/技术选型.md",
     "小学期/实训二期/attachment/5f6828b5c07771c9b8927bb0a036f084.png.~tmp",
     "小学期/实训二期/attachment",
@@ -244,7 +228,6 @@
     "大数据/5.md",
     "大数据/6.md",
     "大数据/7.md",
-    "大数据/2.md",
     "数据分析/未命名.canvas",
     "小学期/小学期.canvas",
     "小学期/主体.canvas",
