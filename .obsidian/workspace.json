@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "09e9dce83a7ce253",
+        "id": "d9127df3ba445b46",
         "type": "tabs",
         "children": [
           {
-            "id": "21c6b012e518156d",
+            "id": "5ff1f28c82e021d0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "大数据/大数据.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "小学期/实训二期/代码训练.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "大数据"
+              "icon": "lucide-file",
+              "title": "代码训练"
             }
           }
         ]
@@ -96,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625,
-    "collapsed": true
+    "width": 227.50152587890625
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -182,10 +178,28 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "21c6b012e518156d",
+  "active": "5ff1f28c82e021d0",
   "lastOpenFiles": [
-    "Springboot后端SWPU/模拟题.md",
+    "小学期/实训二期/代码训练.md",
+    "小学期/实训二期",
+    "小学期/新建文件夹",
+    "小学期/Springboot后端实训/转换文本.md",
+    "小学期/Springboot后端实训/小学期.canvas",
+    "小学期/Springboot后端实训/拍摄脚本v2.md",
+    "小学期/Springboot后端实训/拍摄脚本.md",
+    "小学期/Springboot后端实训/接口文档模板.md",
+    "小学期/Springboot后端实训/接口文档.md",
+    "小学期/Springboot后端实训/技术选型.md",
+    "小学期/Springboot后端实训/分工.md",
+    "小学期/Springboot后端实训/README.md",
+    "小学期/Springboot后端实训/jwt.md",
+    "小学期/Springboot后端实训/Chat History.md",
+    "小学期/Springboot后端实训/项目文件/application.yml.md",
+    "小学期/Springboot后端实训/项目文件/pom.xml.md",
+    "小学期/Springboot后端实训/项目文件",
+    "小学期/Springboot后端实训",
     "大数据/大数据.canvas",
+    "Springboot后端SWPU/模拟题.md",
     "大数据",
     "数据分析/SWPU/复习.md",
     "数据分析/SWPU/数据挖掘.emmx",
@@ -205,25 +219,8 @@
     "大数据/2.md",
     "数据分析/SWPU/随堂练习2.md",
     "大数据",
-    "数据分析/SWPU/随堂练习1.md",
     "数据分析/SWPU/数据分析.svg",
-    "数据分析/自学/数据分析学习目录.md",
-    "数据分析/自学",
     "数据分析/未命名.canvas",
-    "数据分析/SWPU",
-    "数据分析/数据分析.emmx.hkxEnF",
-    "数据分析/SWPU/数据分析.emmx",
-    "数据分析/SWPU/课程梳理.md",
-    "大数据/第3章 Spark的设计与运行原理.md",
-    "大数据/第2章Scala语言基础单元测验.md",
-    "大数据/第1章大数据技术概述单元测验.md",
-    "大数据/第4章 Spark环境搭建和使用方法.md",
-    "大数据/第8章 Spark MLlib.md",
-    "大数据/第7章 Spark Streaming.md",
-    "大数据/第6章 Spark SQL.md",
-    "大数据/第5章 RDD编程.md",
-    "数据分析/自学/混淆矩阵.md",
-    "数据分析/自学/支持向量机Support Vector Machine.md",
     "前端/Vue/attachment/1696662197101-55d2b251-f6e5-47f4-b3f1-d8531bbf9279.gif",
     "操作系统SWPU/PPT题/attachment/Pasted image 20250508201515.png",
     "操作系统SWPU/PPT题/attachment/6409065e56631646a00a0558f3c7ae29.png",
@@ -238,7 +235,6 @@
     "操作系统SWPU/知识点分析.canvas",
     "Springboot后端SWPU/项目运行逻辑.canvas",
     "测试文件夹/小学期.canvas",
-    "高等数学/高等数学.canvas",
-    "未命名.canvas"
+    "高等数学/高等数学.canvas"
   ]
 }
