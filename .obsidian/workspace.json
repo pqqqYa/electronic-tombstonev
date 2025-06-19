@@ -119,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "小学期/实训二期/未命名.md",
+                "file": "小学期/实训二期/代码训练.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "代码训练 的大纲"
             }
           },
           {
@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 244.5
   },
   "left-ribbon": {
     "hiddenItems": {
