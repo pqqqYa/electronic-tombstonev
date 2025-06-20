@@ -1,0 +1,117 @@
+.common-right .print-search {
+  margin-top: 1%;
+  margin-bottom: 3%;
+}
+.common-right .print-search .search-content {
+  width: 62%;
+  height: 40%;
+  border: 1px solid #D2D2D2;
+  border-radius: 5px;
+  margin: auto;
+  overflow: hidden;
+}
+.common-right .print-search .search-content span {
+  width: 26.5%;
+  background: #1899B1;
+  font-size: 16px;
+  color: #ffffff;
+  text-align: center;
+  line-height: 40px;
+}
+.common-right .print-search .search-content .input-wrap {
+  position: relative;
+}
+.common-right .print-search .search-content .input-wrap .input {
+  width: 100%;
+  height: 100%;
+  background-color: #EEEEEE;
+  padding-right: 10%;
+  padding-left: 5%;
+  font-size: 16px;
+  color: #999999;
+}
+.common-right .print-search .search-content .input-wrap .search-btn {
+  float: right;
+  width: 8%;
+  height: 100%;
+  text-align: center;
+  line-height: 40px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  cursor: pointer;
+}
+.common-right .title {
+  margin-bottom: 2.5%;
+  width: 100%;
+  height: 35px;
+  padding-left: 4.5%;
+  background-image: url(../images/list_title_bg.png);
+  background-size: 100% 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.common-right .title .local-title {
+  font-size: 20px;
+  color: #373737;
+}
+.common-right .title .list-title {
+  border-bottom: none;
+}
+.common-right .title .list-title .pull-left {
+  background-color: transparent;
+  font-size: 20px;
+  color: #373737;
+  padding: 0;
+}
+.common-right ul li {
+  float: left;
+  width: 27.5%;
+  background: #F9F9F9;
+  border: 1px solid #EBEBEB;
+  border-radius: 2px;
+  margin-right: 8.6%;
+  margin-bottom: 2.5%;
+  text-align: center;
+  line-height: 50px;
+}
+.common-right ul li:nth-child(3n) {
+  margin-right: 0;
+}
+.common-right ul li a {
+  display: block;
+  color: #333333;
+  font-size: 16px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.common-right ul li a:hover {
+  background-color: #0A8DA5;
+  color: #ffffff;
+}
+@media (max-width: 450px) {
+  .common-right .print-search .search-content {
+    width: 80%;
+  }
+  .common-right ul li {
+    width: 100%;
+  }
+  .common-right ul li:nth-child(3n) {
+    margin-right: 8.6%;
+  }
+  .common-right ul li:nth-child(2n) {
+    margin-right: 0;
+  }
+}
+@media (max-width: 375px) {
+  .common-right .print-search .search-content {
+    width: 90%;
+  }
+  .common-right .print-search .search-content .input-wrap .input {
+    padding-right: 14%;
+  }
+  .common-right .print-search .search-content .input-wrap .search-btn {
+    width: 14%;
+  }
+}

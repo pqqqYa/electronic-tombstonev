@@ -1,0 +1,418 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-size: 12px;
+	font-family: "宋体";
+	color: #000;
+	overflow: hidden;
+	background-color: #fff;
+	word-wrap: break-word;
+	word-break: break-all
+}
+
+body>div {
+	margin-right: auto;
+	margin-left: auto
+}
+
+span {
+	display: block;
+	width: 77%;
+	line-height: 22px;
+	color: #000;
+	font-size: 12px;
+	font-weight: normal;
+	overflow: hidden
+}
+
+.main {
+	width: 100%;
+	height: 100%;
+	table-layout: fixed
+}
+
+.main td,.left td,.tool_bar td {
+	vertical-align: top;
+	font-size: 12px
+}
+
+.right {
+	width: 100%;
+	height: 100%;
+	table-layout: fixed;
+	clear: both
+}
+
+.tool_bar {
+	width: 100%;
+	height: 29px;
+	table-layout: fixed
+}
+
+.t_l {
+	position: relative;
+	z-index: 9;
+	width: 285px;
+	height: 100%
+}
+
+.t_l_bor {
+	height: 100%;
+	border-right: 1px solid #8ec0d8
+}
+
+.t_l_c {
+	height: 100%;
+	text-align: center;
+	border: 1px solid #fff;
+	background: #095ccc  no-repeat;
+	width:100%
+}
+
+.left {
+	width: 180px;
+	height: 100%;
+	margin: 0 auto;
+	table-layout: fixed
+}
+
+#frameBar {
+	position: absolute;
+	z-index: 2;
+	top: 40%;
+	display: block;
+	width: 12px;
+	height: 62px;
+	text-indent: -99999px;
+	cursor: pointer
+}
+
+.bar_c {
+	right: 2px;
+	background: url("../images/bar_hit.gif") no-repeat 0px 0px
+}
+
+.bar_o {
+	right: -1px;
+	background: url("../images/bar_hit.gif") no-repeat 0px -62px
+}
+
+#login {
+	height: 48px
+}
+
+#login h2 {
+	height: 32px;
+	line-height: 32px;
+	font-size: 12px;
+	overflow: hidden;
+	clear: both
+}
+
+#login h2 a.u {
+	float: left;
+	color: #000;
+	font-family: Arial
+}
+
+#login h2 a.o {
+	float: right;
+	font-weight: normal
+}
+
+#login p {
+	width: 100%;
+	white-space: nowrap
+}
+
+#login p.p02 {
+	margin: 8px auto
+}
+
+#login p em {
+	color: #333
+}
+
+#login p input {
+	width: 150px;
+	height: 20px;
+	margin: 0px 4px;
+	padding: 2px 0 0 3px;
+	vertical-align: middle;
+	border: 1px solid #7f9db9
+}
+
+.login_c {
+	width: 100%;
+	overflow: hidden;
+	clear: both
+}
+
+.login_c .u_img {
+	float: left
+}
+
+.login_c ul {
+	float: right;
+	width: 114px;
+	line-height: 20px;
+	font-family: Arial
+}
+
+.login_c ul li {
+	float: left;
+	width: 100%
+}
+
+.login_c ul li em {
+	margin-right: 3px
+}
+
+.f_nav {
+	height: 100%;
+	border: 1px solid #79a2c2;
+	background-color: #fff;
+	overflow: hidden
+}
+
+.x-panel-header {
+	background: url(../images/sszsml/weclome-bg.jpg) repeat-x;
+	height:27px;
+	line-height: 28px;
+	overflow: hidden;
+	
+}
+
+/*public*/
+body {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-size: 12px;
+	font-family: "宋体";
+	color: #000;
+	overflow: hidden;
+	background-color: #fff;
+	word-wrap: break-word;
+	word-break: break-all
+}
+
+body>div {
+	margin-right: auto;
+	margin-left: auto
+}
+
+img,a img {
+	border: 0px
+}
+
+input,select,textarea {
+	font-size: 12px
+}
+
+br {
+	font-size: 12px
+}
+
+div {
+	padding: 0;
+	height: auto;
+	text-align: left
+}
+
+p,dl,dt,dd,textarea,address,blockquote {
+	margin: 0;
+	padding: 0;
+	height: auto;
+	text-align: left
+}
+
+form,input,select,textarea,h1,h2,h3,h4,h5,h6 {
+	margin: 0;
+	padding: 0
+}
+
+ul,li {
+	margin: 0;
+	height: auto;
+	text-align: left
+}
+
+h1 {
+	display: none
+}
+
+em,var,cite {
+	font-style: normal
+}
+
+a {
+	color: #06c;
+	text-decoration: none
+}
+
+a:hover {
+	text-decoration: underline
+}
+
+.ul,.uls {
+	list-style: none;
+	padding: 0px
+}
+
+.ul li,.ul li p,.dl dt {
+	white-space: nowrap;
+	overflow: hidden
+}
+
+.inb {
+	display: -moz-inline-block;
+	display: -moz-inline-box;
+	display: inline-block
+}
+
+.sis {
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	-o-text-overflow: ellipsis;
+	overflow: hidden
+}
+
+.clear {
+	width: 100%;
+	height: 1px;
+	font-size: 0px;
+	overflow: hidden;
+	clear: both
+}
+
+.hand {
+	cursor: pointer
+}
+
+.red {
+	color: #f00
+}
+
+.gray {
+	color: #999
+}
+
+.hidden {
+	display: none
+}
+
+.f_auto {
+	width: 270px;
+	height: 96%;
+	text-align: center;
+	table-layout: fixed;
+	overflow: auto
+}
+
+.f_sit {
+	width: 92%;
+	height: 28px;
+	margin: 0 auto;
+	padding-top: 4px;
+	border-bottom: 1px dashed #dceef7;
+	overflow: hidden;
+	clear: both
+}
+
+.f_sit span {
+	float: left;
+	display: block;
+	width: 74%;
+	line-height: 20px;
+	color: #999
+}
+
+.f_sit a {
+	float: right;
+	margin: 6px 6px 0 0;
+	display: block;
+	width: 10px;
+	height: 10px;
+	font-size: 0px;
+	text-indent: -99999px;
+	background: url("../images/ch_icon.gif") no-repeat
+}
+
+.f_sit a.a_o {
+	background-position: 0px -60px
+}
+
+.f_sit a.a_o:hover {
+	background-position: 0px -70px
+}
+
+.f_sit a.a_c {
+	background-position: 0px -40px
+}
+
+.f_sit a.a_c:hover {
+	background-position: 0px -50px
+}
+
+.f_sit a.a_f5 {
+	background-position: 0px -20px
+}
+
+.f_sit a.a_f5:hover {
+	background-position: 0px -30px
+}
+
+.dtree {
+	width: 100%;
+	margin: 4px auto 0;
+	padding: 6px 0;
+	clear: both
+}
+
+.dtree h2 {
+	width: 100%;
+	cursor: pointer;
+	clear: both
+}
+
+.dtree h2 cite {
+	color: #f00
+}
+
+.dtree h2 a {
+	display: block;
+	width: 100%;
+	line-height: 20px;
+	color: #000;
+	font-size: 12px;
+	font-weight: normal;
+	overflow: hidden
+}
+
+.dtree h2 a:hover {
+	background-color: #edf7fc;
+	text-decoration: none
+}
+
+.dtree a.here,.dtree a.here:hover {
+	background-color: #d6f1fc;
+	text-decoration: none
+}
+
+.dtree h2 img {
+	float: left;
+	width: 16px;
+	height: 16px;
+	margin-top: 2px
+}
+
+.dtree h2 span {
+	display: -moz-inline-block;
+	display: -moz-inline-box;
+	display: inline-block;
+	width: 205px;
+	cursor: pointer
+}
+.zd-link { font-size:12px!important;font-weight:bold;color:#000000;text-decoration:none;}
+.zd-link:hover{ color:#990000 !important;text-decoration:none;}

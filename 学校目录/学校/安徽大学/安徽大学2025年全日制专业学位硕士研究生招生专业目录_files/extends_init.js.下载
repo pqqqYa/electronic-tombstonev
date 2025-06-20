@@ -1,0 +1,35 @@
+$(function(){
+  // 初始化SDAPP
+$(function(){
+
+  //Jumbotran
+  $(".focus").sudyfocus({
+    p:301,
+    zWidth: 380,
+    zHeight: 300,
+    isNavHover: true,
+    pagination: true,
+    title: {active: false, // 是否显示标题
+    isAutoWidth: false, // 标题背景自动宽度
+    href: false // 标题是否加文章链接
+    },
+    speed:800
+  });
+
+
+  //Logo Click
+  $('.logo').click(function(e){
+    location.href = 'http://graschool.ahu.edu.cn/';
+  });
+
+  var default_search_value = $('.search-input').val();
+  $('.search-input').click(function(e){
+    if($(this).val()==default_search_value)
+      $(this).val("");
+  });
+  $('.search-input').blur(function(e){
+    if($(this).val()=="")
+      $(this).val(default_search_value);
+  });
+});
+});
