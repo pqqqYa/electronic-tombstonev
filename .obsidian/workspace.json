@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "数据分析与机器学习复习知识点汇总"
             }
+          },
+          {
+            "id": "0b88d024dee28447",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GPT/GPT使用指导.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GPT使用指导"
+            }
           }
         ]
       }
@@ -181,10 +195,11 @@
   },
   "active": "5ff1f28c82e021d0",
   "lastOpenFiles": [
+    "GPT/GPT使用指导.md",
+    "数据分析/数据分析与机器学习复习知识点汇总.md",
     "数据分析/attachment/Pasted image 20250620172129.png",
     "数据分析/attachment/数据挖掘标准流程.jpeg",
     "数据分析/attachment",
-    "数据分析/数据分析与机器学习复习知识点汇总.md",
     "小学期/实训二期/未命名.md",
     "小学期/实训二期/代码训练.md",
     "小学期/实训二期/attachment/Pasted image 20250618164606.png",
@@ -195,7 +210,6 @@
     "小学期/实训二期/attachment/Pasted image 20250618084330.png",
     "小学期/实训二期/attachment/Pasted image 20250618084242.png",
     "小学期/实训二期/attachment/Pasted image 20250618084155.png",
-    "小学期/实训二期/attachment/Pasted image 20250618084119.png",
     "小学期/Springboot后端实训/技术选型.md",
     "小学期/实训二期/attachment/5f6828b5c07771c9b8927bb0a036f084.png.~tmp",
     "小学期/实训二期/attachment",
@@ -223,7 +237,6 @@
     "数据分析/SWPU/数据挖掘.emmx.NLAdQs",
     "数据分析/SWPU/未命名.canvas",
     "大数据/all in one.md",
-    "GPT/GPT使用指导.md",
     "大数据/1.md",
     "大数据/4.md",
     "大数据/3.md",

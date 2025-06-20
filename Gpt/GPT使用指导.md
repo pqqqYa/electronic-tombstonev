@@ -1,3 +1,12 @@
+
+~~~txt
+帮助我将上图中的文字调整格式，转化为markdown格式，文本中的公式使用以$为分隔的latex公式表达，如“$f(x)$”,"$$A_{m \times n} = \begin{bmatrix}\alpha_1 \\\alpha_2 \\\vdots \\\alpha_m\end{bmatrix} = \begin{bmatrix}\beta_1, \beta_2, \ldots, \beta_n\end{bmatrix}$$",$的周围不需要空格，以###为md文档的一级标签
+用~~~md~~~的形式包裹你的结果返回给我
+~~~
+
+
+
+
 ~~~txt
 ----- 帮我整理以上内容，如以下模板 ~~~md ##### 1 以下哪个选项不是Scala的数据类型？ A. A Byte,Short, Int,Unit B. Long, Char, String C. Float, Double, Boolean D. Integer, Void 答案：D ~~~ 处理完成后去除重复的题目
 ~~~
