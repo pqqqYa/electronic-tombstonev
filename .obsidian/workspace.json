@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "8f760ff13a37715e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据分析/第4章 数据预处理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第4章 数据预处理"
+            }
+          },
+          {
             "id": "0b88d024dee28447",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "GPT使用指导"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据分析/数据分析与机器学习复习知识点汇总.md",
+                "file": "数据分析/第4章 数据预处理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "数据分析与机器学习复习知识点汇总 的大纲"
+              "title": "第4章 数据预处理 的大纲"
             }
           },
           {
@@ -193,10 +208,11 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "5ff1f28c82e021d0",
+  "active": "8f760ff13a37715e",
   "lastOpenFiles": [
-    "GPT/GPT使用指导.md",
     "数据分析/数据分析与机器学习复习知识点汇总.md",
+    "数据分析/第4章 数据预处理.md",
+    "GPT/GPT使用指导.md",
     "数据分析/attachment/Pasted image 20250620172129.png",
     "数据分析/attachment/数据挖掘标准流程.jpeg",
     "数据分析/attachment",
