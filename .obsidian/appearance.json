@@ -5,7 +5,11 @@
   "theme": "moonstone",
   "nativeMenus": false,
   "enabledCssSnippets": [
-    "mermaid"
+    "mermaid",
+    "em",
+    "img",
+    "QuoteBlock",
+    "table"
   ],
   "interfaceFontFamily": "霞鹜文楷 GB 屏幕阅读版",
   "textFontFamily": "霞鹜文楷 GB 屏幕阅读版"

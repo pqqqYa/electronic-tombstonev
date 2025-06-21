@@ -1,0 +1,10 @@
+
+em, /* 预览模式下 */
+span.cm-em, /* 实时预览下 */
+.cm-quote.cm-quote-1.cm-em /* 实时预览的引用块下 */
+{
+  /* 不倾斜 */
+  font-style:normal;
+  color: red;
+  font-weight: bold;
+}

@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625
+    "width": 227.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -194,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 244.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,7 +207,7 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "7a3dee57a4518add",
+  "active": "5ff1f28c82e021d0",
   "lastOpenFiles": [
     "数据分析/attachment/第7章 聚类-下.html",
     "数据分析/attachment/第7章 聚类-上.html",
