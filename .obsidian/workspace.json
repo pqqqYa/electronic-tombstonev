@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8f760ff13a37715e",
+            "id": "09f25ad601f7eb47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据分析/第7章 聚类.md",
+                "file": "数据分析/第4章 数据预处理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第7章 聚类"
+              "title": "第4章 数据预处理"
             }
           },
           {
@@ -36,27 +36,6 @@
             }
           },
           {
-            "id": "09f25ad601f7eb47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人工智能/人工智能swpu/Kmeans.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kmeans"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "98e059c0013e19f1",
-        "type": "tabs",
-        "children": [
-          {
             "id": "5ff1f28c82e021d0",
             "type": "leaf",
             "state": {
@@ -70,7 +49,8 @@
               "title": "数据分析与机器学习复习知识点汇总"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,12 +118,12 @@
               "title": "标签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625
+    "width": 227.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -169,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人工智能/人工智能swpu/Kmeans.md",
+                "file": "数据分析/数据分析与机器学习复习知识点汇总.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Kmeans 的大纲"
+              "title": "数据分析与机器学习复习知识点汇总 的大纲"
             }
           },
           {
@@ -228,10 +208,11 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "09f25ad601f7eb47",
+  "active": "5ff1f28c82e021d0",
   "lastOpenFiles": [
     "数据分析/第4章 数据预处理.md",
     "数据分析/数据分析与机器学习复习知识点汇总.md",
+    "人工智能/人工智能swpu/Kmeans.md",
     "数据分析/第7章 聚类.md",
     "数据分析/attachment/第7章 聚类-下.html",
     "数据分析/attachment/第7章 聚类-上.html",
