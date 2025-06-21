@@ -195,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 244.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,9 +208,11 @@
   },
   "active": "5ff1f28c82e021d0",
   "lastOpenFiles": [
+    "数据分析/第4章 数据预处理.md",
+    "数据分析/第7章 聚类.md",
+    "数据分析/数据分析与机器学习复习知识点汇总.md",
     "数据分析/attachment/第7章 聚类-下.html",
     "数据分析/attachment/第7章 聚类-上.html",
-    "数据分析/第7章 聚类.md",
     "数据分析/attachment/闵距离.html",
     "数据分析/attachment/Pasted image 20250620000059.png",
     "数据分析/attachment/Pasted image 20250620000046.png",
@@ -223,8 +224,6 @@
     "数据分析/attachment/Pasted image 20250619235539.png",
     "数据分析/attachment/Pasted image 20250619235310.png",
     "数据分析/attachment/Pasted image 20250619151455.png",
-    "数据分析/第4章 数据预处理.md",
-    "数据分析/数据分析与机器学习复习知识点汇总.md",
     "GPT/GPT使用指导.md",
     "数据分析/attachment",
     "小学期/实训二期/未命名.md",
@@ -250,7 +249,6 @@
     "小学期/Springboot后端实训",
     "大数据/大数据.canvas",
     "Springboot后端SWPU/模拟题.md",
-    "大数据",
     "数据分析/SWPU/复习.md",
     "数据分析/SWPU/未命名.canvas",
     "大数据/all in one.md",
