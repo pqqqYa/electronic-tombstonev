@@ -148,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据分析/数据分析与机器学习复习知识点汇总.md",
+                "file": "数据分析/汇报题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "数据分析与机器学习复习知识点汇总 的大纲"
+              "title": "汇报题 的大纲"
             }
           },
           {
@@ -195,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 244.5
   },
   "left-ribbon": {
     "hiddenItems": {
