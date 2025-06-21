@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据分析/第4章 数据预处理.md",
+                "file": "数据分析/第7章 聚类.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第4章 数据预处理"
+              "title": "第7章 聚类"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "GPT使用指导"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625,
-    "collapsed": true
+    "width": 227.50152587890625
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -149,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据分析/第4章 数据预处理.md",
+                "file": "数据分析/数据分析与机器学习复习知识点汇总.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "第4章 数据预处理 的大纲"
+              "title": "数据分析与机器学习复习知识点汇总 的大纲"
             }
           },
           {
@@ -196,8 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 244.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,24 +205,26 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "8f760ff13a37715e",
+  "active": "5ff1f28c82e021d0",
   "lastOpenFiles": [
-    "数据分析/数据分析与机器学习复习知识点汇总.md",
+    "数据分析/第7章 聚类.md",
+    "数据分析/attachment/闵距离.html",
+    "数据分析/attachment/Pasted image 20250620000059.png",
+    "数据分析/attachment/Pasted image 20250620000046.png",
+    "数据分析/attachment/Pasted image 20250620000025.png",
+    "数据分析/attachment/Pasted image 20250619235919.png",
+    "数据分析/attachment/Pasted image 20250619235833.png",
+    "数据分析/attachment/Pasted image 20250619235755.png",
+    "数据分析/attachment/Pasted image 20250619235710.png",
+    "数据分析/attachment/Pasted image 20250619235539.png",
+    "数据分析/attachment/Pasted image 20250619235310.png",
+    "数据分析/attachment/Pasted image 20250619151455.png",
     "数据分析/第4章 数据预处理.md",
+    "数据分析/数据分析与机器学习复习知识点汇总.md",
     "GPT/GPT使用指导.md",
-    "数据分析/attachment/Pasted image 20250620172129.png",
-    "数据分析/attachment/数据挖掘标准流程.jpeg",
     "数据分析/attachment",
     "小学期/实训二期/未命名.md",
     "小学期/实训二期/代码训练.md",
-    "小学期/实训二期/attachment/Pasted image 20250618164606.png",
-    "小学期/实训二期/attachment/Pasted image 20250618084511.png",
-    "小学期/实训二期/attachment/Pasted image 20250618164540.png",
-    "小学期/实训二期/attachment/Pasted image 20250618084431.png",
-    "小学期/实训二期/attachment/Pasted image 20250618084427.png",
-    "小学期/实训二期/attachment/Pasted image 20250618084330.png",
-    "小学期/实训二期/attachment/Pasted image 20250618084242.png",
-    "小学期/实训二期/attachment/Pasted image 20250618084155.png",
     "小学期/Springboot后端实训/技术选型.md",
     "小学期/实训二期/attachment/5f6828b5c07771c9b8927bb0a036f084.png.~tmp",
     "小学期/实训二期/attachment",
@@ -250,15 +249,12 @@
     "大数据",
     "数据分析/SWPU/复习.md",
     "数据分析/SWPU/数据挖掘.emmx",
-    "数据分析/SWPU/数据挖掘.emmx.NLAdQs",
     "数据分析/SWPU/未命名.canvas",
     "大数据/all in one.md",
     "大数据/1.md",
     "大数据/4.md",
     "大数据/3.md",
     "大数据/8.md",
-    "大数据/5.md",
-    "大数据/6.md",
     "数据分析/未命名.canvas",
     "小学期/小学期.canvas",
     "小学期/主体.canvas",
