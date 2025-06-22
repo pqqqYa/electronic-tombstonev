@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据分析/数据分析与机器学习复习知识点汇总.md",
+                "file": "数据分析/汇报题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数据分析与机器学习复习知识点汇总"
+              "title": "汇报题"
             }
           },
           {
@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625,
-    "collapsed": true
+    "width": 227.50152587890625
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -209,9 +208,9 @@
   },
   "active": "e5eb091332d9b258",
   "lastOpenFiles": [
+    "数据分析/数据分析与机器学习复习知识点汇总.md",
     "数据分析/第4章 数据预处理.md",
     "数据分析/汇报题.md",
-    "数据分析/数据分析与机器学习复习知识点汇总.md",
     "数据分析/attachment/5f8d0543eccebf95f3a05ea2d8f67a23.png",
     "数据分析/attachment/Pasted image 20250621152359.png",
     "数据分析/attachment/Pasted image 20250621152353.png",
