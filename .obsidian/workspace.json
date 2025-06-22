@@ -49,7 +49,8 @@
               "title": "汇报题"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,8 +207,9 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "e5eb091332d9b258",
+  "active": "5ff1f28c82e021d0",
   "lastOpenFiles": [
+    "数据分析/import.md",
     "数据分析/汇报题.md",
     "数据分析/数据分析与机器学习复习知识点汇总.md",
     "数据分析/第4章 数据预处理.md",
@@ -256,7 +258,6 @@
     "大数据/all in one.md",
     "大数据/1.md",
     "大数据/4.md",
-    "大数据/3.md",
     "数据分析/未命名.canvas",
     "小学期/小学期.canvas",
     "小学期/主体.canvas",
