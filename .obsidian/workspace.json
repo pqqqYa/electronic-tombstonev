@@ -122,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50152587890625
+    "width": 227.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "efa81811cf5e4789",
@@ -207,7 +208,7 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "7a3dee57a4518add",
+  "active": "0b88d024dee28447",
   "lastOpenFiles": [
     "数据挖掘/汇报题.md",
     "数据挖掘/汇报题-解答.md",
