@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e5eb091332d9b258",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据分析/import.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "import"
-            }
-          },
-          {
             "id": "0b88d024dee28447",
             "type": "leaf",
             "state": {
@@ -34,23 +20,8 @@
               "icon": "lucide-file",
               "title": "汇报题-解答"
             }
-          },
-          {
-            "id": "5ff1f28c82e021d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据挖掘/答题模板.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "答题模板"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
